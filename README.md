@@ -4,7 +4,7 @@ Traduzione del gioco Endzone-A World Apart
 Traduzione completa del gioco in accesso anticipato, se riscontrate qualche tipo di errore non esitate a creare una issues qui sopra grazie, o dalla guida su steam.
 
 # Come si scarica da questo strano sito.
-Per scaricare la traduzione basta andare sul pulsante "clone" poi selezionare il .zip e scaricare il file sul proprio computer.
+Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il .zip e scaricare il file sul proprio computer.
 
 # Come installare la traduzione.
 Per installare la traduzione basta estrarre il file .zip sul vostro pc anche sul desktop, poi copiare il file English.json e incollare il file all'interno della cartella del gioco, più precisamente in: steamapps\common\Endzone - A World Apart\Localizations.
