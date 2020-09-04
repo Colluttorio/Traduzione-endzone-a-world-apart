@@ -1,6 +1,10 @@
 {
   "languageID": "English",
   "translations": [
+	{
+      "k": 4079,
+      "v": "min"
+    },
     {
       "k": 2987,
       "v": "Categoria"
@@ -299,7 +303,11 @@
     },
     {
       "k": 3499,
-      "v": "Compresse di iodio"
+      "v": "Compresse di iodio"				   
+    },
+	{
+      "k": 4142,
+      "v": "Cibo trattato"
     },
     {
       "k": 880,
@@ -480,6 +488,10 @@
     {
       "k": 3516,
       "v": "Le compresse di iodio possono essere consumate dai coloni per liberare i loro corpi dalle radiazioni. "
+    },
+	{
+      "k": 4143,
+      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."
     },
     {
       "k": 267,
@@ -697,6 +709,38 @@
       "k": 3501,
       "v": "Miniera"
     },
+	{
+      "k": 3809,
+      "v": "Cucina"
+    },
+    {
+      "k": 3946,
+      "v": "Totem di scarto"
+    },
+    {
+      "k": 3947,
+      "v": "Torcia"
+    },
+    {
+      "k": 3948,
+      "v": "Arbusto"
+    },
+    {
+      "k": 3949,
+      "v": "Letto di fiori"
+    },
+    {
+      "k": 3950,
+      "v": "Statua del pioniere"
+    },
+    {
+      "k": 3951,
+      "v": "Campanelli eolici"
+    },
+    {
+      "k": 4149,
+      "v": "Bandiera"
+    },
     {
       "k": 301,
       "v": "Una piccola cabina in cui i coloni possono vivere e fondare una famiglia. I coloni si trasferiscono solo come una famiglia."
@@ -904,6 +948,14 @@
     {
       "k": 3503,
       "v": "Una miniera deve essere costruita su una montagna dove può produrre diverse materie prime come iodio o carbone."
+	},
+	{
+      "k": 3810,
+      "v": "Una cucina può trasformare una varietà di semplici fonti di nutrimento in cibo di qualità superiore e di conseguenza fornire un numero maggiore di coloni."
+    },
+	{
+      "k": 3952,
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."
     },
     {
       "k": 335,
@@ -1021,7 +1073,11 @@
       "k": 3505,
       "v": "Minatore"
     },
-    {
+	{
+      "k": 3813,
+      "v": "Cucinare"
+    },
+    { 
       "k": 354,
       "v": "Esegue attività semplici e aiuta a trasportare risorse."
     },
@@ -1137,6 +1193,10 @@
       "k": 3507,
       "v": "I minatori lavorano in una miniera dove possono estrarre varie materie prime."
     },
+	{
+      "k": 3814,
+      "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore da un'alimentazione più semplice."
+    },
     {
       "k": 383,
       "v": "Il colono ha una casa."
@@ -1203,7 +1263,47 @@
     },
     {
       "k": 2501,
-      "v": "Il colono ha un morale alto grazie a una buona leadership."
+      "v": "Il colono ha un morale alto grazie a una buona leadership."															 
+    },
+	{
+      "k": 3827,
+      "v": "Il colono è scontento a causa della scarsa leadership."
+    },
+    {
+      "k": 3828,
+      "v": "Il colono ha uno strumento."
+    },
+    {
+      "k": 3829,
+      "v": "Il colono ha indumenti protettivi."
+    },
+    {
+      "k": 3830,
+      "v": "Il colono è sano."
+    },
+    {
+      "k": 3831,
+      "v": "Il colono è istruito."
+    },
+    {
+      "k": 3832,
+      "v": "Il colono vive in un ambiente attraente."
+    },
+    {
+      "k": 4111,
+      "v": "Il colono vive in un ambiente poco attraente."
+    },
+    {
+      "k": 4113,
+      "v": "Il colono ha vissuto qualcosa di piacevole."
+    },
+    {
+      "k": 4114,
+      "v": "Il colono ha fatto visita a un edificio per divertirsi."
+    },
+    {
+      "k": 4115,
+      "v": "Il colono ha fatto visita a un edificio per socializzare."
     },
     {
       "k": 395,
@@ -1579,7 +1679,11 @@
     },
     {
       "k": 2315,
-      "v": "Informazioni di base"
+      "v": "Informazioni di base"				   
+    },
+	{
+      "k": 3821,
+      "v": "Fiducia"
     },
     {
       "k": 964,
@@ -1608,6 +1712,10 @@
     {
       "k": 1219,
       "v": "I coloni istruiti esercitano le loro professioni in modo molto più efficace dei coloni non istruiti."
+    },
+	{
+      "k": 4112,
+      "v": "Posto di lavoro"
     },
     {
       "k": 2310,
@@ -1963,7 +2071,11 @@
     },
     {
       "k": 2901,
-      "v": "Edifici danneggiati"
+      "v": "Edifici danneggiati"							
+    },
+	{
+      "k": 4153,
+      "v": "Edifici distrutti"
     },
     {
       "k": 2919,
@@ -2180,8 +2292,80 @@
     {
       "k": 493,
       "v": "Bambini"
+	},
+	{
+      "k": 3815,
+      "v": "Malcontento"
     },
     {
+      "k": 3816,
+      "v": "Uniformità"
+    },
+    {
+      "k": 3817,
+      "v": "Contentezza"
+    },
+    {
+      "k": 3818,
+      "v": "Maggiore possibilità di crimini e ribellioni. In caso di estremo malcontento, piccoli gruppi di coloni possono lasciare l'insediamento."
+    },
+    {
+      "k": 3819,
+      "v": "Non ci si devono aspettare eventi negativi o positivi."
+    },
+    {
+      "k": 3820,
+      "v": "Maggiore possibilità di eventi redditizi."
+    },
+    {
+      "k": 4116,
+      "v": "Tasso di riproduzione più basso, crimini incombenti"
+    },
+    {
+      "k": 4117,
+      "v": "Periodi di tempo più lunghi per la produzione e la ricerca, ribellioni incombenti"
+    },
+    {
+      "k": 4118,
+      "v": "Bassa velocità di movimento, esodo incombente"
+    },
+    {
+      "k": 4119,
+      "v": "Più alto tasso di riproduzione, i coloni appena nati invecchieranno un po '"
+    },
+    {
+      "k": 4120,
+      "v": "Maggiore efficienza, i coloni appena nati invecchieranno"
+    },
+    {
+      "k": 4121,
+      "v": "Maggiore velocità di movimento, i coloni appena nati invecchieranno notevolmente"
+    },
+    {
+      "k": 4122,
+      "v": "I coloni conducono vite pacate. Se i loro bisogni non vengono soddisfatti, minacciano di cadere nel malcontento. Se sentono di essere stati ascoltati, possono raggiungere la contentezza, che porta con sé effetti positivi."
+    },
+    {
+      "k": 4148,
+      "v": "Fiducia nella media"
+    },
+    {
+      "k": 4156,
+      "v": "Il rifiuto di questo compito causa malcontento tra tutti i coloni."
+    },
+    {
+      "k": 4157,
+      "v": "Se questo compito fallisce, tutti i coloni saranno scontenti."
+    },
+    {
+      "k": 4158,
+      "v": "Attività di fiducia"
+    },
+    {
+      "k": 4159,
+      "v": "Un compito di fiducia aumenta la fiducia dei coloni quando viene completato con successo."
+    },
+	{
       "k": 497,
       "v": "Fiducia media di tutti i coloni"
     },
@@ -2211,7 +2395,7 @@
     },
     {
       "k": 501,
-      "V": "educare"
+      "v": "educare"
     },
     {
       "k": 502,
@@ -2379,7 +2563,7 @@
     },
     {
       "k": 521,
-      "V": "Piantato"
+      "v": "Piantato"
     },
     {
       "k": 522,
@@ -3019,7 +3203,7 @@
     },
     {
       "k": 1357,
-      "v": "Ma non siamo nella forma migliore ..."
+      "v": "Ma non siamo nella forma migliore..."
     },
     {
       "k": 646,
@@ -3047,7 +3231,15 @@
     },
     {
       "k": 543,
-      "v": "Annulla tutto \"Rimuovi radiazione\" Attività in una determinata area."
+      "v": "Annulla tutto \"Rimuovi radiazione\" Attività in una determinata area."																																																										  
+    },
+	{
+      "k": 3917,
+      "v": "Cibo ricco"
+    },
+    {
+      "k": 3918,
+      "v": "Il numero di diversi tipi di cibo attualmente conservati nell'insediamento. \n\nLa fornitura di un gran numero di tipi di cibo insieme alle erbe mantiene sani i coloni e riduce il rischio di epidemia di malattia."
     },
     {
       "k": 544,
@@ -3121,6 +3313,46 @@
       "k": 3793,
       "v": "-"
     },
+	{
+      "k": 4132,
+      "v": "Cibo trattato"
+    },
+    {
+      "k": 4133,
+      "v": "Cibo crudo"
+    },
+    {
+      "k": 4134,
+      "v": "Carne"
+    },
+    {
+      "k": 4135,
+      "v": "Protezione dalle radiazioni"
+    },
+    {
+      "k": 4136,
+      "v": "Medicinale"
+    },
+    {
+      "k": 4137,
+      "v": "Frutta"
+    },
+    {
+      "k": 4138,
+      "v": "Verdura"
+    },
+    {
+      "k": 4139,
+      "v": "Grano"
+    },
+    {
+      "k": 4140,
+      "v": "Alcol"
+    },
+    {
+      "k": 4141,
+      "v": "Noce"
+    },
     {
       "k": 551,
       "v": "Logistica"
@@ -3135,7 +3367,7 @@
     },
     {
       "k": 554,
-      "V": "acqua"
+      "v": "acqua"
     },
     {
       "k": 555,
@@ -3303,7 +3535,15 @@
     },
     {
       "k": 596,
-      "v": "all'acqua"
+      "v": "Irrigare"
+    },
+	{
+      "k": 3934,
+      "v": "Posizione attrattiva"
+    },
+    {
+      "k": 3935,
+      "v": "L'attrattiva di un'abitazione è influenzata positivamente o negativamente dagli edifici nelle vicinanze e contribuisce alla contentezza dei suoi abitanti."
     },
     {
       "k": 1054,
@@ -3477,6 +3717,10 @@
       "k": 2651,
       "v": "Cerca sopravvissuti"
     },
+	{
+      "k": 4150,
+      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"
+    },
     {
       "k": 1036,
       "v": "Elettricità"
@@ -3587,7 +3831,39 @@
     },
     {
       "k": 1075,
-      "v": "Rete elettrica"
+      "v": "Rete elettrica"								 
+    },
+	{
+      "k": 4123,
+      "v": "I lavoratori si muovono più velocemente"
+    },
+    {
+      "k": 4124,
+      "v": "Tempi di produzione ridotti"
+    },
+    {
+      "k": 4125,
+      "v": "Ricezione di trasmissioni radio da coloni stranieri"
+    },
+    {
+      "k": 4126,
+      "v": "I bambini vengono istruiti più velocemente"
+    },
+    {
+      "k": 4127,
+      "v": "I coloni malati guariscono più velocemente"
+    },
+    {
+      "k": 4129,
+      "v": "Maggiore contentezza per tutti gli abitanti"
+    },
+    {
+      "k": 4130,
+      "v": "Minor consumo di carbone grazie alla filtrazione dell'acqua"
+    },
+    {
+      "k": 4131,
+      "v": "Maggiore velocità di ricerca"
     },
     {
       "k": 2245,
@@ -3723,7 +3999,11 @@
     },
     {
       "k": 3806,
-      "v": "Distintivo di minatore"
+      "v": "Distintivo di minatore"			   
+    },
+	{
+      "k": 3811,
+      "v": "Distintivo di cuoco"
     },
     {
       "k": 1172,
@@ -3828,6 +4108,10 @@
     {
       "k": 3803,
       "v": "Sono sempre sotto di te, ma niente è sotto di me!"
+    },
+	{
+      "k": 3812,
+      "v": "Non lascia che niente vada in fumo!"
     },
     {
       "k": 1173,
@@ -3951,7 +4235,7 @@
     },
     {
       "k": 604,
-      "V": "Continua"
+      "v": "Continua"
     },
     {
       "k": 605,
@@ -4467,7 +4751,23 @@
     },
     {
       "k": 3477,
-      "v": "Colori dell'umidità del suolo"
+      "v": "Colori dell'umidità del suolo"						
+    },
+	{
+      "k": 4075,
+      "v": "Salvataggio automatico"
+    },
+    {
+      "k": 4074,
+      "v": "Attiva il salvataggio automatico"
+    },
+    {
+      "k": 4076,
+      "v": "Intervallo di salvataggio automatico"
+    },
+    {
+      "k": 4155,
+      "v": "Numero di salvataggi automatici"
     },
     {
       "k": 2275,
@@ -5001,6 +5301,10 @@
       "k": 3487,
       "v": "Ricerche"
     },
+	{
+      "k": 3916,
+      "v": "Aggiorna un edificio"
+    },
     {
       "k": 2273,
       "v": "Professione attuale"
@@ -5011,7 +5315,27 @@
     },
     {
       "k": 2309,
-      "v": "Nessun partner"
+      "v": "Nessun partner"																																																																																																			 
+    },
+	{
+      "k": 3822,
+      "v": "Effetti positivi"
+    },
+    {
+      "k": 3823,
+      "v": "Effetti negativi"
+    },
+    {
+      "k": 3824,
+      "v": "I coloni scontenti lavorano o svolgono la ricerca più lentamente e si riproducono anche più lentamente. In caso di alto livello di malcontento si muovono più lentamente intorno all'insediamento. Se troppi coloni sono scontenti, aumenta la possibilità di crimini e ribellioni. In caso di un alto livello di malcontento generale, può accadere che singoli gruppi di coloni abbandonino l'insediamento."
+    },
+    {
+      "k": 3825,
+      "v": "I coloni equilibrati lavorano o svolgono ricerche senza limitazioni. Si riproducono a una velocità normale."
+    },
+    {
+      "k": 3826,
+      "v": "I coloni contenti lavorano o eseguono ricerche più velocemente e si riproducono più velocemente. Più alto è il livello di contentezza alla nascita, i coloni più anziani otterranno. In caso di estrema contentezza, si muovono anche più velocemente all'interno dell'insediamento."
     },
     {
       "k": 721,
@@ -5067,7 +5391,11 @@
     },
     {
       "k": 3117,
-      "v": "Tecnologia"
+      "v": "Tecnologia"			
+    },
+	{
+      "k": 3953,
+      "v": "Decorazioni"
     },
     {
       "k": 735,
@@ -5571,7 +5899,11 @@
     },
     {
       "k": 2649,
-      "v": "Finito <<solveAmount>>"
+      "v": "Finito <<solveAmount>>"																   
+    },
+	{
+      "k": 4154,
+      "v": "Il limite di produzione è inferiore all'importo obiettivo da raggiungere."
     },
     {
       "k": 862,
@@ -6059,7 +6391,11 @@
     },
     {
       "k": 1235,
-      "v": "Fertilità"
+      "v": "Fertilità"					  
+    },
+	{
+      "k": 4080,
+      "v": "Controllo delle nascite"
     },
     {
       "k": 1236,
@@ -6095,7 +6431,11 @@
     },
     {
       "k": 3053,
-      "v": "Un rifugio potenziato offre spazio per un massimo di 50 coloni. Mentre vivono in un rifugio riparato I coloni non daranno vita a nessuna famiglia e non si riprodurranno. Il rifugio potenziato può agire per accumulare <link=\"5\"><style=\"DefaultLink\">Cibo</style></link> e <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> per i suoi abitanti. Un rifugio potenziato può essere collegato a una rete elettrica. Per poter costruire un rifugio potenziato, la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata da eseguire per prima."
+      "v": "Un rifugio potenziato offre spazio per un massimo di 50 coloni. Mentre vivono in un rifugio riparato I coloni non daranno vita a nessuna famiglia e non si riprodurranno. Il rifugio potenziato può agire per accumulare <link=\"5\"><style=\"DefaultLink\">Cibo</style></link> e <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> per i suoi abitanti. Un rifugio potenziato può essere collegato a una rete elettrica. Per poter costruire un rifugio potenziato, la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata da eseguire per prima."																																																						 
+    },
+	{
+      "k": 4081,
+      "v": "Il controllo delle nascite può essere attivato per impedire ai tuoi coloni di avere figli durante le prossime 3 stagioni. In questo modo puoi evitare che la tua economia venga gravata troppo da un elevato numero di bambini."
     },
     {
       "k": 1245,
@@ -6337,6 +6677,10 @@
       "k": 1580,
       "v": "Piantine"
     },
+	{
+      "k": 3936,
+      "v": "Tipi di alimenti trasformati"
+    },
     {
       "k": 1581,
       "v": "I coloni hanno bisogno di cibo per sopravvivere. Se non ricevono abbastanza cibo, muoiono di fame e muoiono. Più <link=\"9\"> <style=\"DefaultLink\">fonti di cibo</stile > </link> a loro disposizione, meglio è. Se i coloni hanno fame e il cibo è disponibile, si occupano della loro alimentazione in modo autonomo. "
@@ -6371,7 +6715,15 @@
     },
     {
       "k": 1588,
-      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"
+      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"																																																													  
+    },
+	{
+      "k": 3937,
+      "v": "Il cibo ricco è fatto dal cibo. I coloni possono consumare cibo ricco nello stesso modo in cui consumano cibo normale per soddisfare la loro fame."
+    },
+    {
+      "k": 3938,
+      "v": "La cucina <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Cuochi.  cuochi producono cibi ricchi dal cibo. Per poter costruire una cucina, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1250,
@@ -6495,7 +6847,15 @@
     },
     {
       "k": 1810,
-      "v": "Fiducia dei coloni"
+      "v": "Fiducia dei coloni"																																																																																																																																		   
+    },
+	{
+      "k": 3954,
+      "v": "Fiducia totale"
+    },
+    {
+      "k": 3955,
+      "v": "La fiducia totale dell'insediamento mostra quanto è alta o bassa la contentezza media dei tuoi coloni. Più bassa è la totale contentezza dei tuoi coloni, più è probabile che i tuoi coloni si lamentino della loro situazione. Può persino arrivare al punto in cui fanno conoscere il loro dispiacere e si verificano ribellioni o esodi. In caso di un alto livello di contentezza, i tuoi coloni lavorano più velocemente ed efficacemente. Ecco perché tieni sempre d'occhio la totale contentezza della tua popolazione."
     },
     {
       "k": 1811,
@@ -7007,7 +7367,39 @@
     },
     {
       "k": 3065,
-      "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."
+      "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."				
+    },
+	{
+      "k": 3939,
+      "v": "Decorazioni"
+    },
+    {
+      "k": 3940,
+      "v": "Decorazioni"
+    },
+    {
+      "k": 3941,
+      "v": "Puoi usare le decorazioni per progettare le aree residenziali del tuo insediamento in modo più attraente per i tuoi coloni. È possibile posizionare decorazioni per aumentare il <link=\"8\"><style=\"DefaultLink\">contenuto</style></link> di tutti i coloni che hanno il loro <link=\"4\"><style=\"DefaultLink\">abitazioni</style></link> nelle vicinanze delle decorazioni."
+    },
+    {
+      "k": 3942,
+      "v": "Gli arbusti possono essere posizionati per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 3943,
+      "v": "Aiuole possono essere posizionate per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 3944,
+      "v": "È possibile posizionare delle torce per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 3945,
+      "v": "È possibile posizionare un totem di scarto per aumentare notevolmente l'attrattiva di un'area."
+    },
+    {
+      "k": 3956,
+      "v": "I campanelli eolici possono essere posizionati per aumentare l'attrattiva di un'area."
     },
     {
       "k": 1263,
@@ -10549,6 +10941,90 @@
       "k": 3472,
       "v": "Niente da salvare qui, capo. E oltre a questo, era abbastanza inquietante cercare Risorse sotto gli occhi di quella maledetta statua. Probabilmente era un pozzo una volta. Qualunque cosa, non c'è più niente che scorre qui adesso."
     },
+	{
+      "k": 3648,
+      "v": "Sembra una vecchia stazione di servizio. Anche dopo tutti questi anni, c'è ancora odore di benzina nell'aria ... In ogni caso, ci sono ancora due Edifici qui dove si potrebbe ancora trovare qualcosa, capo. Sarebbe meglio se mandassi qualcuno che conosce la tecnologia!"
+    },
+    {
+      "k": 3649,
+      "v": "Ok, ci siamo. L'esploratore aveva ragione: vicino alle pompe di benzina puzza ancora di benzina. Forse qualche valvola ha fatto scattare una perdita ei vapori dal serbatoio del carburante sotterraneo stanno salendo verso l'alto. Sarebbe sicuramente meglio non accendere un falò qui!"
+    },
+    {
+      "k": 3650,
+      "v": "Stazione di servizio"
+    },
+    {
+      "k": 3651,
+      "v": "Dai un'occhiata in giro!"
+    },
+    {
+      "k": 3652,
+      "v": "Per quanto riguarda i due edifici menzionati dallo Scout, a quanto pare si occupano di un autolavaggio e di un'officina di riparazione per auto - almeno questo è quello che si dice sui cartelli sopra le porte del garage. Dobbiamo dare un'occhiata più da vicino alle vecchie pompe di benzina. Forse qualcosa può ancora essere riciclato!"
+    },
+    {
+      "k": 3653,
+      "v": "Autolavaggio"
+    },
+    {
+      "k": 3654,
+      "v": "La porta è chiusa, ma le porte scorrevoli non sembrano molto robuste. Con un po 'di forza dovremmo essere in grado di aprirli! <<dynamicmessage>>"
+    },
+    {
+      "k": 3655,
+      "v": "Uno dei giovani dovrebbe provare la loro mano!"
+    },
+    {
+      "k": 3656,
+      "v": "Certo, stiamo lentamente diventando troppo vecchi per imprese di forza del genere, capo..."
+    },
+    {
+      "k": 3657,
+      "v": "E quello era quello! <<dynamicmessage>>Siamo stati in grado di sollevare un po 'la porta scorrevole e bloccarla. Purtroppo, le prese non erano troppo buone all'interno: alcuni tubi flessibili e tubi, strumenti e altre cianfrusaglie..."
+    },
+    {
+      "k": 3658,
+      "v": "Nessun problema per i giovani con il potere tra le braccia!"
+    },
+    {
+      "k": 3659,
+      "v": "Ahia! Siamo stati in grado di sollevare un po 'la porta scorrevole e bloccarla, ma nel farlo ho teso la schiena. Sai com'è invecchiare, capo ... Oh beh, in ogni caso abbiamo trovato alcuni tubi flessibili e tubi, strumenti e altre cianfrusaglie dentro!"
+    },
+    {
+      "k": 3660,
+      "v": "Officina di riparazione"
+    },
+    {
+      "k": 3661,
+      "v": "Non siamo riusciti ad aprire la porta scorrevole del garage, ma siamo riusciti a entrare nell'officina di riparazione dalla parte anteriore dell'edificio. Una piccola macchina è appoggiata qui. A differenza dei relitti fuori nel deserto, questo sembra ancora in ottime condizioni. Ci sono abbastanza strumenti qui intorno, quindi mettiamoci al lavoro per rimuoverli!"
+    },
+    {
+      "k": 3662,
+      "v": "È stato un lavoro difficile, ma ne è valsa la pena! Abbiamo quasi smontato l'intera macchina: è certo che possiamo riciclare la maggior parte delle cose! L'unica cosa che lasceremo qui è il blocco motore. È semplicemente troppo pesante da trasportare ..."
+    },
+    {
+      "k": 3663,
+      "v": "Pompe a gas"
+    },
+    {
+      "k": 3664,
+      "v": "Naturalmente non possiamo fare nulla con le pompe di benzina in un unico pezzo, ma forse possiamo sminuzzarle in parti. Dovrebbe esserci anche l'elettronica incorporata! <<dynamicmessage>>"
+    },
+    {
+      "k": 3665,
+      "v": "È una scommessa sicura che il nostro tecnico può gestirlo senza che lei distrugga l'elettronica sensibile!"
+    },
+    {
+      "k": 3666,
+      "v": "Anche se non abbiamo la minima idea di una tecnologia del genere, non c'è motivo per cui dovrebbe essere così difficile ..."
+    },
+    {
+      "k": 3667,
+      "v": "Va bene! Il nostro tecnico ha staccato con cura i componenti sensibili e non ha rotto nulla. Probabilmente non sarei riuscito a farlo!"
+    },
+    {
+      "k": 3668,
+      "v": "Sfortunatamente, mentre stavamo aprendo l'alloggiamento abbiamo apparentemente distrutto anche alcune schede dei circuiti: questa roba elettronica deve davvero essere maneggiata con guanti da bambino. Vabbè, la prossima volta porteremo con noi una delle nostre donne Tecniche per un lavoro del genere!"
+    },
     {
       "k": 3669,
       "v": "Ehi, capo, c'è una Rovina di un ospedale qui fuori, cioè se puoi dare credito alle lettere in erosione e alla croce verde sopra l'ingresso. Una parte dell'edificio è già crollata e probabilmente è stata da tempo saccheggiato qui ... Ma se fossi in te, invierei comunque una spedizione! È certo che ci sarà ancora qualcosa da salvare! "
@@ -10705,6 +11181,82 @@
       "k": 3707,
       "v": "Oh beh, abbiamo portato insieme un po' di roba, ma come previsto: nient'altro che file, file e più file. Ne prenderò uno con me. Almeno farà una buona esca per accendere il fuoco nell'insediamento! "
     },
+	{
+      "k": 3708,
+      "v": "Ehi, capo, è il tuo scout preferito. Mi sono imbattuto nelle rovine di un vecchio deposito di stoccaggio durante la mia incursione qui. Più o meno ceduto, ma ci dovrebbe essere ancora un po 'di rottami da recuperare! Ho appena notato qualcosa: ci sono due contenitori sigillati dietro la Rovina che probabilmente non sono stati ancora saccheggiati ..."
+    },
+    {
+      "k": 3709,
+      "v": "In confronto alle altre Rovine, questo è praticamente un relitto: l'intero Deposito probabilmente crollerà la prossima volta che si verificherà una forte tempesta! Fai attenzione che nessuno di quei montanti metallici ti cada in testa! Avremmo potuto pensare a un equipaggiamento protettivo ... Ma chi dovrebbe avere la brillante idea che avresti avuto bisogno di elmetti nel post-apocalisse?"
+    },
+    {
+      "k": 3710,
+      "v": "Deposito di stoccaggio"
+    },
+    {
+      "k": 3711,
+      "v": "Che aspetto ha all'interno del deposito?"
+    },
+    {
+      "k": 3712,
+      "v": "Bene, sembra che gli scout abbiano valutato correttamente la situazione - a quanto pare non c'è molto da salvare qui tranne i rottami. Ma forse c'è una sorpresa in attesa all'interno dei container!"
+    },
+    {
+      "k": 3713,
+      "v": "Deposito di stoccaggio"
+    },
+    {
+      "k": 3714,
+      "v": "Non c'è molto da vedere qui. A parte un sacco di legno marcio e barre di metallo arrugginite, la cosa più interessante è un carrello elevatore i cui giorni migliori sono passati da tempo ..."
+    },
+    {
+      "k": 3715,
+      "v": "Ehi, difficile da credere! Qualcuno ha effettivamente nascosto alcune bottiglie di alcol nel piccolo ufficio: \"AD ALTO OTTANO DI MEIER - 80% E RARIN E VIA!\" - Pensi che la roba sia ancora buona? Se è il contenuto di alcol che è indicato sull'etichetta, allora difficilmente può andare a male - odora anche di alcol puro! La cosa giusta per lunghe notti al falò ..."
+    },
+    {
+      "k": 3716,
+      "v": "Cavolo, questo riassume tutto ciò che è ancora utilizzabile in qualche modo..."
+    },
+    {
+      "k": 3717,
+      "v": "Primo contenitore"
+    },
+    {
+      "k": 3718,
+      "v": "Il fermo per l'apertura del contenitore era piuttosto arrugginito, ma un po 'di forza lo ha aperto. Immagino che nessuno abbia pensato che fosse necessario collegare un lucchetto in più ..."
+    },
+    {
+      "k": 3719,
+      "v": "Oh beh, non c'è da stupirsi: le uniche cose qui sono casse piene di polvere nera. Un secondo! Il nostro carbone di legna qui dice che probabilmente è il carbone polverizzato che viene utilizzato per produrre bricchetti di carbone compressi! Meno male che lo abbiamo con noi - non mi sarebbe mai passato per la mente, non per la vita di me ..."
+    },
+    {
+      "k": 3720,
+      "v": "Oh beh, non c'è da stupirsi: le uniche cose qui sono casse piene di polvere nera. Probabilmente è stato spedito da qualche parte per un'ulteriore elaborazione. In ogni caso, non ho idea di cosa potremmo farci ..."
+    },
+    {
+      "k": 3721,
+      "v": "Secondo contenitore"
+    },
+    {
+      "k": 3722,
+      "v": "Il contenitore è sigillato, ma lo apriremo <<dynamicmessage>>!"
+    },
+    {
+      "k": 3723,
+      "v": "con il piede di porco che abbiamo portato con noi. Cosa certa"
+    },
+    {
+      "k": 3724,
+      "v": ", forse anche senza piede di porco"
+    },
+    {
+      "k": 3725,
+      "v": "Gioco da ragazzi! Il contenitore è pieno di casse. Vuoi indovinare cosa c'è dentro le casse, capo? Peluches! L'unico posto in cui ho visto animali così fino ad ora era nei vecchi libri! Leoni, orsi polari, foche, elefanti ... ne porteremo alcuni con noi, i nostri più piccoli ne trarranno sicuramente un bel calcio!"
+    },
+    {
+      "k": 3726,
+      "v": "Niente da fare, capo. Il contenitore e la serratura sono robusti e costruiti per durare. La forza da sola non ci porterà da nessuna parte con loro ..."
+    },
     {
       "k": 3727,
       "v": "Trovato la rovina, capo. È una chiesa - spruzzata con strati su strati di graffiti! Ascolta questo: \"DOVE SEI\", o \"ABBIAMO AVUTO UN AFFARE\". Deve essere stato difficile per le persone religiose negli ultimi giorni ... Vabbè, forse adesso sono davvero in un posto migliore, mentre viviamo nella terra."
@@ -10815,7 +11367,83 @@
     },
     {
       "k": 3754,
-      "v": "Assolutamente no, non con noi, capo. Nonostante tutto, ci sono alcuni limiti - se sei assolutamente pronto a far scavare queste tombe, allora dovrai inviare un becchino qui!"
+      "v": "Assolutamente no, non con noi, capo. Nonostante tutto, ci sono alcuni limiti - se sei assolutamente pronto a far scavare queste tombe, allora dovrai inviare un becchino qui!"												 
+    },
+	{
+      "k": 3759,
+      "v": "Ehi, capo ... non sapevo che siamo così vicini alle coordinate, ma uno degli altri Endzone è qui. Sembra che ci sia voluto un bel pestaggio, ma non volevo nemmeno rischiare di avvicinarmi. Pensi che forse potremmo mandare lì una squadra di spedizione? Mostrerò la strada alla squadra quando torno."
+    },
+    {
+      "k": 3760,
+      "v": "Siamo arrivati, capo. Sembra la nostra struttura. Abbiamo controllato l'alimentazione e l'ascensore può ancora essere azionato."
+    },
+    {
+      "k": 3761,
+      "v": "Ascensore"
+    },
+    {
+      "k": 3762,
+      "v": "Dove andiamo da qui?"
+    },
+    {
+      "k": 3763,
+      "v": "Bene, a quanto pare tutti i pulsanti dell'ascensore possono essere premuti. Almeno sono tutti illuminati. Ma non succede nulla tranne il pulsante per il primo piano. Secondo il display, la stazione idroponica dovrebbe essere situata lì."
+    },
+    {
+      "k": 3764,
+      "v": "1° piano"
+    },
+    {
+      "k": 3765,
+      "v": "Il pulsante dice che la stazione idroponica si trova su questo piano. Il nostro cibo è stato coltivato nella nostra struttura. Non vedo l'ora di vedere cosa troveremo lì."
+    },
+    {
+      "k": 3766,
+      "v": "L'ascensore si sta muovendo! Scricchiola e grattugia come se non si usasse più da molto tempo, ma funziona!"
+    },
+    {
+      "k": 3767,
+      "v": "Idroponica"
+    },
+    {
+      "k": 3768,
+      "v": "Che aspetto ha laggiù?"
+    },
+    {
+      "k": 3769,
+      "v": "Dannazione, capo! L'ascensore si è fermato e all'improvviso siamo in piedi nell'acqua fino alle caviglie! Pezzi di scheletri e altri oggetti galleggiano qua e là nell'acqua - cosa sono accaduti gli incendi qui ?! Per come appare possiamo entrare nella sala principale dove le piante venivano tenute e annaffiate. Oppure daremo un'occhiata alla sala macchine dove dovrebbero essere anche le pompe."
+    },
+    {
+      "k": 3770,
+      "v": "Sala principale"
+    },
+    {
+      "k": 3771,
+      "v": "In poche parole: qui è tutto sott'acqua. Alcune delle piante sembrano ancora vive, ma per il resto qui tutto è ammuffito e permeato di umidità, anche quando non si trova direttamente nell'acqua. Non è molto piacevole qui e siamo poco attrezzati per qualcosa di simile, ma vedremo cosa possiamo pescare fuori dall'acqua, capo."
+    },
+    {
+      "k": 3772,
+      "v": "Ok, capo, non c'è niente che definirei minimamente piacevole qui, ma siamo riusciti a salvare alcune piante. Inoltre, ci sono alcune piante rare tra loro che hanno benefici medicinali."
+    },
+    {
+      "k": 3773,
+      "v": "Neanche per sogno, capo. Le cose sono inzuppate o coperte da tempo di muffa. Niente più da salvare qui. Immagino che questa Endzone sia stata davvero la fine per le persone che cercavano rifugio qui. Accidenti!"
+    },
+    {
+      "k": 3774,
+      "v": "Sala macchine"
+    },
+    {
+      "k": 3775,
+      "v": "Capo, abbiamo trovato il difetto. A quanto pare c'era un malfunzionamento nei sistemi di pompaggio. Invece di distribuire uniformemente tutta l'acqua che era stata immagazzinata per salvaguardare la sopravvivenza delle persone qui, tutto è stato pompato qui. Le unità di pompaggio si sono rotte durante il processo e hanno immerso tutto sotto l'acqua da questo livello in basso. Le persone devono aver annegato una morte miserabile ... vogliamo almeno dare un'occhiata se riusciamo a smantellare le pompe."
+    },
+    {
+      "k": 3776,
+      "v": "Non c'è molto da salvare qui, capo, ma siamo riusciti a smontare alcuni macchinari, nonostante lo stato in cui si trovavano. In ogni caso, temo che non abbiamo più alcuna possibilità di pompare l'acqua fuori da qui. Faremmo meglio a uscire di qui.\n"
+    },
+    {
+      "k": 3777,
+      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."
     },
     {
       "k": 2198,
@@ -11114,14 +11742,14 @@
       "v": "Non solo la nostra acqua può diventare un pericolo per i nostri coloni a causa delle radiazioni: anche il nostro cibo può. Dovremmo erigere un posto di decontaminazione per impedire ai coloni di mangiare pasti contaminati dalle radiazioni."
     },
     {
-       "k": 3509,
+	   "k": 3509,
        "v": "Molto bene! Il posto di decontaminazione fornirà tutti gli edifici che accumulano cibo e si trovano nella sua area di lavoro al fine di purificare il cibo che è stato colpito dalle radiazioni."
     },
     {
-       "k": 3510,
-       "v": "cibo pulito"
+	   "k": 3510,
+	   "v": "cibo pulito"
     },
-    {		
+    {
       "k": 2421,
       "v": "È vero! Non dovremmo mai dimenticare che anche quando ci prepariamo e proteggiamo in modo ottimale, perderemo ancora e ancora gli amici e i membri delle nostre famiglie. Ma se siamo in grado di seppellirli in un <link=\"6\"><style=\"DefaultLink\">Cimitero</style></link>, supereremo il dolore e lasceremo riposano in pace ."
     },
@@ -13687,7 +14315,643 @@
     },
     {
       "k": 3787,
-      "v": "Alternativa:"
+      "v": "Alternativa:"														
+    },
+	{
+      "k": 3833,
+      "v": "Esodo"
+    },
+    {
+      "k": 3834,
+      "v": "Molti dei nostri coloni sono convinti che la nostra comunità non sia più in grado di sopravvivere. Alcuni di loro hanno offerto di poter lasciare l'insediamento per garantire almeno la sopravvivenza della popolazione rimanente. Riteniamo che prendere questa decisione richieda troppo a noi, capo, e vorremmo che decidessi tu."
+    },
+    {
+      "k": 3835,
+      "v": "Speriamo per i nostri amici che se la caveranno là fuori nel deserto. Come risultato della loro disponibilità, siamo in grado di ridistribuire le risorse rimanenti che abbiamo ancora."
+    },
+    {
+      "k": 3836,
+      "v": "Hai ragione, capo! Non lasceremo indietro nessuno! Resisteremo e lo supereremo insieme!"
+    },
+    {
+      "k": 3837,
+      "v": "Una ribellione"
+    },
+    {
+      "k": 3838,
+      "v": "Una ribellione si è verificata nel nostro insediamento. Alcuni dei nostri coloni sono rimasti feriti durante le rivolte, capo! Dobbiamo urgentemente fare qualcosa per cambiare il morale povero del nostro insediamento in modo che qualcosa del genere non accada più spesso."
+    },
+    {
+      "k": 3839,
+      "v": "Con un tale cattivo umore nell'insediamento non c'è da meravigliarsi che si verifichino rivolte. Dovresti fare in modo che la fiducia dei tuoi coloni aumenti, capo!"
+    },
+    {
+      "k": 3840,
+      "v": "Ladri assetati"
+    },
+    {
+      "k": 3841,
+      "v": "Abbiamo un problema, capo! Siamo appena stati costretti a renderci conto che alcune delle nostre Risposte sono state rubate. I nostri coloni guardano al futuro con così poca fiducia che preferirebbero stare attenti a se stessi piuttosto che sopravvivere tutti! Questa è la lista delle cose che sono state rubate."
+    },
+    {
+      "k": 3842,
+      "v": "Cose del genere potrebbero accadere più spesso quando l'umore è cupo. Penso che dovresti tenerlo d'occhio, capo!"
+    },
+    {
+      "k": 3843,
+      "v": "Rilassati un po' per cambiare"
+    },
+    {
+      "k": 3844,
+      "v": "I nostri coloni vogliono migliorare le loro condizioni di vita. Dal momento che l'approvvigionamento di base funziona abbastanza bene, secondo loro ora dovresti anche fare in modo che vengano fornite opportunità che consentano loro di rilassarsi."
+    },
+    {
+      "k": 3845,
+      "v": "Non viene accolto particolarmente bene promettere alle persone che presteresti ascolto ai loro desideri e poi non li esaudiresti. I nostri coloni sono piuttosto insoddisfatti di questa situazione."
+    },
+    {
+      "k": 3846,
+      "v": "Siamo lieti che tu abbia risposto ai nostri desideri, capo! Siamo certi che insieme potremo vivere bene in questo mondo inospitale!"
+    },
+    {
+      "k": 3847,
+      "v": "La tua decisione non sta esattamente cadendo su orecchie comprensive. I nostri coloni non vogliono lavorare solo fino all'osso tutto il tempo, soprattutto perché c'è una scorta sufficiente di tutto, capo!"
+    },
+    {
+      "k": 3848,
+      "v": "Nessuno dovrebbe vivere in questo modo"
+    },
+    {
+      "k": 3849,
+      "v": "Secondo i nostri Coloni, non può esistere la situazione che alcuni di loro debbano vivere per strada e non indossare indumenti protettivi mentre altri stanno bene. Vogliono che tu cambi qualcosa al riguardo."
+    },
+    {
+      "k": 3850,
+      "v": "Ci sono ancora coloni che devono vivere in condizioni avverse, capo! Queste persone speravano davvero che prestassi attenzione ai loro desideri."
+    },
+    {
+      "k": 3851,
+      "v": "Siamo davvero felici di averti, capo! Con te al comando, crediamo di poter condurre una vita ragionevole a metà in questa terra desolata! E questo significa insieme, tutti noi!"
+    },
+    {
+      "k": 3852,
+      "v": "I tuoi coloni non capiscono appieno perché non vuoi che tutti siano contenti. Non è particolarmente utile per l'umore in generale ignorare semplicemente i loro desideri."
+    },
+    {
+      "k": 3853,
+      "v": "Una celebrazione"
+    },
+    {
+      "k": 3854,
+      "v": "I nostri coloni hanno avuto l'idea di organizzare una festa per poter celebrare che siamo ancora qui su questo pianeta e stiamo ristabilendo insieme la civiltà."
+    },
+    {
+      "k": 3855,
+      "v": "Molti coloni sono gravemente delusi dal fatto che non abbia funzionato con la celebrazione. Non ha fatto esattamente molto bene all'umore qui, capo!"
+    },
+    {
+      "k": 3856,
+      "v": "I coloni sono veramente soddisfatti della tua decisione di invitarli alla loro celebrazione! Molti di loro hanno brindato al tuo benessere, capo! E domani andremo a lavorare con ancora più vigore nel nostro passo!"
+    },
+    {
+      "k": 3857,
+      "v": "Il tuo rifiuto ha deluso molti coloni. Avevano davvero pensato che avresti permesso loro di vivere le loro vite un po 'più rilassati per cambiare, capo! Almeno per un po'..."
+    },
+    {
+      "k": 3858,
+      "v": "La strada per il cuore di qualcuno è attraverso il loro stomaco"
+    },
+    {
+      "k": 3859,
+      "v": "Sebbene l'umore nel nostro insediamento sia abbastanza luminoso, potrebbe comunque essere un po 'migliore. Le suggerirei di migliorare leggermente la qualità della vita della popolazione, capo! Se potessimo aggiungere più varietà alla progettazione del piano alimentare, renderebbe sicuramente felici molti dei nostri coloni. Dobbiamo anche garantire che i coloni abbiano accesso all'acqua pulita."
+    },
+    {
+      "k": 3860,
+      "v": "È un peccato che non abbia funzionato. Sicuramente sarebbe stato un bene per l'umore dell'insediamento!"
+    },
+    {
+      "k": 3861,
+      "v": "Eccellente, capo! I nuovi alimenti non sono solo gustosi, sono anche sani! I nostri coloni sono protetti meglio dalle malattie attraverso una dieta equilibrata."
+    },
+    {
+      "k": 3862,
+      "v": "Qualunque cosa dici, capo! Tuttavia, dovresti fare attenzione che i tuoi coloni siano felici e una dieta equilibrata è un buon passo in quella direzione. Di conseguenza, non solo sarebbero più felici, ma vivrebbero in modo più sano e si ammalerebbero anche meno spesso."
+    },
+    {
+      "k": 3863,
+      "v": "Un futuro più luminoso"
+    },
+    {
+      "k": 3864,
+      "v": "I nostri coloni credono che le loro scorte di base siano salvaguardate. Pensano che sia giunto il momento di fare qualcosa per la cultura e anche per la nostra qualità di vita. Dopotutto, vogliamo vivere e non semplicemente sopravvivere."
+    },
+    {
+      "k": 3865,
+      "v": "Non comprendiamo appieno perché prometti di prestare attenzione alle nostre esigenze da un lato, ma non fai davvero nulla per ottenerlo dall'altro. In ogni caso, non ne siamo contenti."
+    },
+    {
+      "k": 3866,
+      "v": "È davvero meraviglioso. Il nuovo abbigliamento e i nuovi strumenti sono aggiunte molto gradite per noi. Grazie per averci tenuto d'occhio così bene, capo!"
+    },
+    {
+      "k": 3867,
+      "v": "È la tua chiamata, capo! Tuttavia, i Coloni sarebbero stati certamente contenti se la loro qualità di vita fosse aumentata un po '."
+    },
+    {
+      "k": 3868,
+      "v": "Pila di scorte"
+    },
+    {
+      "k": 3869,
+      "v": "Fondamentalmente stiamo andando abbastanza bene, capo! Abbiamo tutto ciò di cui abbiamo bisogno per la nostra sopravvivenza. Ma alcuni di noi pensano ancora che potrebbe esserci qualcosa di più, dopotutto. Quel gruppo vuole stare al sicuro in modo da avere provviste anche quando arrivano tempi difficili. In realtà, non è affatto una cattiva idea ..."
+    },
+    {
+      "k": 3870,
+      "v": "Purtroppo non siamo riusciti a rendere felici le numerose voci. Ora espressioni di malcontento continuano a spuntare tra i coloni di tanto in tanto, capo."
+    },
+    {
+      "k": 3871,
+      "v": "I tuoi coloni sono estremamente lieti che tu ti sia assicurato che siamo stati in grado di lavorare così bene con ciò che abbiamo in magazzino. L'umore nell'insediamento sta migliorando sempre di più."
+    },
+    {
+      "k": 3872,
+      "v": "La decisione di non fare provviste non è andata particolarmente bene con i Settlers. Semplicemente non sembra molto affidabile quando la persona che dovrebbe essere responsabile di noi non vuole prendere precauzioni ..."
+    },
+    {
+      "k": 3873,
+      "v": "Un test per l'economia"
+    },
+    {
+      "k": 3874,
+      "v": "I tuoi coloni sono molto soddisfatti, capo! Per migliorare ulteriormente il loro buon umore, suggerirei di allestirli con la migliore attrezzatura che potremmo produrre. Tuttavia, ciò potrebbe finire per essere un grave fardello per la nostra economia! È la tua chiamata, capo!"
+    },
+    {
+      "k": 3875,
+      "v": "Sfortunatamente, non ha funzionato molto bene, capo. Ora molti di loro si chiedono perché così tante energie siano state spese per produrre il meglio, nonostante gli altri problemi che abbiamo anche noi. Apparentemente l'idea è purtroppo fallita ..."
+    },
+    {
+      "k": 3876,
+      "v": "Fantastico, capo! I Coloni sono felicissimi per il nuovo Equipaggiamento. Sono particolarmente lieti che, anche se l'onere è stato grande, hai dimostrato loro che la nostra economia è ancora in grado di funzionare."
+    },
+    {
+      "k": 3877,
+      "v": "In altre parole, meglio prevenire che curare! Probabilmente hai ragione, capo!"
+    },
+    {
+      "k": 3878,
+      "v": "La terra del latte e del miele"
+    },
+    {
+      "k": 3879,
+      "v": "Stiamo andando dannatamente bene, capo! Nonostante tutte le pietre che la vita ha posto lungo il nostro cammino, guardiamo con molta fiducia al futuro. Pensiamo sia giunto il momento di creare la nostra \"terra di latte e miele\". Sarebbe troppo chiedere un pasto sontuoso?"
+    },
+    {
+      "k": 3880,
+      "v": "Non ci è venuto in mente che saremmo rimasti delusi da questa umile richiesta. Volevamo semplicemente concederci qualcosa, ma a quanto pare questo era chiedere troppo."
+    },
+    {
+      "k": 3881,
+      "v": "Dai un'occhiata, capo! I nostri magazzini sono pieni di prelibatezze. È una festa!"
+    },
+    {
+      "k": 3882,
+      "v": "Il nostro insediamento è fiorente e dovremmo ancora mangiare le stesse cose giorno dopo giorno? Un po 'di lusso sarebbe stato perfetto, capo."
+    },
+    {
+      "k": 3883,
+      "v": "Dato che stiamo migliorando da un giorno all'altro, possiamo sicuramente concederci un po 'di diversione per passare il tempo."
+    },
+    {
+      "k": 3884,
+      "v": "Non avremmo pensato di essere così delusi. Volevamo semplicemente concederci qualcosa, ma a quanto pare questo era chiedere troppo."
+    },
+    {
+      "k": 3885,
+      "v": "Le specialità che ci siamo concessi sono una delizia deliziosa. Ci sentiamo come se fossimo stati trasportati in un'altra era. Grazie, capo!"
+    },
+    {
+      "k": 3886,
+      "v": "Su solide basi"
+    },
+    {
+      "k": 3887,
+      "v": "Siamo molto contenti e fiduciosi anche che faremo bene anche in futuro. Eppure dobbiamo ancora risiedere in queste vecchie baracche. Almeno alcuni di noi avrebbero meritato di vivere in una casa migliore. Puoi occupartene, capo?"
+    },
+    {
+      "k": 3888,
+      "v": "Per come sembra, non siamo ancora pronti per goderci al massimo la nostra prosperità. Allora continueremo a vivere come abbiamo fatto fino ad ora, anche se per noi è difficile."
+    },
+    {
+      "k": 3889,
+      "v": "Le nostre nuove case sono state completate, capo! Non dovrebbe esserci alcun problema per affrontarlo."
+    },
+    {
+      "k": 3890,
+      "v": "Una casa con muri solidi che non dobbiamo pulire dopo ogni tempesta di sabbia apparentemente rimarrà un sogno. Anche quando la felicità è solo a pochi colpi di martello."
+    },
+    {
+      "k": 3891,
+      "v": "Decorazioni"
+    },
+    {
+      "k": 3892,
+      "v": "Non vogliamo sembrare che ci stiamo lamentando, ma il nostro accordo non è esattamente il più carino. Non è giunto il momento di migliorare la qualità della nostra vita? Alcune decorazioni farebbero certamente miracoli, capo."
+    },
+    {
+      "k": 3893,
+      "v": "È un peccato che l'abbellimento dell'insediamento non sia stato portato a termine. Questo è un vero problema per noi, capo."
+    },
+    {
+      "k": 3894,
+      "v": "Il nostro insediamento si sta rivelando una vera bellezza, capo. Uno spettacolo magnifico!"
+    },
+    {
+      "k": 3895,
+      "v": "Apparentemente un abbellimento dell'insediamento non gioca alcun ruolo in questo mondo scosso dalle radiazioni e dalle catastrofi naturali. Questo è un vero problema per noi, capo."
+    },
+    {
+      "k": 3896,
+      "v": "Una luce per la notte"
+    },
+    {
+      "k": 3897,
+      "v": "I tuoi coloni sono molto contenti della possibilità di poter finalmente generare elettricità. Secondo loro, ora dovresti anche fare in modo di rifornire le loro case di potere, capo!"
+    },
+    {
+      "k": 3898,
+      "v": "Sfortunatamente, ci sono ancora case che non hanno collegamenti. I tuoi coloni non sono esattamente contenti di non aver ottenuto ciò che hai promesso loro."
+    },
+    {
+      "k": 3899,
+      "v": "Guarda com'è bello il nostro insediamento di notte adesso, capo! Vivere davvero bene qui non è affatto un problema! Grazie mille, capo!"
+    },
+    {
+      "k": 3900,
+      "v": "I nostri coloni non sono esattamente ciò che definirei felice della tua decisione, capo ... Molti di loro pensano ancora di meritare una migliore qualità della vita dopo tutte le difficoltà."
+    },
+    {
+      "k": 3901,
+      "v": "Previsione del maltempo"
+    },
+    {
+      "k": 3902,
+      "v": "Le nostre previsioni del tempo sembrano sbagliate, capo! Da come appare, ci saranno tonnellate di pioggia contaminata nel prossimo futuro! Dobbiamo prepararci bene per questo, capo!"
+    },
+    {
+      "k": 3903,
+      "v": "Questa radiazione potrebbe diventare veramente pericolosa. Speriamo di esserci preparati abbastanza bene, capo!"
+    },
+    {
+      "k": 3904,
+      "v": "Siccità impreviste"
+    },
+    {
+      "k": 3905,
+      "v": "Le nostre previsioni del tempo sembrano sbagliate, capo! Da come appare, un'ondata più lunga di siccità si sta dirigendo verso di noi! Dobbiamo prepararci bene per questo!"
+    },
+    {
+      "k": 3906,
+      "v": "Speriamo che non ci metta troppo fuori strada, capo! Dobbiamo sempre essere preparati per tutto ciò che arriva!"
+    },
+    {
+      "k": 3907,
+      "v": "Parassiti"
+    },
+    {
+      "k": 3908,
+      "v": "I parassiti hanno infestato alcuni dei nostri magazzini e depositi. Purtroppo abbiamo dovuto buttare via una grande quantità delle nostre scorte alimentari."
+    },
+    {
+      "k": 3909,
+      "v": "In futuro faremo più attenzione che qualcosa del genere non ci accada più! È andato davvero male, capo!"
+    },
+    {
+      "k": 3910,
+      "v": "Estrazione di carbone ricercata: <<amount>>"
+    },
+    {
+      "k": 3911,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una miniera che ci consenta di estrarre il carbone dalle montagne circostanti. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
+    {
+      "k": 3912,
+      "v": "Ingegneria del tunnel ricercata: <<amount>>"
+    },
+    {
+      "k": 3913,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di sviluppare una tecnica che consenta ai nostri minatori di scavare tunnel più profondi in modo che più pozzi minerari possano essere eretti l'uno vicino all'altro. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
+    {
+      "k": 3914,
+      "v": "Cucina ricercata: <<amount>>"
+    },
+    {
+      "k": 3915,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di progettare una cucina in cui possiamo elaborare le nostre scorte di cibo accumulate in modo efficiente. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
+    {
+      "k": 3919,
+      "v": "I nostri primi coloni"
+    },
+    {
+      "k": 3920,
+      "v": "Siamo di nuovo in superficie da un po 'ormai, capo! Tutti noi siamo nati quassù! Anche se, senza i primi coloni che provenivano ancora dall'Endzone, non saremmo mai arrivati qui. Alcuni dei nostri coloni hanno avuto l'idea di erigere un monumento a quei coloni in modo da non dimenticare mai da dove veniamo tutti."
+    },
+    {
+      "k": 3921,
+      "v": "È un peccato che non siamo stati in grado di erigere la statua fino ad ora, capo! Ad essere onesti, non vogliamo dimenticare i primi Settlers. Non credi che forse potremmo ancora finire questo nel prossimo futuro, dopotutto?"
+    },
+    {
+      "k": 3922,
+      "v": "I nostri coloni sono molto contenti del nuovo memoriale. Qui siamo in grado di vedere quanto siamo arrivati, nonostante tutto. E senza i primi pionieri non saremmo mai arrivati così lontano!"
+    },
+    {
+      "k": 3923,
+      "v": "È un vero peccato, capo! Penso che aumenterebbe il morale dei nostri coloni se potessimo usare questa statua per mostrare loro quanto siamo già arrivati."
+    },
+    {
+      "k": 3924,
+      "v": "Tanti e tanti bambini"
+    },
+    {
+      "k": 3925,
+      "v": "Molti bambini sono nati di recente, capo! Dobbiamo fare attenzione che i nostri coloni siano ugualmente in grado di provvedere a sufficienza a questa generazione emergente. Forse sarebbe meglio avvisare i Coloni che nel prossimo futuro non dovrebbero avere più figli all'inizio. Cosa ne pensi, capo?"
+    },
+    {
+      "k": 3926,
+      "v": "Dato che non ha dato istruzioni fino ad ora, capo, i nostri coloni presumono che vada tutto bene. Se non è così, forse dovresti agire, dopotutto."
+    },
+    {
+      "k": 3927,
+      "v": "Ok, capo, smetteremo di avere altri figli finché non ci dirai diversamente. Non aspettare troppo a lungo in modo che i tuoi coloni non invecchino troppo."
+    },
+    {
+      "k": 3928,
+      "v": "Tutto pronto, capo! Ma anche così, dovresti tenere d'occhio gli sviluppi e agire in seguito se necessario!"
+    },
+    {
+      "k": 3929,
+      "v": "Stiamo diventando sempre più vecchi"
+    },
+    {
+      "k": 3930,
+      "v": "Molti dei nostri coloni stanno invecchiando sempre di più, capo! Molti di loro pensano che sia giunto di nuovo il momento di provvedere alla prole in modo che il nostro insediamento non vada sotto a causa dell'eccessivo invecchiamento. Ti chiediamo di fornirci delle abitazioni per avere figli, capo!"
+    },
+    {
+      "k": 3931,
+      "v": "Non ci hai ancora dato nessuna risposta, capo! Molti di noi sono veramente preoccupati del fatto che stiamo invecchiando e che nessuna generazione successiva seguirà."
+    },
+    {
+      "k": 3932,
+      "v": "Grazie mille, capo! Abbiamo davvero bisogno di una nuova generazione di discendenti per poter sopravvivere in questo paesaggio arido anche in futuro."
+    },
+    {
+      "k": 3933,
+      "v": "Non pensiamo che sia una buona idea, capo! Se non provvediamo alle generazioni emergenti, prima o poi ne soffriremo. Non siamo d'accordo con la tua decisione!"
+    },
+    {
+      "k": 4048,
+      "v": "No Ale prima delle quattro"
+    },
+    {
+      "k": 4049,
+      "v": "Ehi, capo, il nostro ubriacone locale ci ha detto che in precedenza ha lavorato come gestore di pub in un altro insediamento. Sebbene l'insediamento alla fine dovette essere abbandonato perché i dintorni erano contaminati dalle radiazioni, piantarono e coltivarono grano, produssero birra e gestirono un pub lì. Ai coloni è piaciuto e, a quanto pare, ha anche rafforzato il senso di solidarietà! Cosa ne pensi, capo? Non saremmo in grado di gestire anche una birra dopo il lavoro ogni tanto? Dopotutto, almeno ora abbiamo i semi giusti!"
+    },
+    {
+      "k": 4050,
+      "v": "Non vedevamo l'ora di un bel bicchiere di birra fresca, capo! È un peccato che non abbia funzionato ..."
+    },
+    {
+      "k": 4051,
+      "v": "Meraviglioso Finalmente un posto dove riprendersi dalle prove e tribolazioni quotidiane e guardare indietro alla giornata. Naturalmente hai diritto alla prima birra, capo: che la festa abbia inizio!"
+    },
+    {
+      "k": 4052,
+      "v": "È un peccato, ma ovviamente hai ragione, capo. Ci sono ovviamente cose più importanti di un allegro bicchiere di Ale in un allegro Pub. Oh beh, non c'è nessuna legge contro i sogni, giusto?!"
+    },
+    {
+      "k": 4053,
+      "v": "Fuori dai guai ma non fuori dagli schemi"
+    },
+    {
+      "k": 4054,
+      "v": "Ehi, capo, la nostra piccola escursione mi ha dato un'idea brillante: ora che abbiamo un manichino e un vestito da sarto, forse dovremmo approfittare della nuova attrezzatura per fornire ai nostri sarti l'opportunità di provare nuove tecniche."
+    },
+    {
+      "k": 4055,
+      "v": "Sfortunatamente, le nuove tecniche e il nuovo equipaggiamento non si sono dimostrati particolarmente utili. Non siamo davvero andati da nessuna parte con i nostri test. Che vergogna, capo!"
+    },
+    {
+      "k": 4056,
+      "v": "Eccezionale! I nostri sarti sono stati in grado di realizzare subito alcune sciarpe da collo in più."
+    },
+    {
+      "k": 4057,
+      "v": "Ho pensato che sarebbe stata una buona idea, ma tanto per quello. Speriamo di non avere pioggia contaminata!"
+    },
+    {
+      "k": 4058,
+      "v": "La prossima cosa su cui i sarti sono ansiosi di tentare la fortuna sono le maschere di carbone attivo. Ma oltre alla stoffa avremo bisogno anche di un sacco di carbone per farlo."
+    },
+    {
+      "k": 4059,
+      "v": "Sfortunatamente, le nuove tecniche e il nuovo equipaggiamento non si sono dimostrati particolarmente utili. Non siamo davvero andati da nessuna parte con i nostri test. Che vergogna, capo!"
+    },
+    {
+      "k": 4060,
+      "v": "Anche questo sembrava aver funzionato abbastanza bene. Le loro nuove fasi di lavoro hanno permesso ai nostri sarti di accumulare molta esperienza."
+    },
+    {
+      "k": 4061,
+      "v": "Siamo assolutamente al top e non vogliamo ancora fermarci qui. Il prossimo obiettivo dei nostri sarti è tentare la fortuna nel testare le tute anti-radiazioni. Ma hanno ancora bisogno di un po' di plastica per farlo."
+    },
+    {
+      "k": 4062,
+      "v": "Sfortunatamente, le nuove tecniche e il nuovo equipaggiamento non si sono dimostrati particolarmente utili. Non siamo davvero andati da nessuna parte con i nostri test. Che vergogna, capo!"
+    },
+    {
+      "k": 4063,
+      "v": "Fantastico! È stata una tua brillante idea permetterci di provare nuove tecniche. In ogni caso, abbiamo imparato molto per il futuro."
+    },
+    {
+      "k": 4064,
+      "v": "Decreti"
+    },
+    {
+      "k": 4065,
+      "v": "Decreto"
+    },
+    {
+      "k": 4066,
+      "v": "Calmati"
+    },
+    {
+      "k": 4067,
+      "v": "Durata"
+    },
+    {
+      "k": 4068,
+      "v": "Controllo delle nascite"
+    },
+    {
+      "k": 4069,
+      "v": "Questo decreto vieta il parto."
+    },
+    {
+      "k": 4073,
+      "v": "Salvataggio automatico in <<value>> secondi..."
+    },
+    {
+      "k": 4077,
+      "v": "Collega tutte le case a una rete elettrica: <<amount>>"
+    },
+    {
+      "k": 4078,
+      "v": "Collega tutte le case robuste a una rete elettrica: <<amount>>"
+    },
+    {
+      "k": 4082,
+      "v": "Attiva il controllo delle nascite"
+    },
+    {
+      "k": 4083,
+      "v": "-"
+    },
+    {
+      "k": 4084,
+      "v": "Produttore di energia"
+    },
+    {
+      "k": 4085,
+      "v": "Consumatore"
+    },
+    {
+      "k": 4086,
+      "v": "Accumulo di energia"
+    },
+    {
+      "k": 4087,
+      "v": "Palo elettrico"
+    },
+    {
+      "k": 4088,
+      "v": "-"
+    },
+    {
+      "k": 4089,
+      "v": "-"
+    },
+    {
+      "k": 4090,
+      "v": "Linea elettrica"
+    },
+    {
+      "k": 4091,
+      "v": "Poco attraente"
+    },
+    {
+      "k": 4092,
+      "v": "Neutro"
+    },
+    {
+      "k": 4093,
+      "v": "Attraente"
+    },
+    {
+      "k": 4094,
+      "v": "Blackout"
+    },
+    {
+      "k": 4095,
+      "v": "Nessuna griglia"
+    },
+    {
+      "k": 4096,
+      "v": "Disconnesso"
+    },
+    {
+      "k": 4144,
+      "v": "Influenza positiva"
+    },
+    {
+      "k": 4145,
+      "v": "Influenza negativa"
+    },
+    {
+      "k": 4151,
+      "v": "In costruzione"
+    },
+    {
+      "k": 4097,
+      "v": "-"
+    },
+    {
+      "k": 4098,
+      "v": "Edifici che producono elettricità e la immettono nella loro rete elettrica."
+    },
+    {
+      "k": 4099,
+      "v": "Edifici che consumano elettricità all'interno della loro rete elettrica."
+    },
+    {
+      "k": 4100,
+      "v": "Edifici che immagazzinano elettricità in eccesso dalla loro rete elettrica e la rilasciano alla rete elettrica in caso di carenza."
+    },
+    {
+      "k": 4101,
+      "v": "I poli di energia elettrica collegano i produttori di energia, i consumatori e le unità di accumulo di energia a una rete elettrica nel loro raggio di influenza."
+    },
+    {
+      "k": 4102,
+      "v": "-"
+    },
+    {
+      "k": 4103,
+      "v": "-"
+    },
+    {
+      "k": 4104,
+      "v": "Le linee elettriche collegano i pali della corrente elettrica a produttori, consumatori o unità di accumulo di energia nelle vicinanze."
+    },
+    {
+      "k": 4105,
+      "v": "Gli edifici in un ambiente poco attraente hanno un effetto negativo sulla contentezza dei loro abitanti."
+    },
+    {
+      "k": 4106,
+      "v": "Gli edifici in un ambiente neutro non hanno effetto sulla contentezza dei loro abitanti."
+    },
+    {
+      "k": 4107,
+      "v": "Gli edifici in un ambiente attraente hanno un effetto positivo sulla contentezza dei loro abitanti."
+    },
+    {
+      "k": 4108,
+      "v": "Edifici attualmente interessati da black-out per insufficiente generazione di energia elettrica."
+    },
+    {
+      "k": 4109,
+      "v": "Edifici non collegati a una rete elettrica."
+    },
+    {
+      "k": 4110,
+      "v": "Edifici che sono stati attivamente scollegati da una rete elettrica."
+    },
+    {
+      "k": 4146,
+      "v": "Edifici che hanno un'influenza positiva sull'attrattiva delle abitazioni nelle vicinanze."
+    },
+    {
+      "k": 4147,
+      "v": "Edifici che influiscono negativamente sull'attrattività delle abitazioni nelle vicinanze."
+    },
+    {
+      "k": 4152,
+      "v": "Edifici attualmente in costruzione."
+    },
+    {
+      "k": 4128,
+      "v": "Dotare i coloni di indumenti protettivi: <<amount>>"
     }
   ]
 }
