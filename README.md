@@ -2,6 +2,7 @@
 Traduzione del gioco Endzone-A World Apart 
 
 Traduzione completa del gioco in accesso anticipato, se riscontrate qualche tipo di errore non esitate a creare una issues qui sopra grazie, o dalla guida su steam.
+Cercherò di aggiornarla il più velocemente possibile, basta seguirmi qui o su steam per essere sempre aggionati.
 
 # Come si scarica da questo strano sito.
 Per scaricare la traduzione basta andare sul pulsante "code" poi selezionare il .zip e scaricare il file sul proprio computer.
