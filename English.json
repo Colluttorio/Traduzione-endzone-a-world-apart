@@ -309,6 +309,18 @@
       "k": 4142,
       "v": "Cibo trattato"
     },
+	{
+      "k": 4442,
+      "v": "Pomodoro"
+    },
+    {
+      "k": 4443,
+      "v": "Carote"
+    },
+    {
+      "k": 4444,
+      "v": "Zucchine"
+    },
     {
       "k": 880,
       "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
@@ -491,7 +503,19 @@
     },
 	{
       "k": 4143,
-      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."
+      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."											  
+    },
+	{
+      "k": 4445,
+      "v": "I pomodori possono essere raccolti dai campi."
+    },
+    {
+      "k": 4446,
+      "v": "Le carote possono essere raccolte dai campi."
+    },
+    {
+      "k": 4447,
+      "v": "Le zucchine possono essere raccolte dai campi."
     },
     {
       "k": 267,
@@ -741,6 +765,14 @@
       "k": 4149,
       "v": "Bandiera"
     },
+	{
+      "k": 4160,
+      "v": "Forum"
+    },
+    {
+      "k": 4426,
+      "v": "Siepe"
+    },
     {
       "k": 301,
       "v": "Una piccola cabina in cui i coloni possono vivere e fondare una famiglia. I coloni si trasferiscono solo come una famiglia."
@@ -955,7 +987,11 @@
     },
 	{
       "k": 3952,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."	
+	},
+	{
+      "k": 4161,
+      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."
     },
     {
       "k": 335,
@@ -1727,7 +1763,11 @@
     },
     {
       "k": 448,
-      "v": "Informazioni sulla costruzione"
+      "v": "Informazioni sulla costruzione"												
+    },
+	{
+      "k": 4506,
+      "v": "La modalità costruttore è: <<builderMode>>"
     },
     {
       "k": 2325,
@@ -2361,9 +2401,113 @@
       "k": 4158,
       "v": "Attività di fiducia"
     },
+	{
+      "k": 4427,
+      "v": "Decreto missione"
+    },
+    {
+      "k": 4428,
+      "v": "Missione dell'evento"
+    },
+    {
+      "k": 4429,
+      "v": "Missione della bacheca"
+    },
+    {
+      "k": 4430,
+      "v": "Missione di spedizione"
+    },
     {
       "k": 4159,
       "v": "Un compito di fiducia aumenta la fiducia dei coloni quando viene completato con successo."
+    },
+	{
+      "k": 4432,
+      "v": "Una missione che è stata attivata a causa di un decreto emesso."
+    },
+    {
+      "k": 4433,
+      "v": "Una missione che è stata attivata a causa della miseria e delle difficoltà dei tuoi coloni."
+    },
+    {
+      "k": 4434,
+      "v": "Una missione che può essere attivata tramite la bacheca del forum."
+    },
+    {
+      "k": 4435,
+      "v": "Una missione che è stata attivata a causa di una spedizione."
+    },
+    {
+      "k": 4498,
+      "v": "Fiducia negativa"
+    },
+    {
+      "k": 4499,
+      "v": "L'umore del tuo insediamento è teso. Completa questa missione per aumentare la fiducia. Se la missione fallisce, la fiducia diminuirà ulteriormente."
+    },
+    {
+      "k": 4500,
+      "v": "Fiducia equilibrata"
+    },
+    {
+      "k": 4501,
+      "v": "L'umore del tuo insediamento è ben bilanciato. Completa questa missione per aumentare la fiducia. Se la missione fallisce, la fiducia diminuirà."
+    },
+    {
+      "k": 4502,
+      "v": "Fiducia positiva"
+    },
+    {
+      "k": 4503,
+      "v": "L'umore al tuo insediamento è positivo. Completa questa missione per aumentare ulteriormente la fiducia. Se la missione fallisce, questo ha un effetto debuff sulla fiducia."
+    },
+    {
+      "k": 4488,
+      "v": "Ricompensa incerta"
+    },
+    {
+      "k": 4489,
+      "v": "Le conseguenze di questa missione sono incerte. Potrebbero includere ricompense preziose come coloni aggiuntivi, nuovi edifici o ricompense speciali come nuovi semi, conoscenze o nuove tecnologie."
+    },
+    {
+      "k": 4490,
+      "v": "Ricompensa della costruzione"
+    },
+    {
+      "k": 4491,
+      "v": "Questa missione include un nuovo edificio come ricompensa."
+    },
+    {
+      "k": 4492,
+      "v": "Ricompensa del colono"
+    },
+    {
+      "k": 4493,
+      "v": "Dopo la conclusione positiva di questa missione, altri coloni si uniscono all'insediamento."
+    },
+    {
+      "k": 4494,
+      "v": "Ricompensa speciale"
+    },
+    {
+      "k": 4495,
+      "v": "Questa missione include ricompense speciali come nuovi semi, conoscenza o nuove tecnologie."
+    },
+    {
+      "k": 4496,
+      "v": "Ricompensa risorse"
+    },
+    {
+      "k": 4497,
+      "v": "Questa missione include diversi tipi di risorse come ricompensa."
+    },
+    {
+      "k": 4504,
+      "v": "Ricompensa per la fiducia"
+    },
+    {
+      "k": 4505,
+      "v": "Questa missione influenza la fiducia dei coloni."
     },
 	{
       "k": 497,
@@ -3531,7 +3675,19 @@
     },
     {
       "k": 3116,
-      "v": "La ricerca è stata condotta su nuove tecnologie"
+      "v": "La ricerca è stata condotta su nuove tecnologie"						  
+    },
+	{
+      "k": 4439,
+      "v": "Apri Missioni \"da fare\" nella bacheca"
+    },
+    {
+      "k": 4535,
+      "v": "Un commerciante è arrivato alla stazione di scambio"
+    },
+    {
+      "k": 4532,
+      "v": "Uno scambio è stato concluso"
     },
     {
       "k": 596,
@@ -3719,7 +3875,31 @@
     },
 	{
       "k": 4150,
-      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"
+      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"			   
+    },
+	{
+      "k": 4421,
+      "v": "Tabellone"
+    },
+    {
+      "k": 4422,
+      "v": "Al momento non esistono richieste da parte dei coloni"
+    },
+    {
+      "k": 4471,
+      "v": "Completa la missione dalla bacheca che hai già intrapreso prima di poter intraprendere altre missioni."
+    },
+    {
+      "k": 4509,
+      "v": "<<seasons>> lasciato per intraprendere la missione."
+    },
+    {
+      "k": 4464,
+      "v": "Seleziona forum"
+    },
+    {
+      "k": 4478,
+      "v": "Aprire la finestra del decreto"
     },
     {
       "k": 1036,
@@ -3819,7 +3999,75 @@
     },
     {
       "k": 3474,
-      "v": "Riempi il livello del serbatoio dell'acqua"
+      "v": "Riempi il livello del serbatoio dell'acqua"		
+    },
+	{
+      "k": 4524,
+      "v": "Commercio"
+    },
+    {
+      "k": 4525,
+      "v": "Visualizza l'offerta dei commercianti"
+    },
+    {
+      "k": 4526,
+      "v": "Tempo rimanente per fare uno scambio"
+    },
+    {
+      "k": 4527,
+      "v": "Tempo rimanente fino alla conclusione del commercio"
+    },
+    {
+      "k": 4555,
+      "v": "Tempo fino all'arrivo del prossimo commerciante"
+    },
+    {
+      "k": 4528,
+      "v": "Progresso commerciale"
+    },
+    {
+      "k": 4529,
+      "v": "L'avanzamento degli scambi è determinato dalla consegna delle risorse concordate alle postazioni commerciali. Se non tutte le risorse vengono consegnate entro il momento in cui il commercio è concluso, il commerciante lascia solo risorse proporzionali, in base al rapporto dell'accordo."
+    },
+    {
+      "k": 4534,
+      "v": "Seleziona la postazione di scambio"
+    },
+    {
+      "k": 4545,
+      "v": "Attualmente nessun commerciante ha attraccato alla stazione di scambio. È previsto l'arrivo del prossimo commerciante in <<seasons>>."
+    },
+    {
+      "k": 4546,
+      "v": "Un commerciante ha attraccato alla stazione di scambio. Ci sono <<seasons>> lasciate per fare uno scambio."
+    },
+    {
+      "k": 4547,
+      "v": "È stato concordato uno scambio e le risorse vengono trasportate alla stazione commerciale."
+    },
+    {
+      "k": 4548,
+      "v": "Uno scambio è stato concluso"
+    },
+    {
+      "k": 4556,
+      "v": "Un commerciante si sta avvicinando allo sbarco"
+    },
+    {
+      "k": 4541,
+      "v": "Chiesto"
+    },
+    {
+      "k": 4542,
+      "v": "Offerto"
+    },
+    {
+      "k": 4543,
+      "v": "Inizia il commercio"
+    },
+    {
+      "k": 4544,
+      "v": "Licenzia commerciante"
     },
     {
       "k": 1073,
@@ -4187,7 +4435,15 @@
     },
     {
       "k": 2669,
-      "v": "Scenari"
+      "v": "Scenari"	  
+    },
+	{
+      "k": 4517,
+      "v": "Tutorials"
+    },
+    {
+      "k": 4518,
+      "v": "Gioca al tutorial"
     },
     {
       "k": 2672,
@@ -4767,7 +5023,11 @@
     },
     {
       "k": 4155,
-      "v": "Numero di salvataggi automatici"
+      "v": "Numero di salvataggi automatici"						   
+    },
+	{
+      "k": 4448,
+      "v": "Usa il cursore del mouse grande"
     },
     {
       "k": 2275,
@@ -4857,6 +5117,10 @@
       "k": 2296,
       "v": "Fai clic per deselezionare"
     },
+	{
+      "k": 4508,
+      "v": "Attiva/disattiva la modalità di costruzione"
+    },
     {
       "k": 1742,
       "v": "Piccolo"
@@ -4911,7 +5175,15 @@
     },
     {
       "k": 1005,
-      "v": "Diminuisci di 100"
+      "v": "Diminuisci di 100"					  
+    },
+	{
+      "k": 4530,
+      "v": "Aumenta di <<value>>"
+    },
+    {
+      "k": 4531,
+      "v": "Diminuisci di <<value>>"
     },
     {
       "k": 2261,
@@ -5303,7 +5575,11 @@
     },
 	{
       "k": 3916,
-      "v": "Aggiorna un edificio"
+      "v": "Aggiorna un edificio"										  
+    },
+	{
+      "k": 4512,
+      "v": "È stato bandito dall'insediamento"
     },
     {
       "k": 2273,
@@ -5719,7 +5995,31 @@
     },
 	{
       "k": 3791,
-      "v": "Rovina della chiesa"
+      "v": "Rovina della chiesa"		  
+    },
+	{
+      "k": 4472,
+      "v": "Bar"
+    },
+    {
+      "k": 4473,
+      "v": "Negozio di torte"
+    },
+    {
+      "k": 4474,
+      "v": "Negozio di vestiti"
+    },
+    {
+      "k": 4475,
+      "v": "Trattoria"
+    },
+    {
+      "k": 4476,
+      "v": "Emporio"
+    },
+    {
+      "k": 4477,
+      "v": "Negozio d'angolo"
     },
     {
       "k": 832,
@@ -5839,7 +6139,19 @@
     },
     {
       "k": 3118,
-      "v": "<<researchName>> è stato ricercato ed è ora disponibile"
+      "v": "<<researchName>> è stato ricercato ed è ora disponibile"										 
+    },
+	{
+      "k": 4440,
+      "v": "Vai al forum per guardarli"
+    },
+    {
+      "k": 4536,
+      "v": "Vai alla stazione di scambio per visualizzare le offerte"
+    },
+    {
+      "k": 4533,
+      "v": "Vai alla stazione di scambio per visualizzare lo scambio"
     },
     {
       "k": 857,
@@ -6189,6 +6501,18 @@
       "k": 2247,
       "v": "La spedizione non è riuscita a completare l'attività"
     },
+	{
+      "k": 4441,
+      "v": "Annulla attività"
+    },
+    {
+      "k": 4438,
+      "v": "Chiudi la finestra di dialogo dei coloni"
+    },
+    {
+      "k": 4437,
+      "v": "Apri la finestra di dialogo dei coloni per visualizzare l'attività"
+    },
     {
       "k": 2502,
       "v": "Mostra di nuovo l'introduzione dell'attività"
@@ -6260,6 +6584,10 @@
     {
       "k": 2298,
       "v": "Accesso anticipato"
+    },
+	{
+      "k": 4465,
+      "v": "Anteprima della community"
     },
     {
       "k": 1153,
@@ -7399,7 +7727,39 @@
     },
     {
       "k": 3956,
-      "v": "I campanelli eolici possono essere posizionati per aumentare l'attrattiva di un'area."
+      "v": "I campanelli eolici possono essere posizionati per aumentare l'attrattiva di un'area."		
+    },
+	{
+      "k": 4423,
+      "v": "Le siepi possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 4424,
+      "v": "È possibile posizionare bandiere per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 4408,
+      "v": "Decreti"
+    },
+    {
+      "k": 4409,
+      "v": "La bacheca"
+    },
+    {
+      "k": 4410,
+      "v": "Decreti"
+    },
+    {
+      "k": 4425,
+      "v": "Gli stand della bacheca montati al forum. I tuoi coloni accumulano compiti qui che vogliono che tu completi. Di tanto in tanto dovresti controllare se una nuova richiesta è stata appesa alla bacheca."
+    },
+    {
+      "k": 4411,
+      "v": "Nel forum puoi emanare decreti che i tuoi coloni rispetteranno. Ogni decreto presenta vantaggi e svantaggi per la tua liquidazione. Fai attenzione a non imporre troppo ai tuoi Coloni. Possono essere attivi fino a due decreti contemporaneamente. Per poter emanare alcuni decreti, è necessario eseguire prima una <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 4412,
+      "v": "Il forum consente l'accesso alla bacheca insieme alla possibilità di emanare decreti."
     },
     {
       "k": 1263,
@@ -11443,7 +11803,943 @@
     },
     {
       "k": 3777,
-      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."
+      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."																																																																																	
+    },
+	{
+      "k": 3957,
+      "v": "Ehi capo, ho dato un'occhiata a questo. Apparentemente era un negozio di abbigliamento. È ancora possibile vedere un manichino da vetrina al piano terra. L'edificio non è più in condizioni ottimali, ma non sembra ancora essere stato saccheggiato. Potrebbe valere la pena mandare una spedizione lì!"
+    },
+    {
+      "k": 3958,
+      "v": "Tutto pronto, siamo arrivati. L'esploratore aveva ragione. Sembra che nessuno sia più entrato qui dopo la catastrofe. Parte del muro dell'edificio si è rotto e c'è un buco nel corridoio al primo piano: dovremmo stare attenti a dove mettiamo piede!"
+    },
+    {
+      "k": 3959,
+      "v": "Terzo piano"
+    },
+    {
+      "k": 3960,
+      "v": "Cosa c'è in cima?"
+    },
+    {
+      "k": 3961,
+      "v": "Ehi, a un certo punto probabilmente anche questo era un appartamento. Un po 'piccolo, angusto, e il tetto qui è inclinato, ma almeno offre una vista incantevole!"
+    },
+    {
+      "k": 3962,
+      "v": "Appartamento mansardato"
+    },
+    {
+      "k": 3963,
+      "v": "Vediamo se troviamo qualcosa di prezioso! <<dynamicmessage>>"
+    },
+    {
+      "k": 3964,
+      "v": "C'è persino un telescopio in piedi davanti alla finestra qui - in ogni caso possiamo smontarlo!"
+    },
+    {
+      "k": 3965,
+      "v": "C'è persino un telescopio in piedi davanti alla finestra qui: il nostro ricercatore pensa che potremmo farne buon uso per ricerche future!"
+    },
+    {
+      "k": 3966,
+      "v": "Abbiamo trovato solo un po 'di roba da riciclare. Ma abbiamo il telescopio per rimediare! Possiamo usarlo per guardare il cielo e osservare le stelle, e impareremo sicuramente alcune cose da questo!"
+    },
+    {
+      "k": 3967,
+      "v": "Quindi, era così. Un po 'di roba da riciclare e le parti del telescopio smontato. Non abbiamo trovato nient'altro."
+    },
+    {
+      "k": 3968,
+      "v": "Secondo piano"
+    },
+    {
+      "k": 3969,
+      "v": "Cosa c'è al secondo piano?"
+    },
+    {
+      "k": 3970,
+      "v": "Sembrano appartamenti del tutto normali che non hanno più niente a che fare con il negozio."
+    },
+    {
+      "k": 3971,
+      "v": "Primo appartamento"
+    },
+    {
+      "k": 3972,
+      "v": "Non sembra essere niente di speciale, ma forse troveremo qualcosa! <<dynamicmessage>>"
+    },
+    {
+      "k": 3973,
+      "v": "Nel frattempo siamo dei veri esperti quando si tratta di setacciare vecchie rovine!"
+    },
+    {
+      "k": 3974,
+      "v": "Abbiamo raccolto praticamente tutto ciò che è ancora utilizzabile! Attrezzature e arredi, elettrodomestici e attrezzature elettroniche, pezzi di abbigliamento e persino alcuni vecchi fumetti che quasi avremmo trascurato in mezzo a una pila di carta! \"Bunkerboys 'Adventure in the Wasteland\" Strano quello che la gente immaginava solo per divertimento. Ma almeno è una lettura piacevole per il viaggio di ritorno!"
+    },
+    {
+      "k": 3975,
+      "v": "Quindi, immagino che fosse praticamente tutto ciò che è ancora utilizzabile. Alcuni infissi e arredi, alcuni vecchi elettrodomestici, pezzi di abbigliamento, ma era tutto quello che scriveva. Non abbiamo notato niente di speciale ..."
+    },
+    {
+      "k": 3976,
+      "v": "Secondo appartamento"
+    },
+    {
+      "k": 3977,
+      "v": "Santo cielo, l'intero appartamento è pieno zeppo di cianfrusaglie e vecchi giornali! Non riesco nemmeno a immaginarci mentre viviamo in questo modo nell'Endzone, ma comunque, daremo un'occhiata in giro... <<dynamicmessage>>"
+    },
+    {
+      "k": 3978,
+      "v": "Il pavimento in legno scricchiola e scricchiola come un matto. Probabilmente non viene più oliato da secoli..."
+    },
+    {
+      "k": 3979,
+      "v": "Secondo il nostro costruttore, il pavimento è già così fuori controllo che potrebbe cedere in qualsiasi momento. Dobbiamo stare attenti."
+    },
+    {
+      "k": 3980,
+      "v": "<<dynamicmessage>> Un pezzo di pavimento cedette, ma ero ancora in grado di tenermi stretto a tutta la spazzatura qui. Non è successo niente. In ogni caso, qui non c'erano buoni guadagni - quasi tutta era spazzatura ..."
+    },
+    {
+      "k": 3981,
+      "v": "Il nostro costruttore sa certamente di cosa sta parlando."
+    },
+    {
+      "k": 3982,
+      "v": "Ahhh, di tutta la fortuna! Mentre cercavamo attraverso la stanza il pavimento improvvisamente cedette e noi cademmo al piano di sotto. Non potrei definirlo un atterraggio morbido, ma dal modo in cui sembra non è successo niente di peggio. La prossima volta dovremmo stare più attenti quando setacciamo una rovina."
+    },
+    {
+      "k": 3983,
+      "v": "Primo piano"
+    },
+    {
+      "k": 3984,
+      "v": "Dai un'occhiata lì intorno!"
+    },
+    {
+      "k": 3985,
+      "v": "Questo piano era apparentemente una volta parte del negozio, tranne per il fatto che metà del corridoio è crollata qui. Ma c'è ancora un'altra stanza che possiamo dare un'occhiata."
+    },
+    {
+      "k": 3986,
+      "v": "Showroom"
+    },
+    {
+      "k": 3987,
+      "v": "Gli scaffali qui sono ancora pieni di vecchi vestiti. Possiamo fare un buon uso del tessuto!"
+    },
+    {
+      "k": 3988,
+      "v": "Fantastico, questo dovrebbe aiutare a ricostituire i nostri inventari accumulati! Se solo fossimo in grado di trovare semplicemente tutto ciò di cui abbiamo bisogno per sopravvivere in un negozio..."
+    },
+    {
+      "k": 3989,
+      "v": "Piano terra"
+    },
+    {
+      "k": 3990,
+      "v": "Che aspetto ha laggiù?"
+    },
+    {
+      "k": 3991,
+      "v": "Quaggiù c'era probabilmente la stanza delle vendite, e sembra che ci sia anche un piccolo magazzino."
+    },
+    {
+      "k": 3992,
+      "v": "Ripostiglio"
+    },
+    {
+      "k": 3993,
+      "v": "La porta è chiusa a chiave. <<dynamicmessage>>"
+    },
+    {
+      "k": 3994,
+      "v": "Vediamo se riusciamo ad aprirlo senza attrezzi..."
+    },
+    {
+      "k": 3995,
+      "v": "Possiamo aprire la porta con il nostro piede di porco!"
+    },
+    {
+      "k": 3996,
+      "v": "La porta è aperta! Ci sono molti capi di abbigliamento qui, alcuni ancora imballati in scatole. \"Collezione Luglio 2026 - Da smaltire\" è scritto su circa metà delle scatole. \"Collezione Agosto 2026\" è scritto sull'altra metà. Sembra quasi che la gente fosse solita sistemare i vestiti e buttarli via già un mese dopo! Ma perché in fiamme qualcuno dovrebbe fare una cosa del genere ... tutti i vestiti sembrano ancora nuovi di zecca e in buone condizioni! È piuttosto strano dopo tutto questo tempo ... deve essere a causa dell'elevata percentuale di plastica nei tessuti. Ma ehi, questo ci sta benissimo!"
+    },
+    {
+      "k": 3997,
+      "v": "Niente da fare senza strumenti, capo. Sembra essere un robusto bullone!"
+    },
+    {
+      "k": 3998,
+      "v": "Stanza di vendita"
+    },
+    {
+      "k": 3999,
+      "v": "Oltre ad alcuni capi di abbigliamento e al manichino della vetrina, in un angolo c'è ancora un registratore di cassa elettronico che possiamo smontare."
+    },
+    {
+      "k": 4000,
+      "v": "Bene, possiamo ancora usare il panno e abbiamo rimosso le parti utilizzabili dal registratore di cassa. Porteremo con noi anche il manichino: è certo che renderà il lavoro più facile per i nostri sarti!"
+    },
+    {
+      "k": 4001,
+      "v": "Sono arrivato alle coordinate, capo. L'edificio sembra abbastanza insignificante dall'esterno. Sembra che una volta ci fosse un bar al piano terra. Qualcuno ha scritto una richiesta di aiuto sul muro esterno, ma non vedo nessuno, potrebbe essere piuttosto vecchio ormai. Sarebbe meglio se mandassi una spedizione qui per dare un'occhiata più da vicino!"
+    },
+    {
+      "k": 4002,
+      "v": "Allora è tempo per noi di vedere se c'è qualcosa di concreto in ciò che ha detto lo Scout! In ogni caso, non ci saranno problemi ad entrare. La parete laterale dell'edificio è crollata..."
+    },
+    {
+      "k": 4003,
+      "v": "Piano terra"
+    },
+    {
+      "k": 4004,
+      "v": "Dai un'occhiata in giro!"
+    },
+    {
+      "k": 4005,
+      "v": "Diversi sgabelli da bar, un bancone da bar, bottiglie impolverate sugli scaffali: a quanto pare le persone si incontravano qui per un drink dopo il lavoro! Sul retro sembra esserci anche un Ripostiglio e una scala che sale."
+    },
+    {
+      "k": 4006,
+      "v": "Le scale"
+    },
+    {
+      "k": 4007,
+      "v": "Le scale sembrano ancora in buone condizioni. Probabilmente l'appartamento sopra apparteneva alle persone che gestivano il bar qui."
+    },
+    {
+      "k": 4008,
+      "v": "Ehi, ci sono tracce qui sulle scale polverose - forse la richiesta di aiuto non è così vecchia, dopotutto. <<dynamicmessage>>"
+    },
+    {
+      "k": 4009,
+      "v": "Sembra che qualcosa sia stato trascinato su per le scale qui."
+    },
+    {
+      "k": 4010,
+      "v": "Ehi, ci sono dei binari qui sulle scale polverose - forse la richiesta di aiuto non è così vecchia, dopotutto."
+    },
+    {
+      "k": 4011,
+      "v": "Bancone"
+    },
+    {
+      "k": 4012,
+      "v": "Su alcune bottiglie manca lo strato di polvere. Sembra che qualcuno sia stato qui non molto tempo fa! Vediamo cos'altro troviamo qui... <<dynamicmessage>>"
+    },
+    {
+      "k": 4013,
+      "v": "Conosciamo i soliti nascondigli!"
+    },
+    {
+      "k": 4014,
+      "v": "Ehi, una mazza da baseball giaceva sotto il bancone - a cosa sarebbe andata bene? E qui giaceva anche un libro: \"Mixology - The Art of Serving Alcohol\". Possiamo sicuramente ancora imparare una o due cose da questo. Oltre alle bottiglie sugli scaffali, ne abbiamo trovate altre sotto le assi del pavimento. Questa deve essere la roba buona!"
+    },
+    {
+      "k": 4015,
+      "v": "Ehi, una mazza da baseball giaceva sotto il bancone - a cosa sarebbe andata bene? E qui giaceva anche un libro: \"Mixology - The Art of Serving Alcohol\". Possiamo sicuramente ancora imparare una o due cose da questo!"
+    },
+    {
+      "k": 4016,
+      "v": "Dispensa"
+    },
+    {
+      "k": 4017,
+      "v": "Il pavimento qui è disseminato di frammenti e gli scaffali sono vuoti. A quanto pare qualcuno ha già saccheggiato la stanza. Tuttavia, in un angolo abbiamo trovato una cassa con bottiglie intatte ancora piene. A differenza degli altri, non c'è etichetta su di esso. Qualcuno ha scritto a mano \"Tutto il meglio dal Dottore\". <<dynamicmessage>>"
+    },
+    {
+      "k": 4018,
+      "v": "Cosa dovrebbe significare? In ogni caso, il nostro Pubkeeper non pensava che fosse inutile prendere un sorso direttamente dalla bottiglia. Sembra che sia un chiaro di luna di prima classe!"
+    },
+    {
+      "k": 4019,
+      "v": "Cosa dovrebbe significare? Beh, in ogni caso il liquido nelle bottiglie puzza di alcol. È una scommessa sicura berla?"
+    },
+    {
+      "k": 4020,
+      "v": "Ehi, ha un sapore davvero buono, ma ha anche un pugno! Il che significa che in ogni caso dovrebbe essere ancora bevibile. <<dynamicmessage>>Non vedo l'ora che passino lunghe notti al falò con questa roba!"
+    },
+    {
+      "k": 4021,
+      "v": "Il nostro gestore di pub dice più e più volte che quando il liquore è ad alta gradazione non può andare a male in primo luogo!"
+    },
+    {
+      "k": 4022,
+      "v": "Oh beh, faremmo meglio a lasciare le bottiglie dove sono. Alla fine diventeremmo ciechi se bevessimo quella roba!"
+    },
+    {
+      "k": 4023,
+      "v": "Tromba delle scale"
+    },
+    {
+      "k": 4024,
+      "v": "Vai avanti"
+    },
+    {
+      "k": 4025,
+      "v": "Ok, adesso siamo al primo piano. I binari qui conducono lungo il corridoio, ma c'è anche un altro piano. Da qualche parte qui puzza letteralmente di liquore ..."
+    },
+    {
+      "k": 4026,
+      "v": "Secondo piano"
+    },
+    {
+      "k": 4027,
+      "v": "Le scale portano al secondo piano. La polvere che giace sui gradini è spessa un centimetro, quindi è certo che nessuno è più stato lassù da secoli."
+    },
+    {
+      "k": 4028,
+      "v": "Siamo al top! I gradini scricchiolano e stridono come un matto, e nemmeno qui entra molta luce."
+    },
+    {
+      "k": 4029,
+      "v": "Tracce"
+    },
+    {
+      "k": 4030,
+      "v": "Abbiamo seguito le tracce e ora sappiamo anche da dove viene l'odore del liquore. Abbiamo trovato un uomo in una stanza, privo di sensi."
+    },
+    {
+      "k": 4031,
+      "v": "Un po' d'acqua in faccia ed era completamente sveglio! A quanto pare i suoi compagni lo hanno lasciato qui perché un infortunio alla gamba lo ha lasciato incapace di tenere il passo con loro. Buoni amici, vero? Lo portiamo con noi al nostro insediamento prima che si beva a morte qui. Era così grato che ha persino condiviso con noi il suo bene più prezioso: un nuovo seme!"
+    },
+    {
+      "k": 4032,
+      "v": "Un'altra stanza"
+    },
+    {
+      "k": 4033,
+      "v": "Le uniche cose qui dentro sono un enorme divano e un vecchio televisore. Oh beh, almeno possiamo riciclarli! <<dynamicmessage>>"
+    },
+    {
+      "k": 4034,
+      "v": "Certo, potremmo davvero usare una sega ora..."
+    },
+    {
+      "k": 4035,
+      "v": "Quindi non è stato per niente che abbiamo impacchettato una sega da portare con noi..."
+    },
+    {
+      "k": 4036,
+      "v": "Ecco fatto, un divano ridotto a pezzi facili da maneggiare - abbastanza grande da poterli trasportare comodamente all'insediamento! E abbiamo smantellato anche alcune parti elettroniche dal televisore..."
+    },
+    {
+      "k": 4037,
+      "v": "Uff, semplicemente non stiamo facendo smontare questo divano, e non c'è modo di riportare quella cosa alla colonia tutta intera! Oh beh, almeno possiamo prendere alcuni componenti elettronici dal televisore insieme..."
+    },
+    {
+      "k": 4070,
+      "v": "Piano superiore"
+    },
+    {
+      "k": 4071,
+      "v": "Come guarda lassù?"
+    },
+    {
+      "k": 4072,
+      "v": "Due stanze che possiamo perquisire si dipartono dal corridoio. E c'è anche una scala che sale in soffitta..."
+    },
+    {
+      "k": 4038,
+      "v": "Camera"
+    },
+    {
+      "k": 4039,
+      "v": "Apparentemente nessuno è più stato qui dopo la catastrofe: tutto sembra intatto. Sembra quasi un viaggio nel tempo! \n<<dynamicmessage>>"
+    },
+    {
+      "k": 4040,
+      "v": "Hai quasi una sensazione di nausea rovistando in tutto questo qui..."
+    },
+    {
+      "k": 4041,
+      "v": "Il nostro veterano ci esorta a saccheggiare tutto ciò che è in vista!"
+    },
+    {
+      "k": 4042,
+      "v": "Quasi tutto qui si sta già disintegrando in polvere, capo. Abbiamo ancora trovato alcuni gioielli e monete d'oro nascosti nel materasso del letto. <<dynamicmessage>> E abbiamo smontato anche alcuni vecchi pezzi di apparecchiature elettroniche."
+    },
+    {
+      "k": 4043,
+      "v": "Naturalmente il nostro veterano li ha individuati subito."
+    },
+    {
+      "k": 4044,
+      "v": "La maggior parte dei mobili qui è marcita, i vestiti sono stati mangiati dalle tarme e per il resto non c'è quasi nulla che valga la pena prendere. Abbiamo smontato alcuni pezzi di apparecchiature elettroniche. Tutto il resto qui si disintegrerà presto, comunque ..."
+    },
+    {
+      "k": 4045,
+      "v": "Attico"
+    },
+    {
+      "k": 4046,
+      "v": "Non c'è molto spazio lassù, ma a quanto pare l'attico è pieno zeppo di scatole. Se c'è qualcosa di utile all'interno?"
+    },
+    {
+      "k": 4047,
+      "v": "Libri, libri e ancora libri, in ogni singola scatola! Apparentemente erano proprietari di bar molto colti ... Oh beh, setacciamo le copie ben conservate e porteremo con noi tutto ciò che sembra intrigante. Sembra che siano principalmente romanzi!"
+    },
+    {
+      "k": 4174,
+      "v": "Ehi capo, riguardo a quella rovina in cui mi hai mandato: c'è una luce accesa alle finestre! Anche se finora non ho visto nessuno, a quanto pare qualcuno si è accampato lì ... Sarebbe meglio se mandassi qui una piccola Spedizione!"
+    },
+    {
+      "k": 4175,
+      "v": "È vero: la luce! Forse incontreremo qualcuno..."
+    },
+    {
+      "k": 4176,
+      "v": "Ingresso illuminato"
+    },
+    {
+      "k": 4177,
+      "v": "Bussare alla porta!"
+    },
+    {
+      "k": 4178,
+      "v": "Abbiamo incontrato una giovane donna! Apparentemente è partita da sola a causa di alcune divergenze di opinione con gli abitanti di un altro Endzone e si è stabilita qui. Il potere per l'illuminazione è generato da un vecchio generatore che ha rimesso in forma - sembra avere una buona presa sulla tecnologia! Le abbiamo fatto un'offerta per unirsi a noi. Non sembrava pensare che fosse una cattiva idea."
+    },
+    {
+      "k": 4179,
+      "v": "Generatore"
+    },
+    {
+      "k": 4180,
+      "v": "La donna ci sta aiutando a smontare il generatore e dopo si unirà a noi!"
+    },
+    {
+      "k": 4181,
+      "v": "Bene, ci siamo occupati di questo! Deve ancora fare le valigie e poi si unirà a noi. Possiamo davvero usare esperti come lei - speriamo di avere un posto dove dormire anche per lei!"
+    },
+    {
+      "k": 4182,
+      "v": "Piano superiore"
+    },
+    {
+      "k": 4183,
+      "v": "Secondo il nostro eremita non ci sono buoni risultati lassù. Solo alcuni vecchi rottami e casse di legno marce che erano immagazzinati lì."
+    },
+    {
+      "k": 4184,
+      "v": "Anche così, naturalmente, possiamo utilizzare rottami e legno!"
+    },
+    {
+      "k": 4185,
+      "v": "Negozio"
+    },
+    {
+      "k": 4186,
+      "v": "C'era una volta un piccolo negozio nella parte anteriore dell'edificio dove si vendeva ogni genere di roba. Forse troveremo ancora oggetti utilizzabili."
+    },
+    {
+      "k": 4187,
+      "v": "Sembra che sia tutto: alcuni articoli per la casa fatti di plastica, stracci di stoffa e alcuni dispositivi da trasformare in rottami. Abbiamo anche trovato un piede di porco sotto il bancone: doveva essere per autodifesa?"
+    },
+    {
+      "k": 4188,
+      "v": "Sembra che sia tutto: alcuni articoli per la casa fatti di plastica, stracci di stoffa e alcuni dispositivi da trasformare in rottami. Purtroppo, questa volta non molto utilizzabile!"
+    },
+    {
+      "k": 4189,
+      "v": "Lo definirei una rovina, capo! Sembra che a un certo punto sia stato un ristorante, ma non c'è più molto da vedere. È tutto piuttosto fatiscente, non sono sicuro che valga la pena inviare una spedizione qui..."
+    },
+    {
+      "k": 4190,
+      "v": "Proprio come ha riferito l'Esploratore - non è più rimasto molto in piedi dall'edificio! I piani superiori sono crollati, ma possiamo dare un'occhiata al piano terra."
+    },
+    {
+      "k": 4191,
+      "v": "Ristorante"
+    },
+    {
+      "k": 4192,
+      "v": "Come appare lì?"
+    },
+    {
+      "k": 4193,
+      "v": "Tutto è piuttosto malandato qui - non c'è da stupirsi, senza alcuna protezione dalle intemperie. Non riesco a immaginare che siano rimasti dei raccolti ai piani superiori crollati. Faremmo meglio a dare un'occhiata a ciò che resta della cucina..."
+    },
+    {
+      "k": 4194,
+      "v": "Cucina"
+    },
+    {
+      "k": 4195,
+      "v": "Ehi, anche i cartelli con i piatti offerti sono ancora qui: \"Zuppa di zucca\" - sarebbe proprio il giusto rimedio ora! A parte questo, a parte qualche vecchio elettrodomestico non c'è niente di interessante qui ..."
+    },
+    {
+      "k": 4196,
+      "v": "Abbiamo rimosso tutti i componenti elettronici. Il numero di cose che trovi incorporate in un vecchio frigorifero non ha niente da starnutire! <<dynamicmessage>> Ma ehi, aspetta un secondo! Abbiamo quasi trascurato un portello nel pavimento che era sepolto sotto tutta la polvere e lo sporco..."
+    },
+    {
+      "k": 4197,
+      "v": "Si è rivelato essere un gioco da ragazzi per il nostro tecnico."
+    },
+    {
+      "k": 4198,
+      "v": "Siamo riusciti a rimuovere alcuni componenti elettronici dal vecchio frigorifero. Il resto non sembra più essere riciclabile. Ma hey, aspetta un secondo! Abbiamo quasi trascurato un portello nel pavimento che era sepolto sotto tutta la polvere e lo sporco..."
+    },
+    {
+      "k": 4199,
+      "v": "Le scale"
+    },
+    {
+      "k": 4200,
+      "v": "Sembra che le scale crolleranno da un momento all'altro. Possiamo dare un'occhiata cauta al piano di sopra, ma ne varrebbe la pena? <<dynamicmessage>>"
+    },
+    {
+      "k": 4201,
+      "v": "Da qui sembra che tutto ciò che è rimasto lassù siano macerie..."
+    },
+    {
+      "k": 4202,
+      "v": "Non è rimasto niente lassù tranne le macerie..."
+    },
+    {
+      "k": 4203,
+      "v": "Tra i detriti in cima c'erano ancora dei rottami <<dynamicmessage>>. That was one heck of a climb. Luckily nothing happened!"
+    },
+    {
+      "k": 4204,
+      "v": "che il nostro esperto ha individuato."
+    },
+    {
+      "k": 4205,
+      "v": "Sì, come previsto, niente tranne le macerie. Non vediamo alcun punto a salire fino in cima. Alla fine qualcuno si farà del male!"
+    },
+    {
+      "k": 4206,
+      "v": "Portello del pavimento"
+    },
+    {
+      "k": 4207,
+      "v": "Una botola a pavimento?"
+    },
+    {
+      "k": 4208,
+      "v": "Il portello sembra condurre a un seminterrato. Forse una volta c'era un ripostiglio o una stanza come quella laggiù - diamo un'occhiata!"
+    },
+    {
+      "k": 4209,
+      "v": "Seminterrato"
+    },
+    {
+      "k": 4210,
+      "v": "Non entra molta luce qui, ma non sembra esserci molto spazio. Sacchi di iuta sono impilati sugli scaffali..."
+    },
+    {
+      "k": 4211,
+      "v": "I sacchi sono pieni di vecchi fagioli raggrinziti - non commestibili! Aspetta, c'è uno scheletro umano che giace tra i sacchi nell'angolo. Sembra che dal cranio manchino tutti i denti e che qualcosa sia stato graffiato sul muro: \"FORNELLO DA CAMPO DIMENTICATO\". Ha provato a sopravvivere vivendo di fagioli crudi?"
+    },
+    {
+      "k": 4212,
+      "v": "Quello che qualcuno ha spruzzato sul muro qui è decisamente spaventoso! Sembra uno scheletro con le corna che sembra sollevarsi dal pavimento: chi ha idee spettrali del genere? Beh, in ogni caso l'edificio è ancora in buone condizioni - sarebbe meglio se mandassi una spedizione qui..."
+    },
+    {
+      "k": 4213,
+      "v": "L'esploratore non stava davvero esagerando: quel murale sul muro è inquietante, ma in qualche modo anche affascinante. Forse doveva essere un avvertimento? In ogni caso, per noi sarà facile entrare nell'edificio. Parte della parete di fondo è crollata ..."
+    },
+    {
+      "k": 4214,
+      "v": "Retro dell'edificio"
+    },
+    {
+      "k": 4215,
+      "v": "Provalo lì!"
+    },
+    {
+      "k": 4216,
+      "v": "Adesso siamo dentro e ci troviamo nel mezzo di un piccolo negozio. Apparentemente qui una volta si vendeva tutto sotto il sole: cibo, articoli per la casa, vestiti..."
+    },
+    {
+      "k": 4217,
+      "v": "Le scale"
+    },
+    {
+      "k": 4218,
+      "v": "Una scala qui conduce ai piani superiori!"
+    },
+    {
+      "k": 4219,
+      "v": "Bene, daremo un'occhiata agli altri piani..."
+    },
+    {
+      "k": 4220,
+      "v": "Piccolo ufficio"
+    },
+    {
+      "k": 4221,
+      "v": "C'è una porta per una piccola stanza qui. Probabilmente era l'ufficio. Tutto è imballato praticamente fino all'orlo lì dentro!"
+    },
+    {
+      "k": 4222,
+      "v": "File, grossi cumuli di carta e vecchie scatole. Difficile immaginare come qualcuno sia stato in grado di gestire un'impresa in questo caos. Oh beh, almeno un laptop polveroso era ancora sdraiato sulla scrivania!"
+    },
+    {
+      "k": 4223,
+      "v": "Ripiani"
+    },
+    {
+      "k": 4224,
+      "v": "Ok, diamo un'occhiata a ciò che è impilato sugli scaffali qui.  <<dynamicmessage>>"
+    },
+    {
+      "k": 4225,
+      "v": "CIBO DI SOPRAVVIVENZA è scritto qui su una cassa - sembra che abbia a che fare con razioni di cibo preconfezionate. Tutti i tipi di termini chimici di cui non ho mai sentito parlare sono scritti sui pacchetti ..."
+    },
+    {
+      "k": 4226,
+      "v": "CIBO DI SOPRAVVIVENZA è scritto qui su una cassa - sembra riguardare razioni alimentari preconfezionate. Fortunatamente so una o due cose sulla chimica e capisco l'elenco degli ingredienti sulle confezioni ..."
+    },
+    {
+      "k": 4227,
+      "v": "Nessun motivo per cui non dovrebbe essere commestibile! <<dynamicmessage>> Abbiamo anche messo in valigia ogni sorta di altra roba che possiamo mettere a frutto..."
+    },
+    {
+      "k": 4228,
+      "v": "Ci sono almeno abbastanza additivi per conservare quella roba per anni!"
+    },
+    {
+      "k": 4229,
+      "v": "È certo che quella roba non è più commestibile, qualunque cosa dica la chimica! Ma non preoccuparti, abbiamo imballato ogni sorta di altra roba: oggetti di plastica, pezzi di abbigliamento, rottami..."
+    },
+    {
+      "k": 4230,
+      "v": "Tromba delle scale"
+    },
+    {
+      "k": 4231,
+      "v": "Vai avanti!"
+    },
+    {
+      "k": 4232,
+      "v": "Le scale portano fino all'ultimo piano. A quale piano dovremmo dare un'occhiata?"
+    },
+    {
+      "k": 4233,
+      "v": "Primo piano"
+    },
+    {
+      "k": 4234,
+      "v": "Sembra essere la porta di un appartamento. Ma imbullonato dall'interno... <<dynamicmessage>>"
+    },
+    {
+      "k": 4235,
+      "v": "Un piede di porco sarebbe utile in questo momento!"
+    },
+    {
+      "k": 4236,
+      "v": "Nessun problema, per situazioni come questa abbiamo sempre un piede di porco con noi..."
+    },
+    {
+      "k": 4237,
+      "v": "Ok, la porta è aperta o, per dirla meglio, è scoppiata. Qualcuno ha effettivamente attaccato un pesante chiavistello di ferro alla porta dall'interno..."
+    },
+    {
+      "k": 4238,
+      "v": "Niente da fare! Chiunque abbia vissuto qui voleva assicurarsi che nessuno potesse entrare..."
+    },
+    {
+      "k": 4239,
+      "v": "Secondo piano"
+    },
+    {
+      "k": 4240,
+      "v": "La porta dell'appartamento al secondo piano è spalancata. Ma attenzione, parti del corridoio sono già crollate..."
+    },
+    {
+      "k": 4241,
+      "v": "Il tempo ha già causato una buona parte dei danni a questo piano, ma almeno siamo stati ancora in grado di recuperare alcuni oggetti più piccoli da una stanza che possono essere trasformati in rottami."
+    },
+    {
+      "k": 4242,
+      "v": "Il corridoio non è esattamente robusto e ho appena attraversato il pavimento con un piede! Per fortuna non è successo niente, ma sarebbe meglio fare una deviazione intorno a questo piano..."
+    },
+    {
+      "k": 4243,
+      "v": "Piano più alto"
+    },
+    {
+      "k": 4244,
+      "v": "Bloccato! <<dynamicmessage>>"
+    },
+    {
+      "k": 4245,
+      "v": "Forse possiamo aprire la porta dell'ultimo piano con un po' di forza bruta..."
+    },
+    {
+      "k": 4246,
+      "v": "Nessun problema, non è per questo che abbiamo i nostri strumenti con noi...?"
+    },
+    {
+      "k": 4247,
+      "v": "Quindi, questo è risolto, non quello che chiameresti un lucchetto robusto!"
+    },
+    {
+      "k": 4248,
+      "v": "Ahia! Ok, la porta è aperta, ma penso di essermi ferito alla spalla mentre lo costringevo..."
+    },
+    {
+      "k": 4249,
+      "v": "Appartamento"
+    },
+    {
+      "k": 4250,
+      "v": "Cosa c'è nell'appartamento?"
+    },
+    {
+      "k": 4251,
+      "v": "Adesso siamo nel corridoio. All'inizio non sembra eccezionale qui, ma daremo un'occhiata in giro."
+    },
+    {
+      "k": 4252,
+      "v": "Bagno"
+    },
+    {
+      "k": 4253,
+      "v": "Forse troveremo alcune cose utilizzabili in bagno."
+    },
+    {
+      "k": 4254,
+      "v": "Almeno possiamo smantellare alcuni rubinetti e infissi e portarli con noi ... Whoa! Uno scheletro giace nella vasca da bagno - sembra che l'osso posteriore del cranio si fosse rotto. La persona nella vasca da bagno è scivolata ed è morta per la ferita al cranio? Non esattamente un modo spettacolare per andare..."
+    },
+    {
+      "k": 4255,
+      "v": "Camera da letto"
+    },
+    {
+      "k": 4256,
+      "v": "Altrimenti non c'è niente di particolarmente speciale nell'appartamento. Possiamo anche dare un'occhiata alla camera da letto<<dynamicmessage>>."
+    },
+    {
+      "k": 4257,
+      "v": ", forse saremo fortunati e troveremo qualcos'altro..."
+    },
+    {
+      "k": 4258,
+      "v": ", grazie al nostro esperto sappiamo dove sono i tipici nascondigli!"
+    },
+    {
+      "k": 4259,
+      "v": "Beh, lo sapevamo: abbiamo trovato un set completo di attrezzatura di sopravvivenza sotto le assi del pavimento!<<dynamicmessage>> Indumenti protettivi, maschera, razioni di cibo, tenda e persino una balestra. Chiunque abbia vissuto qui si era apparentemente preparato per il giorno del giudizio..."
+    },
+    {
+      "k": 4260,
+      "v": "Abbiamo trovato subito il nascondiglio!"
+    },
+    {
+      "k": 4261,
+      "v": "Sembra essere una normale camera da letto, anche se non riesco a liberarmi della sensazione che potremmo aver trascurato qualcosa! Oh beh, abbiamo smontato il letto, quindi almeno non usciremo da qui a mani vuote..."
+    },
+    {
+      "k": 4262,
+      "v": "Studio"
+    },
+    {
+      "k": 4263,
+      "v": "Questa stanza sembra interessante: tonnellate di scaffali per libri e una poltrona pesante al centro della stanza. Potrebbe essere stato uno scienziato che ha vissuto qui? <<dynamicmessage>>"
+    },
+    {
+      "k": 4264,
+      "v": "Siamo sicuri di trovare alcuni libri utili!"
+    },
+    {
+      "k": 4265,
+      "v": "Un secondo, i libri qui non mi sembrano come una letteratura scientifica speciale..."
+    },
+    {
+      "k": 4266,
+      "v": "Ascolta questi titoli di libri, capo! \"5G E IL NWO\", \" LE CHIMTRAIL E L'ORBITA DELLA TERRA\", \"UNO STATO PROFONDO ALL'INTERNO DELLO STATO PROFONDO? L'EDITORE PENSA DUE VOLTE RACCONTA LA STORIA \". Sembrano tutti manoscritti inverosimili su una sorta di folli teorie.<<dynamicmessage>> Oh beh, almeno probabilmente saranno buoni per qualche risata mentre leggono vicino al fuoco..."
+    },
+    {
+      "k": 4267,
+      "v": "Semmai, il massimo che impareremo da loro è qualcosa sui processi di frammentazione sociale prima della catastrofe..."
+    },
+    {
+      "k": 4268,
+      "v": "Piano più alto"
+    },
+    {
+      "k": 4269,
+      "v": "Allora, cosa c'è lassù?"
+    },
+    {
+      "k": 4270,
+      "v": "A un certo punto deve essere stato un appartamento. In ogni caso, le finestre offrono una bella vista da quassù!"
+    },
+    {
+      "k": 4271,
+      "v": "Soggiorno"
+    },
+    {
+      "k": 4272,
+      "v": "Il soggiorno si estende quasi per tutto l'ultimo piano! Ehi, c'è un enorme televisore e altoparlanti lì dietro...<<dynamicmessage>>"
+    },
+    {
+      "k": 4273,
+      "v": "Non possiamo riportarli indietro intatti. Se avessimo un tecnico lungo potremmo rimuovere le parti più utilizzabili..."
+    },
+    {
+      "k": 4274,
+      "v": "Il nostro tecnico può rimuovere le parti utilizzabili, quindi non dobbiamo recuperarle tutte intatte..."
+    },
+    {
+      "k": 4275,
+      "v": "<<dynamicmessage>>Dovrebbero essere tutti i componenti elettronici utilizzabili. Abbiamo anche raccolto alcuni altri oggetti che possono essere trasformati in rottami!"
+    },
+    {
+      "k": 4276,
+      "v": "Ecco fatto, il nostro tecnico è pronto!"
+    },
+    {
+      "k": 4277,
+      "v": "Abbiamo aperto i pezzi dell'attrezzatura e stiamo solo portando con noi alcuni componenti elettronici - speriamo di poterli utilizzare! E abbiamo anche raccolto alcuni altri oggetti che possono essere trasformati in rottami!"
+    },
+    {
+      "k": 4278,
+      "v": "Camera da letto"
+    },
+    {
+      "k": 4279,
+      "v": "Wow, c'è un letto enorme qui! 5 o 6 persone potrebbero facilmente dormirci in una volta - perché avresti bisogno di qualcosa del genere? Oh beh, smontiamolo..."
+    },
+    {
+      "k": 4280,
+      "v": "Il telaio del letto era in metallo di alta qualità e abbiamo trovato anche dei vestiti negli armadi!"
+    },
+    {
+      "k": 4281,
+      "v": "Ehi capo, è il tuo scout - scusa se devo sussurrare! Sono arrivato alla rovina, ma non oso avvicinarmi. Ho notato una donna con un fucile sul tetto che osserva l'area circostante con un binocolo. Inoltre, sono stati pubblicati avvisi ovunque nell'edificio che sparerà non appena vedrà degli estranei! Non ho idea di cosa dovremmo fare qui ... Forse potresti mandare qualche Colono a venire da chi dovrebbe avvicinarsi con cautela e iniziare una conversazione o due?"
+    },
+    {
+      "k": 4282,
+      "v": "L'esploratore aveva ragione, gli avvertimenti sono stati affissi davvero ovunque nell'edificio. Immagino che voglia dire affari... Ma non riesco a vedere nessuno al Monent - dovremmo avvicinarci?"
+    },
+    {
+      "k": 4283,
+      "v": "Costruzione"
+    },
+    {
+      "k": 4284,
+      "v": "Avvicinati lentamente e con cautela!"
+    },
+    {
+      "k": 4285,
+      "v": "Dannazione, tieni la testa bassa! La donna ha appena sparato un colpo di avvertimento da una delle finestre!"
+    },
+    {
+      "k": 4286,
+      "v": "Mani in alto"
+    },
+    {
+      "k": 4287,
+      "v": "Forse sarebbe meglio restare dove siamo e segnalare che non intendiamo farle del male?"
+    },
+    {
+      "k": 4288,
+      "v": "Ok, le abbiamo detto che siamo venuti qui con intenzioni pacifiche e tutto ciò che vogliamo è parlarle!"
+    },
+    {
+      "k": 4289,
+      "v": "Continua a muoverti!"
+    },
+    {
+      "k": 4290,
+      "v": "Se continuiamo a muoverci velocemente, possiamo trovare un po' di copertura tra le rovine!"
+    },
+    {
+      "k": 4291,
+      "v": "Dannazione, ha sparato un altro colpo! Non era più un colpo di avvertimento, ma fortunatamente ci siamo mancati appena. In ogni caso, continuare a muoverti è troppo pericoloso, capo..."
+    },
+    {
+      "k": 4292,
+      "v": "Aaah, mi ha colpito alla gamba! Forse continuare a muoverti quando qualcuno ti punta un'arma contro non è una buona idea, dopotutto."
+    },
+    {
+      "k": 4293,
+      "v": "Conversazione"
+    },
+    {
+      "k": 4294,
+      "v": "E poi?"
+    },
+    {
+      "k": 4295,
+      "v": "Ci ha permesso di avvicinarci, ma ci sta ancora puntando il fucile dalla finestra!"
+    },
+    {
+      "k": 4296,
+      "v": "Avvia conversazione"
+    },
+    {
+      "k": 4297,
+      "v": "Sarebbe meglio se iniziassimo raccontandole di noi e del nostro accordo!"
+    },
+    {
+      "k": 4298,
+      "v": "Ok, non punta più a noi. Quindi sembra che le piaccia quello che le diciamo."
+    },
+    {
+      "k": 4299,
+      "v": "Entra nell'edificio! Veloce!"
+    },
+    {
+      "k": 4300,
+      "v": "Forse questa è l'occasione per raggiungere rapidamente gli ultimi metri verso la Rovina protettiva dietro di noi!"
+    },
+    {
+      "k": 4301,
+      "v": "Torna indietro, torna indietro! Ha sparato di nuovo un altro colpo! Non andremo da nessuna parte in questo modo, capo..."
+    },
+    {
+      "k": 4302,
+      "v": "Aaah, <<dynamicmessage>>! Torna indietro, torna indietro!"
+    },
+    {
+      "k": 4303,
+      "v": "ora ha colpito anche me al braccio!"
+    },
+    {
+      "k": 4304,
+      "v": "mi ha colpito al braccio!"
+    },
+    {
+      "k": 4305,
+      "v": "Il sopravvissuto"
+    },
+    {
+      "k": 4306,
+      "v": "Qual è la sua storia?"
+    },
+    {
+      "k": 4307,
+      "v": "Non c'è da stupirsi che sia così sospettosa degli estranei! Apparentemente lei e suo marito hanno barattato alcuni pezzi di equipaggiamento per il cibo da alcuni altri sopravvissuti, ma il cibo si è rivelato così altamente contaminato che suo marito è gravemente malato nel loro campo ora. Ha paura che il gruppo torni e finisca quello che hanno iniziato."
+    },
+    {
+      "k": 4308,
+      "v": "Aiuta il malato"
+    },
+    {
+      "k": 4309,
+      "v": "Dobbiamo offrire a lei ea suo marito il nostro aiuto! <<dynamicmessage>>"
+    },
+    {
+      "k": 4310,
+      "v": "Sfortunatamente, non abbiamo con noi alcun tipo di medicina che possa aiutare il ragazzo!"
+    },
+    {
+      "k": 4311,
+      "v": "Con la nostra Medicina penso che possiamo rimettere in piedi il poveretto!"
+    },
+    {
+      "k": 4312,
+      "v": "Meno male che avevamo la medicina nelle nostre borse! La donna ci ha portato dall'ammalato e dopo un po 'si è visto che stava già meglio: è stata davvero una buona azione, capo! Ora loro due sarebbero felici di unirsi a noi - dicono che le loro possibilità non sembrano buone qui da sole. E naturalmente condivideranno anche la loro attrezzatura con noi!"
+    },
+    {
+      "k": 4313,
+      "v": "Non saprei come possiamo aiutare loro due senza Medicina. Il malato non tornerà all'insediamento, non nello stato in cui si trova, e sua moglie non lo lascerà indietro, qualunque cosa accada. L'unica cosa che ci resta è tornare all'insediamento..."
     },
     {
       "k": 2198,
@@ -11975,7 +13271,55 @@
     },
     {
       "k": 2471,
-      "v": "Guida la spedizione"
+      "v": "Guida la spedizione"  
+    },
+	{
+      "k": 4162,
+      "v": "Ora che sai come puoi aiutare i tuoi coloni a gestire questo ambiente così ostile alla vita, vorrei mostrarti come puoi progettare il tuo insediamento in modo tale che i tuoi coloni non solo siano in grado di sopravvivere in esso: anche loro sono contenti di essere qui. I tuoi coloni sono ansiosi di vivere in un ambiente che li soddisfi. Ad esempio, preferirebbero non vivere vicino a un edificio che produce molto rumore o sporcizia sporca. Puoi passare alla mappa termica dell'attrattiva delle abitazioni per vedere quanto sono attraenti le abitazioni nel tuo insediamento."
+    },
+    {
+      "k": 4163,
+      "v": "In questa visualizzazione puoi vedere quali cabine e rifugi sono stati collocati in un ambiente attraente e quali sono in un ambiente poco attraente. Se vuoi rendere i tuoi coloni particolarmente felici, dovresti prestare attenzione a fornire loro un ambiente attraente."
+    },
+    {
+      "k": 4164,
+      "v": "Attrattività"
+    },
+    {
+      "k": 4165,
+      "v": "Per aumentare l'attrattiva di una zona residenziale puoi mettere alcune decorazioni per abbellire il tuo insediamento. Ogni Decorazione aumenta l'attrattiva dell'area in cui è stata posizionata. Forse è giunto il momento di progettare il tuo insediamento in modo un po 'più attraente per rendere più felici i tuoi coloni."
+    },
+    {
+      "k": 4166,
+      "v": "Ai tuoi coloni piaceranno davvero le decorazioni di recente costruzione. In questo modo puoi persino progettare in modo attraente un'area residenziale che si trova vicino a edifici industriali. E con tempo ed energia sufficienti, crea anche un insediamento in cui tutti i Coloni siano felici di viverci."
+    },
+    {
+      "k": 4167,
+      "v": "Decorazioni"
+    },
+    {
+      "k": 4168,
+      "v": "Tuttavia, vivere in un bel quartiere non è l'unica cosa che interessa ai tuoi coloni. Vogliono che tu ti prenda cura anche delle loro altre esigenze. Se fornisci loro un forum, ti faranno conoscere i loro desideri e le loro richieste. Puoi scoprire cosa significa molto per loro lì."
+    },
+    {
+      "k": 4169,
+      "v": "Eccellente. Molte delle richieste dei tuoi coloni vengono raccolte per te nel forum. Dovresti controllare ogni tanto se potresti essere disposto ad accettare uno di questi desideri."
+    },
+    {
+      "k": 4170,
+      "v": "Forum"
+    },
+    {
+      "k": 4171,
+      "v": "Tuttavia, il forum non è solo responsabile di consentire ai tuoi coloni di rivolgersi a te. Al forum puoi rivolgerti anche a loro. Puoi emanare decreti e stabilire regole nel forum che stabiliscono come devono comportarsi i tuoi coloni. In questo modo, ad esempio, puoi razionare cibo e acqua o arrivare al punto di proibire ai tuoi coloni di riprodursi nel prossimo futuro."
+    },
+    {
+      "k": 4172,
+      "v": "Molti dei decreti sono estremamente utili per consentire la sopravvivenza del tuo insediamento. Anche se dovresti stare attento a non chiedere troppo ai tuoi coloni. Se chiedi troppo a loro, il malcontento può diffondersi in tutto il tuo insediamento. Ecco perché dovresti sempre usare cautela nel decidere quali decreti imporre."
+    },
+    {
+      "k": 4173,
+      "v": "Decreti"
     },
     {
       "k": 2472,
@@ -13181,6 +14525,10 @@
       "k": 3213,
       "v": "Susan Melfi"
     },
+	{
+      "k": 4523,
+      "v": "Rolph"
+    },
     {
       "k": 2844,
       "v": "Un messaggio vago"
@@ -13244,6 +14592,10 @@
     {
       "k": 3008,
       "v": "Conoscenza"
+    },
+	{
+      "k": 4487,
+      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."
     },
     {
       "k": 3009,
@@ -14785,17 +16137,133 @@
       "k": 4066,
       "v": "Calmati"
     },
+	{
+      "k": 4384,
+      "v": "Decreto immediato"
+    },
     {
+      "k": 4385,
+      "v": "Un Decreto Immediato viene emesso subito e non può essere nuovamente eseguito fino alla scadenza del suo periodo di abbattimento, momento in cui il decreto non è più in vigore."
+    },
+    {
+      "k": 4386,
+      "v": "Decreto permanente"
+    },
+    {
+      "k": 4387,
+      "v": "L'effetto di un Decreto Permanente ha un impatto continuo sulla transazione fino alla scadenza del suo periodo di abbattimento, momento in cui il decreto non è più in vigore."
+    },
+    { 
       "k": 4067,
-      "v": "Durata"
+      "v": "Durata"		  
+    },
+	{
+      "k": 4314,
+      "v": "Decreti emanati"
+    },
+    {
+      "k": 4406,
+      "v": "Decreto in vigore"
+    },
+    {
+      "k": 4407,
+      "v": "Emanare"
     },
     {
       "k": 4068,
       "v": "Controllo delle nascite"
     },
+	{
+      "k": 4315,
+      "v": "Bandire gli anziani"
+    },
+    {
+      "k": 4316,
+      "v": "Bandire i bambini"
+    },
+    {
+      "k": 4317,
+      "v": "Razionamento alimentare"
+    },
+    {
+      "k": 4318,
+      "v": "Razionamento dell'acqua"
+    },
+    {
+      "k": 4319,
+      "v": "Motivazione"
+    },
+    {
+      "k": 4320,
+      "v": "Diligenza"
+    },
+    {
+      "k": 4321,
+      "v": "Immunità"
+    },
+    {
+      "k": 4322,
+      "v": "Trasferimento di conoscenza"
+    },
+    {
+      "k": 4449,
+      "v": "Divieto di cremazione"
+    },
     {
       "k": 4069,
-      "v": "Questo decreto vieta il parto."
+      "v": "Questo decreto vieta il parto."																									   
+    },
+	{
+      "k": 4323,
+      "v": "I coloni anziani vengono banditi dall'insediamento. Questo riduce la contentezza dei rimanenti coloni di <<amount>>."
+    },
+    {
+      "k": 4510,
+      "v": "Questo decreto riguarda attualmente <<percentage>> di tutti i coloni adulti."
+    },
+    {
+      "k": 4324,
+      "v": "I bambini sono banditi dall'insediamento. Ciò riduce la fiducia dei coloni di <<amount>>."
+    },
+    {
+      "k": 4325,
+      "v": "I coloni possono solo consumare <<percentage>> del loro solito cibo. Questo riduce la loro fiducia di <<amount>>."
+    },
+    {
+      "k": 4326,
+      "v": "I coloni possono solo consumare <<percentage>> del loro normale fabbisogno idrico. Questo riduce la loro fiducia di <<amount>>."
+    },
+    {
+      "k": 4327,
+      "v": "I coloni sono incoraggiati a muoversi più velocemente di prima <<percentage>>. Ciò aumenta il loro consumo di cibo e acqua di <<amount>>."
+    },
+    {
+      "k": 4328,
+      "v": "Tutti i coloni aumentano la durata dei loro strumenti e vestiti <<percentage>>, ma muoviti più lentamente."
+    },
+    {
+      "k": 4329,
+      "v": "Il consumo di erbe e medicine da parte dei coloni aumenta <<amount>>. Ciò impedisce lo scoppio di nuove malattie."
+    },
+    {
+      "k": 4330,
+      "v": "Tutti gli adulti non istruiti sono istruiti. Questo decreto consuma <<amount>> conoscenza accumulata presso la stazione di ricerca."
+    },
+    {
+      "k": 4450,
+      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."
+    },
+    {
+      "k": 4466,
+      "v": "Richiede almeno un cimitero"
+    },
+    {
+      "k": 4467,
+      "v": "Richiede <<amount>> Conoscenza"
+    },
+    {
+      "k": 4468,
+      "v": "Scegli un decreto o trascinalo al centro per emetterlo."
     },
     {
       "k": 4073,
@@ -14952,6 +16420,446 @@
     {
       "k": 4128,
       "v": "Dotare i coloni di indumenti protettivi: <<amount>>"
+	},
+	{
+      "k": 4331,
+      "v": "Apri la mappa termica dell'attrattiva"
+    },
+    {
+      "k": 4332,
+      "v": "Emettere un decreto"
+    },
+    {
+      "k": 4333,
+      "v": "Cabine in un ambiente attraente: <<amount>>"
+    },
+    {
+      "k": 4334,
+      "v": "Equipaggia almeno metà dei tuoi coloni con tute anti-radiazioni.  <<amount>>"
+    },
+    {
+      "k": 4335,
+      "v": "Raggiungi un livello molto alto di fiducia nella tua soluzione."
+    },
+    {
+      "k": 4336,
+      "v": "Equipaggia almeno metà dei tuoi coloni con strumenti di metallo.  <<amount>>"
+    },
+    {
+      "k": 4337,
+      "v": "Festa"
+    },
+    {
+      "k": 4338,
+      "v": "Alcuni dei tuoi Coloni hanno avuto l'idea di distribuire alcune delle nostre riserve agli Abitanti in modo che tutti possano avere di nuovo una vera festa, tanto per cambiare. Pensa che possiamo concederci questo, capo?"
+    },
+    {
+      "k": 4339,
+      "v": "Grazie mille, capo! Ciò migliorerà sicuramente l'umore nel nostro insediamento!"
+    },
+    {
+      "k": 4340,
+      "v": "Nessun problema, capo! Comprendiamo perfettamente che un lusso del genere non è possibile al momento. Sarebbe stato carino, però..."
+    },
+    {
+      "k": 4341,
+      "v": "Nessuna opportunità di istruzione"
+    },
+    {
+      "k": 4342,
+      "v": "I nostri figli non hanno un posto dove imparare a sopravvivere in questo ambiente ostile in modo sensato ed efficace. Dobbiamo assicurarci che possano andare a scuola, capo!"
+    },
+    {
+      "k": 4343,
+      "v": "Non abbiamo ancora alcuna possibilità di istruire i nostri figli, capo! Potrebbe davvero diventare un problema!"
+    },
+    {
+      "k": 4344,
+      "v": "Nella nuova scuola i nostri figli possono imparare tutto ciò di cui hanno bisogno per sopravvivere in questo insediamento! È stato davvero bello che tu abbia costruito la scuola, capo!"
+    },
+    {
+      "k": 4345,
+      "v": "Non credo sia una buona idea, capo! Se i nostri figli non imparano ciò di cui hanno bisogno per sopravvivere, il tuo insediamento tornerà molto indietro!"
+    },
+    {
+      "k": 4346,
+      "v": "Tipi di ricerca non programmati"
+    },
+    {
+      "k": 4347,
+      "v": "Ehi, capo! I nostri ricercatori hanno avuto una nuova idea. Non sono ancora del tutto sicuri se il loro piano potrebbe funzionare. Se potessi fornire loro alcuni materiali inizierebbero con i loro tipi di ricerca e, se siamo fortunati, otterrebbero risultati rapidi."
+    },
+    {
+      "k": 4348,
+      "v": "Fantastico, capo! La nostra ricerca non programmata è stata coronata dal successo. Possiamo sicuramente mettere a frutto questa tecnologia per sopravvivere in questo mondo."
+    },
+    {
+      "k": 4349,
+      "v": "Qualunque cosa tu dica, capo! Poi torneremo a dedicarci di nuovo al nostro normale orario di lavoro!"
+    },
+    {
+      "k": 4350,
+      "v": "Sperimentazione sul campo"
+    },
+    {
+      "k": 4351,
+      "v": "Ehi, capo! I nostri ricercatori hanno avuto una nuova idea. Non sono ancora del tutto sicuri se il loro piano potrebbe funzionare. Se potessi fornire loro alcuni materiali, inizierebbero subito con alcuni test!"
+    },
+    {
+      "k": 4352,
+      "v": "Awesome, chief! These new tests have brought us a load of empirical experience. We can certainly put this new Knowledge to good use if we devote ourselves to our Research!"
+    },
+    {
+      "k": 4353,
+      "v": "Qualunque cosa tu dica, capo! Poi torneremo a dedicarci di nuovo al nostro normale orario di lavoro!"
+    },
+    {
+      "k": 4354,
+      "v": "Ma niente cibo contaminato!"
+    },
+    {
+      "k": 4355,
+      "v": "Non c'era niente di carino nel destino che li attendeva lì! Forse dovremmo prendere alcune precauzioni in modo che anche i nostri inventari alimentari non siano contaminati? Sarebbe meglio se costruissimo un punto di decontaminazione dove possiamo produrre kit per la decontaminazione!"
+    },
+    {
+      "k": 4356,
+      "v": "Forse siamo stati eccessivamente cauti, capo! Ma anche così, dovresti tenere d'occhio quanto sono altamente contaminati i nostri alimenti."
+    },
+    {
+      "k": 4357,
+      "v": "Ecco fatto, il palo è stato costruito! E abbiamo anche iniziato producendo subito alcuni kit di decontaminazione!"
+    },
+    {
+      "k": 4358,
+      "v": "Oh beh, forse non è nemmeno così importante. Speriamo solo che nessuno di noi si ammali mangiando cibo contaminato!"
+    },
+    {
+      "k": 4413,
+      "v": "Sarebbe meglio se iniziassimo subito a produrre kit di decontaminazione sufficienti per essere preparati per ogni occasione!"
+    },
+    {
+      "k": 4414,
+      "v": "Fantastico, dovrebbe essere abbastanza all'inizio! Ti fa sentire subito molto meglio quando puoi essere sicuro che non dovrai morire a causa del cibo contaminato!"
+    },
+    {
+      "k": 4415,
+      "v": "Forse siamo stati eccessivamente cauti, capo! Ma anche così, dovresti tenere d'occhio quanto sono altamente contaminati i nostri alimenti."
+    },
+    {
+      "k": 4359,
+      "v": "Elettrizzante"
+    },
+    {
+      "k": 4360,
+      "v": "Ehi, capo, quella signora, il nostro nuovo buon amico, non solo ha una grande presa sulla tecnologia: ha anche buone idee su come possiamo fornire elettricità al nostro insediamento! Con l'illuminazione elettrica non solo potremmo lavorare in modo più efficiente ma anche di notte!"
+    },
+    {
+      "k": 4361,
+      "v": "Sembra che fossimo un po 'troppo ambiziosi, capo! Ciò che sembrava buono in teoria, purtroppo non siamo stati in grado di metterlo in pratica."
+    },
+    {
+      "k": 4362,
+      "v": "Ok, per il momento dovrebbe essere sufficiente! Possiamo usare le nuove parti elettroniche nel nostro insediamento per accendere le luci!"
+    },
+    {
+      "k": 4363,
+      "v": "Oh beh, ovviamente hai ragione - naturalmente abbiamo preoccupazioni più urgenti. Ma a un certo punto avremo anche bisogno di elettricità se non vogliamo continuare a vivere nell'età della pietra!"
+    },
+    {
+      "k": 4416,
+      "v": "Tutto ciò di cui abbiamo bisogno ora è una bozza per una turbina eolica. Quindi lo collocheremo nelle vicinanze degli edifici che vogliamo rifornire di energia. Dopodiché, in futuro potremmo lavorare anche di notte!"
+    },
+    {
+      "k": 4417,
+      "v": "Funziona! Guarda come girano le pale della turbina eolica e come l'elettricità fluisce negli edifici vicini! Fantastico, capo, significa che per noi sta nascendo una nuova era! E abbiamo già idee anche per un alimentatore ancora migliore..."
+    },
+    {
+      "k": 4418,
+      "v": "Sembra che fossimo un po 'troppo ambiziosi, capo! Ciò che sembrava buono in teoria, purtroppo non siamo stati in grado di metterlo in pratica."
+    },
+    {
+      "k": 4364,
+      "v": "In un ambiente così ostile alla vita, è tua responsabilità non solo assicurarti che i tuoi coloni sopravvivano, ma anche assicurarti che siano felici nella loro nuova casa. È tuo compito dimostrare a tutti che il nuovo inizio della civiltà sarà un'impresa magnifica. Costruisci un insediamento in cui ogni Colono che proviene da una delle Endzone sarebbe felice di vivere."
+    },
+    {
+      "k": 4365,
+      "v": "È giunto il momento di far ricominciare la civiltà. Abbiamo resistito a lungo per poter venire finalmente in superficie! Ora è giunto il momento di dimostrare a tutti che non solo sopporteremo ma siamo in grado di condurre vite magnifiche."
+    },
+    {
+      "k": 4366,
+      "v": "Giardino dell'Eden"
+    },
+    {
+      "k": 4367,
+      "v": "Stabilire una nuova civiltà richiede tempo. La prima cosa che dovresti fare è fare in modo che sempre più persone vivano in questo nuovo Giardino dell'Eden. Siamo pronti ad affrontare le dure condizioni per il momento e ad accontentarci di alcune cose. Ma anche ora dovresti pianificare prontamente questo nuovo insediamento in modo tale che in futuro tutti siano ansiosi di vivere qui!"
+    },
+    {
+      "k": 4368,
+      "v": "I primi passi sono stati fatti. Mentre altri si limitano a garantire la sopravvivenza dei Coloni, tu ci hai dimostrato di possedere la lungimiranza per perseguire prontamente la nostra Grande Visione sin dall'inizio!"
+    },
+    {
+      "k": 4369,
+      "v": "Come è potuto succedere? Penso di capire ora perché tutti gli altri insediamenti si limitano a provvedere alla loro sopravvivenza ... Forse abbiamo fissato i nostri obiettivi troppo alti, dopotutto..."
+    },
+    {
+      "k": 4370,
+      "v": "Giardino dell'Eden"
+    },
+    {
+      "k": 4371,
+      "v": "I primi passi sono stati fatti. Anche se, per costruire una città davvero fantastica, avremo ancora bisogno di molte altre cose. Dovresti iniziare rendendo disponibili molti strumenti e continuare ad abbellire il nostro insediamento. Inoltre, i tuoi coloni vogliono essere incorporati nei tuoi processi decisionali. Mostra loro che i loro desideri significano molto per te!"
+    },
+    {
+      "k": 4372,
+      "v": "La nuova civiltà che viene creata qui sarà in grado di superare tutti gli ostacoli sulla sua strada. Grazie alla vostra leadership guardiamo al futuro con coraggio ed entusiasmo. Pensiamo che sarai in grado di creare davvero un Giardino dell'Eden per noi qui."
+    },
+    {
+      "k": 4373,
+      "v": "Come è potuto succedere? Penso di capire ora perché tutti gli altri insediamenti si limitano a provvedere alla loro sopravvivenza ... Forse abbiamo fissato i nostri obiettivi troppo alti, dopotutto..."
+    },
+    {
+      "k": 4374,
+      "v": "Giardino dell'Eden"
+    },
+    {
+      "k": 4375,
+      "v": "Sei su una buona strada. Sebbene, per ottenere la migliore qualità di vita per i tuoi coloni, sarà comunque necessario fornire loro sufficienti indumenti protettivi. Una volta risolto questo problema, dovremmo anche fornire elettricità a tutte le abitazioni. Altri insediamenti non potranno permettersi quel tipo di lusso. Se completi questa missione, questo insediamento qui diventerà un fulgido esempio della nuova civiltà."
+    },
+    {
+      "k": 4376,
+      "v": "Ce l'hai fatta! Mentre altri lottano ancora per sopravvivere, sei riuscito a diventare un fulgido esempio per tutti coloro che vogliono ricostruire di nuovo la civiltà. Questo insediamento servirà sicuramente a lungo come modello per far sorridere l'umanità di fronte alle avversità, anche nelle condizioni più difficili!"
+    },
+    {
+      "k": 4377,
+      "v": "Come è potuto succedere? Penso di capire ora perché tutti gli altri insediamenti si limitano a provvedere alla loro sopravvivenza... Forse abbiamo fissato i nostri obiettivi troppo alti, dopotutto..."
+    },
+    {
+      "k": 4378,
+      "v": "E ti meriti il massimo rispetto per questo. Grazie mille per la tua incrollabile dedizione!"
+    },
+    {
+      "k": 4379,
+      "v": "Come è potuto succedere? Penso di capire ora perché tutti gli altri insediamenti si limitano a provvedere alla loro sopravvivenza... Forse abbiamo fissato i nostri obiettivi troppo alti, dopotutto..."
+    },
+    {
+      "k": 4380,
+      "v": "Con ciò, lo scenario \"Giardino dell'Eden\" giunge al termine. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
+    },
+    {
+      "k": 4381,
+      "v": "Progetta il tuo insediamento in modo che i tuoi coloni siano desiderosi di viverci."
+    },
+    {
+      "k": 4382,
+      "v": "Abbellisci il tuo insediamento per consentire ai tuoi coloni di avere una vita piacevole."
+    },
+    {
+      "k": 4383,
+      "v": "Collega tutte le abitazioni a una rete elettrica e equipaggia i tuoi coloni con i migliori indumenti protettivi."
+    },
+    {
+      "k": 4388,
+      "v": "Faremo quello che decidi, capo! D'altra parte, non ci sentiamo bene a farlo, mandando via tutta questa povera gente. Hanno già fatto così tanto per il nostro accordo! Chiediamo che ti sforzi per assicurarci di non dover fare di nuovo qualcosa di simile!"
+    },
+    {
+      "k": 4389,
+      "v": "Se queste sono le tue istruzioni, capo, allora le seguiremo in questo modo. Anche se non siamo particolarmente contenti di loro e decideremmo volentieri da soli quando fonderemo le nostre famiglie. Sarebbe meglio se tu potessi fare in modo che siamo in grado di continuare a crescere!"
+    },
+    {
+      "k": 4390,
+      "v": "È un'istruzione terribile quella che ci sta dando, capo! Non vogliamo essere mai più costretti a fare qualcosa del genere! Chiediamo che dedichi i tuoi sforzi in modo che qualcosa del genere non debba mai ripetersi!"
+    },
+    {
+      "k": 4391,
+      "v": "Non possiamo resistere a lungo, capo! Se non c'è abbastanza nutrimento per tutti, allora è tua responsabilità cambiarlo! Razionare il nostro cibo non è esattamente fare miracoli per i nostri temperamenti!"
+    },
+    {
+      "k": 4392,
+      "v": "A volte le riserve scarseggiano, lo sappiamo bene. Ma l'acqua è la cosa più importante di cui abbiamo bisogno per sopravvivere. Assicurati di averne abbastanza immagazzinate! Perché non sopporteremo a lungo questo tipo di razionamento!"
+    },
+    {
+      "k": 4393,
+      "v": "Cercheremo di essere più efficaci nel prossimo futuro, capo! Ma fai attenzione a non farci diventare schiavi troppo, altrimenti non saremo più in grado di portare a termine tutto ciò."
+    },
+    {
+      "k": 4394,
+      "v": "Quando le scorte finiranno, staremo più attenti nel modo in cui affrontiamo le nostre cose. Tuttavia, siamo preoccupati di dover risparmiare su cose così importanti come indumenti e strumenti di protezione. Assicurati che un numero sufficiente di essi sia sempre disponibile per tutti."
+    },
+    {
+      "k": 4395,
+      "v": "Vedremo subito che vengano prese tutte le misure sanitarie, capo! Se c'è abbastanza Medicina a portata di mano, dovremo usarne un po', capo! Assicurati di averne abbastanza a portata di mano!"
+    },
+    {
+      "k": 4396,
+      "v": "Sarà di grande aiuto per noi, capo! Ci costerà una discreta quantità di lavoro e impegno, ma è importante che tutti i nostri coloni siano ben istruiti. Tuttavia, in futuro tutti i bambini dovrebbero poter frequentare la scuola!"
+    },
+    {
+      "k": 4419,
+      "v": "Non è facile per noi se non possiamo rendere possibile ai nostri antenati il loro ultimo luogo di riposo. Questo non avrà un buon effetto sull'umore dell'insediamento, capo! Ma seguiremo il tuo ordine."
+    },
+    {
+      "k": 4397,
+      "v": "Stiamo bandendo i nostri anziani"
+    },
+    {
+      "k": 4398,
+      "v": "Non produrremo più prole"
+    },
+    {
+      "k": 4399,
+      "v": "Stiamo bandendo i nostri figli"
+    },
+    {
+      "k": 4400,
+      "v": "Stiamo razionando il nostro cibo"
+    },
+    {
+      "k": 4401,
+      "v": "Stiamo razionando la nostra acqua"
+    },
+    {
+      "k": 4402,
+      "v": "Lavoreremo più velocemente"
+    },
+    {
+      "k": 4403,
+      "v": "Saremo più attenti"
+    },
+    {
+      "k": 4404,
+      "v": "Ci lasceremo vaccinare"
+    },
+    {
+      "k": 4405,
+      "v": "Chiuderemo le nostre lacune educative"
+    },
+    {
+      "k": 4420,
+      "v": "Ripuliremo le vecchie tombe."
+    },
+    {
+      "k": 4451,
+      "v": "Apri la vista per Elettricità"
+    },
+    {
+      "k": 4452,
+      "v": "Aprire la vista per la contaminazione radioattiva ambientale"
+    },
+    {
+      "k": 4453,
+      "v": "Apri la vista per l'irrigazione ambientale"
+    },
+    {
+      "k": 4454,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di ricercare un decreto che possa far muovere più velocemente i tuoi coloni. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 4455,
+      "v": "Decreto sulla motivazione ricercato"
+    },
+    {
+      "k": 4456,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di ricercare un decreto che possa indurre i tuoi coloni a essere più diligenti nel prendersi cura dei loro indumenti e strumenti protettivi. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 4457,
+      "v": "Decreto diligenza ricercato"
+    },
+    {
+      "k": 4458,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di ricercare un decreto che possa indurre i tuoi coloni a costruire un'immunità contro le malattie per un breve periodo. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 4459,
+      "v": "Decreto sull'immunità ricercato"
+    },
+    {
+      "k": 4460,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di ricercare un decreto che possa convincere i tuoi coloni a istruire tutti gli adulti che non hanno avuto la fortuna di poter frequentare la scuola. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 4461,
+      "v": "Decreto sul trasferimento di conoscenze ricercato"
+    },
+    {
+      "k": 4462,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di ricercare un decreto che possa convincere i tuoi coloni a ripulire tutte le tombe nei nostri cimiteri. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 4463,
+      "v": "Decreto sul divieto di sepoltura ricercato"
+    },
+    {
+      "k": 4469,
+      "v": "Completa le missioni che i tuoi coloni hanno pubblicato sulla bacheca:  <<amount>>"
+    },
+    {
+      "k": 4470,
+      "v": "Assicurati che la contentezza complessiva dei tuoi coloni sia molto alta!"
+    },
+    {
+      "k": 4479,
+      "v": "Ricerca nell'area dello spazio vitale"
+    },
+    {
+      "k": 4480,
+      "v": "Ricerca nel settore della logistica"
+    },
+    {
+      "k": 4481,
+      "v": "Ricerca nell'area delle risorse"
+    },
+    {
+      "k": 4482,
+      "v": "Ricerca nell'area del cibo"
+    },
+    {
+      "k": 4483,
+      "v": "Ricerca nel settore dell'acqua"
+    },
+    {
+      "k": 4484,
+      "v": "Ricerca in ambito comunitario"
+    },
+    {
+      "k": 4485,
+      "v": "Ricerca nel settore dell'elettricità"
+    },
+    {
+      "k": 4486,
+      "v": "Ricerca nel campo della tecnologia"
+    },
+    {
+      "k": 4507,
+      "v": "Evidenzia gli edifici in modalità Costruisci: <<state>>"
+    },
+    {
+      "k": 4511,
+      "v": "Fornisci a tutti i tuoi Coloni un'abitazione fornita di elettricità:  <<amount>>"
+    },
+    {
+      "k": 4537,
+      "v": " "
+    },
+    {
+      "k": 4538,
+      "v": " "
+    },
+    {
+      "k": 4519,
+      "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nello spietato mondo di Endzone - A World Apart."
+    },
+    {
+      "k": 4520,
+      "v": "Tutorial principale"
+    },
+    {
+      "k": 4521,
+      "v": "Una breve introduzione al sistema di trading di Endzone. Impara a conoscere la postazione di trading e come trattare con diversi commercianti."
+    },
+    {
+      "k": 4522,
+      "v": "Sistema commerciale"
     }
   ]
 }
