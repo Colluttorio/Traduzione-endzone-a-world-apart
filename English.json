@@ -1759,7 +1759,43 @@
     },
     {
       "k": 2311,
-      "v": "Progresso dell'educazione"
+      "v": "Progresso dell'educazione"																											
+    },
+	{
+      "k": 4589,
+      "v": "Istruzione"
+    },
+    {
+      "k": 4590,
+      "v": "Produttività"
+    },
+    {
+      "k": 4591,
+      "v": "Strumenti di manipolazione"
+    },
+    {
+      "k": 4592,
+      "v": "Manipolazione dei vestiti"
+    },
+    {
+      "k": 4593,
+      "v": "Distintivi"
+    },
+    {
+      "k": 4594,
+      "v": "I migliori coloni sono addestrati alla produttività, più efficientemente svolgono il loro lavoro in varie professioni."
+    },
+    {
+      "k": 4595,
+      "v": "I migliori coloni sono addestrati all'uso degli strumenti, più a lungo possono utilizzare un singolo strumento prima che si rompa."
+    },
+    {
+      "k": 4596,
+      "v": "I migliori coloni sono addestrati a maneggiare i vestiti, più a lungo possono indossarli prima che siano consumati."
+    },
+    {
+      "k": 4597,
+      "v": "Più i coloni sono formati meglio nell'ottenere i badge, più spesso vengono loro assegnati nel corso della loro vita per i loro servizi in varie professioni."
     },
     {
       "k": 448,
@@ -16155,7 +16191,7 @@
     },
     { 
       "k": 4067,
-      "v": "Durata"		  
+      "v": "Durata"
     },
 	{
       "k": 4314,
@@ -16507,7 +16543,7 @@
     },
     {
       "k": 4352,
-      "v": "Awesome, chief! These new tests have brought us a load of empirical experience. We can certainly put this new Knowledge to good use if we devote ourselves to our Research!"
+      "v": "Fantastico, capo! Questi nuovi test ci hanno portato un carico di esperienza empirica. Possiamo certamente mettere a frutto questa nuova Conoscenza se ci dedichiamo alla nostra Ricerca!"
     },
     {
       "k": 4353,
