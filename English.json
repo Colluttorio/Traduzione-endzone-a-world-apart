@@ -33,6 +33,10 @@
       "k": 2339,
       "v": "<<amount>> disponibile"
     },
+	{
+      "k": 4893,
+      "v": "<<amount>> in stock nell'insediamento"
+    },
     {
       "k": 2307,
       "v": "MAX"
@@ -113,6 +117,10 @@
       "k": 2595,
       "v": "Semi"
     },
+	{
+      "k": 4680,
+      "v": "Seme per <<name>>"
+    },
     {
       "k": 3495,
       "v": "Morti"
@@ -124,6 +132,10 @@
     {
       "k": 3473,
       "v": "Risorse necessarie"
+    },
+	{
+      "k": 4894,
+      "v": "Apri la panoramica del tutorial"
     },
     {
       "k": 228,
@@ -319,7 +331,67 @@
     },
     {
       "k": 4444,
-      "v": "Zucchine"
+      "v": "Zucchine"		 
+    },
+	{
+      "k": 4738,
+      "v": "Mostarda"
+    },
+    {
+      "k": 4739,
+      "v": "Lupino"
+    },
+    {
+      "k": 4740,
+      "v": "Barbabietola"
+    },
+    {
+      "k": 4654,
+      "v": "Carne di capra"
+    },
+    {
+      "k": 4655,
+      "v": "Carne di lepre"
+    },
+    {
+      "k": 4656,
+      "v": "Carne di Bufalo"
+    },
+    {
+      "k": 4657,
+      "v": "Carne di gallina"
+    },
+    {
+      "k": 4658,
+      "v": "Latte"
+    },
+    {
+      "k": 4659,
+      "v": "Uova"
+    },
+    {
+      "k": 4681,
+      "v": "Capra"
+    },
+    {
+      "k": 4682,
+      "v": "Lepre"
+    },
+    {
+      "k": 4683,
+      "v": "Buffalo"
+    },
+    {
+      "k": 4684,
+      "v": "Pollo"
+    },
+    {
+      "k": 4685,
+      "v": "Cinghiale"
+    },
+    {
+      "k": 4686,
+      "v": "Capriolo"
     },
     {
       "k": 880,
@@ -515,9 +587,69 @@
     },
     {
       "k": 4447,
-      "v": "Le zucchine possono essere raccolte dai campi."
+      "v": "Le zucchine possono essere raccolte dai campi."																
+    },
+	{
+      "k": 4741,
+      "v": "I semi di senape possono essere raccolti dai campi."
     },
     {
+      "k": 4742,
+      "v": "Il lupino può essere raccolto dai campi."
+    },
+    {
+      "k": 4743,
+      "v": "Le barbabietole da zucchero possono essere raccolte dai campi."
+    },
+    {
+      "k": 4660,
+      "v": "La carne di capra può essere prodotta macellando capre tenute in recinti."
+    },
+    {
+      "k": 4661,
+      "v": "La carne di lepre può essere prodotta macellando le lepri conservate nei recinti."
+    },
+    {
+      "k": 4662,
+      "v": "La carne di bufalo può essere prodotta macellando bufali tenuti in recinti."
+    },
+    {
+      "k": 4663,
+      "v": "La carne di pollo può essere prodotta macellando i polli tenuti in recinti."
+    },
+    {
+      "k": 4664,
+      "v": "Il latte può essere ottenuto da Bufali o Capre tenuti in recinti."
+    },
+    {
+      "k": 4665,
+      "v": "Le uova possono essere ottenute dai polli tenuti nei recinti."
+    },
+    {
+      "k": 4698,
+      "v": "I cinghiali possono essere tenuti nei recinti e lì riprodursi. Possono essere macellati e fornire carne di maiale."
+    },
+    {
+      "k": 4699,
+      "v": "Capriolo e Cervo possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire selvaggina."
+    },
+    {
+      "k": 4700,
+      "v": "Le capre possono essere tenute in recinti e lì riprodursi. Producono latte di capra. Quando vengono macellati forniscono carne di capra."
+    },
+    {
+      "k": 4701,
+      "v": "Le lepri possono essere tenute in recinti e riprodotte lì. Forniscono una piccola quantità di carne e la loro pelliccia può essere trasformata in indumenti. Sono anche carini."
+    },
+    {
+      "k": 4702,
+      "v": "I bufali possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire carne di bufalo. La loro pelle può essere trasformata in abiti."
+    },
+    {
+      "k": 4703,
+      "v": "I polli possono essere tenuti in recinti e riprodotti lì. Depongono le uova e possono essere macellati per fornire carne di pollo."
+    },
+    { 
       "k": 267,
       "v": "Casa"
     },
@@ -771,7 +903,19 @@
     },
     {
       "k": 4426,
-      "v": "Siepe"
+      "v": "Siepe"				 
+    },
+	{
+      "k": 4514,
+      "v": "Stazione commerciale"
+    },
+    {
+      "k": 4635,
+      "v": "Scuola Superiore"
+    },
+    {
+      "k": 4744,
+      "v": "Pascolo"
     },
     {
       "k": 301,
@@ -844,6 +988,10 @@
     {
       "k": 313,
       "v": "Una scuola offre ai bambini a partire da una certa età un posto dove crescere per diventare adulti istruiti. Ciò consente loro di esercitare le loro professioni successive in modo più efficace."
+    },
+	{
+      "k": 4636,
+      "v": "Una scuola educa i bambini in diverse materie fino a un livello intermedio. Un focus può essere posto sulle singole materie al fine di educare pienamente i bambini in quella materia e accelerare la formazione educativa su questa materia."
     },
     {
       "k": 314,
@@ -991,7 +1139,19 @@
 	},
 	{
       "k": 4161,
-      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."
+      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."																																						
+    },
+	{
+      "k": 4515,
+      "v": "I commercianti arrivano alla stazione commerciale a intervalli regolari per barattare i diversi beni che offrono."
+    },
+    {
+      "k": 4637,
+      "v": "A differenza di una scuola normale, una scuola avanzata istruisce completamente i bambini in tutte le materie. Anche la formazione scolastica avviene decisamente più velocemente."
+    },
+    {
+      "k": 4745,
+      "v": "Gli animali sono tenuti a pascolare sul pascolo."
     },
     {
       "k": 335,
@@ -1113,7 +1273,11 @@
       "k": 3813,
       "v": "Cucinare"
     },
-    { 
+	{
+      "k": 4746,
+      "v": "Pastore"
+    },
+    {
       "k": 354,
       "v": "Esegue attività semplici e aiuta a trasportare risorse."
     },
@@ -1232,6 +1396,10 @@
 	{
       "k": 3814,
       "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore da un'alimentazione più semplice."
+    },
+	{
+      "k": 4747,
+      "v": "Tiene gli animali al pascolo."
     },
     {
       "k": 383,
@@ -1616,6 +1784,14 @@
     {
       "k": 435,
       "v": "Rimboscare"
+    },
+	{
+      "k": 4909,
+      "v": "Caccia"
+    },
+    {
+      "k": 4910,
+      "v": "Catturare"
     },
     {
       "k": 1524,
@@ -2227,7 +2403,47 @@
     },
     {
       "k": 2989,
-      "v": "Nessun dato raccolto"
+      "v": "Nessun dato raccolto"			 
+    },
+	{
+      "k": 4899,
+      "v": "0% istruito"
+    },
+    {
+      "k": 4900,
+      "v": "20% istruito"
+    },
+    {
+      "k": 4901,
+      "v": "40% istruito"
+    },
+    {
+      "k": 4902,
+      "v": "60% istruito"
+    },
+    {
+      "k": 4903,
+      "v": "80% istruito"
+    },
+    {
+      "k": 4904,
+      "v": "Istruito al 100%"
+    },
+    {
+      "k": 4905,
+      "v": "Produttività della distribuzione nell'istruzione"
+    },
+    {
+      "k": 4906,
+      "v": "Abbigliamento per la distribuzione dell'istruzione"
+    },
+    {
+      "k": 4907,
+      "v": "Strumenti di distribuzione per l'istruzione"
+    },
+    {
+      "k": 4908,
+      "v": "Distintivi di distribuzione per l'istruzione"
     },
     {
       "k": 995,
@@ -3455,7 +3671,11 @@
     },
 	{
       "k": 3792,
-      "v": "Farmaci contro la contaminazione"
+      "v": "Farmaci contro la contaminazione"			
+    },
+	{
+      "k": 4704,
+      "v": "Animali"
     },
     {
       "k": 985,
@@ -3492,6 +3712,10 @@
 	{
       "k": 3793,
       "v": "-"
+    },
+	{
+      "k": 4705,
+      "v": "Gli animali possono essere catturati dai cacciatori e tenuti sui pascoli."
     },
 	{
       "k": 4132,
@@ -4038,6 +4262,26 @@
       "v": "Riempi il livello del serbatoio dell'acqua"		
     },
 	{
+      "k": 4630,
+      "v": "Focus sulla formazione educativa"
+    },
+    {
+      "k": 4631,
+      "v": "Bambini in classe"
+    },
+    {
+      "k": 4632,
+      "v": "L'attenzione è attualmente su questo argomento. I bambini vengono istruiti più velocemente in questa materia."
+    },
+    {
+      "k": 4633,
+      "v": "L'attenzione è attualmente su un argomento diverso. I bambini sono attualmente istruiti in questa materia a velocità normale."
+    },
+    {
+      "k": 4634,
+      "v": "Al momento non ci si concentra su alcun argomento. I bambini vengono istruiti in tutte le materie alla stessa velocità."
+    },
+	{
       "k": 4524,
       "v": "Commercio"
     },
@@ -4055,7 +4299,11 @@
     },
     {
       "k": 4555,
-      "v": "Tempo fino all'arrivo del prossimo commerciante"
+      "v": "Tempo fino all'arrivo del prossimo commerciante"						 
+    },
+	{
+      "k": 4687,
+      "v": "Nessun commerciante ha attraccato"
     },
     {
       "k": 4528,
@@ -4089,6 +4337,38 @@
       "k": 4556,
       "v": "Un commerciante si sta avvicinando allo sbarco"
     },
+	{
+      "k": 4669,
+      "v": "Chiama questo commerciante"
+    },
+    {
+      "k": 4879,
+      "v": "Un commerciante lascia la transazione"
+    },
+    {
+      "k": 4887,
+      "v": "Scorte di risorse per l'attuale accordo di scambio"
+    },
+    {
+      "k": 4888,
+      "v": "Il contratto di baratto è stato chiuso"
+    },
+    {
+      "k": 4889,
+      "v": "Commerciante sconosciuto"
+    },
+    {
+      "k": 4890,
+      "v": "Il prossimo a fare una visita alla stazione di scambio sarà un trader casuale. Un commerciante particolare può essere richiesto tramite ricerca."
+    },
+    {
+      "k": 4666,
+      "v": "Offerta del commerciante"
+    },
+    {
+      "k": 4667,
+      "v": "Domanda del commerciante"
+    },
     {
       "k": 4541,
       "v": "Chiesto"
@@ -4101,9 +4381,145 @@
       "k": 4543,
       "v": "Inizia il commercio"
     },
+	{
+      "k": 4896,
+      "v": "Fai un affare equo"
+    },
     {
       "k": 4544,
-      "v": "Licenzia commerciante"
+      "v": "Licenzia commerciante"														   
+    },
+	{
+      "k": 4891,
+      "v": "Vuoi davvero mandare via il trader senza organizzare un contratto di scambio?"
+    },
+    {
+      "k": 4668,
+      "v": "La reputazione di questo commerciante"
+    },
+    {
+      "k": 4880,
+      "v": "Commerciante"
+    },
+    {
+      "k": 4881,
+      "v": "I commercianti attraccano alla Stazione commerciale usando i propri palloncini. Là commerciano risorse e altri beni di valore."
+    },
+    {
+      "k": 4882,
+      "v": "Offerte preferite del commerciante"
+    },
+    {
+      "k": 4895,
+      "v": "Attuale contratto di scambio"
+    },
+    {
+      "k": 4892,
+      "v": "Ultimo accordo commerciale di baratto chiuso"
+    },
+    {
+      "k": 4638,
+      "v": "Affare sleale"
+    },
+    {
+      "k": 4639,
+      "v": "Cattivo affare"
+    },
+    {
+      "k": 4640,
+      "v": "Trattamento equo"
+    },
+    {
+      "k": 4641,
+      "v": "Buon affare"
+    },
+    {
+      "k": 4642,
+      "v": "Un'offerta di permuta che tratta ingiustamente il Trader non può essere chiusa per concludere un affare."
+    },
+    {
+      "k": 4643,
+      "v": "Un'offerta di permuta che è dannosa per il trader porta a un peggioramento della reputazione per il commercio con quel commerciante."
+    },
+    {
+      "k": 4644,
+      "v": "Un'offerta di scambio che sia giusta per entrambe le parti non porta né a un peggioramento né a un miglioramento della reputazione per il commercio con quel commerciante."
+    },
+    {
+      "k": 4645,
+      "v": "Un'offerta di permuta vantaggiosa per il trader porta a un miglioramento della reputazione per il commercio con quel commerciante."
+    },
+    {
+      "k": 4646,
+      "v": "Reputazione sconosciuta"
+    },
+    {
+      "k": 4647,
+      "v": "Brutta reputazione"
+    },
+    {
+      "k": 4648,
+      "v": "Reputazione neutrale"
+    },
+    {
+      "k": 4649,
+      "v": "Buona reputazione"
+    },
+    {
+      "k": 4650,
+      "v": "Questo commerciante non ha ancora avuto alcun contatto con questo accordo, motivo per cui la sua opinione è ancora imparziale. Il tuo primo accordo di scambio di baratto stabilirà la tua reputazione presso questo commerciante."
+    },
+    {
+      "k": 4651,
+      "v": "I commercianti che hanno una cattiva opinione di questo insediamento non portano con sé alcun bene commerciale speciale come Conoscenza o Semi e si limitano anche a semplici Risorse. Chiedono inoltre maggiori compromessi in cambio della conclusione di un accordo."
+    },
+    {
+      "k": 4652,
+      "v": "I commercianti che hanno un'opinione neutrale su questo insediamento portano con sé tutti i tipi di risorse. In rari casi barattano anche beni commerciali speciali come Conoscenza o Semi."
+    },
+    {
+      "k": 4653,
+      "v": "I commercianti che hanno un'opinione positiva di questo insediamento portano sempre più beni commerciali come Conoscenza o Semi con loro. Barattano anche tutti i tipi di risorse e sono inoltre più generosi per quanto riguarda il compromesso in cambio della chiusura di un affare."
+    },
+    {
+      "k": 4688,
+      "v": "Varietà limitata di risorse in offerta"
+    },
+    {
+      "k": 4689,
+      "v": "Nessun bene commerciale speciale come Conoscenza o Semi in offerta"
+    },
+    {
+      "k": 4690,
+      "v": "Richiede un compromesso più elevato in cambio di un accordo concluso"
+    },
+    {
+      "k": 4691,
+      "v": "Tutti i tipi di risorse in offerta"
+    },
+    {
+      "k": 4692,
+      "v": "Beni commerciali speciali rari come Conoscenza o Semi in offerta"
+    },
+    {
+      "k": 4693,
+      "v": "Richiede un ragionevole compromesso in cambio di un accordo concluso"
+    },
+    {
+      "k": 4694,
+      "v": "Tutti i tipi di risorse in offerta"
+    },
+    {
+      "k": 4695,
+      "v": "Beni commerciali speciali come Conoscenza o Semi più frequentemente offerti"
+    },
+    {
+      "k": 4696,
+      "v": "Generoso in termini di compromesso in cambio di un accordo concluso"
+    },
+    {
+      "k": 4697,
+      "v": "Effetti"
     },
     {
       "k": 1073,
@@ -4148,6 +4564,10 @@
     {
       "k": 4131,
       "v": "Maggiore velocità di ricerca"
+    },
+	{
+      "k": 4883,
+      "v": "Riduce il tempo fino all'arrivo del prossimo commerciante"
     },
     {
       "k": 2245,
@@ -4451,7 +4871,11 @@
     },
     {
       "k": 2665,
-      "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nel mondo spietato di Endzone - A world a part."
+      "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nel mondo spietato di Endzone - A world a part."																																								 
+    },
+	{
+      "k": 4516,
+      "v": "Gioca a un tutorial correlato che ti insegna tutti gli aspetti importanti del gioco o acquisisci familiarità con alcune parti del gioco in brevi segmenti."
     },
     {
       "k": 2666,
@@ -6005,9 +6429,17 @@
       "k": 3800,
       "v": "Scavatore"
     },
-	    {
+	{
       "k": 2252,
       "v": "Carro Armato"
+    },
+	{
+      "k": 4748,
+      "v": "Trattore"
+    },
+    {
+      "k": 4749,
+      "v": "Mietitrebbia"
     },
     {
       "k": 870,
@@ -6071,7 +6503,43 @@
     },
     {
       "k": 835,
-      "v": "Scrofa"
+      "v": "Scrofa"			   
+    },
+	{
+      "k": 4670,
+      "v": "Caprone"
+    },
+    {
+      "k": 4671,
+      "v": "Capretta"
+    },
+    {
+      "k": 4672,
+      "v": "Bufalo toro"
+    },
+    {
+      "k": 4673,
+      "v": "Bufalo mucca"
+    },
+    {
+      "k": 4674,
+      "v": "Jack"
+    },
+    {
+      "k": 4675,
+      "v": "Jill"
+    },
+    {
+      "k": 4676,
+      "v": "Lepre"
+    },
+    {
+      "k": 4677,
+      "v": "Gallo"
+    },
+    {
+      "k": 4678,
+      "v": "Gallina"
     },
     {
       "k": 837,
@@ -7623,7 +8091,35 @@
     },
     {
       "k": 1889,
-      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."
+      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."			   
+    },
+	{
+      "k": 4711,
+      "v": "Formazione scolastica"
+    },
+    {
+      "k": 4712,
+      "v": "Formazione scolastica"
+    },
+    {
+      "k": 4713,
+      "v": "Scuola"
+    },
+    {
+      "k": 4714,
+      "v": "Scuola Superiore"
+    },
+    {
+      "k": 4715,
+      "v": "I coloni istruiti completano ogni compito loro assegnato più velocemente dei coloni non istruiti. Coloni istruiti possono anche utilizzare i loro <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Indumenti protettivi</style></link> in modo più efficace. I loro strumenti e indumenti protettivi durano il doppio e ricevono più distintivi dei coloni rispetto ai coloni ignoranti. Ogni Colono viene addestrato individualmente in queste aree. Migliore è il Settler in un'area, più efficace sarà il Settler in essa. Maggiore è il numero di Coloni che ricevono addestramento, più efficiente sarà il funzionamento di un insediamento. Per essere considerato istruito, il colono deve aver frequentato una scuola durante l'infanzia."
+    },
+    {
+      "k": 4716,
+      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e un insegnante è presente, i bambini andranno a scuola e saranno istruiti. I bambini che frequentano una scuola vengono istruiti in tutte le materie. Tuttavia, saranno istruiti particolarmente bene in una materia. Una scuola può cambiare la sua attenzione su un argomento in qualsiasi momento."
+    },
+    {
+      "k": 4717,
+      "v": "Insegnanti della scuola avanzata <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e un insegnante è presente, i bambini andranno alla scuola avanzata e saranno istruiti. I bambini che frequentano una scuola avanzata vengono istruiti in tutte le materie. A differenza della scuola, la scuola avanzata non si concentra su un determinato argomento. Ogni bambino che frequenta una scuola avanzata riceve la migliore formazione educativa possibile in tutte le materie. Per poter costruire una scuola avanzata, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> corrisponde."
     },
     {
       "k": 1262,
@@ -7773,6 +8269,10 @@
       "k": 4424,
       "v": "È possibile posizionare bandiere per aumentare leggermente l'attrattiva di un'area."
     },
+	{
+      "k": 4513,
+      "v": "La statua del pioniere può essere posizionata per aumentare notevolmente l'attrattiva di un'area."
+    },
     {
       "k": 4408,
       "v": "Decreti"
@@ -7795,7 +8295,47 @@
     },
     {
       "k": 4412,
-      "v": "Il forum consente l'accesso alla bacheca insieme alla possibilità di emanare decreti."
+      "v": "Il forum consente l'accesso alla bacheca insieme alla possibilità di emanare decreti."						  
+    },
+	{
+      "k": 4718,
+      "v": "Baratto commerciale"
+    },
+    {
+      "k": 4719,
+      "v": "Chiusura di un contratto di scambio"
+    },
+    {
+      "k": 4720,
+      "v": "Commerciante"
+    },
+    {
+      "k": 4721,
+      "v": "Reputazione del commerciante"
+    },
+    {
+      "k": 4722,
+      "v": "Accordi commerciali"
+    },
+    {
+      "k": 4723,
+      "v": "Un contratto di scambio può essere chiuso con un commerciante. Ogni volta che un commerciante fa visita al tuo insediamento, puoi barattare alcune delle tue risorse che il commerciante vuole avere in cambio dei tipi di risorse che il commerciante ha portato con sé. Per attirare un commerciante al tuo insediamento devi aver già costruito una stazione di scambio."
+    },
+    {
+      "k": 4724,
+      "v": "La postazione commerciale <link=\"3\"><style=\"DefaultLink\">impiega</style></link> <link=\"18\"><style=\"DefaultLink\">logisti</style></link>. Di tanto in tanto, i commercianti di altri insediamenti verranno a far visita alla tua stazione di scambio per barattare con te. Non appena un accordo di scambio di baratto è stato chiuso, i tuoi logisti inizieranno a trasportare le risorse che desideri consegnare in cambio al commerciante alla stazione commerciale."
+    },
+    {
+      "k": 4725,
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+    },
+    {
+      "k": 4726,
+      "v": "Ogni commerciante che ha visitato il tuo insediamento ha un'opinione personale di te. Questa reputazione determina se un commerciante offre risorse speciali come semi o conoscenza quando baratta con te. Migliore è la tua reputazione con un commerciante, più è probabile che ti offra oggetti di baratto così preziosi. Un commerciante che ha un'alta opinione di te accetterà anche un'offerta che rifiuterebbe in circostanze normali. A sua volta, un commerciante che non ha una buona parola da dire su di te rifiuterà un'offerta più velocemente, anche un'offerta che avrebbe normalmente accettato."
+    },
+    {
+      "k": 4727,
+      "v": "Alla postazione di negoziazione puoi vedere quale trader visiterà il tuo insediamento come il successivo sulla sua lista. Se attivi un accordo commerciale, puoi decidere tu stesso quale trader dovrebbe essere il prossimo ad arrivare. Per poter attivare un accordo commerciale, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> corrispondente."
     },
     {
       "k": 1263,
@@ -14563,7 +15103,15 @@
     },
 	{
       "k": 4523,
-      "v": "Rolph"
+      "v": "Rusty Rolph"					   
+    },
+	{
+      "k": 4753,
+      "v": "Il vecchio T. Bara"
+    },
+    {
+      "k": 4679,
+      "v": "Persona sconosciuta"
     },
     {
       "k": 2844,
@@ -15251,7 +15799,15 @@
     },
     {
       "k": 3574,
-      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."
+      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."																																																													
+    },
+	{
+      "k": 4736,
+      "v": "Scuola avanzata ricercata: <<amount>>"
+    },
+    {
+      "k": 4737,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una scuola avanzata in cui siamo in grado di istruire i nostri figli ancora meglio. Vogliono che il tuo permesso possa iniziare i loro studi."
     },
     {
       "k": 3529,
@@ -15387,7 +15943,15 @@
     },
     {
       "k": 3779,
-      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."
+      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."																																											  
+    },
+	{
+      "k": 4754,
+      "v": "Montante radio migliorato"
+    },
+    {
+      "k": 4755,
+      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."
     },
     {
       "k": 3575,
@@ -16783,7 +17347,15 @@
     },
     {
       "k": 4453,
-      "v": "Apri la vista per l'irrigazione ambientale"
+      "v": "Apri la vista per l'irrigazione ambientale"								  
+    },
+	{
+      "k": 4629,
+      "v": "Apri la finestra del contratto di scambio"
+    },
+    {
+      "k": 4863,
+      "v": "Aspetta un commerciante"
     },
     {
       "k": 4454,
@@ -16875,11 +17447,19 @@
     },
     {
       "k": 4537,
-      "v": " "
+      "v": "Stazione meteorologica ricercata: <<amount>>"
     },
     {
       "k": 4538,
-      "v": " "
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una stazione meteorologica in cui possiamo osservare il tempo per consentire di fare dichiarazioni sulle condizioni meteorologiche future. Vogliono che il tuo permesso possa iniziare i loro studi."											   
+    },
+	{
+      "k": 4539,
+      "v": "Scuola avanzata ricercata: <<amount>>"
+    },
+    {
+      "k": 4540,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di sviluppare una scuola avanzata in cui permettiamo ai nostri coloni di istruirsi ulteriormente. Vogliono che il tuo permesso possa iniziare i loro studi."
     },
     {
       "k": 4519,
@@ -16895,7 +17475,799 @@
     },
     {
       "k": 4522,
-      "v": "Sistema commerciale"
+      "v": "Sistema commerciale"					   
+    },
+	{
+      "k": 4557,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegare come puoi <link=\"22\"><style=\"DefaultLink\"> concludere un contratto di scambio</style></link> con commercianti che provengono da altri insediamenti."
+    },
+    {
+      "k": 4558,
+      "v": "Per cominciare, è naturalmente prima di tutto importante attirare un commerciante nel tuo insediamento per poter fare un accordo di scambio con lui."
+    },
+    {
+      "k": 4559,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 4560,
+      "v": "Puoi creare un <link=\"22\"><style=\"DefaultLink\">Posto per negoziazione</style></link> per convincere i trader a venire al nostro accordo. Inoltre, dovresti assegnare diversi <link=\"3\"><style=\"DefaultLink\">Logisti</style></link> che lavoreranno alla stazione di scambio. I logisti assegnati alla stazione di scambio accumuleranno le risorse che desideri scambiare in un contratto di scambio presso la tua stazione di scambio. Non appena la tua postazione del commercio sarà costruita, i commercianti visiteranno di tanto in tanto il tuo insediamento."
+    },
+    {
+      "k": 4561,
+      "v": "Ora che la stazione di scambio è stata costruita, sarà solo questione di tempo prima che arrivi un trader. Quando un commerciante è arrivato, puoi concludere un accordo di scambio con lui."
+    },
+    {
+      "k": 4562,
+      "v": "La postazione commerciale"
+    },
+    {
+      "k": 4563,
+      "v": "Un commerciante sta arrivando alla nostra postazione commerciale! Una volta arrivato, scegli la Stazione di scambio e fai clic su “Mostra offerta del commerciante” per passare alla finestra del contratto di scambio."
+    },
+    {
+      "k": 4564,
+      "v": "Tu e il commerciante siete riusciti a concordare un accordo! Mentre il Commerciante riparte, i tuoi Coloni distribuiranno le Risorse barattate tra i Magazzini del tuo insediamento."
+    },
+    {
+      "k": 4565,
+      "v": "Chiusura di un contratto di scambio"
+    },
+    {
+      "k": 4566,
+      "v": "Dopo aver ricercato la tecnologia chiamata <link=\"22\"><style=\"DefaultLink\">accordi commerciale</style></link> alla Stazione di ricerca, puoi decidere tu stesso quale trader dovrebbe essere il prossimo a venire al tuo insediamento. Ho già insegnato questa Tecnologia al tuo insediamento in modo che l'insediamento possa esercitarti a usarlo."
+    },
+    {
+      "k": 4567,
+      "v": "Ora che sai come attirare i commercianti al tuo insediamento e hai imparato come concludere un contratto di scambio, ti ho mostrato tutte le cose di cui hai bisogno per un trading di successo. In conclusione, ti consiglio anche di essere sempre in buoni rapporti con i trader. I commercianti che hanno un'alta opinione di te potrebbero offrirti cose preziose come Conoscenza o Semi ogni tanto."
+    },
+    {
+      "k": 4568,
+      "v": "Chiama un commerciante"
+    },
+    {
+      "k": 4860,
+      "v": "Ora che l'accordo di scambio di baratto è stato completato, il commerciante lascerà il tuo insediamento. Dopo un po' un nuovo commerciante visiterà il tuo insediamento."
+    },
+    {
+      "k": 4861,
+      "v": "Alla stazione di scambio puoi vedere quale trader sarà il prossimo a visitare il tuo insediamento. Ogni commerciante è specializzato in determinate risorse."
+    },
+    {
+      "k": 4862,
+      "v": "L'accordo commerciale di baratto è stato chiuso"
+    },
+    {
+      "k": 4569,
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+    },
+    {
+      "k": 4570,
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+    },
+    {
+      "k": 4571,
+      "v": "Al momento stai facendo al commerciante un'offerta generosa. È una cosa certa che accetterà e terrà presente per il futuro che hai agito generosamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento, avrà un atteggiamento più amichevole nei tuoi confronti ed è più probabile che accetti quella che normalmente sarebbe un'offerta oltraggiosa."
+    },
+    {
+      "k": 4572,
+      "v": "Al momento stai facendo al commerciante un'offerta generosa. È una cosa certa che accetterà e terrà presente per il futuro che hai agito generosamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento, avrà un atteggiamento più amichevole nei tuoi confronti ed è più probabile che accetti quella che normalmente sarebbe un'offerta oltraggiosa."
+    },
+    {
+      "k": 4573,
+      "v": "Al momento stai facendo al commerciante un'offerta generosa. È una cosa certa che accetterà e terrà presente per il futuro che hai agito generosamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento, avrà un atteggiamento più amichevole nei tuoi confronti ed è più probabile che accetti quella che normalmente sarebbe un'offerta oltraggiosa."
+    },
+    {
+      "k": 4574,
+      "v": "Al momento stai facendo al commerciante un'offerta generosa. È una cosa certa che accetterà e terrà presente per il futuro che hai agito generosamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento, avrà un atteggiamento più amichevole nei tuoi confronti ed è più probabile che accetti quella che normalmente sarebbe un'offerta oltraggiosa."
+    },
+    {
+      "k": 4575,
+      "v": "Al momento stai facendo al Commerciante un'offerta equa. Accetterà l'accordo di scambio e la sua opinione su di te non cambierà."
+    },
+    {
+      "k": 4576,
+      "v": "Al momento stai facendo al Commerciante un'offerta equa. Accetterà l'accordo di scambio e la sua opinione su di te non cambierà."
+    },
+    {
+      "k": 4577,
+      "v": "Al momento stai facendo al Commerciante un'offerta equa. Accetterà l'accordo di scambio e la sua opinione su di te non cambierà."
+    },
+    {
+      "k": 4578,
+      "v": "Al momento stai facendo al Commerciante un'offerta equa. Accetterà l'accordo di scambio e la sua opinione su di te non cambierà."
+    },
+    {
+      "k": 4579,
+      "v": "Al momento stai facendo al Commerciante un'offerta spudorata. Accetterà l'offerta e terrà presente per il futuro che hai agito spudoratamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento avrà un atteggiamento meno amichevole nei tuoi confronti ed è più probabile che rifiuterà un'offerta spudorata."
+    },
+    {
+      "k": 4580,
+      "v": "Al momento stai facendo al Commerciante un'offerta spudorata. Accetterà l'offerta e terrà presente per il futuro che hai agito spudoratamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento avrà un atteggiamento meno amichevole nei tuoi confronti ed è più probabile che rifiuterà un'offerta spudorata."
+    },
+    {
+      "k": 4581,
+      "v": "Al momento stai facendo al Commerciante un'offerta spudorata. Accetterà l'offerta e terrà presente per il futuro che hai agito spudoratamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento avrà un atteggiamento meno amichevole nei tuoi confronti ed è più probabile che rifiuterà un'offerta spudorata."
+    },
+    {
+      "k": 4582,
+      "v": "Al momento stai facendo al Commerciante un'offerta spudorata. Accetterà l'offerta e terrà presente per il futuro che hai agito spudoratamente. Ogni volta che il Commerciante visita di nuovo il tuo insediamento avrà un atteggiamento meno amichevole nei tuoi confronti ed è più probabile che rifiuterà un'offerta spudorata."
+    },
+    {
+      "k": 4583,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il commerciante non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4584,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il Trader non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4585,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il commerciante non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4586,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il commerciante non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4587,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il commerciante non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4588,
+      "v": "Al momento stai facendo al Commerciante un'offerta oltraggiosa. Il commerciante non accetterà un'offerta del genere. Ma se hai fatto molte offerte generose a un trader in passato, mostrerà sempre più buona volontà nei tuoi confronti. Quindi potrebbe essere che quella che normalmente è un'offerta oltraggiosa si trasformi in un'offerta spudorata."
+    },
+    {
+      "k": 4598,
+      "v": "Fiducia"
+    },
+    {
+      "k": 4599,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegare cosa c'è dietro al <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link>, dei tuoi coloni, quali effetti ha sul tuo insediamento e come puoi influenzarlo. Per iniziare dovresti fare clic su un Colono per aprire la finestra individuale del Colono. Da lì puoi passare alla finestra della contentezza."
+    },
+    {
+      "k": 4600,
+      "v": "In questa finestra puoi vedere quali fattori influenzano la contentezza di quel colono. Puoi capire perché il Colono è infelice o felice. Questa visualizzazione è utile per scoprire come puoi rendere i tuoi coloni ancora più felici."
+    },
+    {
+      "k": 4601,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 4602,
+      "v": "La cosa più importante per i tuoi coloni è che siano forniti delle necessità assolute. Se non hanno cibo, acqua o un tetto sopra la testa, sarà molto difficile per te aumentare notevolmente la loro contentezza. Sebbene i tuoi coloni abbiano attualmente abbastanza cibo disponibile, non hanno un posto dove dormire. Sarebbe meglio se <link=\"4\"><style=\"DefaultLink\">ti ocupassi di esso</style></link>, capo!"
+    },
+    {
+      "k": 4603,
+      "v": "Se dai di nuovo un'occhiata a uno dei tuoi Coloni, vedrai che il Colono è contento del suo nuovo alloggio. La contentezza del colono è aumentata. È molto pratico! Più contenuto è un Settler, più efficacemente lavorerà. Inoltre, anche i Coloni particolarmente felici si muoveranno più velocemente. Per una panoramica più precisa del tipo di influenza che la fiducia ha sui tuoi coloni dovresti leggerlo nella Guida alla sopravvivenza."
+    },
+    {
+      "k": 4604,
+      "v": "Garantire l'approvvigionamento di base"
+    },
+    {
+      "k": 4605,
+      "v": "Quando i bisogni di base dei tuoi coloni sono stati soddisfatti, puoi renderli ancora più felici dando loro ulteriori opportunità di rilassarsi o divertirsi. Sono disponibili diverse possibilità per farlo. Un esempio per raggiungere questo obiettivo sarebbe il <link=\"8\"><style=\"DefaultLink\">Fuoco da campo</style></link>."
+    },
+    {
+      "k": 4606,
+      "v": "Ora che il falò è stato costruito, i tuoi coloni inizieranno a visitarlo per aumentare la loro contentezza. Allo stesso tempo il falò ha un altro, un secondo effetto. I coloni le cui abitazioni si trovano nelle vicinanze di un falò percepiscono il loro ambiente come più attraente."
+    },
+    {
+      "k": 4607,
+      "v": "Un posto per rilassarsi"
+    },
+    {
+      "k": 4608,
+      "v": "I tuoi coloni sono ansiosi di vivere in un ambiente che li soddisfi. Ad esempio, preferiscono non vivere vicino a un edificio che produce molto rumore o sporcizia sporca. Per essere in grado di vedere quanto sono attraenti le abitazioni nel tuo insediamento puoi passare alla visualizzazione che mostra Attrattività delle abitazioni."
+    },
+    {
+      "k": 4609,
+      "v": "In questa visualizzazione puoi vedere quali Cabine e Rifugi sono stati collocati in un ambiente attraente e quali in un ambiente poco attraente. Se vuoi rendere i tuoi coloni particolarmente felici, dovresti prestare attenzione a fornire loro un ambiente attraente."
+    },
+    {
+      "k": 4610,
+      "v": "Un ambiente attraente"
+    },
+    {
+      "k": 4611,
+      "v": "Per aumentare l'attrattiva di una zona residenziale, puoi mettere alcuni <link=\"20\"><style=\"DefaultLink\">Decorazioni</style></link> per abbellire il tuo insediamento. Ogni decorazione aumenta l'attrattiva dell'area in cui è stata collocata. Forse è ora che tu possa progettare il tuo insediamento in modo un po 'più attraente per rendere più felici i tuoi coloni."
+    },
+    {
+      "k": 4612,
+      "v": "Ai tuoi coloni piaceranno davvero le decorazioni di recente costruzione. In questo modo puoi anche riuscire a progettare in modo attraente un'area residenziale che si trova vicino a edifici industriali. Con abbastanza tempo ed energia potresti persino essere in grado di creare un insediamento in cui tutti i tuoi coloni vivono in un ambiente attraente."
+    },
+    {
+      "k": 4613,
+      "v": "Disposizione delle decorazioni"
+    },
+    {
+      "k": 4614,
+      "v": "Sul bordo superiore dello schermo puoi dire a colpo d'occhio qual è la contentezza media del tuo insediamento al momento. Questa contentezza media del tuo accordo ha effetti sul comportamento dei tuoi coloni e sul tipo di richieste che ti trasmettono. Per consentirti di soddisfare i desideri dei tuoi coloni nel miglior modo possibile, dovresti creare un <link=\"21\"><style=\"DefaultLink\">Forum</style></link> e controllare il Bollettino Sali a bordo per vedere se i tuoi coloni hanno una missione per te."
+    },
+    {
+      "k": 4615,
+      "v": "Il Forum è il luogo in cui i tuoi coloni accumulano tutte le varie richieste che vogliono che tu risponda. Dovresti prestare particolare attenzione ai tipi di richieste che hanno un effetto sulla contentezza della tua transazione."
+    },
+    {
+      "k": 4616,
+      "v": "Il Forum"
+    },
+    {
+      "k": 4617,
+      "v": "Tuttavia, il Forum non è solo responsabile di dare ai tuoi coloni un posto dove possono rivolgersi a te. Al Forum puoi rivolgerti anche a loro. Puoi emettere <link=\"21\"><style=\"DefaultLink\">Decreti</style></link> e stabilire regole al Forum che stabiliscano come devono comportarsi i tuoi coloni. Ad esempio, in questo modo puoi razionare cibo o acqua o arrivare al punto di proibire ai tuoi coloni di riprodursi nel prossimo futuro."
+    },
+    {
+      "k": 4618,
+      "v": "Molti dei decreti sono estremamente utili per consentire la sopravvivenza del tuo insediamento. Anche se dovresti stare attento a non chiedere troppo ai tuoi coloni. Se chiedi troppo a loro, il malcontento può diffondersi in tutto il tuo insediamento. Ecco perché dovresti sempre usare cautela nel decidere quali decreti imporre."
+    },
+    {
+      "k": 4619,
+      "v": "Opprimendo i tuoi coloni"
+    },
+    {
+      "k": 4620,
+      "v": "Ora sai di cosa si occupa la fiducia dei tuoi coloni e come puoi influenzarla. In conclusione, vorrei anche raccomandare che influenzarlo è esattamente ciò che dovresti fare."
+    },
+    {
+      "k": 4621,
+      "v": "I coloni fiduciosi vivono più a lungo, lavorano in modo più efficiente e si spostano più velocemente nel tuo insediamento. D'altra parte, i Coloni infelici lavorano e si muovono più lentamente."
+    },
+    {
+      "k": 4622,
+      "v": "Gli effetti"
+    },
+    {
+      "k": 4623,
+      "v": "Puoi leggere ciò che i tuoi coloni vogliono da te qui. In questo caso, vogliono che tu crei un <link=\"8\"><style=\"DefaultLink\">Pub</style></link>. Quando sposti il mouse sulla Missione, ti indica che questa Missione si occupa di una Missione che avrà un effetto sulla Fiducia Totale del tuo insediamento. Se rifiuti di portare a termine la missione o non riesci a completarla in tempo, i tuoi coloni ne saranno scontenti. La loro fiducia diminuirà. Al contrario, se completi la Missione, diventeranno ancora più sicuri."
+    },
+    {
+      "k": 4624,
+      "v": "Hai completato con successo la missione proposta dai tuoi coloni. Ciò aumenterà la fiducia di tutti i tuoi coloni."
+    },
+    {
+      "k": 4625,
+      "v": "Clicca qui per vedere questa missione!"
+    },
+    {
+      "k": 4626,
+      "v": "Hai rifiutato di portare a termine la tua missione dei coloni. Ciò riduce la loro fiducia. Dovresti accettare la Missione e completarla. Probabilmente sarebbe meglio se ci provassi di nuovo."
+    },
+    {
+      "k": 4627,
+      "v": "Non sei riuscito a completare la tua missione dei coloni. Ciò riduce la loro fiducia. Dovresti fare uno sforzo per completare la missione. Probabilmente sarebbe meglio se ci provassi di nuovo."
+    },
+    {
+      "k": 4628,
+      "v": "Una breve introduzione al sistema di Confidence in Endzone. Impara a conoscere i tipi di effetti che la fiducia ha sui tuoi coloni e come puoi influenzare la fiducia."
+    },
+    {
+      "k": 4706,
+      "v": "Emettere un decreto per razionare l'acqua"
+    },
+    {
+      "k": 4707,
+      "v": "Emettere un decreto per razionare il cibo"
+    },
+    {
+      "k": 4708,
+      "v": "Scegli un Colono e osserva la Fiducia del Colono"
+    },
+    {
+      "k": 4709,
+      "v": "Chiudi un contratto di scambio"
+    },
+    {
+      "k": 4776,
+      "v": "Scegli quale commerciante dovrebbe visitare il tuo insediamento come il successivo nella sua lista."
+    },
+    {
+      "k": 4710,
+      "v": "In quella nota hai completato con successo questo tutorial. Se vuoi ricevere consigli anche su altri argomenti, ti consiglio di padroneggiare anche gli altri Tutorial."
+    },
+    {
+      "k": 4728,
+      "v": "Fare clic sul Forum per visualizzare la bacheca"
+    },
+    {
+      "k": 4735,
+      "v": "Nuvole"
+    },
+    {
+      "k": 4750,
+      "v": "Accordi commerciali"
+    },
+    {
+      "k": 4751,
+      "v": "Scegli quale commerciante dovrebbe essere il prossimo a visitare il tuo insediamento."
+    },
+    {
+      "k": 4752,
+      "v": "Scegli il prossimo commerciante"
+    },
+    {
+      "k": 4756,
+      "v": "Oooh, ow, le vecchie ossa. Eh? Ehi, non fissarti così ... o ti piace quello che vedi? Hehehe. Ma il vecchio T. Bara ha in serbo anche cose molto migliori. So come rendere felici i clienti. Prenditi il tuo tempo, guardati intorno. Sono sicuro che faremo affari l'uno con l'altro. *tosse*"
+    },
+    {
+      "k": 4757,
+      "v": "* tosse tosse * Aaah, questo maledetto tempo. Vediamo dove è atterrato T. Bara questa volta ... Hmmm? No! Non di nuovo tu! * tosse tosse * Hai intenzione di ingannare di nuovo il Vecchio T. Bara fino all'ultimo sigaro? Oh no, nessuna possibilità, non due volte. Datti una mossa e dai un'occhiata già!"
+    },
+    {
+      "k": 4758,
+      "v": "Aaah, un volto familiare. Ti è mancato il vecchio T. Bara? Lo spero sicuramente !! * tossisci * Sbrigati, dai un'occhiata in giro. T. Bara ha di nuovo cose straordinarie con lei!"
+    },
+    {
+      "k": 4759,
+      "v": "*cough cough*... Aaah! If that isn't my absolutely favorite customer? Sure it is, have faith in Old T. Bara, she knows 'em all! Once again T.Bara's got only her very best stuff along! *cough cough* Take your sweet time, T. Bara's got to quiet down her lungs again..."
+    },
+    {
+      "k": 4760,
+      "v": "Hahaha, il vecchio T. Bara sapeva da sempre che parliamo la stessa lingua! Sarebbe davvero un buon affare! T. Bara lanciava anche un bacio * tosse tosse * .... gratis ... * tosse * hah ... no? Oh beh, non importa!"
+    },
+    {
+      "k": 4761,
+      "v": "... Hmmm? Veramente? È quello che stai offrendo ?! Quindi puoi essere un vero gentiluomo, dopotutto! Ora, il vecchio T. Bara sicuramente non metterà in dubbio la tua buona volontà! * tosse * Siediti e resta fedele, dolcezza. T. Bara e te, forse possiamo ancora diventare buoni amici, qualunque cosa accada!"
+    },
+    {
+      "k": 4762,
+      "v": "...Oh mio! Che deliziosa offerta! Il vecchio T. Bara è più che felice! Quanto sei buono con una vecchia signora! È vero, credimi. * tosse tosse * Un vero diamine di un cliente!"
+    },
+    {
+      "k": 4763,
+      "v": "Hahaha. Aaah, sai davvero sempre come far battere più forte il cuore di una donna anziana. No, onestamente, potrei baciarti * tossisci * Aaah, il vecchio T. Bara non vuole ancora voltare pagina, neanche un po '..."
+    },
+    {
+      "k": 4764,
+      "v": "Aaah, sembra giusto! Un affare piacevole e gradevole! E con una gemma così bella per l'avvio, hahaha, fantastico! Ma sbrigati. Anche se mi piacerebbe restare qui per mostrarti i vantaggi aggiuntivi di fare un patto con Old T. Bara, tuttavia * cough cough *, il dovere chiama!"
+    },
+    {
+      "k": 4765,
+      "v": "Beh, con un'offerta del genere almeno apprezzi il valore della merce di T. Bara. Ma non pensare nemmeno di essere tornato subito ad essere il mio raggio di sole. No, dovrai impegnarti di più!"
+    },
+    {
+      "k": 4766,
+      "v": "T. Bara è sempre felice di fare affari con te in questo modo, dolcezza!"
+    },
+    {
+      "k": 4767,
+      "v": "* tosse tosse * Sei arrabbiato con Old T. Bara ?! No, sto solo chiedendo! La prossima volta dovrei portare qualcosa di speciale per te? Che ne dici di un bacio? No?"
+    },
+    {
+      "k": 4768,
+      "v": "Hmmmm ...? Oh no, non funzionerà affatto. Dopotutto, anche T. Bara deve sopravvivere in qualche modo! Se sei serio su questo, allora dovrò riflettere a lungo sul fatto di fermarmi di nuovo qui."
+    },
+    {
+      "k": 4769,
+      "v": "Bah, stai trattando il Vecchio T. Bara come una sporcizia radioattiva con un'offerta del genere! * tosse tosse * Come faccio a mantenere la mia attività in questo modo?"
+    },
+    {
+      "k": 4770,
+      "v": "Che non sei esattamente * tossisci per la tosse * il ragazzo più generoso in circolazione, questo lo sapevo già. Ma con una proposta del genere dovresti davvero vergognarti di te stesso!"
+    },
+    {
+      "k": 4771,
+      "v": "Hmmm ...? Che diavolo ... * tossisce * Oh beh, T. Bara ottiene la deriva. I tempi sono duri qui. E hai sempre trattato bene T. Bara. Farò finta di non aver notato questa volta, ... per il tuo bene!"
+    },
+    {
+      "k": 4772,
+      "v": "Cosa ... * tosse tosse * che offerta spudorata ... Hmph! Ebbene io mai! Non farti un'idea brillante che un bel viso è un pagamento sufficiente da solo. Ho un affare da gestire! * tosse tosse tosse * Oh, T. Bara non dimenticherà un oltraggio come questo!"
+    },
+    {
+      "k": 4773,
+      "v": "* tosse tosse * ... Ah-ah ... SEMBRA CHE VUOI PORTARE T. BARA A FARE UN GIRO! Di tutti i nervi ... * tosse * In tutti questi anni T. Bara non è mai stato trattato con tanta mancanza di rispetto! E così spesso di volta in volta! Bah, la pioggia acida dovrebbe riversarsi su di te! Riprendilo subito, amico!"
+    },
+    {
+      "k": 4774,
+      "v": "Che diavolo ... * tossisce * Il vecchio T.Bara non è contento di questa Offerta. Cosa dovrei fare con questa spazzatura ?! Pensavo che fossimo sempre in buoni rapporti l'uno con l'altro! Vuoi rovinare i miei affari? *tosse tosse*"
+    },
+    {
+      "k": 4775,
+      "v": "* tosse * ... T. Bara sta davvero cercando di capire cosa è appena successo .. Voglio dire ... i tempi sono duri, lo so ... Ma vuoi davvero ingannare T. Bara in questo modo ?!"
+    },
+    {
+      "k": 4777,
+      "v": "Yee haaa, che cavalcata infernale. Me? Sono Rusty Rolph! L'unico, in lungo e in largo! Cos'è, non hai mai sentito parlare di me ?! Ebbene, Rusty Rolph! Commerciante con una passione. Ma sto strillando di nuovo troppo. Dai, mostro la mia merce!"
+    },
+    {
+      "k": 4778,
+      "v": "Ehi ehi ehi, se non è il signor Stingy in persona. Rusty Rolph è qui per curarti della tua esistenza serrata! Riponi la tua fede nel buon vecchio Rusty!"
+    },
+    {
+      "k": 4779,
+      "v": "Ciao amico. È tutto bello e arrugginito con te? Hehe! Ho di nuovo incredibili Offerte con me e sono sicuro che questa volta potremo raggiungere un affare molto migliore per me... ehm “noi”."
+    },
+    {
+      "k": 4780,
+      "v": "Certo come sparare, è tornato di nuovo! Il favoloso, unico, incredibilmente affascinante: Rusty Rolph! E davvero speciale, solo per te! Sì, né Tempesta di sabbia né nuvola tossica né predone assetato di sangue possono impedirmi di infangare i miei migliori clienti ... eh, naturalmente intendo dal renderli “felici”."
+    },
+    {
+      "k": 4781,
+      "v": "Fantastico, ho capito che bravo ragazzo sei non appena ti ho visto. Sì, mi sono detto: \"Rolph, sarà un diavolo di un cliente...\". No, dimenticalo: sei il miglior cliente! Credimi fidato Rusty, vedo già il mio futuro d'oro che mi aspetta ... intendo il nostro futuro ... ehi, sì!"
+    },
+    {
+      "k": 4782,
+      "v": "Sapevo che non mi avresti lasciato, il tuo buon vecchio Rusty, sballato proprio così! Siamo semplicemente partiti con il piede sbagliato! Niente che non possa essere risolto di nuovo con, diciamo ... alcuni sussidi!"
+    },
+    {
+      "k": 4783,
+      "v": "Questo è il mio punto, non ci sono due modi per farlo! Il segno di un buon affare! So bene che hai raccolto uno o due trucchi da me, l'incomparabile Rusty Rolph, haha ... sono sicuro di trovare qualche elefante bianco in più nel mio pallone che non ti ho ancora mostrato..."
+    },
+    {
+      "k": 4784,
+      "v": "Hahaha, sapevo per certo di poter contare di nuovo su di te. Riscalda semplicemente il cuore vedere un buon affare. Grande! Il mio cliente abituale del mese, no, no, l'anno! Diamine, di cosa sto parlando? Un mio regolare che non può essere battuto!"
+    },
+    {
+      "k": 4785,
+      "v": "Con quell'Offerta ovviamente non direi di no, nemmeno una possibilità. Voglio solo dire che sembra che tu non conosca ancora il buon vecchio Rusty. No, non fraintendermi. Sto dicendo che questo è solo l'inizio di un'amicizia duratura! I legami che legano devono essere coltivati!"
+    },
+    {
+      "k": 4786,
+      "v": "Caspita, come dovrei metterlo? Non tutti possono essere brillanti come me! È un miglioramento, sì, chiamiamolo miglioramento. Da uno scarafaggio avaro piccolissimo a un salvadanaio frugale. Ma non preoccuparti. Sono il grande Rusty, troverò il tuo punto debole!"
+    },
+    {
+      "k": 4787,
+      "v": "Haaah ... Cosa? No! Non sono minimamente deluso! Il grande Rusty non sarebbe mai rimasto deluso alla luce di uno scambio chiaramente equo per entrambe le parti! Haha, non mi vedi ridere ?! Sono naturalmente contento come un pugno ..."
+    },
+    {
+      "k": 4788,
+      "v": "E ancora una volta brillante come un chiodo Rusty ha chiuso una favolosa dia ... Un secondo. Sei sicuro di quell'Offerta? No, no, non c'è niente che non va. Veramente. Un commercio buono ed... equo..."
+    },
+    {
+      "k": 4789,
+      "v": "Basta basta! Non vogliamo affrettare le cose qui, vero ?! Voglio dire, guardami. Sono il grande Rusty Rolph. Sono il tuo glorioso futuro pieno di rottami ... Ok, salta l'ultima riga!"
+    },
+    {
+      "k": 4790,
+      "v": "Hahaha. Siamo di nuovo avari, no? Fai un altro tentativo! Finché un sorriso non fa oscillare questi baffi, il geniale e unico Rusty Rolph non farà alcun patto con te!"
+    },
+    {
+      "k": 4791,
+      "v": "Che cosa? No! Non c'e 'modo ... Un secondo. Fammi solo ... Hmmm? No, non contava male, dopotutto. Ma ... ma ... non può essere giusto. Sono il tuo amico, giusto? Il grande Rusty Rolph! Deve esserci spazio per di più, non è vero?"
+    },
+    {
+      "k": 4792,
+      "v": "Un secondo ... qualcosa non funziona. Haha, uno scherzo, stai facendo un brutto scherzo! Questo è il kicker, giusto? Non proveresti mai a ingannare il buon vecchio Rusty in quel modo, vero? Voglio dire, siamo amici, amici, ... compagni di radiazioni. Dopo tutto, sono io, buon vecchio Rolph!"
+    },
+    {
+      "k": 4793,
+      "v": "Lo giuro sulla tomba di mia madre ... ok, mia madre non ha mai avuto una tomba a Endzone! Ma sei deciso a rovinarmi? !!! Ho un'intera famiglia da sfamare! Me!"
+    },
+    {
+      "k": 4794,
+      "v": "Fallimento! Tu ... tu vuoi davvero e veramente essere la mia rovina. Io, il buon vecchio Rusty, che ti ho cresciuto come la sua stessa carne e il suo sangue. No, non un'altra parola. L'unica cosa che può salvare questa relazione ora è un miracolo!"
+    },
+    {
+      "k": 4795,
+      "v": "Mio nonno diceva sempre: “Rusty, i baffi ben curati rallegra un uomo, ma ci vuole un accordo a mani libere prima che le tue spese siano pagate.” Sai quante volte devo pettinare questo miracolo della natura? Per non parlare del grasso di cinghiale per mantenere la forma! Dai, dai una mano al buon vecchio Rusty!"
+    },
+    {
+      "k": 4796,
+      "v": "Per i peli dei miei baffi! Io, il grande e unico Rusty Rolph, sono costretto a denunciare il primo caso di follia radioattiva, e di tutte le persone è il mio miglior cliente."
+    },
+    {
+      "k": 4797,
+      "v": "Ciao! Sono Susan Melfi, meteorologa e commessa di volo per un numero versatile di ... ehm .... versatilità! Ho tutta una serie di cose di cui il tuo insediamento può sicuramente fare buon uso! Forse potremmo fare degli affari, eh ?!"
+    },
+    {
+      "k": 4798,
+      "v": "Ciao! Ero di passaggio e ho ancora un po 'di spazio nel mio ... ehm ... arioso magazzino. Se qualcosa ti interessa forse possiamo fare un baratto. Altrimenti volerò via!"
+    },
+    {
+      "k": 4799,
+      "v": "Ciao! Sono Susan Melfi, meteorologa e commessa di volo per un versatile ... Oh! Ne abbiamo già avuto uno, giusto? Mi scuso, ma vado davvero molto in giro. Ed è per questo che anche oggi ho molte cose con me! Prenditi il tuo tempo e dai un'occhiata!"
+    },
+    {
+      "k": 4800,
+      "v": "Ti auguro una bella giornata! Sono contento di essere di nuovo qui. Ho preparato un'intera gamma di ... ehm ... cose fantastiche per te! Dai un'occhiata e vedi se ti interessa qualcosa!"
+    },
+    {
+      "k": 4801,
+      "v": "Sembra una buona offerta, amico mio! Se riusciamo a metterci d'accordo su questo accordo, in futuro forse porterò anche con me utile ... ehm ... altra merce meravigliosa per te!"
+    },
+    {
+      "k": 4802,
+      "v": "Hmm ... Sembra un'offerta incredibilmente buona! Devo ammettere che non me lo sarei aspettato! Forse dovrei venire qui più spesso, dopotutto! Quanto a me, possiamo accettare volentieri questo accordo e... ehm... negoziarlo!"
+    },
+    {
+      "k": 4803,
+      "v": "Sembra un affare favoloso. Sapevo che sarebbe stata una buona idea passare di nuovo qui! Se riusciamo a concordare questo scambio di baratto, farò in modo di riservare alcuni dei miei migliori articoli per te!"
+    },
+    {
+      "k": 4804,
+      "v": "Fantastico! È un dato di fatto che si possono sempre fare buoni affari con te! Se continua così, presto non avrò più bisogno di altri clienti! Possiamo stringere la mano su questo accordo?"
+    },
+    {
+      "k": 4805,
+      "v": "Sarei disposto ad accettarlo. Mi sembra che sarebbe stata una buona idea atterrare qui. Penso che se riesco a concludere affari così meravigliosi... ehm... davvero ottimi qui, allora passerò più spesso. Possiamo scuoterci su questo?"
+    },
+    {
+      "k": 4806,
+      "v": "Sono contento che tu abbia trovato qualcosa. In questo modo entrambi possiamo rifornire un po 'le nostre scorte prima che io vada avanti. Sarei disposto ad accettarlo."
+    },
+    {
+      "k": 4807,
+      "v": "Di volta in volta, sempre un piacere concludere un affare con persone ragionevoli! Penso che entrambi ce la faremmo bene con questo accordo, vero?"
+    },
+    {
+      "k": 4808,
+      "v": "Sarebbe un ottimo affare! Il nostro rapporto d'affari è davvero un grande vantaggio per entrambe le parti! Accetterei un baratto del genere!"
+    },
+    {
+      "k": 4809,
+      "v": "Questa offerta è davvero un po 'avari ... Ma ho capito! A volte le cose non stanno andando troppo bene e non c'è molto da risparmiare. So che dall'insediamento da cui vengo ... Credimi! Se è così che deve essere, allora direi che facciamolo."
+    },
+    {
+      "k": 4810,
+      "v": "Mio mio, devo dire ... È davvero difficile fare affari redditizi in questo insediamento! Ma va bene! Posso accettarlo se davvero non puoi risparmiare di più."
+    },
+    {
+      "k": 4811,
+      "v": "Le cose non stanno andando troppo bene nel tuo accordo in questo momento? Non è esattamente molto per quello che ti ho offerto. Ma alla fine funzionerà, solo che non dovrebbe accadere troppo spesso! Dobbiamo chiudere questo accordo?"
+    },
+    {
+      "k": 4812,
+      "v": "In circostanze normali rifiuterei qualcosa del genere ... Ma anche in passato mi hai trattato correttamente. Accetto l'offerta e spero che i miei beni siano in grado di aiutarti, amico mio!"
+    },
+    {
+      "k": 4813,
+      "v": "Hmm ... mi dispiace, ma in questo tipo di circostanze non posso fare alcun accordo di baratto con te. Per favore, non fraintendetemi, ma se voglio continuare a gestire la mia attività devo fare in modo che almeno realizzi un piccolo profitto."
+    },
+    {
+      "k": 4814,
+      "v": "Non c'è assolutamente alcun modo che funzioni! Non una possibilità! Non posso nemmeno più pagare il carburante con quello. Non ho intenzione di concludere nessun accordo commerciale di baratto del genere con te!"
+    },
+    {
+      "k": 4815,
+      "v": "Scusa, ma non posso permettermi di fare un accordo del genere. Anche io devo vedere come tengo questa mongolfiera in aria e in volo ... Se non mi accontenti un po 'di più qui, allora purtroppo dovrò volare di nuovo senza che ci occupiamo di nulla."
+    },
+    {
+      "k": 4816,
+      "v": "Mi piacerebbe davvero aiutarti, ma semplicemente non posso accettare un'offerta del genere. Non hai nient'altro che puoi aggiungere in cima? Perché questo qui non è davvero e davvero abbastanza!"
+    },
+    {
+      "k": 4817,
+      "v": "Ole Sørensen"
+    },
+    {
+      "k": 4818,
+      "v": "Ole Sørensen, al tuo servizio! Vendiamo prodotti alimentari e acqua della migliore qualità e quantità. Soprattutto oggigiorno puoi usare tutte queste prelibatezze per trasformare il tuo insediamento in un piccolo posto in cui vale la pena vivere!"
+    },
+    {
+      "k": 4819,
+      "v": "Ho pensato che ci saremmo fermati di nuovo e offrire ancora una volta la nostra merce. Le ultime volte gli affari non erano particolarmente promettenti, ma non sai mai in cosa potresti ancora imbatterti."
+    },
+    {
+      "k": 4820,
+      "v": "Saluti da quassù! Ole Sørensen è tornato in città con alcune prelibatezze esotiche che aspettano di essere disfatte! Dopotutto, se la memoria mi serve, qui ci sono sempre stati alcuni buoni acquirenti per la nostra merce, giusto?"
+    },
+    {
+      "k": 4821,
+      "v": "Ole Sørensen sbarca ancora una volta in questa splendida oasi di gente colta in cucina! Oggi abbiamo in offerta un'intera gamma di prelibatezze commestibili! Assortito appositamente per te."
+    },
+    {
+      "k": 4822,
+      "v": "Questo caso qui si occupa davvero di un vero gourmet! Se lo avessi saputo prima, saremmo già venuti qui più spesso. Ole Sørensen sarebbe disposto ad accettare questo accordo!"
+    },
+    {
+      "k": 4823,
+      "v": "Alcune prelibatezze hanno anche quello che serve per scacciare il cattivo umore! Se riusciamo a concordare questo accordo, guarderò e vedrò se siamo anche in grado di fornirti le cose che solo i nostri migliori clienti ricevono."
+    },
+    {
+      "k": 4824,
+      "v": "Di volta in volta, Ole Sørensen è sempre felice quando i suoi prodotti incontrano l'approvazione. Finalmente qualcuno che apprezza una buona selezione! Dobbiamo concludere l'affare adesso?"
+    },
+    {
+      "k": 4825,
+      "v": "Questo è ancora il mio posto preferito in cui venire! Se possiamo essere d'accordo sui termini, mi piacerebbe brindare a questo accordo con te! E anche il drink è su di me!"
+    },
+    {
+      "k": 4826,
+      "v": "Ole Sørensen è lieto di poter fare affari con te! Penso che passerò di tanto in tanto in futuro se riusciamo a trovare un accordo su questo accordo."
+    },
+    {
+      "k": 4827,
+      "v": "Per me va bene. Almeno non è così grave come l'ultima volta. Sarei disposto ad accettare questa offerta!"
+    },
+    {
+      "k": 4828,
+      "v": "Sono contento di poter fare affari con te! In questo modo, dopotutto, tutti gli alimenti entrano in quelle bocche affamate! Possiamo scuoterlo?"
+    },
+    {
+      "k": 4829,
+      "v": "Grande! Siamo veramente contenti che la nostra offerta in offerta incontri questo tipo di approvazione! Ole Sørensen sarebbe pronto a concludere questo accordo di scambio! Sei pronto anche tu?"
+    },
+    {
+      "k": 4830,
+      "v": "Harrumph... È quanto di più snello possibile... ma va bene, oggi sono di buon umore. Oggi sarei disposto ad accettare questo accordo!"
+    },
+    {
+      "k": 4831,
+      "v": "Come dovrebbe Ole Sørensen mantenere la sua attività quando portano sempre a un affare così duro qui? Bene, ok... Se è così che deve essere, accetto l'accordo. Dovremmo scuoterlo?"
+    },
+    {
+      "k": 4832,
+      "v": "Un accordo! Non particolarmente buono per come la vedo io, ma un affare è un affare! Ole Sørensen dovrebbe firmare da qualche parte?"
+    },
+    {
+      "k": 4833,
+      "v": "Normalmente non farei qualcosa del genere, ma dato che sei un buon amico di Ole Sørensen, oggi guarderemo dall'altra parte! Ma solo oggi! Ti va bene?"
+    },
+    {
+      "k": 4834,
+      "v": "No no no! Non è un modo per negoziare con Ole Sørensen! Per arrivare ovunque dovrai offrirmi qualcos'altro in più!"
+    },
+    {
+      "k": 4835,
+      "v": "Assolutamente inaccettabile! Ole Sørensen ti ha già fatto scappare troppo le ultime volte! In queste circostanze non c'è accordo!"
+    },
+    {
+      "k": 4836,
+      "v": "Ole Sørensen non è in grado di accettarlo! Non hai nient'altro da aggiungere?"
+    },
+    {
+      "k": 4837,
+      "v": "Ole Sørensen è un tuo buon amico! Allora come puoi fargli un'offerta come questa? Vuoi fare di me un uomo povero?"
+    },
+    {
+      "k": 4838,
+      "v": "Lizzy Rasmus"
+    },
+    {
+      "k": 4839,
+      "v": "Ehi, spero che questo squallido accordo abbia cose con cui posso fare qualcosa. In ogni caso, è il tuo giorno fortunato perché Lizzy Rasmus ha esattamente quello che cercate voi piccoli vermi pietosi."
+    },
+    {
+      "k": 4840,
+      "v": "Campane dell'inferno, ora sono finito di nuovo in questa discarica! L'ultima volta che le trattative mi hanno lasciato rigorosamente in rosso. Ma va bene, ora che sono qui posso almeno strapparti qualche cosa in più!"
+    },
+    {
+      "k": 4841,
+      "v": "Bah... non è davvero uno spettacolo per gli occhi irritati da quassù. Ma se sei di passaggio puoi fermarti qui. Almeno voi persone pagate a metà decentemente!"
+    },
+    {
+      "k": 4842,
+      "v": "Che succede, piccoli ciechi sapientoni? È molto tempo che non ci si vede? Non è affatto vero. Come vanno le cose con te? Spero che tu abbia voglia di una festa, perché Lizzy ha un sacco di cose giuste con lei!"
+    },
+    {
+      "k": 4843,
+      "v": "Bene, possiamo risolvere qualcosa con quello! Anche se le tue tazze sono uno spettacolo spaventoso, quello che c'è dentro mette le cose a posto. Rimani fedele a quello che stai facendo e Lizzy verrà a trovarti di nuovo."
+    },
+    {
+      "k": 4844,
+      "v": "Aha! Qualcuno vuole scusarsi? L'ultima volta ti ho chiaramente lasciato andare troppo facilmente! Questa offerta qui è almeno un passo nella giusta direzione..."
+    },
+    {
+      "k": 4845,
+      "v": "È accettabile! Con un'offerta come questa, in ogni caso, vi siete procurati la possibilità che io metta da parte qualcosa per voi alla prossima incursione... Ma non è una promessa, quindi non sfidate la fortuna!"
+    },
+    {
+      "k": 4846,
+      "v": "Bene, ora c'è qualcuno con un tocco generoso. Attento a non vendermi la maglietta di dosso! Continua e volerò più spesso dalle tue baracche fatiscenti."
+    },
+    {
+      "k": 4847,
+      "v": "Non stai proprio facendo la migliore impressione. Con quelle facce lunghe è già più basso che mai. Andiamo, ficcate quella roba qui prima che ci ripensi!"
+    },
+    {
+      "k": 4848,
+      "v": "Per quello che mi importa. Ma la prossima volta dovresti aggiungere qualcosa sopra. In questo modo tutto quello che stai facendo mi sta annoiando."
+    },
+    {
+      "k": 4849,
+      "v": "Beh, dire che sono felice sarebbe un punto in più. Ma è meglio di niente. Dai, consegnalo!"
+    },
+    {
+      "k": 4850,
+      "v": "Aaah ... per quel che mi importa. Affare. Ma la prossima volta ne metterai di nuovo sul tavolo, altrimenti ci saranno problemi!"
+    },
+    {
+      "k": 4851,
+      "v": "Pfff ... cosa dovrebbe essere ?! Non ho più avuto un'offerta ridicola del genere da un po 'di tempo. È il tuo giorno fortunato, perché non mi sarebbe dispiaciuto prendere qualche schiavo per l'avvio. Anche se ... nooo, tutto quello che fanno è lamentarsi troppo per i miei gusti."
+    },
+    {
+      "k": 4852,
+      "v": "Cosa ti ha fatto pensare di potermi offrire spazzatura come questa ?! Fortunatamente ho ancora qualche altro accordo sulla mia lista. Altrimenti sono dell'umore giusto per mostrarti cosa è cosa."
+    },
+    {
+      "k": 4853,
+      "v": "Che razza di miserabile mucchietto mi proponi di guardare qui ?! C'è stato un tempo in cui avevamo superato tutto questo..."
+    },
+    {
+      "k": 4854,
+      "v": "In circostanze normali rifiuterei schifezze come queste... ma in qualche modo le tue tazze sfigurate tirano fuori la madre che è in me. Che queste sciocchezze dal cuore tenero escano dalla mia bocca... sto perdendo il mio tocco."
+    },
+    {
+      "k": 4855,
+      "v": "Che razza di oltraggio è questa? Vengo fin qui e questo è tutto quello che hai da offrirmi? ... Attento che non ti fischierò alle mie sorelle. Ti lasceranno fuori molto meno facilmente!"
+    },
+    {
+      "k": 4856,
+      "v": "Bah… * sputa per terra * Dici sul serio? Hai idea con chi hai a che fare qui ?! Non sorprenderti quando presto alcune delle tue stupide capanne andranno a fuoco ..."
+    },
+    {
+      "k": 4857,
+      "v": "Hah, tesoro! Pensi che solo perché abbiamo avuto alcune trattative che sono andate bene, avrei scelto questo tipo di sciocchezze? Non con me! Dovrai trovare un affare migliore!"
+    },
+    {
+      "k": 4858,
+      "v": "Se questo non fosse uno scherzo così brutto potrei riderci sopra... Ma tutto sommato, dovrai impegnarti un po' di più!"
+    },
+    {
+      "k": 4859,
+      "v": "Equità"
+    },
+    {
+      "k": 4864,
+      "v": "Risorse scambiate nel più recente contratto di scambio"
+    },
+    {
+      "k": 4865,
+      "v": "Scegli il prossimo commerciante"
+    },
+    {
+      "k": 4866,
+      "v": "Scegli il commerciante precedente"
+    },
+    {
+      "k": 4867,
+      "v": "Queste risorse sono state scambiate nel più recente accordo di scambio tra te e il commerciante."
+    },
+    {
+      "k": 4868,
+      "v": "Scegli questa opzione per assicurarti che il prossimo Trader nell'elenco visiterà il tuo insediamento."
+    },
+    {
+      "k": 4869,
+      "v": "Scegli questa opzione per assicurarti che il trader precedente nell'elenco visiterà il tuo insediamento."
+    },
+    {
+      "k": 4870,
+      "v": "Risorse consegnate nel più recente contratto di scambio"
+    },
+    {
+      "k": 4871,
+      "v": "Hai pagato il commerciante con queste risorse nel tuo più recente contratto di scambio."
+    },
+    {
+      "k": 4872,
+      "v": "Risorse ottenute nel più recente contratto di scambio"
+    },
+    {
+      "k": 4873,
+      "v": "Hai acquistato queste risorse dal commerciante nel tuo più recente contratto di scambio."
+    },
+    {
+      "k": 4874,
+      "v": "L'opinione che questo trader ha del tuo accordo. Migliore è l'opinione del trader, migliori saranno le risorse che il trader ti offrirà."
+    },
+    {
+      "k": 4875,
+      "v": "Annulla il contratto di scambio in corso"
+    },
+    {
+      "k": 4876,
+      "v": "Raccolta di risorse"
+    },
+    {
+      "k": 4877,
+      "v": "Annulla l'attuale contratto di scambio. Nessuna risorsa verrà scambiata."
+    },
+    {
+      "k": 4878,
+      "v": "Le risorse che dovrebbero essere consegnate al Commerciante vengono raccolte dai tuoi Logisti."
+    },
+    {
+      "k": 4884,
+      "v": "Modalità cursore"
+    },
+    {
+      "k": 4885,
+      "v": "Nessuna restrizione"
+    },
+    {
+      "k": 4886,
+      "v": "Limitato alla finestra"
     }
   ]
 }
