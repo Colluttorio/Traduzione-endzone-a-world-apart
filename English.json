@@ -379,7 +379,7 @@
     },
     {
       "k": 4683,
-      "v": "Buffalo"
+      "v": "Bufalo"
     },
     {
       "k": 4684,
@@ -955,7 +955,7 @@
     },
     {
       "k": 3001,
-      "v": "Un magazzino espanso che è in grado di immagazzinare una varietà di risorse e ha un sacco di spazio di archiviazione. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un magazzino espanso che è in grado di immagazzinare una varietà di risorse e ha un sacco di spazio di stoccaggio. Questo edificio non può essere utilizzato per raccogliere acqua."
     },
     {
       "k": 307,
@@ -1027,7 +1027,7 @@
     },
     {
       "k": 322,
-      "v": "Uno deposito rotami raccoglie rottami tra le rovine nei suoi immediati dintorni."
+      "v": "Uno deposito rottami raccoglie rottami tra le rovine nei suoi immediati dintorni."
     },
     {
       "k": 323,
@@ -1107,7 +1107,7 @@
     },
     {
       "k": 3002,
-      "v": "Uno Raccoglitore di rottami cattura piccole quantità di rottame che girano intorno. Ciò si verifica in modo particolarmente efficace durante le Tempeste di Sabbia. Uno Deposito rotami è necessario per trasportare via lo Scarto catturato e portarlo da qualche parte."
+      "v": "Uno Raccoglitore di rottami cattura piccole quantità di rottame che girano intorno. Ciò si verifica in modo particolarmente efficace durante le Tempeste di Sabbia. Uno Deposito rottami è necessario per trasportare via lo Scarto catturato e portarlo da qualche parte."
     },
     {
       "k": 3003,
@@ -1875,7 +1875,7 @@
     },
     {
       "k": 445,
-      "v": "Archiviazione"
+      "v": "stoccaggio"
     },
     {
       "k": 920,
@@ -2007,7 +2007,7 @@
     },
     {
       "k": 454,
-      "v": "La capacità di archiviazione in questo edificio sta per esaurirsi"
+      "v": "La capacità di stoccaggio in questo edificio sta per esaurirsi"
     },
     {
       "k": 516,
@@ -2027,7 +2027,7 @@
     },
     {
       "k": 2870,
-      "v": "Archiviazione a piena capacità"
+      "v": "stoccaggio a piena capacità"
     },
     {
       "k": 2871,
@@ -2251,7 +2251,7 @@
     },
     {
       "k": 2867,
-      "v": "Panoramica archiviazione"
+      "v": "Panoramica stoccaggio"
     },
     {
       "k": 2885,
@@ -2359,7 +2359,7 @@
     },
     {
       "k": 2975,
-      "v": "Archiviazione"
+      "v": "stoccaggio"
     },
     {
       "k": 2976,
@@ -3431,7 +3431,7 @@
     },
     {
       "k": 1307,
-      "v": "Deposito di archiviazione"
+      "v": "Deposito di stoccaggio"
     },
     {
       "k": 1308,
@@ -4195,7 +4195,7 @@
     },
     {
       "k": 1147,
-      "v": "Lo stato di archiviazione di tutte le unità di memoria di alimentazione in questa rete elettrica in percentuale."
+      "v": "Lo stato di stoccaggio di tutte le unità di memoria di alimentazione in questa rete elettrica in percentuale."
     },
     {
       "k": 1148,
@@ -4703,7 +4703,7 @@
     },
     {
       "k": 3806,
-      "v": "Distintivo di minatore"			   
+      "v": "Distintivo di minatore"
     },
 	{
       "k": 3811,
@@ -4847,7 +4847,7 @@
     },
     {
       "k": 855,
-      "v": "La capacità di archiviazione si sta esaurendo"
+      "v": "La capacità di stoccaggio si sta esaurendo"
     },
     {
       "k": 923,
@@ -5635,7 +5635,7 @@
     },
     {
       "k": 1005,
-      "v": "Diminuisci di 100"					  
+      "v": "Diminuisci di 100"
     },
 	{
       "k": 4530,
@@ -6251,11 +6251,11 @@
     },
     {
       "k": 2333,
-      "v": "Questa rovina richiede il salvataggio di un Deposito rotami."
+      "v": "Questa rovina richiede il salvataggio di un Deposito rottami."
     },
     {
       "k": 2334,
-      "v": "I nostri esploratori hanno fatto tutto il possibile qui. Potremmo salvare i resti della rovina con un Deposito rotami ora."
+      "v": "I nostri esploratori hanno fatto tutto il possibile qui. Potremmo salvare i resti della rovina con un Deposito rottami ora."
     },
     {
       "k": 2335,
@@ -6451,7 +6451,7 @@
     },
     {
       "k": 875,
-      "v": "Rovina deposito di archiviazione"
+      "v": "Rovina deposito di stoccaggio"
     },
     {
       "k": 876,
@@ -6503,7 +6503,7 @@
     },
     {
       "k": 835,
-      "v": "Scrofa"			   
+      "v": "Scrofa"
     },
 	{
       "k": 4670,
@@ -8011,7 +8011,7 @@
     },
     {
       "k": 1875,
-      "v": "Il deposito di rottami <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Collezionisti di Rottame. I collezionisti di Rottame raccolgono il Rottame situato nel loro <link=\"1\"><style=\"DefaultLink\">area di lavoro assegnata</style> </link>. Collezionista di rottami funziona in modo più efficiente quando Deposito rotami <link =\"1\"><style=\"DefaultLink\">è collocato nelle vicinanze</style> </link> di diverse Mucchio di rottami o Rovine di scarto."
+      "v": "Il deposito di rottami <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Collezionisti di Rottame. I collezionisti di Rottame raccolgono il Rottame situato nel loro <link=\"1\"><style=\"DefaultLink\">area di lavoro assegnata</style> </link>. Collezionista di rottami funziona in modo più efficiente quando Deposito rottami <link =\"1\"><style=\"DefaultLink\">è collocato nelle vicinanze</style> </link> di diverse Mucchio di rottami o Rovine di scarto."
     },
     {
       "k": 1876,
@@ -8123,11 +8123,11 @@
     },
     {
       "k": 1262,
-      "v": "Archiviazione"
+      "v": "Stoccaggio"
     },
     {
       "k": 1890,
-      "v": "Archiviazione"
+      "v": "Stoccaggio"
     },
     {
       "k": 1891,
@@ -8187,7 +8187,7 @@
     },
     {
       "k": 2662,
-      "v": "Il centro città può essere aggiornato fino a due volte. Ogni potenziamento aumenta la capacità di archiviazione del centro città."
+      "v": "Il centro città può essere aggiornato fino a due volte. Ogni potenziamento aumenta la capacità di stoccaggio del centro città."
     },
     {
       "k": 2663,
@@ -8503,7 +8503,7 @@
     },
     {
       "k": 1389,
-      "v": "Reparto di archiviazione"
+      "v": "Reparto di stoccaggio"
     },
     {
       "k": 1390,
@@ -8983,15 +8983,15 @@
     },
     {
       "k": 1647,
-      "v": "Benvenuti nella nostra storia di prova. Questa storia serve per il debug dei benefattori e delle azioni usate in altre storie."
+      "v": "Benvenuti nella nostra storia di prova. Questa storia serve per il debug dei vantaggi e delle azioni usate in altre storie."
     },
     {
       "k": 1648,
-      "v": "Benefattori"
+      "v": "Vantaggi"
     },
     {
       "k": 1649,
-      "v": "Qui puoi testare i benefattori. Ogni opzione rappresenta un benefattore. Le opzioni al 100% rappresentano un benefattore soddisfatto."
+      "v": "Qui puoi testare i vantaggi. Ogni opzione rappresenta un vantaggio. Le opzioni al 100% rappresentano un vantaggio soddisfatto."
     },
     {
       "k": 1650,
@@ -8999,35 +8999,35 @@
     },
     {
       "k": 1651,
-      "v": "Benefattore di successo"
+      "v": "Vantaggio del successo"
     },
     {
       "k": 1652,
-      "v": "Questo rappresenta il benefattore del successo"
+      "v": "Questo rappresenta il vantaggio del successo"
     },
     {
       "k": 1653,
-      "v": "The Achievement Benefactor ha reso questo successo"
+      "v": "Il vantaggio dei risultati ha reso questo successo"
     },
     {
       "k": 1654,
-      "v": "The Achievement Benefactor ha reso questo fallimento"
+      "v": "Il vantaggio dei risultati ha reso questo fallimento"
     },
     {
       "k": 1655,
-      "v": "Benefattore dell'istruzione"
+      "v": "Vantaggio dell'istruzione"
     },
     {
       "k": 1656,
-      "v": "Rappresenta il benefattore dell'educazione"
+      "v": "Rappresenta il vantaggio dell'educazione"
     },
     {
       "k": 1657,
-      "v": "Il benefattore dell'istruzione ha reso questo successo"
+      "v": "Il vantaggio dell'istruzione ha reso questo successo"
     },
     {
       "k": 1658,
-      "v": "Il benefattore dell'istruzione ha fatto fallire"
+      "v": "Il vantaggio dell'istruzione ha fatto fallire"
     },
     {
       "k": 1659,
@@ -9039,95 +9039,95 @@
     },
     {
       "k": 1661,
-      "v": "Tool Benefactor ha reso questo successo"
+      "v": "Strumento vantaggioso ha reso questo successo"
     },
     {
       "k": 1662,
-      "v": "Tool Benefactor ha fatto fallire"
+      "v": "Strumento vantaggioso ha fatto fallire"
     },
     {
       "k": 1663,
-      "v": "Benefattore di radioprotezione"
+      "v": "Vantaggio delle radioprotezioni"
     },
     {
       "k": 1664,
-      "v": "Rappresenta il benefattore di radioprotezione"
+      "v": "Rappresenta il vantaggio di radioprotezione"
     },
     {
       "k": 1665,
-      "v": "Il benefattore di radioprotezione ha reso questo successo"
+      "v": "Il vantaggio di radioprotezione ha reso questo successo"
     },
     {
       "k": 1666,
-      "v": "Il benefattore di radioprotezione ha fatto fallire"
+      "v": "Il vantaggio di radioprotezione ha fatto fallire"
     },
     {
       "k": 1667,
-      "v": "Benefattore familiare"
+      "v": "Vantaggio familiare"
     },
     {
       "k": 1668,
-      "v": "Questo rappresenta il benefattore familiare"
+      "v": "Questo rappresenta il vantaggio familiare"
     },
     {
       "k": 1669,
-      "v": "Il Benefattore familiare ha reso questo successo"
+      "v": "Il vantaggio familiare ha reso questo successo"
     },
     {
       "k": 1670,
-      "v": "Il Benefattore familiare ha fallito"
+      "v": "Il vantaggio familiare ha fallito"
     },
     {
       "k": 1671,
-      "v": "Benefattore dello stato di salute"
+      "v": "vantaggio dello stato di salute"
     },
     {
       "k": 1672,
-      "v": "Rappresenta il benefattore dello stato di salute"
+      "v": "Rappresenta il vantaggio dello stato di salute"
     },
     {
       "k": 1673,
-      "v": "Il benefattore dello stato di salute ha reso questo successo"
+      "v": "Il vantaggio dello stato di salute ha reso questo successo"
     },
     {
       "k": 1674,
-      "v": "Il benefattore dello stato di salute ha fatto fallire"
+      "v": "Il vantaggio dello stato di salute ha fatto fallire"
     },
     {
       "k": 1675,
-      "v": "Benefattore dello stato di felicità"
+      "v": "Vantaggio dello stato di felicità"
     },
     {
       "k": 1676,
-      "v": "Questo rappresenta il benefattore dello stato di felicità"
+      "v": "Questo rappresenta il vantaggio dello stato di felicità"
     },
     {
       "k": 1677,
-      "v": "Il benefattore dello stato di felicità ha reso questo successo"
+      "v": "Il vantaggio dello stato di felicità ha reso questo successo"
     },
     {
       "k": 1678,
-      "v": "Il benefattore dello stato di felicità ha fatto fallire"
+      "v": "Il vantaggio dello stato di felicità ha fatto fallire"
     },
     {
       "k": 1679,
-      "v": "Benefattore dello stato delle radiazioni"
+      "v": "Vantaggio dello stato delle radiazioni"
     },
     {
       "k": 1680,
-      "v": "Rappresenta il benefattore dello stato delle radiazioni"
+      "v": "Rappresenta il vantaggio dello stato delle radiazioni"
     },
     {
       "k": 1681,
-      "v": "Il benefattore dello stato delle radiazioni ha reso questo successo"
+      "v": "Il vantaggio dello stato delle radiazioni ha reso questo successo"
     },
     {
       "k": 1682,
-      "v": "Il benefattore dello stato delle radiazioni ha fatto fallire"
+      "v": "Il vantaggio dello stato delle radiazioni ha fatto fallire"
     },
     {
       "k": 1683,
-      "v": "Benefattore di età"
+      "v": "Vantaggio dell'età"
     },
     {
       "k": 1684,
@@ -9135,11 +9135,11 @@
     },
     {
       "k": 1685,
-      "v": "Il benefattore di età ha reso questo successo"
+      "v": "Il vantaggio di età ha reso questo successo"
     },
     {
       "k": 1686,
-      "v": "Il benefattore di età ha fallito"
+      "v": "Il vantaggio di età ha fallito"
     },
     {
       "k": 1687,
@@ -9147,31 +9147,31 @@
     },
     {
       "k": 1688,
-      "v": "Rappresenta il benefattore della professione"
+      "v": "Rappresenta il vantaggio della professione"
     },
     {
       "k": 1689,
-      "v": "Il benefattore della professione ha reso questo successo"
+      "v": "Il vantaggio della professione ha reso questo successo"
     },
     {
       "k": 1690,
-      "v": "Il benefattore della professione ha fallito"
+      "v": "Il vantaggio della professione ha fallito"
     },
     {
       "k": 1691,
-      "v": "Benefattore delle risorse"
+      "v": "Vantaggio delle risorse"
     },
     {
       "k": 1692,
-      "v": "Rappresenta il benefattore delle risorse"
+      "v": "Rappresenta il vantaggio delle risorse"
     },
     {
       "k": 1693,
-      "v": "Il Benefattore delle risorse ha reso questo successo"
+      "v": "Il vantaggio delle risorse ha reso questo successo"
     },
     {
       "k": 1694,
-      "v": "Il Benefattore delle risorse ha fatto fallire"
+      "v": "Il vantaggio delle risorse ha fatto fallire"
     },
     {
       "k": 1695,
@@ -9355,7 +9355,7 @@
     },
     {
       "k": 1515,
-      "v": "<b>1. Raccolta dati utilizzando Stomt </b>"
+      "v": "<b>I. Raccolta dati utilizzando Stomt </b>"
     },
     {
       "k": 1516,
@@ -13375,7 +13375,7 @@
     },
     {
       "k": 2362,
-      "v": "Molto buono! <link=\"6\"><style=\"DefaultLink\">il molo</style></link> è stato completato come previsto. Ora abbiamo un posto dove possiamo raccogliere Acqua. Esistono anche altre possibilità per raccogliere l'acqua, ma il molo è il metodo più semplice ed economico."
+      "v": "Molto buono! <link=\"6\"><style=\"DefaultLink\">Il molo</style></link> è stato completato come previsto. Ora abbiamo un posto dove possiamo raccogliere Acqua. Esistono anche altre possibilità per raccogliere l'acqua, ma il molo è il metodo più semplice ed economico."
     },
     {
       "k": 2363,
@@ -13455,15 +13455,15 @@
     },
     {
       "k": 2379,
-      "v": "Molto bene! Ora dovremmo occuparci della raccolta di <link=\"15\"><style=\"DefaultLink\">Rottami</style></link>. Lo scarto è uno dei nostri più risorse preziose, poiché le quantità presenti sono limitate e possiamo recuperare altre risorse da Rottami. A differenza delle attività che abbiamo appena svolto, <link=\"15\"><style=\"DefaultLink\">Deposito rotami</style></link> consente di smantellare grandi quantità di rottami esistenti rispetto a Rovine o Relitti. "
+      "v": "Molto bene! Ora dovremmo occuparci della raccolta di <link=\"15\"><style=\"DefaultLink\">Rottami</style></link>. Lo scarto è uno dei nostri più risorse preziose, poiché le quantità presenti sono limitate e possiamo recuperare altre risorse da Rottami. A differenza delle attività che abbiamo appena svolto, <link=\"15\"><style=\"DefaultLink\">Deposito rottami</style></link> consente di smantellare grandi quantità di rottami esistenti rispetto a Rovine o Relitti. "
     },
     {
       "k": 2380,
-      "v": "Fantastico! Puoi anche modificare l'area di lavoro per il Deposito rotami. Possiamo riciclare Rottami in quattro risorse aggiuntive: <link=\"15\"><style=\"DefaultLink\">Stoffa</style></link>,<link=\"15\"><style=\"DefaultLink\">Metallo</style></link>,<link = \"15\"><style=\"DefaultLink\">Plastica</style></link> e <link=\"15\"><style=\"DefaultLink\">Elettronica</style> </link>. Lo faremo a breve, ma per ora dovremmo prima occuparci delle esigenze dei tuoi coloni. "
+      "v": "Fantastico! Puoi anche modificare l'area di lavoro per il Deposito rottami. Possiamo riciclare Rottami in quattro risorse aggiuntive: <link=\"15\"><style=\"DefaultLink\">Stoffa</style></link>,<link=\"15\"><style=\"DefaultLink\">Metallo</style></link>,<link = \"15\"><style=\"DefaultLink\">Plastica</style></link> e <link=\"15\"><style=\"DefaultLink\">Elettronica</style> </link>. Lo faremo a breve, ma per ora dovremmo prima occuparci delle esigenze dei tuoi coloni. "
     },
     {
       "k": 2381,
-      "v": "Il nostro primo Deposito rotami"
+      "v": "Il nostro primo Deposito rottami"
     },
     {
       "k": 2382,
@@ -13639,7 +13639,7 @@
     },
     {
       "k": 2425,
-      "v": "Molto buono. Il nuovo <link=\"8\"><style=\"DefaultLink\">Centro città</style></link> non solo ci offre più spazio di archiviazione: allo stesso tempo funziona esattamente come un <link=\"8\"><style=\"DefaultLink\">Fuoco da campo</style></link>. I coloni possono visitare il nuovo centro città e, in tal modo, aumentare il loro Fiducia per un po'. Ora che abbiamo fatto sforzi per garantire il benessere spirituale dei nostri coloni, dovremmo occuparci anche della loro salute fisica. "
+      "v": "Molto buono. Il nuovo <link=\"8\"><style=\"DefaultLink\">Centro città</style></link> non solo ci offre più spazio di stoccaggio: allo stesso tempo funziona esattamente come un <link=\"8\"><style=\"DefaultLink\">Fuoco da campo</style></link>. I coloni possono visitare il nuovo centro città e, in tal modo, aumentare il loro Fiducia per un po'. Ora che abbiamo fatto sforzi per garantire il benessere spirituale dei nostri coloni, dovremmo occuparci anche della loro salute fisica. "
     },
     {
       "k": 2426,
@@ -15103,7 +15103,7 @@
     },
 	{
       "k": 4523,
-      "v": "Rusty Rolph"					   
+      "v": "Rusty Rolph"
     },
 	{
       "k": 4753,
@@ -16859,7 +16859,7 @@
     },
     {
       "k": 4467,
-      "v": "Richiede <<amount>> Conoscenza"
+      "v": "Richiede <<amount>> di Conoscenza"
     },
     {
       "k": 4468,
@@ -17799,7 +17799,7 @@
     },
     {
       "k": 4759,
-      "v": "*cough cough*... Aaah! If that isn't my absolutely favorite customer? Sure it is, have faith in Old T. Bara, she knows 'em all! Once again T.Bara's got only her very best stuff along! *cough cough* Take your sweet time, T. Bara's got to quiet down her lungs again..."
+      "v": "*tosse tosse* ...Aaah! Se quello non è il mio cliente preferito in assoluto? Certo che lo è, abbi fede nel vecchio T. Bara, li conosce tutti! Ancora una volta T.Bara ha con sé solo le sue cose migliori! * tosse tosse * Prenditi il tuo tempo dolce, T.Barra deve calmare di nuovo i suoi polmoni..."
     },
     {
       "k": 4760,
