@@ -2,6 +2,10 @@
   "languageID": "English",
   "translations": [
 	{
+      "k": 5239,
+      "v": "Filtri"
+    },
+	{
       "k": 4079,
       "v": "min"
     },
@@ -135,7 +139,19 @@
     },
 	{
       "k": 4894,
-      "v": "Apri la panoramica del tutorial"
+      "v": "Apri la panoramica del tutorial"			 
+    },
+	{
+      "k": 5028,
+      "v": "Animale"
+    },
+    {
+      "k": 5029,
+      "v": "Animali"
+    },
+    {
+      "k": 5154,
+      "v": "Priorità"
     },
     {
       "k": 228,
@@ -391,10 +407,46 @@
     },
     {
       "k": 4686,
+      "v": "Capriolo" 
+    },
+	{
+      "k": 5191,
+      "v": "Capra"
+    },
+    {
+      "k": 5192,
+      "v": "lepre"
+    },
+    {
+      "k": 5193,
+      "v": "Bufalo"
+    },
+    {
+      "k": 5194,
+      "v": "Pollo"
+    },
+    {
+      "k": 5195,
+      "v": "Cinghiale"
+    },
+    {
+      "k": 5196,
       "v": "Capriolo"
     },
     {
-      "k": 880,
+      "k": 5144,
+      "v": "Salsefrica nera"
+    },
+    {
+      "k": 5174,
+      "v": "Torta"
+    },
+    {
+      "k": 5175,
+      "v": "Stufato"
+    },
+    {
+	  "k": 880,
       "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
     },
     {
@@ -649,7 +701,19 @@
       "k": 4703,
       "v": "I polli possono essere tenuti in recinti e riprodotti lì. Depongono le uova e possono essere macellati per fornire carne di pollo."
     },
-    { 
+	{
+      "k": 5145,
+      "v": "La salsefrica nera può essere raccolta dai campi."
+    },
+    {
+      "k": 5176,
+      "v": "La torta può essere prodotta dal cibo convenzionale in una cucina. I coloni che consumano la torta aumentano la loro fiducia mangiandola."
+    },
+    {
+      "k": 5177,
+      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano stufato migliorano la loro salute nel processo."
+    },
+    {
       "k": 267,
       "v": "Casa"
     },
@@ -915,7 +979,19 @@
     },
     {
       "k": 4744,
-      "v": "Pascolo"
+      "v": "Pascolo"					
+    },
+	{
+      "k": 5136,
+      "v": "Dispensario alimentare"
+    },
+    {
+      "k": 5228,
+      "v": "Pompa dell'acqua elettrica"
+    },
+    {
+      "k": 5229,
+      "v": "Punto d'acqua"
     },
     {
       "k": 301,
@@ -1151,7 +1227,19 @@
     },
     {
       "k": 4745,
-      "v": "Gli animali sono tenuti a pascolare sul pascolo."
+      "v": "Gli animali sono tenuti a pascolare sul pascolo."																													
+    },
+	{
+      "k": 5137,
+      "v": "Un dispensario alimentare è continuamente rifornito di cibo e di conseguenza può ridurre i percorsi per l'assunzione di cibo."
+    },
+    {
+      "k": 5230,
+      "v": "Una pompa dell'acqua elettrica pompa l'acqua dal terreno senza l'uso di manodopera. Richiede il collegamento ad una rete elettrica funzionante."
+    },
+    {
+      "k": 5231,
+      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."
     },
     {
       "k": 335,
@@ -1507,7 +1595,83 @@
     },
     {
       "k": 4115,
-      "v": "Il colono ha fatto visita a un edificio per socializzare."
+      "v": "Il colono ha fatto visita a un edificio per socializzare."																										   
+    },
+	{
+      "k": 5155,
+      "v": "I coloni che hanno una dimora aumentano la loro fiducia di <<number>> per un certo periodo di tempo quando ci vanno."
+    },
+    {
+      "k": 5156,
+      "v": "I coloni che visitano un pub o alcuni edifici decorativi aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+    },
+    {
+      "k": 5157,
+      "v": "I coloni che visitano un falò, il forum, un mercato o il centro città aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+    },
+    {
+      "k": 5158,
+      "v": "I coloni che sono in grado di rifornirsi di acqua aumentano la loro fiducia in modo permanente di <<number>>."
+    },
+    {
+      "k": 5159,
+      "v": "I coloni che sono in grado di rifornirsi di cibo aumentano la loro fiducia in modo permanente di <<number>>."
+    },
+    {
+      "k": 5160,
+      "v": "I coloni la cui abitazione è fornita di elettricità aumentano la loro fiducia in modo permanente di <<number>>."
+    },
+    {
+      "k": 5161,
+      "v": "I coloni la cui famiglia è cresciuta aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+    },
+    {
+      "k": 5162,
+      "v": "I coloni che sono diventati infertili in una fase iniziale a causa delle radiazioni riducono la loro fiducia in modo permanente di <<number>>."
+    },
+    {
+      "k": 5163,
+      "v": "I coloni i cui parenti deceduti non sono stati ancora sepolti riducono la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5164,
+      "v": "I coloni la cui casa è danneggiata riducono la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5165,
+      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle Missioni dei Coloni al Forum, a causa dell'emissione di Decreti o delle Spedizioni."
+    },
+    {
+      "k": 5166,
+      "v": "I coloni che hanno vissuto un'esperienza gioiosa aumentano la loro Fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi esperienze gioiose grazie al completamento con successo delle missioni dei coloni al Forum o durante le spedizioni."
+    },
+    {
+      "k": 5167,
+      "v": "I coloni che sono dotati di uno strumento aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5168,
+      "v": "I coloni che sono equipaggiati con indumenti protettivi aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5169,
+      "v": "I coloni in buono stato di salute aumentano la loro fiducia di <<number>> durante questo periodo."
+    },
+    {
+      "k": 5170,
+      "v": "I coloni che sono stati sufficientemente istruiti in tutte le materie durante la loro infanzia aumentano la loro Fiducia in modo permanente di <<number>>."
+    },
+    {
+      "k": 5171,
+      "v": "I coloni la cui dimora si trova in un ambiente attraente o decorativo aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5172,
+      "v": "I coloni la cui dimora si trova in un ambiente poco attraente riducono la loro fiducia per la durata di questo periodo di <<number>>."
+    },
+    {
+      "k": 5173,
+      "v": "Questo effetto può accumularsi fino a <<number>> volte."
     },
     {
       "k": 395,
@@ -1793,6 +1957,10 @@
       "k": 4910,
       "v": "Catturare"
     },
+	{
+      "k": 5143,
+      "v": "Caccia e cattura"
+    },
     {
       "k": 1524,
       "v": "Costruisci e ripara"
@@ -1804,6 +1972,22 @@
     {
       "k": 1526,
       "v": "Ripara"
+    },
+	{
+      "k": 5150,
+      "v": "Costruire strade"
+    },
+    {
+      "k": 5178,
+      "v": "Tutti i tipi di cibo"
+    },
+    {
+      "k": 5179,
+      "v": "Cibo crudo"
+    },
+    {
+      "k": 5180,
+      "v": "Cibo trattato"
     },
     {
       "k": 1619,
@@ -1979,7 +2163,15 @@
     },
 	{
       "k": 4506,
-      "v": "La modalità costruttore è: <<builderMode>>"
+      "v": "La modalità costruttore è: <<builderMode>>"							   
+    },
+	{
+      "k": 5235,
+      "v": "Le riparazioni degli edifici sono abilitate."
+    },
+    {
+      "k": 5236,
+      "v": "Le riparazioni degli edifici sono disabilitate."
     },
     {
       "k": 2325,
@@ -2020,6 +2212,10 @@
     {
       "k": 2262,
       "v": "Risorse mancanti per riparare questo edificio"
+    },
+	{
+      "k": 5226,
+      "v": "Questo edificio ha due di ogni tipo di animale nel suo inventario. Distribuisci gli animali sui pascoli al tuo insediamento per creare spazio per nuovi animali in questo edificio."
     },
     {
       "k": 2869,
@@ -2064,6 +2260,10 @@
     {
       "k": 2879,
       "v": "Interessato dalle radiazioni ad alto livello"
+    },
+	{
+      "k": 5227,
+      "v": "Numero massimo di animali raggiunto"
     },
     {
       "k": 455,
@@ -2216,6 +2416,10 @@
     {
       "k": 2843,
       "v": "Centro città"
+    },
+	{
+      "k": 5280,
+      "v": "Pascoli"
     },
     {
       "k": 2853,
@@ -3923,7 +4127,11 @@
     },
     {
       "k": 595,
-      "v": "Obiettivo raggiunto"
+      "v": "Obiettivo raggiunto"				 
+    },
+	{
+      "k": 5220,
+      "v": "Rovina esplorata"
     },
     {
       "k": 2265,
@@ -4073,6 +4281,146 @@
       "k": 1060,
       "v": "Semi per frutteti"
     },
+	{
+      "k": 5023,
+      "v": "Tipo di animale e numero"
+    },
+    {
+      "k": 5024,
+      "v": "Cambia tipo di animale"
+    },
+    {
+      "k": 5025,
+      "v": "Scegli un nuovo tipo di animale che dovrebbe essere tenuto in questo pascolo. Se altri animali sono ancora presenti sul pascolo, puoi decidere se devono essere liberati o macellati."
+    },
+    {
+      "k": 5026,
+      "v": "Svuota il pascolo"
+    },
+    {
+      "k": 5027,
+      "v": "Tutti gli animali al pascolo vengono liberati o macellati."
+    },
+    {
+      "k": 5030,
+      "v": "Animali da macello"
+    },
+    {
+      "k": 5031,
+      "v": "Se la macellazione è attivata, gli animali che superano il numero massimo di animali impostato per essere su questo pascolo verranno macellati."
+    },
+    {
+      "k": 5032,
+      "v": "Informazioni sull'allevamento di animali"
+    },
+    {
+      "k": 5033,
+      "v": "Rendimento del prodotto passivo successivo"
+    },
+    {
+      "k": 5034,
+      "v": "Il progresso fino alla resa del prodotto successivo può essere raccolto da un allevatore di animali. A seconda del tipo di animale, i prodotti per l'allevamento di animali sono varie risorse che possono essere ottenute senza macellare gli animali. Non tutti i tipi di animali producono prodotti per l'allevamento di animali."
+    },
+    {
+      "k": 5035,
+      "v": "Acqua immagazzinata"
+    },
+    {
+      "k": 5036,
+      "v": "Consumo d'acqua"
+    },
+    {
+      "k": 5037,
+      "v": "Il consumo di acqua per stagione di tutti gli animali attualmente presenti al pascolo."
+    },
+    {
+      "k": 5202,
+      "v": "La macellazione è disabilitata."
+    },
+    {
+      "k": 5203,
+      "v": "Tempo fino al prossimo animale può essere macellato: <<time>>"
+    },
+    {
+      "k": 5204,
+      "v": "Il tempo fino al prossimo rendimento può essere portato mantenendo il bestiame: <<time>>"
+    },
+    {
+      "k": 5205,
+      "v": "Macellazione"
+    },
+    {
+      "k": 5206,
+      "v": "Prodotto per l'allevamento di animali"
+    },
+    {
+      "k": 5197,
+      "v": "Il raccolto alimentare di tutti gli animali"
+    },
+    {
+      "k": 5209,
+      "v": "Il raccolto è pronto per essere portato da un pastore."
+    },
+    {
+      "k": 5219,
+      "v": "Tempo fino alla nascita del prossimo animale: <<time>>"
+    },
+    {
+      "k": 5221,
+      "v": "Sono necessari due animali di questo tipo al pascolo affinché si riproducano."
+    },
+    {
+      "k": 5232,
+      "v": "Almeno due Animali di questo tipo sono necessari su questo pascolo affinché si riproducano. Inoltre, a partire dal terzo Animale, gli Animali possono essere trasferiti tra Pascoli o altri Edifici, come la Stazione Commerciale."
+    },
+    {
+      "k": 5138,
+      "v": "<<number>> Gli animali si trovano ancora su questo pascolo. Vuoi massacrare tutti gli animali per <<amount>> di cibo o liberarli?"
+    },
+    {
+      "k": 5146,
+      "v": "Liberato"
+    },
+    {
+      "k": 5147,
+      "v": "Macellazione"
+    },
+    {
+      "k": 5038,
+      "v": "Scelta dei tipi di animali"
+    },
+    {
+      "k": 5039,
+      "v": "Scegli il tipo di animale"
+    },
+    {
+      "k": 5047,
+      "v": "Scegli un tipo di animale e fai clic su \"Scegli Animale\" per rifornire il pascolo. Solo gli animali che possiedi già nel tuo insediamento possono essere tenuti sui pascoli."
+    },
+    {
+      "k": 5142,
+      "v": "Nessun animale di questo tipo è disponibile presso l'insediamento"
+    },
+    {
+      "k": 5040,
+      "v": "Numero massimo per penna"
+    },
+    {
+      "k": 5041,
+      "v": "Richiesta di acqua per stagione"
+    },
+    {
+      "k": 5042,
+      "v": "Tasso di riproduzione"
+    },
+    {
+      "k": 5043,
+      "v": "Prodotto per l'allevamento di animali"
+    },
+    {
+      "k": 5190,
+      "v": "Cibo per animale macellato"
+    },
     {
       "k": 999,
       "v": "Consumo d'acqua"
@@ -4136,6 +4484,30 @@
 	{
       "k": 4150,
       "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"			   
+    },
+	{
+      "k": 5151,
+      "v": "Priorità per i costruttori"
+    },
+    {
+      "k": 5152,
+      "v": "Attiva le priorità"
+    },
+    {
+      "k": 5153,
+      "v": "Quando le priorità per i costruttori vengono attivate, i costruttori si occupano dei contratti nella sequenza nell'elenco delle priorità. Se le priorità sono disattivate, i costruttori si occupano dei contratti nell'ordine in cui li hanno accettati."
+    },
+    {
+      "k": 5210,
+      "v": "Disabilita le riparazioni degli edifici"
+    },
+    {
+      "k": 5211,
+      "v": "Tutte le missioni di riparazione vengono ignorate dai tuoi costruttori."
+    },
+    {
+      "k": 5218,
+      "v": "Le riparazioni sono disabilitate. È possibile riattivarli in Centro città o premendo <<Hotkey>>."
     },
 	{
       "k": 4421,
@@ -4391,7 +4763,31 @@
     },
 	{
       "k": 4891,
-      "v": "Vuoi davvero mandare via il trader senza organizzare un contratto di scambio?"
+      "v": "Vuoi davvero mandare via il trader senza organizzare un contratto di scambio?"						 
+    },
+	{
+      "k": 5184,
+      "v": "Continua il baratto"
+    },
+    {
+      "k": 5181,
+      "v": "Annulla contratto di scambio"
+    },
+    {
+      "k": 5182,
+      "v": "Vuoi davvero annullare l'accordo di scambio? Il commerciante lascerà immediatamente la transazione senza alcun baratto."
+    },
+    {
+      "k": 5185,
+      "v": "Inventario della sede di negoziazione"
+    },
+    {
+      "k": 5186,
+      "v": "Posto di scambio in eccesso di scorte"
+    },
+    {
+      "k": 5187,
+      "v": "La capacità attualmente disponibile presso la stazione di scambio non è sufficiente per accettare le merci in questo accordo di scambio. Riduci il numero di beni che desideri acquistare da questo commerciante."
     },
     {
       "k": 4668,
@@ -4569,6 +4965,10 @@
       "k": 4883,
       "v": "Riduce il tempo fino all'arrivo del prossimo commerciante"
     },
+	{
+      "k": 5233,
+      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"
+    },
     {
       "k": 2245,
       "v": "Seleziona capogruppo"
@@ -4709,6 +5109,10 @@
       "k": 3811,
       "v": "Distintivo di cuoco"
     },
+	{
+      "k": 5240,
+      "v": "Distintivo da pastore"
+    },
     {
       "k": 1172,
       "v": "Ho imparato molto dal rovinare gli edifici."
@@ -4816,6 +5220,10 @@
 	{
       "k": 3812,
       "v": "Non lascia che niente vada in fumo!"
+    },
+	{
+      "k": 5241,
+      "v": "Mandria di cervi! I suoi .. i .. Cervi! pastore! pastore!"
     },
     {
       "k": 1173,
@@ -5681,6 +6089,46 @@
       "k": 2313,
       "v": "Vuoi davvero contrassegnare questa posizione per il recupero attraverso un cantiere di demolizione? La rovina non sarà più esplorabile da una spedizione!"
     },
+	{
+      "k": 5212,
+      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"
+    },
+    {
+      "k": 5148,
+      "v": "Scenario completato"
+    },
+    {
+      "k": 5149,
+      "v": "Tutorial completato"
+    },
+    {
+      "k": 5213,
+      "v": "Dai la priorità alla costruzione"
+    },
+    {
+      "k": 5214,
+      "v": "Priorità corrente"
+    },
+    {
+      "k": 5215,
+      "v": "Nuova priorità"
+    },
+    {
+      "k": 5216,
+      "v": "Continua a costruire"
+    },
+    {
+      "k": 5217,
+      "v": "Sostituisci edificio"
+    },
+    {
+      "k": 5237,
+      "v": "Distruggi le risorse"
+    },
+    {
+      "k": 5238,
+      "v": "Scegli il numero di risorse che desideri rimuovere dall'inventario di questo edificio. Saranno irreversibilmente distrutti."
+    },
     {
       "k": 627,
       "v": "Il colono soffre di: <<diseaseName>>"
@@ -5847,7 +6295,15 @@
     },
     {
       "k": 2145,
-      "v": "Destinazione focus"
+      "v": "Destinazione focus"																											
+    },
+	{
+      "k": 5188,
+      "v": "Questo vantaggio è già soddisfatto dalle risorse situate presso la rovina."
+    },
+    {
+      "k": 5189,
+      "v": "Ci sono ancora <<amount>> Razioni di spedizione situate presso le rovine che sono state trovate o lasciate lì."
     },
     {
       "k": 2159,
@@ -5900,6 +6356,18 @@
     {
       "k": 2477,
       "v": "Nessun colono corrisponde ai filtri"
+    },
+	{
+      "k": 5242,
+      "v": "Solo coloni con distintivi richiesti"
+    },
+    {
+      "k": 5243,
+      "v": "Solo coloni con professione richiesta"
+    },
+    {
+      "k": 5244,
+      "v": "Solo coloni dell'età richiesta"
     },
     {
       "k": 796,
@@ -6041,6 +6509,26 @@
       "k": 4512,
       "v": "È stato bandito dall'insediamento"
     },
+	{
+      "k": 5048,
+      "v": "Visita la sua casa"
+    },
+    {
+      "k": 5049,
+      "v": "Visita la sua casa"
+    },
+    {
+      "k": 5223,
+      "v": "Macella un animale"
+    },
+    {
+      "k": 5224,
+      "v": "Porta il raccolto dagli animali"
+    },
+    {
+      "k": 5225,
+      "v": "Rimuove un animale morto"
+    },
     {
       "k": 2273,
       "v": "Professione attuale"
@@ -6127,7 +6615,7 @@
     },
     {
       "k": 3117,
-      "v": "Tecnologia"			
+      "v": "Tecnologia"
     },
 	{
       "k": 3953,
@@ -6591,7 +7079,11 @@
     },
     {
       "k": 849,
-      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"
+      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"													 
+    },
+	{
+      "k": 5222,
+      "v": "Mette insieme una spedizione per esplorare il sito."
     },
     {
       "k": 850,
@@ -7555,7 +8047,11 @@
     },
     {
       "k": 3938,
-      "v": "La cucina <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Cuochi.  cuochi producono cibi ricchi dal cibo. Per poter costruire una cucina, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+      "v": "La cucina <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Cuochi.  cuochi producono cibi ricchi dal cibo. Per poter costruire una cucina, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."																																																																																																																																																				 
+    },
+	{
+      "k": 5044,
+      "v": "Il pascolo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pastori. I pastori si prendono cura del pascolo Animali tenuti al pascolo. Per poter assegnare un animale selvatico catturato a un certo pascolo, il pulsante \"Scegli prossimo animale\" deve essere selezionato su quel pascolo. Gli animali selvatici tenuti su un pascolo devono essere riforniti di acqua in modo che non muoiano. Quando un pastore si prende cura degli animali, questi cresceranno e si riprodurranno. Non appena abbastanza animali sono completamente cresciuti, possono essere macellati. Inoltre, alcuni animali producono risorse preziose aggiuntive come latte o uova."
     },
     {
       "k": 1250,
@@ -8185,6 +8681,10 @@
       "k": 1901,
       "v": "Il mercato impiega specialisti della logistica. Gli specialisti della logistica raccolgono risorse da tutti i magazzini e le portano al mercato. Il mercato ha anche un deposito per <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. I coloni che visitano il Mercato ricevono un impulso temporaneo alla loro <link=\"8\"><style=\"DefaultLink\">Fiducia</style></link>. Può scegliere i tipi di risorse che dovrebbero essere archiviate sul mercato e cambiare la tua decisione in qualsiasi momento."
     },
+	{
+      "k": 5045,
+      "v": "Il mercato impiega Logisti. I logisti accumulano risorse da tutti gli edifici di stoccaggio e le portano al mercato. Il mercato dispone anche di un deposito per <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. I tuoi logisti inizieranno da qui per fornire ai tuoi edifici di produzione le risorse di cui hanno bisogno per lavorare. Di conseguenza, gli specialisti che lavorano presso le vostre strutture di produzione possono concentrarsi sulla produzione nel modo più efficace possibile e non devono acquisire le loro materie prime da soli."
+    },
     {
       "k": 2662,
       "v": "Il centro città può essere aggiornato fino a due volte. Ogni potenziamento aumenta la capacità di stoccaggio del centro città."
@@ -8204,6 +8704,10 @@
     {
       "k": 3059,
       "v": "Un magazzino aggiornato può archiviare qualsiasi risorsa tranne <link=\"6\"><style=\"DefaultLink\">Acqua</style> </link>. Puoi scegliere quali tipi di risorse sono previsti per essere archiviato in un magazzino aggiornato e modificare la tua decisione in qualsiasi momento. Per poter costruire un magazzino aggiornato, <link = \"19\"><style=\"DefaultLink\">la Ricerca</style></link> appropriata deve essere eseguito per primo. "
+    },
+	{
+      "k": 5046,
+      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."
     },
     {
       "k": 3060,
@@ -13315,7 +13819,419 @@
     },
     {
       "k": 4313,
-      "v": "Non saprei come possiamo aiutare loro due senza Medicina. Il malato non tornerà all'insediamento, non nello stato in cui si trova, e sua moglie non lo lascerà indietro, qualunque cosa accada. L'unica cosa che ci resta è tornare all'insediamento..."
+      "v": "Non saprei come possiamo aiutare loro due senza Medicina. Il malato non tornerà all'insediamento, non nello stato in cui si trova, e sua moglie non lo lascerà indietro, qualunque cosa accada. L'unica cosa che ci resta è tornare all'insediamento..."																														 
+    },
+	{
+      "k": 4911,
+      "v": "A me sembra le rovine di un fast food. Dev'essere stato bello poter entrare in un posto come quello ogni volta che avevi fame ... Ma non ne è rimasto molto. Un lato dell'edificio è già crollato. Probabilmente sarebbe sufficiente se mandassi qui una piccola squadra."
+    },
+    {
+      "k": 4912,
+      "v": "In ogni caso, grazie al muro sfondato non ci saranno problemi a entrare. Finalmente, questa volta non abbiamo bisogno di Strumenti per forzare le porte!"
+    },
+    {
+      "k": 4913,
+      "v": "Trattoria"
+    },
+    {
+      "k": 4914,
+      "v": "Che aspetto ha dentro?"
+    },
+    {
+      "k": 4915,
+      "v": "Diamo un'occhiata: quello doveva essere il bancone qui, la cucina laggiù, un ripostiglio accanto e probabilmente i clienti sedevano lì dietro ..."
+    },
+    {
+      "k": 4916,
+      "v": "Cassa"
+    },
+    {
+      "k": 4917,
+      "v": "È un sacco di elettronica per una semplice cassa: più schermi e registratori di cassa. Buon per noi<<dynamicmessage>>!"
+    },
+    {
+      "k": 4918,
+      "v": "- il nostro esperto si metterà subito al lavoro"
+    },
+    {
+      "k": 4919,
+      "v": "- anche se non sappiamo molto di queste cose tecniche, ci limiteremo a portare con noi tutto ciò che possiamo trasportare"
+    },
+    {
+      "k": 4920,
+      "v": "Stando un po' attenti<<dynamicmessage>> siamo riusciti a smontare tutte le parti!"
+    },
+    {
+      "k": 4921,
+      "v": "e con una presa sull'argomento a portata di mano,"
+    },
+    {
+      "k": 4922,
+      "v": "Dannazione, avremmo dovuto essere più attenti a maneggiare gli schermi. Vabbè, forse il resto può ancora essere riciclato ..."
+    },
+    {
+      "k": 4923,
+      "v": "Cucina"
+    },
+    {
+      "k": 4924,
+      "v": "Apparecchi fantastici! Una griglia enorme, friggitrici, frigoriferi, forni ...<<dynamicmessage>>"
+    },
+    {
+      "k": 4925,
+      "v": "Smontarlo dovrebbe essere un gioco da ragazzi per il nostro tecnico!"
+    },
+    {
+      "k": 4926,
+      "v": "Smontarlo professionalmente non sarà facile!"
+    },
+    {
+      "k": 4927,
+      "v": "Wow, <<dynamicmessage>>ci è voluto molto tempo! Ma come risultato abbiamo smontato tutti gli elettrodomestici in piccole parti facili da maneggiare, e tutto ciò che ci resta da fare è riportarli alla colonia. Non ci sono dubbi, lo sforzo è stato ripagato!"
+    },
+    {
+      "k": 4928,
+      "v": "anche per il nostro tecnico"
+    },
+    {
+      "k": 4929,
+      "v": "Abbiamo smontato tutto quello che potevamo. Il resto degli apparecchi è troppo grande e pesante per trascinarli indietro all'insediamento."
+    },
+    {
+      "k": 4930,
+      "v": "Ripostiglio"
+    },
+    {
+      "k": 4931,
+      "v": "La stanza è già stata completamente svuotata. Anche se, un secondo, sembra che ci sia una botola sotto lo scaffale nell'angolo..."
+    },
+    {
+      "k": 4932,
+      "v": "Sì, una scala qui conduce in un piccolo seminterrato!"
+    },
+    {
+      "k": 4933,
+      "v": "Salotto"
+    },
+    {
+      "k": 4934,
+      "v": "Ci sono ancora molti tavoli e sedie di plastica in piedi ovunque qui che possiamo trasformare in rottami..."
+    },
+    {
+      "k": 4935,
+      "v": "Difficile credere quanto tempo la plastica rimanga intatta. Anche se questi mobili in plastica sono rovinati dalle intemperie e sporchi, sono comunque abbastanza robusti e decisamente buoni da riciclare..."
+    },
+    {
+      "k": 4936,
+      "v": "Seminterrato"
+    },
+    {
+      "k": 4937,
+      "v": "Cosa c'è laggiù?"
+    },
+    {
+      "k": 4938,
+      "v": "Abbiamo spostato lo scaffale e stiamo scendendo la scala. Dammi la luce!"
+    },
+    {
+      "k": 4939,
+      "v": "Camera del seminterrato"
+    },
+    {
+      "k": 4940,
+      "v": "Sembra che qualcuno abbia usato questo posto come nascondiglio. Inoltre, qui intorno ci sono picconi, pale e secchi pieni di sassi ..."
+    },
+    {
+      "k": 4941,
+      "v": "Ci sono anche razioni di cibo qui che sembrano ancora commestibili! Non poteva essere passato molto tempo da quando qualcuno viveva qui ... Oh beh, di sicuro non avrà più bisogno della sua attrezzatura. Ehi, ascolta quello che è stato scarabocchiato su un taccuino: \"GETTARMI FUORI DALLA ENDZONE, NON FARMI RIDERE! SE NON VOGLIONO FARMI ENTRARE, MI SCAVERÒ DA SOLO LA MIA STRADA! HAHAHAHA....\"- e questo continua per pagine! Per fortuna non c'erano pazzi del genere nella nostra Endzone..."
+    },
+    {
+      "k": 4942,
+      "v": "Tunnel"
+    },
+    {
+      "k": 4943,
+      "v": "Sembra essere un tunnel piuttosto lungo<<dynamicmessage>>..."
+    },
+    {
+      "k": 4944,
+      "v": "- almeno della stessa lunghezza del pericolo che cada, se me lo chiede, capo"
+    },
+    {
+      "k": 4945,
+      "v": "- sembra tutt'altro che stabile, ma comunque non ci capisco niente della costruzione del tunnel"
+    },
+    {
+      "k": 4946,
+      "v": "Il tunnel è decisamente lungo quasi un centinaio di metri! Tutto ciò che rimane fino alla fine qui è un mucchio di macerie che blocca la strada - Un secondo, qualcosa sta spuntando dalle rocce... una gamba! Certo, è il poveretto che ha scavato il tunnel - deve aver ceduto sopra di lui. Sarebbe stato meglio se avesse puntellato il soffitto del tunnel! Dovremmo prenderlo a cuore se mai volessimo far funzionare le miniere..."
+    },
+    {
+      "k": 4947,
+      "v": "Ehi capo, ho scoperto una base militare abbandonata - c'è persino un carro armato arrugginito qui intorno! Se vuoi mandare una Spedizione qui devi fare in modo che sia ben attrezzata! È una cosa certa che non sarà una proposta facile capovolgere tutto qui e raccogliere materiali utilizzabili..."
+    },
+    {
+      "k": 4948,
+      "v": "Se avessimo scoperto la base prima, avrebbe potuto essere una base di prim'ordine per noi, capo! Ci sono anche alcune baracche che non sono ancora crollate. Dove dovremmo dare un'occhiata prima?"
+    },
+    {
+      "k": 4949,
+      "v": "Lato Ovest"
+    },
+    {
+      "k": 4950,
+      "v": "Dai un'occhiata lì intorno!"
+    },
+    {
+      "k": 4951,
+      "v": "Ci sono due baracche battute dalle intemperie in piedi sul lato ovest della base che dovremmo dare un'occhiata più da vicino. Anche alcuni rottami arrugginiti che possiamo rottamare per le parti sono in piedi qui intorno."
+    },
+    {
+      "k": 4952,
+      "v": "Seconda caserma"
+    },
+    {
+      "k": 4953,
+      "v": "La porta è già storta sui cardini: è certo che qui è già stato ripulito tutto!<<dynamicmessage>>"
+    },
+    {
+      "k": 4954,
+      "v": "Ma chi lo sa? Forse il nostro Scout esperto troverà comunque qualcosa, comunque!"
+    },
+    {
+      "k": 4955,
+      "v": "Purtroppo, non abbiamo veterani che sappiano come capovolgere completamente un posto come questo..."
+    },
+    {
+      "k": 4956,
+      "v": "Tutto qui è già stato capovolto, ma almeno possiamo ancora riciclare i lettini. Cosa c'è di più, <<dynamicmessage>> abbiamo scoperto alcune piccole casse nascoste sotto le assi del pavimento dove venivano conservate foto e altri ricordi per la custodia - e alcune piccole bottiglie di superalcolico!"
+    },
+    {
+      "k": 4957,
+      "v": "grazie al nostro veterano"
+    },
+    {
+      "k": 4958,
+      "v": "Come previsto, nessuna buona raccolta. Gli armadietti e le scatole sono stati saccheggiati da tempo. Ma almeno possiamo riciclare le culle!"
+    },
+    {
+      "k": 4959,
+      "v": "Prima caserma"
+    },
+    {
+      "k": 4960,
+      "v": "Ehi, credo di aver sentito delle voci uscire dalla caserma - dovremmo andare a vedere che succede!"
+    },
+    {
+      "k": 4961,
+      "v": "All'interno abbiamo incontrato due sopravvissuti che apparentemente si stanno facendo strada senza meta attraverso la natura selvaggia e si stanno riposando qui. Dopo aver condiviso con loro le nostre razioni di cibo, hanno messo da parte il loro scetticismo iniziale e hanno iniziato a fidarsi di noi. Siamo anche riusciti a convincerli ad accompagnarci al nostro insediamento!"
+    },
+    {
+      "k": 4962,
+      "v": "All'interno abbiamo incontrato due sopravvissuti che apparentemente si stanno facendo strada senza meta attraverso la natura selvaggia e si stanno riposando qui. Sembrano tutti esauriti, ma sfortunatamente non siamo stati in grado di convincerli a unirsi a noi. Ho avuto la subdola sensazione che non si fidino di noi per niente..."
+    },
+    {
+      "k": 4963,
+      "v": "Relitti"
+    },
+    {
+      "k": 4964,
+      "v": "Sarà un bel lavoro. C'è persino un carro armato arrugginito qui intorno!<<dynamicmessage>>"
+    },
+    {
+      "k": 4965,
+      "v": "Ma con l'aiuto del nostro esperto è una cosa sicura che possiamo rottamare il vecchio relitto per le parti!"
+    },
+    {
+      "k": 4966,
+      "v": "Non sono sicuro che siamo in grado di demolire il relitto per le parti: un esperto potrebbe essere più quello giusto per aiutarci ulteriormente qui!"
+    },
+    {
+      "k": 4967,
+      "v": "<<dynamicmessage>>Ci è voluto un po', ma abbiamo tirato fuori dai relitti tutto quello che valeva la pena portare con sé!"
+    },
+    {
+      "k": 4968,
+      "v": "Ti rendi conto subito chi sa come aggirare questa roba: il nostro esperto ha risolto le parti inutili in niente di piatto!"
+    },
+    {
+      "k": 4969,
+      "v": "Ci è voluto del tempo dolce, capo. È una scommessa sicura che un esperto avrebbe fatto un lavoro più breve su questo! Oh beh, penso che abbiamo estratto abbastanza materiale utilizzabile dai rottami..."
+    },
+    {
+      "k": 4970,
+      "v": "Lato Est"
+    },
+    {
+      "k": 4971,
+      "v": "Che aspetto ha qui?"
+    },
+    {
+      "k": 4972,
+      "v": "Il vecchio hangar sembra molto promettente. Possiamo anche dare un'occhiata alle tende o salire sulla torre di guardia."
+    },
+    {
+      "k": 4973,
+      "v": "Torre di guardia"
+    },
+    {
+      "k": 4974,
+      "v": "Non mi sembra più particolarmente robusto - sei sicuro che dovremmo andare lassù?"
+    },
+    {
+      "k": 4975,
+      "v": "Ehi, ora è quello che chiamo vista! Se non mi sbaglio, riesco persino a scorgere all'orizzonte le sagome della nostra Stazione! Ehi, un secondo: c'è un piccolo zaino che giace qui nell'angolo. Qualcuno deve averlo depositato qui ad un certo punto... Ci sono alcune cose utili dentro!"
+    },
+    {
+      "k": 4976,
+      "v": "Ahi, dannazione! I pioli della scala non reggevano il mio peso e si ruppero - non esattamente quello che chiameresti un atterraggio morbido, come puoi sicuramente immaginare. Per fortuna nessuno è ferito gravemente..."
+    },
+    {
+      "k": 4977,
+      "v": "Hangar"
+    },
+    {
+      "k": 4978,
+      "v": "La porta dell'hangar è chiusa a chiave e l'ingresso è bloccato.<<dynamicmessage>>"
+    },
+    {
+      "k": 4979,
+      "v": "Ma possiamo aprirlo con il nostro piede di porco!"
+    },
+    {
+      "k": 4980,
+      "v": "Sembra essere piuttosto robusto - probabilmente niente da fare senza un piede di porco!"
+    },
+    {
+      "k": 4981,
+      "v": "Ci sono voluti alcuni tentativi per trovare il punto giusto per impostare il piede di porco, ma poi non è stato un problema. La porta è spalancata!"
+    },
+    {
+      "k": 4982,
+      "v": "Niente da fare, capo. Triste a dirsi, ma non è così facile come aprire la porta di una rovina..."
+    },
+    {
+      "k": 4983,
+      "v": "Tende"
+    },
+    {
+      "k": 4984,
+      "v": "Ci sono delle culle in piedi nelle tende: doveva essere un'infermeria. Ma sembra che qui sia già stato tutto saccheggiato molto tempo fa..."
+    },
+    {
+      "k": 4985,
+      "v": "Oh beh, almeno possiamo riciclare queste culle e alcuni teloni!"
+    },
+    {
+      "k": 4986,
+      "v": "Hangar"
+    },
+    {
+      "k": 4987,
+      "v": "Come guarda dentro?"
+    },
+    {
+      "k": 4988,
+      "v": "Se questo non batte tutto, quello è un elicottero! Inoltre, qui ci sono tutti i tipi di armadi e scaffali pieni di pezzi di ricambio e strumenti."
+    },
+    {
+      "k": 4989,
+      "v": "Elicottero"
+    },
+    {
+      "k": 4990,
+      "v": "Pensi che quella cosa funzioni ancora? Questo qui nella cabina di pilotaggio sembra essere il pulsante di avvio, ma non sta succedendo nulla. In ogni caso, mi avrebbe seriamente sorpreso.<<dynamicmessage>>"
+    },
+    {
+      "k": 4991,
+      "v": "Quindi smontiamo la cosa - ci vorrà sicuramente un po' di tempo, ma fortunatamente abbiamo un esperto tecnico con noi!"
+    },
+    {
+      "k": 4992,
+      "v": "Ne varrebbe sicuramente la pena smontare la cosa, ma è certo che niente può fare senza un esperto tecnico."
+    },
+    {
+      "k": 4993,
+      "v": "Bontà gentile, ci è voluto un'eternità! Ma abbiamo smontato praticamente tutto, tranne il blocco motore, è semplicemente troppo pesante. E nel frattempo il nostro esperto ci ha mostrato anche alcuni trucchi!"
+    },
+    {
+      "k": 4994,
+      "v": "Vabbè, abbiamo rimosso alcuni componenti e parti della pannellatura e della placcatura. Per smantellare il resto senza distruggerlo avremmo bisogno di più esperienza..."
+    },
+    {
+      "k": 4995,
+      "v": "Armadi e mensole"
+    },
+    {
+      "k": 4996,
+      "v": "Ci sono molti strumenti diversi che giacciono qui negli armadietti e tutti i tipi di pezzi di ricambio sugli scaffali!"
+    },
+    {
+      "k": 4997,
+      "v": "Possiamo rottamare i pezzi di ricambio e possiamo fare buon uso di quasi tutti gli strumenti dell'insediamento!"
+    },
+    {
+      "k": 4998,
+      "v": "Botola"
+    },
+    {
+      "k": 4999,
+      "v": "Ehi, ecco una rientranza con una botola nel pavimento..."
+    },
+    {
+      "k": 5000,
+      "v": "Una scala di metallo qui conduce a uno stretto passaggio sottostante..."
+    },
+    {
+      "k": 5001,
+      "v": "Riparo"
+    },
+    {
+      "k": 5002,
+      "v": "Cosa c'è laggiù?"
+    },
+    {
+      "k": 5003,
+      "v": "Dopo pochi minuti il passaggio termina davanti a una porta: sembra una solida porta di protezione dalle radiazioni simile a quella che avevamo allora nella Endzone. Ma può essere facilmente aperto - non ci vorrà un secondo! C'è una stanza abbastanza piccola dietro di essa. Probabilmente è stato concepito ad un certo punto come un rifugio in caso di emergenza..."
+    },
+    {
+      "k": 5004,
+      "v": "Monitor"
+    },
+    {
+      "k": 5005,
+      "v": "Su una parete ci sono monitor e pannelli contenenti componenti elettronici incorporati nella parete, ma non accade nulla quando vengono premuti i pulsanti.<<dynamicmessage>>"
+    },
+    {
+      "k": 5006,
+      "v": "Il nostro tecnico è sicuro che qui non scorre più corrente da molto tempo, ma possiamo fare un buon uso dell'attrezzatura!"
+    },
+    {
+      "k": 5007,
+      "v": "Direi che strappiamo i monitor dal muro: possiamo riciclarli dopo nell'insediamento. Naturalmente sarebbe molto più facile se avessimo un tecnico insieme..."
+    },
+    {
+      "k": 5008,
+      "v": "<<dynamicmessage>>Possiamo fare buon uso dei componenti dell'insediamento!"
+    },
+    {
+      "k": 5009,
+      "v": "Tutta questa roba elettrica potrebbe essere molto preziosa e farci risparmiare un sacco di lavoro in raffineria. Questo è quello che dice il nostro tecnico!"
+    },
+    {
+      "k": 5010,
+      "v": "Temo di aver danneggiato la maggior parte dei componenti: la prossima volta faremo meglio a prendere un esperto che possa smontare correttamente quel tipo di attrezzatura!"
+    },
+    {
+      "k": 5011,
+      "v": "Armadietti"
+    },
+    {
+      "k": 5012,
+      "v": "Ci sono alcuni armadietti contro il muro qui - un secondo, li apriremo in un batter d'occhio..."
+    },
+    {
+      "k": 5013,
+      "v": "C'è una tuta anti-radiazioni appesa in ogni armadietto! Perfetto! Ciò significa che siamo ben attrezzati per la prossima pioggia contaminata!"
     },
     {
       "k": 2198,
@@ -13681,6 +14597,30 @@
       "k": 2435,
       "v": "Un'altra fonte di cibo"
     },
+	{
+      "k": 5014,
+      "v": "Tuttavia, gli animali selvatici non solo possono essere uccisi, ma anche catturati. Quando un animale selvatico è stato catturato, può essere portato in un <link=\"5\"><style=\"DefaultLink\">Pascolo</style></link> e fungere da bestiame lì. Per catturare animali selvatici devi istruire il tuo cacciatore a farlo. Dovresti anche creare un pascolo e assegnare un pastore."
+    },
+    {
+      "k": 5015,
+      "v": "Gli animali catturati da un cacciatore vengono portati in un pascolo dove vengono accuditi e accuditi dai pastori. Alcuni animali producono risorse come latte o uova. Altri animali possono essere macellati solo per mangiare. Dovresti scoprire da solo quale tipo di animale ti porta quale beneficio. Su ogni pascolo è possibile impostare il tipo di animale da allevare."
+    },
+    {
+      "k": 5016,
+      "v": "Catturare animali selvatici"
+    },
+    {
+      "k": 5017,
+      "v": "Devi fornire acqua agli animali che mantieni sul tuo pascolo per consentire loro di sopravvivere e riprodursi. Non appena un numero sufficiente di Animali sarà completamente cresciuto, il Pastore inizierà a macellarli. Se non vuoi che gli animali vengano macellati, puoi anche istruirlo a non macellare."
+    },
+    {
+      "k": 5018,
+      "v": "Ora i tuoi pastori sanno come dovrebbero trattare gli animali. E ora che hai già catturato diversi animali, non dimenticare di istruire i tuoi cacciatori a cacciare di nuovo gli animali in futuro in modo che possano continuare a raccogliere e fornire cibo."
+    },
+    {
+      "k": 5019,
+      "v": "Tenere una mandria"
+    },
     {
       "k": 2436,
       "v": "Alla luce della nostra maggiore produzione, le nostre scorte si esauriranno presto. Anche le rotte di approvvigionamento per i nostri edifici di produzione stanno diventando sempre più lunghe. Per affrontare questo problema dovresti costruire un <link=\"18\"><style=\"DefaultLink\">Magazzino</style></link> e progettare <link=\"18\"><style=\"DefaultLink\">Strade</style></link>."
@@ -13704,6 +14644,18 @@
     {
       "k": 2441,
       "v": "Il flusso di merci"
+    },
+	{
+      "k": 5020,
+      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni Coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po 'più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispense di cibo</style></link>. I logisti che lavorano in un dispensario alimentare raccoglieranno il cibo dai vostri edifici di stoccaggio e strutture di produzione e lo porteranno al dispensario alimentare."
+    },
+    {
+      "k": 5021,
+      "v": "Con la nuova dispensa di cibo i tuoi coloni sono ora in grado di rifornirsi di cibo direttamente in loco. Se il tuo insediamento dovrebbe crescere ulteriormente, puoi pensare se vuoi fornire ulteriori dispense di cibo."
+    },
+    {
+      "k": 5022,
+      "v": "Dispense di cibo"
     },
     {
       "k": 2442,
@@ -15271,7 +16223,15 @@
     },
     {
       "k": 3486,
-      "v": "Le risorse vengono raccolte ..."
+      "v": "Le risorse vengono raccolte..."				   
+    },
+	{
+      "k": 5285,
+      "v": "Utensili di ricerca"
+    },
+    {
+      "k": 5378,
+      "v": "Livello di ricerca"
     },
     {
       "k": 3012,
@@ -16270,6 +17230,10 @@
       "v": "Alternativa:"														
     },
 	{
+      "k": 5234,
+      "v": "Consenti/Vieta riparazioni di edifici"
+    },
+	{
       "k": 3833,
       "v": "Esodo"
     },
@@ -16807,7 +17771,11 @@
     },
     {
       "k": 4449,
-      "v": "Divieto di cremazione"
+      "v": "Divieto di cremazione"				  
+    },
+	{
+      "k": 5050,
+      "v": "Divieto di vagabondaggio"
     },
     {
       "k": 4069,
@@ -16851,7 +17819,11 @@
     },
     {
       "k": 4450,
-      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."
+      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."																																					 
+    },
+	{
+      "k": 5051,
+      "v": "Vieta ai coloni di aumentare la loro fiducia visitando le loro case o altri edifici e, di conseguenza, distraendoli dal loro lavoro."
     },
     {
       "k": 4466,
@@ -17461,6 +18433,14 @@
       "k": 4540,
       "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di sviluppare una scuola avanzata in cui permettiamo ai nostri coloni di istruirsi ulteriormente. Vogliono che il tuo permesso possa iniziare i loro studi."
     },
+	{
+      "k": 4897,
+      "v": "Antenna radio migliorata ricercato: <<amount>>"
+    },
+    {
+      "k": 4898,
+      "v": "I nostri ricercatori hanno l'idea di provare una nuova tecnologia. La loro idea è quella di dotare la stazione di scambio di un antenna radio migliorata in modo da poter attrarre commercianti specifici verso l'insediamento in futuro. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
     {
       "k": 4519,
       "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nello spietato mondo di Endzone - A World Apart."
@@ -17739,7 +18719,7 @@
     },
     {
       "k": 4628,
-      "v": "Una breve introduzione al sistema di Confidence in Endzone. Impara a conoscere i tipi di effetti che la fiducia ha sui tuoi coloni e come puoi influenzare la fiducia."
+      "v": "Una breve introduzione al sistema di Fiducia in Endzone. Impara a conoscere i tipi di effetti che la fiducia ha sui tuoi coloni e come puoi influenzare la fiducia."
     },
     {
       "k": 4706,
@@ -18267,7 +19247,383 @@
     },
     {
       "k": 4886,
-      "v": "Limitato alla finestra"
+      "v": "Limitato alla finestra"													
+    },
+	{
+      "k": 5052,
+      "v": "Radiazione"
+    },
+    {
+      "k": 5053,
+      "v": "Una breve introduzione alla contaminazione radioattiva in Endzone e come combatterla. Impara i passaggi necessari per consentirti di proteggere il tuo insediamento e i suoi abitanti dal pericolo invisibile."
+    },
+    {
+      "k": 5084,
+      "v": "Radiazione"
+    },
+    {
+      "k": 5054,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi gestire le <link=\"10\"><style=\"DefaultLink\">Radiazione</style></link> per proteggere i tuoi coloni. Questa radiazione è invisibile ai tuoi coloni. Tuttavia, è possibile visualizzare i livelli di radiazione nell'area circostante passando alla mappa del calore di radiazione."
+    },
+    {
+      "k": 5055,
+      "v": "Come puoi vedere, ci sono alcune aree del tuo insediamento che sono contaminate radioattivamente. Colorazioni diverse delle aree segnalano diverse intensità dei livelli di radiazione. Ci sono aree di basso livello, medio livello e altamente contaminate. Nella chiave per la mappa del calore delle radiazioni sul bordo inferiore dello schermo puoi vedere quale livello di radiazione è contrassegnato con quale colore."
+    },
+    {
+      "k": 5056,
+      "v": "Radiazione"
+    },
+    {
+      "k": 5057,
+      "v": "Per liberare un'area dalle radiazioni puoi istruire i tuoi coloni <link=\"2\"><style=\"DefaultLink\">a scavare il suolo</style></link> e rimuovere la radiazione in questo modo."
+    },
+    {
+      "k": 5058,
+      "v": "Ora i tuoi coloni inizieranno a rimuovere le radiazioni dannose dall'area che hai scelto. Nel tempo le radiazioni intorno al tuo insediamento cambieranno ancora e ancora. Le nuvole possono portare piogge acide al tuo insediamento, che possono inquinare ancora di più il suolo."
+    },
+    {
+      "k": 5059,
+      "v": "Scavare il suolo"
+    },
+    {
+      "k": 5060,
+      "v": "Affinché i tuoi coloni non siano costantemente occupati a scavare il terreno e rimangano protetti anche quando entrano in un'area contaminata, sarà imperativo che tu li doti di indumenti protettivi sufficienti. Puoi produrre diversi tipi di indumenti protettivi per i tuoi coloni. Il materiale di base per tutti gli indumenti protettivi è la <link=\"16\"><style=\"DefaultLink\">Stoffa</style></link>. Per fabbricare il tessuto, devi costruire un riciclatore e assegnare lì un raffinatore."
+    },
+    {
+      "k": 5061,
+      "v": "Il riciclatore è responsabile della selezione degli scarti e, nel processo, della produzione di una serie di ulteriori risorse. Una di queste risorse è il panno. Quindi il riciclatore di nuova costruzione inizierà ora a convertire gli scarti in stoffa in modo che tu possa utilizzarli per ulteriori produzioni."
+    },
+    {
+      "k": 5062,
+      "v": "Ordinamento tessuto"
+    },
+    {
+      "k": 5063,
+      "v": "Naturalmente, il tessuto da solo non è naturalmente sufficiente per essere considerato come abbigliamento protettivo. Per ottenere ciò, il tessuto deve essere prima adattato all'abbigliamento protettivo. La <link=\"11\"><style=\"DefaultLink\">Sartoria</style></link> è incaricata di questo. Sarebbe meglio se costruissi la sartoria vicino al tuo riciclatore in modo che il sarto assegnato sia sempre in grado di fornirsi da solo con sufficiente materia prima per svolgere il proprio lavoro."
+    },
+    {
+      "k": 5064,
+      "v": "Molto bene! Per cominciare, i tuoi coloni saranno protetti dalle pericolose radiazioni nell'ambiente tramite le sciarpe per il collo prodotte qui. Le sciarpe per il collo forniscono ai tuoi coloni protezione contro tutte le aree con contaminazione di basso livello. Tuttavia, se vengono a contatto con livelli più elevati di radiazioni, in altre parole aree che hanno una contaminazione di livello medio o sono anche altamente contaminate, la protezione fornita da Sciarpe al collo non sarà sufficiente."
+    },
+    {
+      "k": 5065,
+      "v": "Fare sciarpe al collo"
+    },
+    {
+      "k": 5066,
+      "v": "Per proteggere i tuoi coloni da livelli più elevati di radiazioni, dovresti fare uno sforzo per fornire indumenti protettivi più efficaci. Se dotassi i tuoi coloni di maschere di carbone attivo invece di sciarpe da collo, allora sarebbero ancora meglio protetti. D'altra parte, fino ad ora la tua sartoria purtroppo non ha ancora accesso a tutte le risorse di cui ha bisogno per produrre queste maschere. Quello che manca è il <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Il carbone può essere prodotto nel forno a carbone dove il legno viene carbonizzato per formare carbone."
+    },
+    {
+      "k": 5067,
+      "v": "Il carbonaio che hai assegnato ora inizierà a portare legna al forno a carbone e produrrà carbone lì. In modo simile al tessuto che hai prodotto, questo carbone può essere utilizzato ulteriormente."
+    },
+    {
+      "k": 5068,
+      "v": "Lavorazione del carbone"
+    },
+    {
+      "k": 5069,
+      "v": "Ora che anche il carbone viene prodotto dai tuoi coloni oltre ai vestiti, la tua sartoria può iniziare a produrre<link=\"11\"><style=\"DefaultLink\">Maschere di carbone attivo</style></link>. Tuttavia, per ottenere questo risultato devi incaricare la tua sartoria di produrre queste maschere. Altrimenti il negozio continuerà a realizzare sciarpe da collo."
+    },
+    {
+      "k": 5070,
+      "v": "Eccezionale! In futuro i tuoi coloni saranno ora equipaggiati con maschere di carbone attivo. Di conseguenza sono protetti anche contro le radiazioni più intense. Ma anche queste maschere non proteggono completamente i tuoi coloni. Le aree altamente contaminate rappresentano ancora una minaccia per loro."
+    },
+    {
+      "k": 5071,
+      "v": "Realizzazione di maschere di carbone attivo"
+    },
+    {
+      "k": 5072,
+      "v": "Se vuoi proteggere completamente i tuoi coloni dalle radiazioni nell'ambiente, dovrai equipaggiarli con tute per le radiazioni. Il tuo insediamento produce già la maggior parte delle risorse necessarie per farlo. Tuttavia la, <link=\"16\"><style=\"DefaultLink\">Plastica</style></link> è ancora necessaria per realizzare questi abiti. Per ottenere la plastica, è necessario separarla dagli scarti. Ma dal momento che non hai solo bisogno di plastica ma anche di stoffa, non credo sia un'idea intelligente convertire semplicemente il tuo riciclatore dalla produzione di tessuti alla produzione di plastica. Faresti meglio invece a costruire un secondo riciclatore."
+    },
+    {
+      "k": 5073,
+      "v": "Con il tessuto, il carbone e la plastica, sono ora disponibili tutte le risorse necessarie per la produzione di tute anti-radiazioni."
+    },
+    {
+      "k": 5074,
+      "v": "Ordinamento di plastica"
+    },
+    {
+      "k": 5075,
+      "v": "Se ora istruisci la tua sartoria che dovrebbe sforzarsi di produrre <link=\"11\"><style=\"DefaultLink\">Tute anti-radiazioni</style></link>, interromperà la produzione di Attivare le maschere di carbone e concentrarsi sul compito appena assegnato."
+    },
+    {
+      "k": 5076,
+      "v": "Eccellente! Con le nuove tute contro le radiazioni i tuoi coloni saranno protetti anche dalle radiazioni di livello più alto nell'ambiente. La pioggia contaminata radioattivamente non può più far loro niente!"
+    },
+    {
+      "k": 5077,
+      "v": "Fare tute contro le radiazioni"
+    },
+    {
+      "k": 5078,
+      "v": "Inoltre, le radiazioni sono una cosa pericolosa e mettono in pericolo i tuoi coloni non solo dall'esterno. Sebbene tu abbia protetto i tuoi coloni, possono comunque assorbire le radiazioni nei loro corpi quando ingeriscono acqua o cibo contaminati radioattivamente. Quindi dovresti prendere misure per salvaguardare anche le tue scorte di acqua e cibo. Un primo passo sarebbe purificare l'approvvigionamento idrico. Purtroppo, la tua cisterna non è in grado di farlo. Ma se lo aggiorni in una <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link>, puoi purificare l'acqua immagazzinata lì tramite i filtri a carbone. Quindi aggiorna la tua cisterna e quindi attiva il filtro a carbone!"
+    },
+    {
+      "k": 5079,
+      "v": "Di conseguenza, l'approvvigionamento idrico dei tuoi coloni è ora protetto anche dalla contaminazione radioattiva. Finché riesci a mettere a disposizione carbone sufficiente, i tuoi portatori d'acqua faranno in modo che l'acqua contaminata che entra nella torre dell'acqua venga purificata."
+    },
+    {
+      "k": 5080,
+      "v": "Salvaguardia dell'approvvigionamento idrico"
+    },
+    {
+      "k": 5081,
+      "v": "Come ultimo passaggio, ora i tuoi coloni devono ancora essere protetti dal cibo contaminato radioattivamente. Il <link=\"11\"><style=\"DefaultLink\">Posto di decontaminazione</style></link> sarà responsabile di questo nel tuo insediamento. I kit di decontaminazione sono prodotti in questo post. I tuoi decontaminatori distribuiranno successivamente questi kit a tutti i tuoi edifici di produzione che si occupano di produrre cibo. Anche tutti i tuoi magazzini e magazzini saranno equipaggiati con questi kit."
+    },
+    {
+      "k": 5082,
+      "v": "Ottimo lavoro! Ora i tuoi coloni sono protetti da tutti i tipi di radiazioni! Dovresti sempre tenere d'occhio le radiazioni nei tuoi dintorni e assicurarti di avere abbastanza indumenti protettivi e kit di decontaminazione in magazzino."
+    },
+    {
+      "k": 5083,
+      "v": "Salvaguardare l'approvvigionamento alimentare"
+    },
+    {
+      "k": 5085,
+      "v": "Cibo"
+    },
+    {
+      "k": 5086,
+      "v": "Una breve introduzione alla fornitura di cibo in Endzone. Impara i passaggi necessari per fornire al tuo insediamento e ai suoi abitanti cibo sufficiente insieme alle diverse possibilità che hanno per mettere le mani sul cibo in questo ambiente ostile."
+    },
+    {
+      "k": 5087,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi fornire ai tuoi coloni <link=\"5\"><style=\"DefaultLink\">Cibo</style></link>. Se non sono disponibili sufficienti Cibo per i tuoi Coloni, nel peggiore dei casi questo può portare a farli morire di fame e, di conseguenza, alla morte. Al momento, il metodo più veloce sarà sicuramente quello di istruire i tuoi coloni a vagare per le foreste <link=\"2\"><style=\"DefaultLink\">per cercare funghi e bacche</style></link>."
+    },
+    {
+      "k": 5088,
+      "v": "I coloni a cui attualmente non è stata assegnata alcuna professione ora faranno in modo che eseguano il compito che hai assegnato loro. Di conseguenza, la fame iniziale nel tuo insediamento può essere placata."
+    },
+    {
+      "k": 5089,
+      "v": "Cibo"
+    },
+    {
+      "k": 5090,
+      "v": "Poiché il cibo ha naturalmente un'importanza fondamentale, è molto meglio che alcuni dei tuoi coloni si occupino di vagare per le foreste in modo duraturo. Se costruisci una <link=\"5\"><style=\"DefaultLink\">Capanna del raccoglitore</style></link> e le assegni un raccoglitore, il raccoglitore si occuperà di cercare le Bacche e Funghi su base permanente."
+    },
+    {
+      "k": 5091,
+      "v": "Molto bene! Ora che la Capanna dei Raccoglitori è stata costruita, i Raccoglitori assegnati terranno d'occhio Funghi e Bacche nella loro area di lavoro. Assicurati che, nel migliore dei casi, l'area di lavoro per la Capanna del Raccoglitore contenga quanti più Alberi possibile perché le Piante che i tuoi Raccoglitori stanno cercando possono crescere solo su questi Alberi. Puoi spostare l'area di lavoro per la cabina del raccoglitore in qualsiasi momento se, secondo te, l'area non è abbastanza ottimale."
+    },
+    {
+      "k": 5092,
+      "v": "La capanna del raccoglitore"
+    },
+    {
+      "k": 5093,
+      "v": "Sebbene bacche e funghi siano un buon inizio, è importante che i tuoi coloni siano in grado di nutrirsi da quante più fonti possibili. Questo non solo aiuta a compensare possibili carenze di una fonte di cibo: porta anche i tuoi coloni a vivere una vita più sana e diventare più resistenti ai focolai di malattie. I tuoi portatori d'acqua raccolgono già l'acqua dal vicino lago. La prossima cosa che dovresti fare è posizionare anche una <link=\"5\"><style=\"DefaultLink\">Capanna da pesca</style></link> per poter catturare i pesci."
+    },
+    {
+      "k": 5094,
+      "v": "I tuoi pescatori ora inizieranno a catturare i pesci fuori dall'acqua. A condizione, ovviamente, che l'acqua esista. Durante una siccità i tuoi pescatori non potranno lavorare. A differenza della situazione con la cabina del raccoglitore, l'area di lavoro di una capanna da pesca non può essere spostata. Fai attenzione che le aree di lavoro di più capanne da pesca non si sovrappongano, perché questo diminuisce l'efficacia di questo edificio."
+    },
+    {
+      "k": 5095,
+      "v": "La capanna della pesca"
+    },
+    {
+      "k": 5096,
+      "v": "I tuoi coloni non si affidano solo al cibo che sono in grado di raccogliere nell'ambiente circostante. Possono anche creare <link=\"5\"><style=\"DefaultLink\">Fattoria</style></link> da soli per fornire prodotti alimentari di alta qualità. I terreni agricoli dipendono dall'umidità del suolo. Assicurati che i tuoi campi siano stabiliti su un terreno il più umido possibile per garantire che le piante coltivate dai tuoi coloni possano prosperare bene."
+    },
+    {
+      "k": 5097,
+      "v": "Ora il tuo terreno agricolo è pronto per essere coltivato. Tuttavia, i tuoi agricoltori non inizieranno ancora a piantare nulla."
+    },
+    {
+      "k": 5098,
+      "v": "Il terreno coltivabile"
+    },
+    {
+      "k": 5099,
+      "v": "Perché per fare questo devi prima dire ai tuoi Agricoltori quali <link=\"5\"><style=\"DefaultLink\">Semi</style></link> dovrebbero essere coltivati sul Campo. Per abilitare ciò, scegli il particolare terreno agricolo e decidi quale tipo di semi dovrebbe essere utilizzato per questo terreno agricolo."
+    },
+    {
+      "k": 5100,
+      "v": "Come puoi vedere, ora i tuoi agricoltori iniziano a piantare i semi sui terreni agricoli. Una volta che la pianta è maturata, l'agricoltore la raccoglierà. Non appena l'intero terreno agricolo è stato raccolto, l'agricoltore seminerà di nuovo i semi che hai selezionato nell'ambientazione. In altre parole, non devi più occupartene."
+    },
+    {
+      "k": 5101,
+      "v": "Scegliere un seme"
+    },
+    {
+      "k": 5102,
+      "v": "Oltre ai terreni agricoli, puoi anche creare <link=\"5\"><style=\"DefaultLink\">Frutteti</style></link>. Sono ugualmente gestiti dagli agricoltori. A differenza dei campi coltivati, tuttavia, qui vengono piantati alberi da frutta o noci. Questi alberi possono essere raccolti più volte prima di dover essere ripiantati. Al contrario, hanno bisogno di un po 'di tempo prima di dare frutti per la prima volta."
+    },
+    {
+      "k": 5103,
+      "v": "Sia per i frutteti che per i campi per i terreni agricoli puoi impartire istruzioni in qualsiasi momento per raccogliere immediatamente il campo o il frutteto per garantire rese di raccolto rapide. Esattamente nello stesso modo puoi ridisegnare quale tipo di Seme dovrebbe essere piantato in qualsiasi momento."
+    },
+    {
+      "k": 5104,
+      "v": "Il frutteto"
+    },
+    {
+      "k": 5105,
+      "v": "Come avrai già notato, un intero gruppo di animali selvatici si aggira nell'area intorno al tuo centro città. Se costruisci un <link=\"5\"><style=\"DefaultLink\">Rifugio della caccia</style></link> puoi istruire i cacciatori lì a cacciare animali selvatici e di conseguenza creare una fonte aggiuntiva di cibo accessibile ai tuoi coloni."
+    },
+    {
+      "k": 5106,
+      "v": "Simile alla Capanna del Raccoglitore, con il Rifugio della caccia dovresti anche assicurarti che gli animali selvatici si trovino all'interno dell'area di lavoro del rifugio in modo che i tuoi cacciatori possano cacciarli."
+    },
+    {
+      "k": 5107,
+      "v": "Il rifugio della caccia"
+    },
+    {
+      "k": 5108,
+      "v": "Gli animali selvatici non solo possono essere uccisi, ma anche catturati. Per catturare animali selvatici devi istruire il tuo cacciatore a farlo."
+    },
+    {
+      "k": 5109,
+      "v": "Gli animali catturati dal cacciatore vengono ora portati al rifugio della caccia. In una seconda fase, possono essere portati dal rifugio a un pascolo per essere tenuti lì come bestiame."
+    },
+    {
+      "k": 5110,
+      "v": "Catturare animali selvatici"
+    },
+    {
+      "k": 5111,
+      "v": "Un <link=\"5\"><style=\"DefaultLink\">Pascolo</style></link> ti consente di tenere gli animali selvatici che hai catturato come bestiame. Qualsiasi tipo di animale selvatico catturato può essere tenuto al pascolo. Ma sempre un solo tipo di animale alla volta. Crea un pascolo e assegna a un pastore la possibilità di utilizzare gli animali selvatici catturati dal tuo cacciatore."
+    },
+    {
+      "k": 5112,
+      "v": "Come già saprai dai campi e dai frutteti, neanche il tuo pastore potrà ancora iniziare il suo lavoro."
+    },
+    {
+      "k": 5113,
+      "v": "Il pascolo"
+    },
+    {
+      "k": 5114,
+      "v": "Per ottenere ciò, prima devi scegliere un tipo di animale che dovrebbe essere tenuto al pascolo. Fare clic sul pascolo specifico e scegliere un animale."
+    },
+    {
+      "k": 5115,
+      "v": "Gli animali catturati da un cacciatore vengono portati in un pascolo dove vengono accuditi e accuditi dai pastori. Alcuni animali producono risorse come latte o uova. Altri animali possono essere macellati solo per mangiare. Devi fornire acqua agli animali che mantieni sul tuo pascolo per consentire loro di sopravvivere e riprodursi. Non appena un numero sufficiente di Animali sarà completamente cresciuto, il Pastore inizierà a macellarli. Se non vuoi che gli animali vengano macellati, puoi anche istruirlo a non macellare."
+    },
+    {
+      "k": 5116,
+      "v": "Tenere una mandria"
+    },
+    {
+      "k": 5117,
+      "v": "Tutti i tipi di cibo vengono ora prodotti dal tuo insediamento e possono essere mangiati dai tuoi coloni. Per essere in grado di fornire cibo ancora migliore, puoi creare una <link=\"5\"><style=\"DefaultLink\">Cucina</style></link> e assegnare i cuochi. Normalmente i tuoi ricercatori dovrebbero prima eseguire ricerche sulla tecnologia necessaria per costruire una cucina, ma ho già insegnato ai tuoi coloni ciò che devono sapere per ottenere questo risultato."
+    },
+    {
+      "k": 5118,
+      "v": "La cucina ora produrrà alimenti trasformati da tutti i possibili tipi di alimenti e dai tipi a cui la cucina ha accesso. Questo alimento trasformato può portare diversi vantaggi con esso. Lascio a te decidere cosa deve produrre la tua cucina. La tua decisione naturalmente non è definitiva e il menu può essere modificato in qualsiasi momento."
+    },
+    {
+      "k": 5119,
+      "v": "La cucina"
+    },
+    {
+      "k": 5120,
+      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni Coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po' più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispensa del cibo</style></link>. I logisti che lavorano in una dispensa per cibo raccoglieranno il cibo dai tuoi edifici di stoccaggio e dalle strutture di produzione e lo porteranno alla dispensa del cibo."
+    },
+    {
+      "k": 5121,
+      "v": "Favoloso! Ora i tuoi coloni non solo producono carichi di cibo, sono anche in grado di elaborarlo ulteriormente e distribuirlo efficacemente anche all'interno dell'insediamento. Di conseguenza la tua scorta di cibo è solidamente assicurata!"
+    },
+    {
+      "k": 5122,
+      "v": "Dispensa di cibo"
+    },
+    {
+      "k": 5198,
+      "v": "Ora puoi verificare se la produzione alimentare che hai impostato è sufficiente. Nel caso in cui i tuoi coloni abbiano ancora difficoltà a mettere le mani sul cibo, dovresti costruire più edifici di produzione e assegnare più coloni alla produzione di cibo."
+    },
+    {
+      "k": 5199,
+      "v": "Come puoi vedere, l'approvvigionamento alimentare di questo piccolo insediamento è stato assicurato da te. Tuttavia, non dovresti dimenticare che anche gli insediamenti più grandi hanno bisogno di più cibo. Tieni sempre d'occhio se la tua produzione alimentare è sufficiente."
+    },
+    {
+      "k": 5200,
+      "v": "Una fornitura stabile"
+    },
+    {
+      "k": 5123,
+      "v": "Sottoterra"
+    },
+    {
+      "k": 5124,
+      "v": "Ehi capo, ho notato qualcos'altro nel tunnel che il tizio ha usato per scavare la propria fossa: sulle pareti del tunnel si vedevano rocce nere lucide. Quello era carbone! Se scavassimo un pozzo in una promettente montagna - e lo puntellassimo meglio, naturalmente - avremmo un'abbondante fonte di carbone. Ma prima dovremmo naturalmente pensare al modo migliore per costruire e gestire una Miniera come quella..."
+    },
+    {
+      "k": 5125,
+      "v": "Sfortunatamente, fino ad ora non abbiamo avuto la minima idea di come affrontare la questione, capo! Probabilmente sarebbe meglio se mettessimo questo progetto sul ghiaccio per il momento..."
+    },
+    {
+      "k": 5126,
+      "v": "Bene, abbiamo elaborato un concetto e possiamo iniziare a costruire la miniera! E abbiamo già idee su come migliorare il concetto attuale..."
+    },
+    {
+      "k": 5127,
+      "v": "Vabbè, forse è meglio così. Almeno in questo modo nessuno corre il rischio di essere sepolto vivo..."
+    },
+    {
+      "k": 5128,
+      "v": "Allora mettiamoci al lavoro! Naturalmente la miniera deve essere costruita vicino a una montagna in modo da poter affondare un tunnel abbastanza in profondità nella roccia!"
+    },
+    {
+      "k": 5129,
+      "v": "Purtroppo non siamo riusciti a rispettare il programma, capo! Siamo spiacenti..."
+    },
+    {
+      "k": 5130,
+      "v": "Accidenti, questo lavoro è così duro che ti stordisce davvero, ma ne vale la pena! Abbiamo già messo insieme il primo carico di carbone!"
+    },
+    {
+      "k": 5131,
+      "v": "Corpi morti nelle nostre strade"
+    },
+    {
+      "k": 5132,
+      "v": "Sempre più cadaveri si stanno accumulando sulle nostre strade, capo! Dovresti davvero fare in modo che diamo a queste povere anime un posto dove possano riposare in pace!"
+    },
+    {
+      "k": 5133,
+      "v": "Lo scenario peggiore è iniziato, capo! Molti dei nostri coloni si sono ammalati gravemente. Ecco cosa succede quando i cadaveri si accumulano nelle strade! Se non stiamo attenti ora, non passerà molto tempo prima che molti più corpi si trovino accanto a loro."
+    },
+    {
+      "k": 5134,
+      "v": "È una buona cosa che ora ci si possa occupare di questo, capo! Abbiamo assicurato alle famiglie dei defunti che i loro parenti riceveranno un ultimo posto appropriato per riposare in pace."
+    },
+    {
+      "k": 5135,
+      "v": "La gente è indignata per il fatto che tu abbia rifiutato la loro richiesta, capo! È davvero il loro destino finire così? Essere semplicemente lasciato a terra?"
+    },
+    {
+      "k": 5139,
+      "v": "Chiedi al tuo cacciatore di catturare animali selvatici"
+    },
+    {
+      "k": 5140,
+      "v": "Assegna un tipo di animale al tuo pascolo non appena il tuo cacciatore ha catturato un animale."
+    },
+    {
+      "k": 5141,
+      "v": "Chiedi ai tuoi coloni <link=9><style=DefaultLink>di rimuovere le radiazioni</link></style> da un'area."
+    },
+    {
+      "k": 5183,
+      "v": "Eva Pirveli"
+    },
+    {
+      "k": 5201,
+      "v": "Chiedi al tuo cacciatore di catturare o cacciare animali selvatici"
+    },
+    {
+      "k": 5207,
+      "v": "Chiedi alla tua sartoria di produrre maschere di carbone attivo"
+    },
+    {
+      "k": 5208,
+      "v": "Chiedi alla tua sartoria di produrre tute anti-radiazioni"
     }
   ]
 }
