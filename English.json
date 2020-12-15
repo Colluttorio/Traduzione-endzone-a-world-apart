@@ -57,6 +57,10 @@
       "k": 2991,
       "v": "Apri la cartella dei dati di gioco!"
     },
+	{
+      "k": 5420,
+      "v": "Costruire"
+    },
     {
       "k": 2317,
       "v": "metri"
@@ -993,6 +997,10 @@
       "k": 5229,
       "v": "Punto d'acqua"
     },
+	{
+      "k": 5393,
+      "v": "Torre di guardia"
+    },
     {
       "k": 301,
       "v": "Una piccola cabina in cui i coloni possono vivere e fondare una famiglia. I coloni si trasferiscono solo come una famiglia."
@@ -1364,6 +1372,10 @@
 	{
       "k": 4746,
       "v": "Pastore"
+    },
+	{
+      "k": 5394,
+      "v": "Milizia"
     },
     {
       "k": 354,
@@ -2216,6 +2228,22 @@
 	{
       "k": 5226,
       "v": "Questo edificio ha due di ogni tipo di animale nel suo inventario. Distribuisci gli animali sui pascoli al tuo insediamento per creare spazio per nuovi animali in questo edificio."
+    },
+	{
+      "k": 5380,
+      "v": "Modifica variazione edificio"
+    },
+    {
+      "k": 5381,
+      "v": "Variazione edilizia <<index>> scelto"
+    },
+    {
+      "k": 5389,
+      "v": "Mantieni la variazione dell'edificio"
+    },
+    {
+      "k": 5390,
+      "v": "La variante Edificio scelta verrà mantenuta fino alla fine della modalità Costruisci o fino a quando non sblocchi la variante Edificio."
     },
     {
       "k": 2869,
@@ -3975,7 +4003,7 @@
     },
     {
       "k": 554,
-      "v": "acqua"
+      "v": "Acqua"
     },
     {
       "k": 555,
@@ -4115,7 +4143,15 @@
     },
     {
       "k": 2655,
-      "v": "Nuovo seme trovato"
+      "v": "Nuovo seme trovato"								
+    },
+	{
+      "k": 5376,
+      "v": "Nuovo livello di ricerca raggiunto"
+    },
+	{
+      "k": 5382,
+      "v": "È scoppiata un'epidemia"
     },
     {
       "k": 593,
@@ -4280,6 +4316,18 @@
     {
       "k": 1060,
       "v": "Semi per frutteti"
+    },
+	{
+      "k": 5421,
+      "v": "Tagliare alberi"
+    },
+    {
+      "k": 5422,
+      "v": "Il raccolto di tutti gli alberi viene raccolto e tutti gli alberi vengono abbattuti. La piantagione deve quindi essere ripiantata. Se gli alberi non sono ancora completamente cresciuti, producono poco o nessun legno."
+    },
+    {
+      "k": 5423,
+      "v": "Resa del legno dall'abbattimento"
     },
 	{
       "k": 5023,
@@ -4463,11 +4511,23 @@
     },
     {
       "k": 1034,
-      "v": "Campi"
+      "v": "Campi"						 
+    },
+	{
+      "k": 5395,
+      "v": "Restrizione sugli strumenti"
+    },
+	{
+      "k": 5396,
+      "v": "I coloni si equipaggiano solo con Strumenti che il centro città ha rilasciato per l'uso."
     },
     {
       "k": 1062,
-      "v": "Limitazione degli indumenti protettivi"
+      "v": "Limitazione degli indumenti protettivi"																									   
+    },
+	{
+      "k": 5397,
+      "v": "I coloni si equipaggiano solo con indumenti protettivi che il centro città ha rilasciato per l'uso."
     },
     {
       "k": 1527,
@@ -5599,7 +5659,23 @@
     },
     {
       "k": 3123,
-      "v": "Livello di stato della ricerca"
+      "v": "Livello di stato della ricerca"																																				 
+    },
+	{
+      "k": 5341,
+      "v": "Nessuna"
+    },
+    {
+      "k": 5342,
+      "v": "Tutti"
+    },
+    {
+      "k": 5343,
+      "v": "Utensili per la ricerca"
+    },
+    {
+      "k": 5344,
+      "v": "Quando giochi usando tutti gli utensili di ricerca, puoi esplorare liberamente l'albero di ricerca senza dover trovare utensili di ricerca nelle Spedizioni."
     },
     {
       "k": 2931,
@@ -6369,6 +6445,14 @@
       "k": 5244,
       "v": "Solo coloni dell'età richiesta"
     },
+	{
+      "k": 5281,
+      "v": "Ci sono ancora <<number>> Rovine situate sulla mappa dove si possono trovare utensili per la ricerca."
+    },
+    {
+      "k": 5400,
+      "v": "Utensili di ricerca possono essere trovati in questa rovina."
+    },
     {
       "k": 796,
       "v": "Costruiamoci una nuova casa!"
@@ -6619,7 +6703,11 @@
     },
 	{
       "k": 3953,
-      "v": "Decorazioni"
+      "v": "Decorazioni"			
+    },
+	{
+      "k": 5398,
+      "v": "Difesa"
     },
     {
       "k": 735,
@@ -7149,6 +7237,14 @@
       "k": 4533,
       "v": "Vai alla stazione di scambio per visualizzare lo scambio"
     },
+	{
+      "k": 5377,
+      "v": "La ricerca sulle nuove tecnologie può essere eseguita a partire da ora."
+    },
+    {
+      "k": 5383,
+      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."
+    },
     {
       "k": 857,
       "v": "Attività"
@@ -7396,6 +7492,10 @@
     {
       "k": 1268,
       "v": "Questa opzione è già stata completata"
+    },
+	{
+      "k": 5391,
+      "v": "Gli utensili di ricerca possono essere trovati qui."
     },
     {
       "k": 1114,
@@ -8091,7 +8191,11 @@
     },
     {
       "k": 1597,
-      "v": "Il collettore dell'acqua piovana raccoglie l'acqua dalla <link=\"7\"><style=\"DefaultLink\">pioggia</style></link>. Quest'acqua viene successivamente raccolta dai Portatori d'acqua e portato in una torre d'acqua o in una cisterna. Tieni d'occhio il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> delle pioggia perché anche il Raccoglitore di acqua piovana memorizza la pioggia contaminata dalle radiazioni. Per evitarlo puoi <link=\"7\"><style=\"DefaultLink\">coprire temporaneamente i Collettori di acqua piovana</style></link> che ti appartengono."
+      "v": "Il collettore dell'acqua piovana raccoglie l'acqua dalla <link=\"7\"><style=\"DefaultLink\">pioggia</style></link>. Quest'acqua viene successivamente raccolta dai Portatori d'acqua e portato in una torre d'acqua o in una cisterna. Tieni d'occhio il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> delle pioggia perché anche il Raccoglitore di acqua piovana memorizza la pioggia contaminata dalle radiazioni. Per evitarlo puoi <link=\"7\"><style=\"DefaultLink\">coprire temporaneamente i Collettori di acqua piovana</style></link> che ti appartengono."																																																																																																																		   
+    },
+	{
+      "k": 5371,
+      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."
     },
     {
       "k": 1251,
@@ -8639,7 +8743,7 @@
     },
     {
       "k": 1894,
-      "v": "Deposito centro città \n"
+      "v": "Deposito centro città\n"
     },
     {
       "k": 2659,
@@ -8707,7 +8811,11 @@
     },
 	{
       "k": 5046,
-      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."
+      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."																																																																																											  
+    },
+	{
+      "k": 5372,
+      "v": "Il punto d'acqua <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano l'acqua dalle cisterne dell'insediamento, dalle torri dell'acqua, dai pozzi, dai collettori dell'acqua piovana e dalle pompe elettriche al punto d'acqua. L'acqua può essere consumata e usata dai coloni qui. Il punto d'acqua può essere incaricato di prendere l'acqua solo da edifici specificati."
     },
     {
       "k": 3060,
@@ -8721,6 +8829,10 @@
       "k": 3062,
       "v": "Conoscenza"
     },
+	{
+      "k": 5373,
+      "v": "Utensili di ricerca"
+    },
     {
       "k": 3063,
       "v": "La ricerca può essere eseguita per sviluppare nuove <link=\"1\"><style=\"DefaultLink\">Costruzioni</style></link>, formule o altre tecnologie per un insediamento."
@@ -8732,6 +8844,10 @@
     {
       "k": 3065,
       "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."				
+    },
+	{
+      "k": 5374,
+      "v": "Gli strumenti di ricerca possono essere trovati dalle <link=\"14\"><style=\"DefaultLink\">Spedizioni</style></link>. Alcuni tipi di ricerca richiedono strumenti di ricerca. Più utensili di ricerca si accumulano, più tipi di ricerca diventano accessibili. Questi strumenti di ricerca non vengono utilizzati durante la ricerca."
     },
 	{
       "k": 3939,
@@ -12441,6 +12557,10 @@
       "k": 3662,
       "v": "È stato un lavoro difficile, ma ne è valsa la pena! Abbiamo quasi smontato l'intera macchina: è certo che possiamo riciclare la maggior parte delle cose! L'unica cosa che lasceremo qui è il blocco motore. È semplicemente troppo pesante da trasportare ..."
     },
+	{
+      "k": 5345,
+      "v": "Siamo stati in grado di smontare un po ', ma con le cose più complesse semplicemente non abbiamo le abilità. Forse la prossima volta dovremmo portare un esperto."
+    },
     {
       "k": 3663,
       "v": "Pompe a gas"
@@ -14233,6 +14353,146 @@
       "k": 5013,
       "v": "C'è una tuta anti-radiazioni appesa in ogni armadietto! Perfetto! Ciò significa che siamo ben attrezzati per la prossima pioggia contaminata!"
     },
+	{
+      "k": 5245,
+      "v": "Capo, questo è lo scout in linea. Ho trovato un vecchio veicolo a destinazione. Se ho le informazioni direttamente in testa, è una mietitrice. Erano usati per coltivare i campi su larga scala. Manda qui alcune persone. Forse c'è qualcosa di buono da tirare fuori da questa cosa."
+    },
+    {
+      "k": 5246,
+      "v": "Ce l'abbiamo fatta, capo. Vorrei che fossimo in grado di rimettere in forma questa cosa ... Ci farebbe risparmiare un sacco di lavoro a casa! In ogni caso, daremo un'occhiata in giro!"
+    },
+    {
+      "k": 5247,
+      "v": "Mietitore"
+    },
+    {
+      "k": 5248,
+      "v": "Guardati intorno!"
+    },
+    {
+      "k": 5249,
+      "v": "Forse troveremo ancora cose utili nell'abitacolo o nel contenitore!"
+    },
+    {
+      "k": 5250,
+      "v": "Abitacolo"
+    },
+    {
+      "k": 5251,
+      "v": "Davanti c'è l'abitacolo dove deve essersi seduto il guidatore. Forse qualcosa è nascosto sotto il sedile?"
+    },
+    {
+      "k": 5252,
+      "v": "È stato facile aprire la porta della cabina di pilotaggio, capo. Purtroppo, non c'è molto da fare, ma abbiamo trovato una vecchia foto di un campo di grano e due persone a braccetto sotto il sedile. Ci sono due chicchi di semi incollati all'immagine.\"Per Sara, per il nostro futuro\" è scritto sulla foto. Peccato che loro due probabilmente non vivranno più per vedere il futuro ... o per loro fortuna?"
+    },
+    {
+      "k": 5253,
+      "v": "Contenitore delle risorse"
+    },
+    {
+      "k": 5254,
+      "v": "Sul retro della mietitrice c'è il contenitore che ha raccolto la roba che è stata mietuta. Lo spazio è limitato, ma forse saremo fortunati e troveremo ancora qualcosa di utile."
+    },
+    {
+      "k": 5255,
+      "v": "Dannazione, capo! Uno di noi è caduto nella bomboletta e sembra essersi slogato qualcosa! Non è un gioco da ragazzi riportare qualcuno fuori da lì! E anche il contenitore era vuoto, quindi tutto lo sforzo non valeva nulla..."
+    },
+    {
+      "k": 5256,
+      "v": "Ehi capo, Esploratore 1 sulla linea. Ho trovato un sito qui che potrebbe essere interessante per la nostra gente. Molto acciaio, container e un grande appezzamento di terreno. Ma consiglierei di portare con sé Strumenti e di fare attenzione. Anche se è rimasto in piedi per un po', ciò non significa che non crollerà quando qualcuno ci cammina sopra."
+    },
+    {
+      "k": 5257,
+      "v": "Ce l'abbiamo fatta, capo! Penso che questo qui avrebbe dovuto diventare un edificio ad un certo punto, ma non è mai stato completato. Amico, questo è davvero grossolano. Ci sono ancora attrezzature in giro che sono state usate per la costruzione. Apparentemente anche materiale da costruzione e contenitori. Le cose sul retro, penso siano vecchi gabinetti di molto tempo fa. Ma sarebbe meglio non usarli."
+    },
+    {
+      "k": 5258,
+      "v": "Sito di costruzione"
+    },
+    {
+      "k": 5259,
+      "v": "C'è qualcosa di utile lì?"
+    },
+    {
+      "k": 5260,
+      "v": "Vedremo, capo. Possiamo dare un'occhiata più da vicino ai container e all'edificio stesso. Oltre a questo, potrebbe esserci qualcosa da trovare nei bagni."
+    },
+    {
+      "k": 5261,
+      "v": "Edificio"
+    },
+    {
+      "k": 5262,
+      "v": "Questi sono i resti dell'edificio che avrebbe dovuto essere costruito. Forse un edificio per uffici? Difficile da dire. \nAlla fine, non importa comunque. \nC'è una stanza che è stata completata e lì dietro puoi salire una scala."
+    },
+    {
+      "k": 5263,
+      "v": "Siamo riusciti a ripescare alcune cose dall'edificio incompiuto, anche se molte sono semplicemente spazzatura! Principalmente metallo, materiali da costruzione e plastica. Ma abbiamo anche trovato un magazzino abbandonato con una vecchia tenda e alcune tute anti-radiazioni. Nessun cadavere. Chiunque abbia allestito questo magazzino non tornerà."
+    },
+    {
+      "k": 5264,
+      "v": "Accidenti! Uno di noi è caduto dalla scala quando si è rotto un piolo. Non doveva succedere. \nTutta quell'azione non ci ha portato da nessuna parte... La stanza era vuota, a parte un po' di metallo."
+    },
+    {
+      "k": 5265,
+      "v": "Contenitore di costruzione"
+    },
+    {
+      "k": 5266,
+      "v": "Capo, penso che queste cose qui siano vecchi container da costruzione. Se la memoria mi serve, al loro interno sono stati raccolti detriti di costruzione per poi trasportarli dal cantiere. Quindi è una possibilità certa che non troveremo molte cose utili qui. <<dynamicmessage>>"
+    },
+    {
+      "k": 5267,
+      "v": "Per fortuna abbiamo qualcuno che sa di più su ciò che possiamo riciclare e su ciò di cui non possiamo fare alcun uso."
+    },
+    {
+      "k": 5268,
+      "v": "Ha aperto. Abbiamo dovuto fare un lavoro indiretto per aprire il coperchio, ma ne è valsa la pena! <<dynamicmessage>>"
+    },
+    {
+      "k": 5269,
+      "v": "Grazie alle nostre persone esperte siamo stati in grado di fare un buon lavoro nel valutare cosa è utilizzabile e cosa no."
+    },
+    {
+      "k": 5270,
+      "v": "Accidenti, tutto qui sembra solo spazzatura. Nessuna buona raccolta, temo. Ma per dei rottami, beh, lo sforzo non ne è valsa la pena."
+    },
+    {
+      "k": 5271,
+      "v": "Container"
+    },
+    {
+      "k": 5272,
+      "v": "Vecchi contenitori che usavano sulle navi. Direi che c'erano anche altre cose lì. Forse qui troveremo qualcosa che valga la pena! <<dynamicmessage>>"
+    },
+    {
+      "k": 5273,
+      "v": "Non è un problema entrare con gli strumenti a portata di mano."
+    },
+    {
+      "k": 5274,
+      "v": "Abbiamo aperto i contenitori. Un lavoro dannatamente duro. La ruggine aveva una presa così forte sulle porte che l'unico modo per spostarle era con molti muscoli. <<dynamicmessage>>"
+    },
+    {
+      "k": 5275,
+      "v": "Se non avessimo avuto gli Strumenti, so per certo che non saremmo entrati!"
+    },
+    {
+      "k": 5276,
+      "v": "Oof, no, assolutamente no, capo! Queste porte non si muovono di una frazione di pollice. Non sembra che li avremmo aperti, non senza lo strumento giusto."
+    },
+    {
+      "k": 5277,
+      "v": "Servizi igienici"
+    },
+    {
+      "k": 5278,
+      "v": "Contenitori blu che venivano usati come servizi igienici. Gli anziani dicono che a volte si trovano delle cose in loro. Almeno questo è apparentemente il modo in cui era in alcuni vecchi videogiochi. Vediamo cosa troviamo."
+    },
+    {
+      "k": 5279,
+      "v": "No, no, e in nessun modo, quello era un grande zero. Siamo entrati, abbiamo visto cose disgustose e siamo usciti di nuovo. Roba davvero brutta. Cambiamo il soggetto."
+    },
     {
       "k": 2198,
       "v": "Formula di produzione"
@@ -14655,7 +14915,19 @@
     },
     {
       "k": 5022,
-      "v": "Dispense di cibo"
+      "v": "Dispense di cibo"																																																																   
+    },
+	{
+      "k": 5282,
+      "v": "Distribuire cibo al tuo insediamento si rivelerà estremamente pratico. Tuttavia, i tuoi coloni non hanno bisogno solo di cibo per sopravvivere, ma anche di acqua. Per poter distribuire l'acqua in modo mirato, puoi costruire un <link=\"6\"><style=\"DefaultLink\">Punto d'acqua</style></link>."
+    },
+    {
+      "k": 5283,
+      "v": "Ora che i tuoi coloni hanno anche un punto d'acqua disponibile, possono rifornirsi di acqua e cibo. Simile a come viene fatto ai dispensari di cibo, questo ti consente di controllare con precisione in quali luoghi i tuoi coloni sono in grado di soddisfare le loro esigenze."
+    },
+    {
+      "k": 5284,
+      "v": "Punto d'acqua"
     },
     {
       "k": 2442,
@@ -16227,11 +16499,27 @@
     },
 	{
       "k": 5285,
-      "v": "Utensili di ricerca"
+      "v": "Utensili di ricerca"																																														
+    },
+	{
+      "k": 5286,
+      "v": "Gli utensili per la ricerca possono essere trovati su Spedizioni. Maggiore è il numero di strumenti di ricerca trovati, maggiore è il numero di tecnologie disponibili per eseguire la ricerca presso la stazione di ricerca."
+    },
+    {
+      "k": 5375,
+      "v": "<<number>> Sono necessari strumenti di ricerca per essere in grado di eseguire la ricerca sulle tecnologie al livello successivo."
+    },
+    {
+      "k": 5399,
+      "v": "<<number>> Saranno necessari strumenti di ricerca per essere in grado di eseguire ricerche sulle tecnologie al livello successivo."
     },
     {
       "k": 5378,
       "v": "Livello di ricerca"
+    },
+	{
+      "k": 5401,
+      "v": "Trascina la visualizzazione"
     },
     {
       "k": 3012,
@@ -19222,10 +19510,6 @@
       "v": "L'opinione che questo trader ha del tuo accordo. Migliore è l'opinione del trader, migliori saranno le risorse che il trader ti offrirà."
     },
     {
-      "k": 4875,
-      "v": "Annulla il contratto di scambio in corso"
-    },
-    {
       "k": 4876,
       "v": "Raccolta di risorse"
     },
@@ -19623,7 +19907,351 @@
     },
     {
       "k": 5208,
-      "v": "Chiedi alla tua sartoria di produrre tute anti-radiazioni"
+      "v": "Chiedi alla tua sartoria di produrre tute anti-radiazioni"								  
+    },
+	{
+      "k": 5287,
+      "v": "Tutorial di ricerca"
+    },
+    {
+      "k": 5288,
+      "v": "Una breve introduzione al sistema di ricerca in Endzone. Impara i passaggi per eseguire ricerche di successo e di conseguenza acquisire nuovi edifici, tecnologie o formule di produzione per il tuo insediamento per garantire la sopravvivenza del tuo insediamento su base duratura."
+    },
+    {
+      "k": 5289,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi eseguire <link=\"19\"><style=\"DefaultLink\">Ricerche</style></link> presso il tuo insediamento. Questi tipi di ricerca ti aiuteranno a far progredire lo sviluppo del tuo insediamento e come farlo diventare più robusto e più resistente contro l'ambiente ostile su base duratura. Come base per questo avrai bisogno di una <link=\"19\"><style=\"DefaultLink\">Stazione di ricerca</style></link> dove i tuoi ricercatori possono lavorare."
+    },
+    {
+      "k": 5290,
+      "v": "Nella tua nuova Stazione di ricerca, i ricercatori che hai assegnato inizieranno a generare <link=\"19\"><style=\"DefaultLink\">Conoscenza</style></link>. Questa conoscenza è necessaria per eseguire la ricerca. Ci vorrà un po '. Puoi osservare i progressi dei tuoi ricercatori alla Stazione di ricerca."
+    },
+    {
+      "k": 5291,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 5292,
+      "v": "Ho già insegnato ai tuoi ricercatori alcune cose sulla Conoscenza in modo che possano iniziare subito un tipo di Ricerca. Voglio che istruisca i suoi ricercatori a svolgere ricerche sull'elettronica. Tieni presente che i tuoi coloni non hanno bisogno solo di punti ricerca per i tipi di ricerca, ma anche di diverse risorse. Tuttavia, hanno già accumulato risorse sufficienti per eseguire ricerche sulla produzione di elettronica. Non appena tutte le Risorse saranno state portate alla Stazione di Ricerca dai tuoi Ricercatori, potranno quindi iniziare subito la Ricerca."
+    },
+    {
+      "k": 5293,
+      "v": "Ora che i tuoi ricercatori hanno studiato la tecnologia dell'elettronica, i tuoi raffinatori non solo sono in grado di ottenere stoffa, plastica e metallo dagli scarti, ma possono ottenere <link=\"16\"><style=\"DefaultLink\">parti elettroniche</style></link> e usali nel tuo insediamento."
+    },
+    {
+      "k": 5294,
+      "v": "Elettronica"
+    },
+    {
+      "k": 5295,
+      "v": "D'altra parte, l'elettronica da sola non è sufficiente per essere effettivamente in grado di generare <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link>. Per fare questo sono necessarie ulteriori ricerche. Se dai un'occhiata al tuo albero di ricerca, vedrai che i tuoi progressi nella ricerca dell'elettronica ti consentono di eseguire tipi di ricerca avanzati. Diversi altri tipi di ricerca si sviluppano ugualmente l'uno sull'altro. Come sarebbe se ora affidassi ai tuoi ricercatori la missione di eseguire ricerche sulla <link=\"13\"><style=\"DefaultLink\">Turbina eolica</style></link>?"
+    },
+    {
+      "k": 5296,
+      "v": "Molto buona! Con questo, ora hai anche completato un tipo di ricerca avanzata. I tuoi coloni sono in grado di svolgere molti tipi di ricerca da soli. Una volta che una Conoscenza sufficiente e le Risorse necessarie sono disponibili, puoi istruirli a iniziare con questi tipi di Ricerca. Tuttavia, alcuni tipi di ricerca sono troppo complessi per i tuoi coloni e richiedono <link=\"19\"><style=\"DefaultLink\">utensili</style></link> per poterli eseguire. Trovi questi utensili nelle rovine fatiscenti sparse sulla mappa. Invia spedizioni per cercare questi utili materiali di ricerca. Sebbene, per il momento, ho portato con me diversi strumenti di ricerca in modo che possiamo concentrarci sulla ricerca stessa."
+    },
+    {
+      "k": 5297,
+      "v": "Avanzamento dei tipi di ricerca"
+    },
+    {
+      "k": 5298,
+      "v": "Con gli strumenti di ricerca, la conoscenza necessaria e le risorse richieste disponibili su richiesta, ora puoi istruire i tuoi coloni a condurre un tipo complesso di ricerca. Come sarebbe se gli chiedessi di eseguire ricerche sul <link=\"15\"><style=\"DefaultLink\">Collettore Solare</style></link>?"
+    },
+    {
+      "k": 5299,
+      "v": "Eccellente! In questo modo anche i tuoi coloni potranno utilizzare in futuro una tecnologia così complessa. Sarà sicuramente in grado di aiutarli ancora di più."
+    },
+    {
+      "k": 5300,
+      "v": "Utensili di ricerca"
+    },
+    {
+      "k": 5301,
+      "v": "Come puoi vedere, puoi decidere completamente individualmente quali tipi di ricerca i tuoi coloni dovrebbero svolgere. A sua volta, questo ti consente di affrontare con precisione le esigenze del tuo insediamento e, di conseguenza, di orientarti nella direzione di ciò di cui vuoi preoccuparti per primo."
+    },
+    {
+      "k": 5302,
+      "v": "Ti ho quindi insegnato ciò che devi sapere per poter eseguire ricerche in Endzone. In conclusione, vorrei darti un ulteriore consiglio per guardarti intorno in cerca di opportunità per ottenere La Conoscenza. Perché La Conoscenza si trova ovunque in questo duro mondo e non deve essere generata in modo inevitabilmente noioso e laborioso dai tuoi Ricercatori."
+    },
+    {
+      "k": 5303,
+      "v": "Molto bene!"
+    },
+    {
+      "k": 5304,
+      "v": "Tutorial sull'acqua"
+    },
+    {
+      "k": 5305,
+      "v": "Una breve introduzione all'approvvigionamento idrico in Endzone. Impara i passaggi necessari per fornire al tuo insediamento e ai suoi abitanti questa risorsa indispensabile per la sopravvivenza insieme ai diversi tipi di possibilità che hanno per metterci le mani sopra in questo ambiente ostile."
+    },
+    {
+      "k": 5306,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi fornire ai tuoi coloni <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. Quando i tuoi coloni non hanno a disposizione acqua a sufficienza, nel peggiore dei casi questo può portare a farli soffrire di sete e, di conseguenza, possibilmente anche morire."
+    },
+    {
+      "k": 5307,
+      "v": "Per essere in grado di prevenire ciò, ti mostrerò che tipo di misure puoi adottare per creare un approvvigionamento idrico stabile."
+    },
+    {
+      "k": 5308,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 5309,
+      "v": "La prima cosa di cui hanno bisogno i tuoi coloni è un posto dove possano accumulare e consumare acqua. La <link=\"6\"><style=\"DefaultLink\">Cisterna</style></link> è probabilmente il sito più pratico con cui iniziare. Posiziona una cisterna nelle vicinanze del vicino lago e assegna diversi lavoratori alla professione <link=\"6\"><style=\"DefaultLink\">Portatore d'acqua</style></link>."
+    },
+    {
+      "k": 5310,
+      "v": "I tuoi portatori d'acqua hanno il compito di trasportare l'acqua da diverse fonti nella tua cisterna in modo che i tuoi coloni possano rifornirsi di acqua lì."
+    },
+    {
+      "k": 5311,
+      "v": "La cisterna"
+    },
+    {
+      "k": 5312,
+      "v": "Tuttavia, per raccogliere l'acqua non è solo necessario un sito in cui può essere immagazzinata, ma anche una fonte da cui i portatori d'acqua possono ottenere l'acqua. A tale scopo, costruisci un <link=\"6\"><style=\"DefaultLink\">Pontile</style></link> fuori dal legno vicino alla tua nuova cisterna. Devi assicurarti che una parte del molo si trovi nell'acqua in modo che i tuoi portatori d'acqua abbiano accesso all'acqua. Potrebbe essere necessario ruotare il Jetty in modo che possa essere impostato nella giusta posizione."
+    },
+    {
+      "k": 5313,
+      "v": "Ora che il molo di legno è stato costruito, i tuoi portatori d'acqua hanno un posto dove possono ottenere l'acqua e portarla alla cisterna. Se i tuoi portatori d'acqua non iniziano a muoversi verso il molo, potresti dover spostare l'<link=\"3\"><style=\"DefaultLink\">area di lavoro</style></link> per la tua cisterna. Questo perché i tuoi coloni consegneranno l'acqua alla tua cisterna solo quando la fonte si trova all'interno dell'area di lavoro della cisterna. È possibile spostare l'area di lavoro della Cisterna selezionando quella particolare Cisterna."
+    },
+    {
+      "k": 5314,
+      "v": "Il pontile"
+    },
+    {
+      "k": 5315,
+      "v": "Tuttavia, i laghi nei tuoi dintorni non sono l'unica fonte d'acqua a tua disposizione. Un <link=\"6\"><style=\"DefaultLink\">Pozzo</style></link> è in grado di pompare l'acqua sotterranea dal terreno. Costruisci un pozzo e assegna a un custode del pozzo un'altra fonte d'acqua. I tuoi coloni possono anche rifornirsi direttamente dal pozzo, tuttavia un pozzo non ha la stessa capacità di stoccaggio di una cisterna o di una torre dell'acqua. Ecco perché suggerisce ugualmente di posizionare i tuoi pozzi nell'area di lavoro di una cisterna in modo che anche i tuoi portatori d'acqua possano portare l'acqua fuori dal pozzo."
+    },
+    {
+      "k": 5316,
+      "v": "I pozzi possono essere costruiti ovunque. Tuttavia, se li metti troppo vicini l'uno all'altro, la loro produttività diminuirà. Quindi assicurati che i tuoi pozzi non si trovino nell'area di lavoro di altri pozzi. A differenza della situazione con le cisterne, non è possibile modificare l'area di lavoro di un pozzo."
+    },
+    {
+      "k": 5317,
+      "v": "Il pozzo"
+    },
+    {
+      "k": 5318,
+      "v": "Dato che stavo solo parlando di una <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link>... Anche se le tue cisterne forniscono spazio per l'acqua, una torre dell'acqua fornisce ancora più spazio e avrai bisogno di molta acqua per poter rifornire tutti i tuoi coloni quando crescono i dati sulla popolazione. Puoi costruire una nuova Water Tower o aggiornare la tua Cisterna per convertirla in una Water Tower. Per fare ciò, fai clic sulla Cisterna e scegli l'icona \"Aggiorna edificio\"."
+    },
+    {
+      "k": 5319,
+      "v": "Molto buona! La torre dell'acqua è pronta per l'uso e ora anche i tuoi portatori d'acqua possono accumulare acqua qui. Fornisce decisamente più spazio di una cisterna."
+    },
+    {
+      "k": 5320,
+      "v": "La torre dell'acqua"
+    },
+    {
+      "k": 5321,
+      "v": "Ma la tua torre dell'acqua non solo è in grado di immagazzinare più acqua di quella di una cisterna, è anche in grado di filtrare <link=\"10\"><style=\"DefaultLink\">Acqua contaminata da radiazioni</style></link> e purificalo in questo modo. Perché non è particolarmente salutare per i tuoi coloni consumare acqua contaminata radioattivamente. Per filtrare l'acqua che viene portata alla torre dell'acqua, scegli la torre dell'acqua e imposta il filtro su \"Attivo\"."
+    },
+    {
+      "k": 5322,
+      "v": "Ottimo! Ora tutta la tua acqua verrà filtrata dalla torre dell'acqua. Per fare questo, la tua torre dell'acqua avrà bisogno di carbone, quindi assicurati di avere a disposizione abbastanza carbone."
+    },
+    {
+      "k": 5323,
+      "v": "Il sistema di filtrazione"
+    },
+    {
+      "k": 5324,
+      "v": "Con il nuovo Sistema di Filtrazione e la possibilità di filtrare Acqua contaminata radioattivamente potrai usufruire di un'altra fonte di Acqua. Il <link=\"6\"><style=\"DefaultLink\">Il raccoglitore di acqua piovana</style></link> può catturare e immagazzinare l'acqua piovana. Non è necessaria alcuna manodopera per farlo. Tuttavia, può accadere naturalmente che la pioggia sia stata contaminata dalle radiazioni, motivo per cui il tuo collettore di acqua piovana raccoglie acqua contaminata. Ma è per questo che hai preso precauzioni proprio per questa situazione e attivato il filtraggio nella tua torre dell'acqua."
+    },
+    {
+      "k": 5325,
+      "v": "Eccellente! Ora il tuo insediamento raccoglie acqua da diverse fonti ed è quindi in grado di rifornirsi da solo."
+    },
+    {
+      "k": 5326,
+      "v": "Il collettore di acqua piovana"
+    },
+    {
+      "k": 5327,
+      "v": "Come già sapete, la pioggia che cade dal cielo potrebbe essere contaminata radioattivamente. Sul bordo inferiore dello schermo puoi monitorare quale <link=\"7\"><style=\"DefaultLink\">Meteo</style></link> che puoi aspettarti nel prossimo futuro. Al momento i tuoi Coloni non sono ancora in grado di rilasciare dichiarazioni precise su quanto sarà contaminata la pioggia che cadrà su di loro in futuro. Tuttavia, è possibile fare previsioni precise se crei una <link=\"7\"><style=\"DefaultLink\">Stazione meteorologa</style></link>."
+    },
+    {
+      "k": 5328,
+      "v": "La tua stazione meteorologica ora ti mostra quanto sarà altamente contaminata la pioggia nel prossimo futuro. Se la pioggia è troppo contaminata dalle radiazioni, alla stazione meteorologica puoi anche dare istruzioni che i tuoi campi coltivati e collettori di acqua piovana siano coperti in modo che non siano influenzati dalle radiazioni."
+    },
+    {
+      "k": 5329,
+      "v": "La stazione meteorologica"
+    },
+    {
+      "k": 5330,
+      "v": "Un altro edificio che può aiutarti a produrre acqua pulita è la <link=\"6\"><style=\"DefaultLink\">Pompa dell'acqua elettrica</style></link>. Questa pompa funziona allo stesso modo dei tuoi pozzi, tranne per il fatto che non è necessaria alcuna manodopera per convogliare l'acqua. Estremamente pratico!"
+    },
+    {
+      "k": 5331,
+      "v": "La pompa dell'acqua elettrica è stata costruita ed è pronta per l'uso. Anche se nelle sue condizioni attuali non sarà ancora in grado di convogliare acqua."
+    },
+    {
+      "k": 5332,
+      "v": "La pompa dell'acqua elettrica"
+    },
+    {
+      "k": 5333,
+      "v": "Per farlo avrà bisogno di elettricità. Ho insegnato ai tuoi coloni come costruire le <link=\"13\"><style=\"DefaultLink\">Turbine eoliche</style></link>. Se colleghi la tua pompa dell'acqua elettrica a una turbina eolica, sarà in grado di iniziare a fare il suo lavoro."
+    },
+    {
+      "k": 5334,
+      "v": "Come puoi vedere, la tua pompa dell'acqua elettrica funziona ora. Assicurati che sia sempre fornito con elettricità sufficiente se vuoi che le cose rimangano così."
+    },
+    {
+      "k": 5335,
+      "v": "Potenza per la pompa"
+    },
+    {
+      "k": 5336,
+      "v": "Con questo ti ho mostrato i tipi di fonti da cui puoi ottenere l'acqua. Ma nel caso di insediamenti più grandi, raccogliere e purificare l'acqua non sarà sufficiente. Anche i tuoi coloni devono avere accesso all'acqua. Un <link=\"6\"><style=\"DefaultLink\">Punto d'acqua</style></link> ti consente di fornire acqua ai tuoi coloni localmente."
+    },
+    {
+      "k": 5337,
+      "v": "I logisti che hai assegnato trasporteranno l'acqua dalla tua torre dell'acqua al punto d'acqua. Questo, a sua volta, ti consente di creare una rete in grado di fornire acqua ai tuoi coloni ovunque nel tuo insediamento. L'accesso a una quantità sufficiente di acqua pulita è la chiave per la sopravvivenza del tuo insediamento. Assicurati che i tuoi coloni siano sempre ben riforniti di acqua."
+    },
+    {
+      "k": 5338,
+      "v": "Il punto d'acqua"
+    },
+    {
+      "k": 5339,
+      "v": "Collegare una pompa dell'acqua elettrica a una rete elettrica: <<amount>>"
+    },
+    {
+      "k": 5340,
+      "v": "Aspetta che i tuoi ricercatori abbiano generato Conoscenza"
+    },
+    {
+      "k": 5346,
+      "v": "A proposito, c'era ancora una maschera protettiva sul sedile del pilota. Sembra completamente diverso dalle maschere che conosciamo. Sembra essere un filtro speciale collegato ad esso. Lo porteremo con noi!"
+    },
+    {
+      "k": 5347,
+      "v": "Oh sì, prima che mi dimentichi, il nostro esperto ci ha mostrato come smantellare l'unità rotore. Albero rotore, piatto oscillante, giunti girevoli e un sacco di altre cose. Sembra utile!"
+    },
+    {
+      "k": 5348,
+      "v": "A proposito, sotto i libri c'era anche un antico volume sull'argomento “Chimica inorganica”. C'erano molte formule, niente di entusiasmante a prima vista, ma forse aiuterà i nostri esperti. Lo abbiamo impacchettato per portarlo con noi!"
+    },
+    {
+      "k": 5349,
+      "v": "Oltre alle putride cisterne ci sono ancora postazioni di lavoro con una vasta gamma di attrezzature da laboratorio in giro. Ne imballeremo un po 'con cura per portarlo con noi. Non è così facile produrre cose del genere!"
+    },
+    {
+      "k": 5350,
+      "v": "Mentre rovinavamo le cose, ci siamo anche imbattuti in generatori ben conservati. Rimuoveremo le parti più importanti e tracciamo alcuni disegni. Questo potrebbe aiutarci in futuro."
+    },
+    {
+      "k": 5351,
+      "v": "Oltre a tutto il materiale informatico, ci sono tutti i tipi di piani in giro qui. Qualcuno sembra essersi preparato per la catastrofe qui. Questi schizzi potrebbero essere utili. Non corrispondono minimamente a nessuno dei nostri piani di costruzione della Endzone."
+    },
+    {
+      "k": 5352,
+      "v": "Questa turbina a vapore funziona in modo completamente diverso da quello che avevamo nella Endzone. Abbiamo realizzato alcuni diagrammi schematici mentre lo smontavamo. Potrebbe essere che potremmo essere in grado di ricostruire parti di esso in forma semplificata, giusto?"
+    },
+    {
+      "k": 5369,
+      "v": "Questa turbina a vapore funziona in modo completamente diverso da quello che avevamo nella Endzone. Abbiamo realizzato alcuni diagrammi schematici mentre lo smontavamo. Potrebbe essere che potremmo essere in grado di ricostruire parti di esso in forma semplificata, giusto?"
+    },
+    {
+      "k": 5353,
+      "v": "Mi è appena venuto in mente: abbiamo trovato una scatola di provette rimaste in uno degli angoli. A giudicare dalla loro forma, non sono qualcosa che saremmo in grado di produrre così facilmente. Lo porteremo con noi."
+    },
+    {
+      "k": 5354,
+      "v": "Davvero non vuoi provare qualcosa del genere, capo! Ma nonostante ciò abbiamo setacciato la stanza. Voglio dire, non avrebbe dovuto essere per niente, giusto ?! Il dottore aveva ancora vari utensili sul suo tavolo da lavoro. Abbiamo portato tutto con noi.\n"
+    },
+    {
+      "k": 5355,
+      "v": "Oltre a tutti i libri di scuola c'era anche un grande tomo lì, “Matematica superiore: compatta”. Mi vengono i brividi di freddo lungo la schiena al pensiero, ma ad alcune persone dell'insediamento potrebbe piacere l'argomento.\n"
+    },
+    {
+      "k": 5356,
+      "v": "Alcuni vecchi macchinari e attrezzi giacevano nei contenitori che probabilmente erano destinati al cantiere. Alcuni sembrano utilizzabili e potrebbero forse aiutarci con i nostri cantieri in futuro.\n"
+    },
+    {
+      "k": 5357,
+      "v": "Già che ci siamo, cos'è questo qui? Il suo titolo è: “In dieci passi verso una convivenza sostenibile” e accanto c'è scritto: “per tonti”. Bene, quando anche i manichini ottengono il punto deve essere buono. Sembra che potrebbe essere interessante.\n"
+    },
+    {
+      "k": 5358,
+      "v": "Un secondo. C'è un tavolo da laboratorio per esperimenti qui in un angolo con crogioli, un mortaio e capsule di Petri e un libro accanto: “Il percorso verso la riserva aurea autoproducente”. Che mucchio di pazzi... Oh beh, l'attrezzatura sembra buona, la porteremo con noi!"
+    },
+    {
+      "k": 5359,
+      "v": "Ecco una piccola scatola di plastica con quei piccoli dispositivi elettronici all'interno. Sì, giusto, erano chiamati “smartphone” e ci sono anche dei gioielli. I gioielli sono piuttosto belli, ma questi “smartphone” sono così ben conservati, è certo che potrebbero essere utili.\n"
+    },
+    {
+      "k": 5360,
+      "v": "Questo telescopio è una vera bellezza, anche le lenti sembrano ancora intatte! Possiamo usarlo per guardare il cielo e le stelle, ed è certo che impareremo alcune cose!\n"
+    },
+    {
+      "k": 5361,
+      "v": "Prima che me ne dimentichi, c'era ancora un binocolo ben imballato accanto al prete. Non sono sicuro di cosa avesse bisogno, ma l'obiettivo sembra essere ancora in ottime condizioni. Lo abbiamo portato con noi.\n"
+    },
+    {
+      "k": 5362,
+      "v": "Aspetta un attimo, sembra che questo “DREAMCAST” sia qualcosa di elettronico, giusto? Bene, a quanto pare i componenti elettrici hanno resistito molto bene alla prova del tempo. Quindi dovrebbe esserci ancora qualcosa che può essere fatto con esso. D'altra parte, non è stato carino da parte tua, capo!"
+    },
+    {
+      "k": 5363,
+      "v": "Per quanto riguarda le pompe e le unità di potenza, ci sono diversi componenti che non possono essere fabbricati così facilmente. Li imballeremo molto velocemente. Potrebbero rivelarsi utili più tardi!"
+    },
+    {
+      "k": 5364,
+      "v": "Ci sta regalando una dinamo fatta da sé e azionata manualmente e anche i suoi progetti. Potrebbe servirci molto bene in futuro."
+    },
+    {
+      "k": 5365,
+      "v": "Oltre agli strumenti c'era anche un cavo d'acciaio ben conservato con una bobina che giaceva qui intorno. Era montato sulla parte anteriore del veicolo, forse per il traino di carichi? L'abbiamo quasi trascurato, ma possiamo sicuramente metterlo a frutto."
+    },
+    {
+      "k": 5366,
+      "v": "Oltre alle singole parti siamo stati anche in grado di rimuovere l'alternatore. Dovrebbe fare un buon lavoro servendo a uno scopo diverso come piccolo Generatore, almeno questo è quello che dice nella nostra Guida di sopravvivenza nella Endzone.\n"
+    },
+    {
+      "k": 5367,
+      "v": "Abbiamo trovato bottiglie di vetro e provette ben conservate in una custodia sigillata in un angolo. Hanno ancora tentato la fortuna sperimentando sulle piante qui? In ogni caso, l'attrezzatura è decisamente utile."
+    },
+    {
+      "k": 5368,
+      "v": "Oltre alla nostra fantastica scoperta, la custodia in plastica è piena di piccole provette e bottiglie. Dentro ci sono delle pastiglie. Non ho la minima idea di cosa ci sia con i tablet, ma le piccole cose di vetro potrebbero essere molto pratiche.\n"
+    },
+    {
+      "k": 5370,
+      "v": "Naturalmente abbiamo imballato le attrezzature, i gadget e gli oggetti di laboratorio, che erano in ottime condizioni. Dovremmo essere particolarmente in grado di fare qualcosa con tutte quelle provette e pipette!"
+    },
+    {
+      "k": 5379,
+      "v": "Apri l'albero della ricerca"
+    },
+    {
+      "k": 5384,
+      "v": "Elettropompa ricercata: <<amount>>"
+    },
+    {
+      "k": 5385,
+      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è di automatizzare i nostri pozzi in modo che non richiedano più manodopera e possano funzionare esclusivamente tramite un alimentatore. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
+    {
+      "k": 5386,
+      "v": "Loitering Ban ha studiato: <<amount>>"
+    },
+    {
+      "k": 5387,
+      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di eseguire ricerche su un decreto che possa portare i tuoi coloni a rilassarsi di meno e concentrarsi di più sul loro lavoro. Vogliono che il tuo permesso possa iniziare i loro studi."
+    },
+    {
+      "k": 5388,
+      "v": "Davvero, capo? Dobbiamo fare ancora di più per fare le cose? Se continui a guidarci in questo modo, non dureremo a lungo! Faremo lo sforzo e faremo del nostro meglio. Ma dopo dovresti darci anche il tempo per una pausa!"
+    },
+    {
+      "k": 5392,
+      "v": "Non faremo più pause"
     }
   ]
 }
