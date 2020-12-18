@@ -449,6 +449,18 @@
       "k": 5175,
       "v": "Stufato"
     },
+	{
+      "k": 5448,
+      "v": "Zolfo"
+    },
+    {
+      "k": 5449,
+      "v": "Proiettile di metallo"
+    },
+    {
+      "k": 5450,
+      "v": "Proiettile di gomma"
+    },
     {
 	  "k": 880,
       "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
@@ -715,7 +727,19 @@
     },
     {
       "k": 5177,
-      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano stufato migliorano la loro salute nel processo."
+      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano stufato migliorano la loro salute nel processo."															  
+    },
+	{
+      "k": 5451,
+      "v": "Lo zolfo viene utilizzato per creare polvere nera per munizioni."
+    },
+    {
+      "k": 5454,
+      "v": "I proiettili di metallo sono un metodo letale per difendersi dai predoni."
+    },
+    {
+      "k": 5455,
+      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."
     },
     {
       "k": 267,
@@ -999,7 +1023,11 @@
     },
 	{
       "k": 5393,
-      "v": "Torre di guardia"
+      "v": "Torre di guardia"		   
+    },
+	{
+      "k": 5456,
+      "v": "Armeria"
     },
     {
       "k": 301,
@@ -2639,23 +2667,23 @@
     },
 	{
       "k": 4899,
-      "v": "0% istruito"
+      "v": "Istruito allo 0%"
     },
     {
       "k": 4900,
-      "v": "20% istruito"
+      "v": "Istruito al 20%"
     },
     {
       "k": 4901,
-      "v": "40% istruito"
+      "v": "Istruito al 40%"
     },
     {
       "k": 4902,
-      "v": "60% istruito"
+      "v": "Istruito al 60%"
     },
     {
       "k": 4903,
-      "v": "80% istruito"
+      "v": "Istruito all'80%"
     },
     {
       "k": 4904,
@@ -2771,7 +2799,7 @@
     },
     {
       "k": 486,
-      "v": "Demolire"
+      "v": "Demolisci"
     },
     {
       "k": 963,
@@ -3907,7 +3935,11 @@
     },
 	{
       "k": 4704,
-      "v": "Animali"
+      "v": "Animali"			
+    },
+	{
+      "k": 5452,
+      "v": "Difesa"
     },
     {
       "k": 985,
@@ -3948,6 +3980,10 @@
 	{
       "k": 4705,
       "v": "Gli animali possono essere catturati dai cacciatori e tenuti sui pascoli."
+    },
+	{
+      "k": 5453,
+      "v": "Le risorse di difesa sono necessarie per equipaggiare gli edifici di difesa e la milizia per difendersi dai predoni."
     },
 	{
       "k": 4132,
@@ -4421,7 +4457,11 @@
       "k": 5232,
       "v": "Almeno due Animali di questo tipo sono necessari su questo pascolo affinché si riproducano. Inoltre, a partire dal terzo Animale, gli Animali possono essere trasferiti tra Pascoli o altri Edifici, come la Stazione Commerciale."
     },
-    {
+	{
+      "k": 5460,
+      "v": "Pozzi e pompe dell'acqua elettriche"
+    },
+    { 
       "k": 5138,
       "v": "<<number>> Gli animali si trovano ancora su questo pascolo. Vuoi massacrare tutti gli animali per <<amount>> di cibo o liberarli?"
     },
@@ -9051,7 +9091,7 @@
     },
     {
       "k": 1371,
-      "v": "Indagalo!"
+      "v": "Indaga!"
     },
     {
       "k": 1372,
@@ -17199,7 +17239,15 @@
     },
     {
       "k": 4755,
-      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."
+      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."					 
+    },
+	{
+      "k": 5458,
+      "v": "Misure di difesa"
+    },
+    {
+      "k": 5459,
+      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."
     },
     {
       "k": 3575,
@@ -17287,7 +17335,7 @@
     },
     {
       "k": 3606,
-      "v": "Alternativa: sposta \"destra\""
+      "v": "Alternativa: sposta \"Destra\""
     },
     {
       "k": 3607,
@@ -18887,7 +18935,7 @@
     },
     {
       "k": 4598,
-      "v": "Fiducia"
+      "v": "Tutorial sulla Fiducia"
     },
     {
       "k": 4599,
