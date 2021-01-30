@@ -155,7 +155,19 @@
     },
     {
       "k": 5154,
-      "v": "Priorità"
+      "v": "Priorità"																																							 
+    },
+	{
+      "k": 5464,
+      "v": "Nessun sopravvissuto"
+    },
+    {
+      "k": 5560,
+      "v": "Accesso rapido alle modalità di costruzione"
+    },
+    {
+      "k": 5561,
+      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."
     },
     {
       "k": 228,
@@ -231,7 +243,7 @@
     },
     {
       "k": 246,
-      "v": "Sciarpa collo"
+      "v": "Sciarpa"
     },
     {
       "k": 247,
@@ -495,15 +507,15 @@
     },
     {
       "k": 889,
-      "v": "Le bacche sono raccolte dai Gatherer e possono essere trovate nelle foreste."
+      "v": "Le bacche sono raccolte dai Raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 890,
-      "v": "I funghi vengono raccolti dai Gatherer e possono essere trovati nelle foreste."
+      "v": "I funghi vengono raccolti dai Raccoglitori e possono essere trovati nelle foreste."
     },
     {
       "k": 891,
-      "v": "Le radici vengono scavate dai Gatherer e possono essere trovate nelle foreste."
+      "v": "Le radici vengono scavate dai Raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 892,
@@ -995,7 +1007,7 @@
     },
     {
       "k": 4426,
-      "v": "Siepe"				 
+      "v": "Siepe"
     },
 	{
       "k": 4514,
@@ -1007,7 +1019,7 @@
     },
     {
       "k": 4744,
-      "v": "Pascolo"					
+      "v": "Pascolo"
     },
 	{
       "k": 5136,
@@ -1027,7 +1039,27 @@
     },
 	{
       "k": 5456,
-      "v": "Armeria"
+      "v": "Armeria"				  
+    },
+	{
+      "k": 5469,
+      "v": "Sartoria migliorata"
+    },
+    {
+      "k": 5470,
+      "v": "Laboratorio aggiornato"
+    },
+    {
+      "k": 5471,
+      "v": "Memoriale"
+    },
+    {
+      "k": 5472,
+      "v": "Padiglione"
+    },
+    {
+      "k": 5473,
+      "v": "Lampione"
     },
     {
       "k": 301,
@@ -1149,9 +1181,17 @@
       "k": 324,
       "v": "Un sarto produce abiti che proteggono i coloni dalle radiazioni."
     },
+	{
+      "k": 5474,
+      "v": "Una sartoria aggiornata produce abbigliamento che protegge i coloni dalle radiazioni. Impiega più sarti e lavora in modo più efficiente di una normale sartoria."
+    },
     {
       "k": 325,
       "v": "Un laboratorio produce strumenti che sono necessari per eseguire qualsiasi tipo di lavoro."
+    },
+	{
+      "k": 5475,
+      "v": "Un laboratorio aggiornato produce gli strumenti necessari per qualsiasi tipo di lavoro. Impiega più tecnici e lavora in modo più efficiente di un normale laboratorio."
     },
     {
       "k": 326,
@@ -1275,7 +1315,15 @@
     },
     {
       "k": 5231,
-      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."
+      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."																							
+    },
+	{
+      "k": 5457,
+      "v": "Un armaiolo produce diversi tipi di munizioni che possono essere utilizzate per difendersi dai saccheggiatori."
+    },
+    {
+      "k": 5551,
+      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."
     },
     {
       "k": 335,
@@ -2647,7 +2695,11 @@
     },
     {
       "k": 2982,
-      "v": "Malattia"
+      "v": "Malattia"				  
+    },
+	{
+      "k": 5559,
+      "v": "Attacco da raider"
     },
     {
       "k": 2983,
@@ -3935,7 +3987,7 @@
     },
 	{
       "k": 4704,
-      "v": "Animali"			
+      "v": "Animali"
     },
 	{
       "k": 5452,
@@ -4232,6 +4284,18 @@
     {
       "k": 596,
       "v": "Irrigare"
+    },
+	{
+      "k": 5555,
+      "v": "Restrizione per gli occupanti"
+    },
+    {
+      "k": 5556,
+      "v": "Tutti i coloni"
+    },
+    {
+      "k": 5557,
+      "v": "Vecchio e sterile"
     },
 	{
       "k": 3934,
@@ -4551,7 +4615,7 @@
     },
     {
       "k": 1034,
-      "v": "Campi"						 
+      "v": "Campi"
     },
 	{
       "k": 5395,
@@ -5099,7 +5163,15 @@
     },
     {
       "k": 1066,
-      "v": "Apri finestra di spedizione"
+      "v": "Apri finestra di spedizione"			   
+    },
+	{
+      "k": 5542,
+      "v": "Esploratori"
+    },
+    {
+      "k": 5549,
+      "v": "Spedizione"
     },
     {
       "k": 1171,
@@ -5423,7 +5495,15 @@
     },
     {
       "k": 2929,
-      "v": "Medaglie"
+      "v": "Medaglie"											  
+    },
+	{
+      "k": 5467,
+      "v": "Hai già concluso questo tutorial. Puoi riavviarlo in qualsiasi momento se desideri aggiornare le tue conoscenze."
+    },
+    {
+      "k": 5468,
+      "v": "Non hai ancora concluso questo tutorial."
     },
     {
       "k": 2706,
@@ -6375,7 +6455,11 @@
     },
     {
       "k": 2137,
-      "v": "Nessuna spedizione iniziata"
+      "v": "Nessuna spedizione iniziata"								  
+    },
+	{
+      "k": 5543,
+      "v": "Nessuna Missione Esploratore in corso"
     },
     {
       "k": 2138,
@@ -6651,7 +6735,11 @@
     },
     {
       "k": 5225,
-      "v": "Rimuove un animale morto"
+      "v": "Rimuove un animale morto"					
+    },
+	{
+      "k": 5545,
+      "v": "Tiene d'occhio"
     },
     {
       "k": 2273,
@@ -7535,7 +7623,11 @@
     },
 	{
       "k": 5391,
-      "v": "Gli utensili di ricerca possono essere trovati qui."
+      "v": "Gli utensili di ricerca possono essere trovati qui."													  
+    },
+	{
+      "k": 5552,
+      "v": "I piani di costruzione o le tecnologie possono essere trovati qui."
     },
     {
       "k": 1114,
@@ -8505,6 +8597,10 @@
       "k": 3593,
       "v": "Il posto di decontaminazione <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Decontaminatori. I decontaminatori producono kit di decontaminazione. I decontaminatori distribuiscono i kit di decontaminazione a tutti gli edifici che immagazzinano <link=\"4\"><style=\"DefaultLink\">Cibo</style></link> che si trovano nell'<link=\"1\"><style=\"DefaultLink\">area di lavoro</style></link> di un determinato posto di decontaminazione."
     },
+	{
+      "k": 5527,
+      "v": "Il negozio del sarto aggiornato <link=\"3\"><style=\"DefaultLink\">impiega</style></link>Sarti. I sarti producono sciarpe da collo, maschere al carbone attivo e tute anti-radiazioni con <link=\"16\"><style=\"DefaultLink\">Tessuto</style></link>, carbone e <link=\"16\"><style=\"DefaultLink\">Plastica</style></link>. La sartoria aggiornata è più efficace della sartoria. Puoi decidere quale formula del prodotto deve essere prodotta dopo. I sarti impiegati iniziano a lavorare utilizzando la nuova formula non appena la missione corrente è completata. La sartoria aggiornata riduce lo <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i Coloni che hanno il loro <link=\"4\"><style=\"DefaultLink\">abitazione</style></link> nelle loro vicinanze. Per poter creare un seminario aggiornato, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
     {
       "k": 1256,
       "v": "Strumenti"
@@ -8528,6 +8624,10 @@
     {
       "k": 1851,
       "v": "L'officina <link=\"1\"><style=\"DefaultLink\">impiega</style></link> Tecnici. I tecnici creano strumenti di scarto e strumenti di metallo con <link=\"15\"><style=\"DefaultLink\">Legno, Rottami</style></link> e <link=\"16\"><style=\"DefaultLink\">Metallo</style></link>. Puoi decidere quale tipo dovrebbe essere prodotto successivamente. Il Tecnico impiegato inizia con il lavoro sul nuovo tipo non appena l'attività corrente è completata. "
+    },
+	{
+      "k": 5528,
+      "v": "Il laboratorio aggiornato <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Tecnici. I tecnici producono utensili di rottami e utensili in metallo con <link=\"15\"><style=\"DefaultLink\">Legno, Rottami</style></link> e <link=\"16\"><style=\"DefaultLink\">Metallo</style></link>. Il laboratorio aggiornato è più efficace del laboratorio. Puoi decidere quale formula del prodotto deve essere prodotta dopo. Il Tecnico impiegato inizia a lavorare utilizzando la nuova formula non appena la Missione corrente è stata completata. Il seminario aggiornato riduce la <link=\"8\"><u>Contentezza</u></link> di tutti i coloni che hanno un'<link=\"4\"><u>abitazione</u></link> nelle vicinanze. Per poter creare un laboratorio aggiornato, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1257,
@@ -8931,7 +9031,19 @@
     },
 	{
       "k": 4513,
-      "v": "La statua del pioniere può essere posizionata per aumentare notevolmente l'attrattiva di un'area."
+      "v": "La statua del pioniere può essere posizionata per aumentare notevolmente l'attrattiva di un'area."																				  
+    },
+	{
+      "k": 5529,
+      "v": "Il Padiglione può essere posizionato per aumentare l'attrattività di un'area in modo molto netto."
+    },
+    {
+      "k": 5530,
+      "v": "Il memoriale può essere posizionato per aumentare l'attrattiva di un'area in modo molto netto."
+    },
+    {
+      "k": 5531,
+      "v": "I lampioni possono essere posizionati per aumentare leggermente l'attrattiva di un'area."
     },
     {
       "k": 4408,
@@ -9491,7 +9603,7 @@
     },
     {
       "k": 1471,
-      "v": "Mi è stato detto che si tratta di una specie di muschio con funghi. Il nostro Gatherer è sicuro che sia commestibile. Ha già preso un morso."
+      "v": "Mi è stato detto che si tratta di una specie di muschio con funghi. Il nostro Raccoglitore è sicuro che sia commestibile. Ha già preso un morso."
     },
     {
       "k": 1472,
@@ -10927,7 +11039,7 @@
     },
     {
       "k": 2190,
-      "v": "Il nostro Gatherer ci dice che non dovremmo rinunciare alla speranza. La puzza non significa che sia una causa persa!"
+      "v": "Il nostro Raccoglitore ci dice che non dovremmo rinunciare alla speranza. La puzza non significa che sia una causa persa!"
     },
     {
       "k": 2082,
@@ -11887,7 +11999,7 @@
     },
     {
       "k": 3296,
-      "v": "Hm, bloccato! Questo era prevedibile - <<dynamicmessage>>"
+      "v": "Hm, è bloccato! Questo era prevedibile - <<dynamicmessage>>"
     },
     {
       "k": 3297,
@@ -16373,6 +16485,18 @@
       "k": 4753,
       "v": "Il vecchio T. Bara"
     },
+	{
+      "k": 5461,
+      "v": "Bufalo ruggente"
+    },
+    {
+      "k": 5462,
+      "v": "Cinghiale dalla testa di maiale"
+    },
+    {
+      "k": 5463,
+      "v": "Domare la capra"
+    },
     {
       "k": 4679,
       "v": "Persona sconosciuta"
@@ -17234,6 +17358,14 @@
       "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."																																											  
     },
 	{
+      "k": 5553,
+      "v": "Zaino rinforzato"
+    },
+    {
+      "k": 5554,
+      "v": "Con lo zaino rinforzato, gli esploratori possono portare con sé più risorse in una spedizione o trasportarle da una rovina all'insediamento."
+    },
+	{
       "k": 4754,
       "v": "Montante radio migliorato"
     },
@@ -17247,7 +17379,23 @@
     },
     {
       "k": 5459,
-      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."
+      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."				
+    },
+	{
+      "k": 5496,
+      "v": "Mangime per pesci"
+    },
+    {
+      "k": 5497,
+      "v": "Questa tecnologia consente ai nostri pescatori di attirare più pesci. Di conseguenza, le capanne di pesca possono essere posizionate più vicine l'una all'altra senza che le loro aree di lavoro si influenzino reciprocamente sulla produttività durante la pesca."
+    },
+    {
+      "k": 5498,
+      "v": "Sistema di tubi"
+    },
+    {
+      "k": 5499,
+      "v": "I pozzi sono costruiti in modo più accurato utilizzando questa tecnologia. Di conseguenza, i pozzi e le pompe dell'acqua elettriche possono essere posizionati più vicini gli uni agli altri senza che le rispettive aree di lavoro si influenzino reciprocamente la produttività reciproca quando si ottiene l'acqua."
     },
     {
       "k": 3575,
@@ -17568,6 +17716,14 @@
 	{
       "k": 5234,
       "v": "Consenti/Vieta riparazioni di edifici"
+    },
+	{
+      "k": 5465,
+      "v": "Scegli la prossima variante di edificio"
+    },
+    {
+      "k": 5466,
+      "v": "Scegli la variante di edificio precedente"
     },
 	{
       "k": 3833,
@@ -18053,7 +18209,7 @@
       "k": 4387,
       "v": "L'effetto di un Decreto Permanente ha un impatto continuo sulla transazione fino alla scadenza del suo periodo di abbattimento, momento in cui il decreto non è più in vigore."
     },
-    { 
+    {
       "k": 4067,
       "v": "Durata"
     },
@@ -20299,7 +20455,423 @@
     },
     {
       "k": 5392,
-      "v": "Non faremo più pause"
+      "v": "Non faremo più pause"											
+    },
+	{
+      "k": 5402,
+      "v": "Carbone Bruciato"
+    },
+    {
+      "k": 5403,
+      "v": "Si è verificato un incendio in uno dei nostri forni a carbone durante la combustione della legna."
+    },
+    {
+      "k": 5404,
+      "v": "L'edificio è stato gravemente danneggiato e parte della forza lavoro è rimasta gravemente ferita."
+    },
+    {
+      "k": 5405,
+      "v": "Tubo scoppiato"
+    },
+    {
+      "k": 5406,
+      "v": "Si è verificato uno scoppio del tubo in una delle nostre torri d'acqua."
+    },
+    {
+      "k": 5407,
+      "v": "Anche se siamo stati in grado di sigillare temporaneamente il buco, molta acqua è fuoriuscita e la torre dell'acqua dovrebbe essere riparata il più velocemente possibile."
+    },
+    {
+      "k": 5408,
+      "v": "Difetto di fabbricazione"
+    },
+    {
+      "k": 5409,
+      "v": "Alcuni dei lavoratori si sono lamentati del fatto che i loro strumenti si sono rotti rapidamente. Dopo che i nostri tecnici hanno rivisto gli utensili già prodotti, sono stati purtroppo costretti a scoprire che si erano verificati gravi difetti di fabbricazione."
+    },
+    {
+      "k": 5410,
+      "v": "Purtroppo, molti dei nostri strumenti immagazzinati sono inutilizzabili e devono essere smaltiti."
+    },
+    {
+      "k": 5411,
+      "v": "Reti distrutte"
+    },
+    {
+      "k": 5412,
+      "v": "Uno dei nostri raccoglitori di rottami è stato notevolmente danneggiato a causa di pezzi taglienti di scarto."
+    },
+    {
+      "k": 5413,
+      "v": "Dovremo ripararlo."
+    },
+    {
+      "k": 5414,
+      "v": "Problemi nella produzione"
+    },
+    {
+      "k": 5415,
+      "v": "In una delle nostre Sartorie si è verificato un infortunio sul lavoro."
+    },
+    {
+      "k": 5416,
+      "v": "Fortunatamente nessuno è rimasto ferito, ma dovremo sostituire una parte importante delle parti di cui abbiamo bisogno per la produzione."
+    },
+    {
+      "k": 5417,
+      "v": "Incidente alla discarica"
+    },
+    {
+      "k": 5418,
+      "v": "Si è verificato un incidente in una nostra discarica."
+    },
+    {
+      "k": 5419,
+      "v": "Per fortuna non è morto nessuno, ma oltre ai danni all'edificio sono rimasti feriti anche alcuni operai."
+    },
+    {
+      "k": 5424,
+      "v": "Sartoria aggiornata ricercata: <<amount>>"
+    },
+    {
+      "k": 5425,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una forma migliorata della nostra sartoria in grado di produrre in modo più efficace e supportare una forza lavoro più ampia. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 5426,
+      "v": "Laboratorio aggiornato ricercato: <<amount>>"
+    },
+    {
+      "k": 5427,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è di aggiornare il nostro laboratorio per arrivare agli Strumenti in modo più veloce ed efficace. Vogliono il tuo permesso per poter iniziare i loro studi."
+    },
+    {
+      "k": 5428,
+      "v": "Tutorial sulle spedizioni"
+    },
+    {
+      "k": 5429,
+      "v": "Una breve introduzione al sistema di spedizione in Endzone. Impara i passaggi per completare con successo le spedizioni al fine di trovare risorse, conoscenza e strumenti di ricerca in modo che il tuo insediamento possa svilupparsi ulteriormente."
+    },
+    {
+      "k": 5430,
+      "v": "Benvenuto in questo esercizio, vecchio amico! In questa sessione vorrei mostrarti e spiegare come puoi inviare i tuoi coloni sulle <link=\"14\"><style=\"DefaultLink\">Spedizioni</style></link> per trovare Conoscenze e materiali utili che ti aiuteranno a sopravvivere in questo ambiente ostile. La prima cosa che dovresti fare è costruire una <link=\"14\"><style=\"DefaultLink\">Stazione di spedizione</style></link> perché le spedizioni vengono preparate e inviate in questo edificio."
+    },
+    {
+      "k": 5431,
+      "v": "Molto bene. Ora che la stazione di spedizione è stata costruita, il primo passo necessario per consentire ai tuoi coloni di esplorare le rovine nei tuoi dintorni è stato fatto."
+    },
+    {
+      "k": 5432,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 5433,
+      "v": "La prossima cosa che dovresti fare è prepararti per le tue prime spedizioni. Assegna ai coloni il compito di diventare <link=\"14\"><style=\"DefaultLink\">Esploratori</style></link> e preparare <link=\"14\"><style=\"DefaultLink\">Razioni di Spedizioni</style></link>. Quando vuoi inviare una spedizione, puoi decidere la quantità di razioni che vuoi fornire alla spedizione. Ciò ti consente di controllare per quanto tempo e quanto a fondo la Spedizione è in grado di esaminare una Rovina."
+    },
+    {
+      "k": 5434,
+      "v": "Molto bene! Ora che i tuoi esploratori hanno prodotto alcune razioni di spedizione, le spedizioni future possono essere equipaggiate e fornite."
+    },
+    {
+      "k": 5435,
+      "v": "Razioni di spedizione"
+    },
+    {
+      "k": 5436,
+      "v": "Tuttavia, i tuoi esploratori hanno un'altra funzione oltre a produrre razioni di spedizione. Puoi inviarli per scoprire un <link=\"14\"><style=\"DefaultLink\">luogo interessante</style></link>. Un esploratore deve prima ispezionare un luogo interessante prima che tu possa inviare spedizioni in viaggio verso questo luogo. L'esploratore avrà bisogno di un po' di tempo prima di raggiungere la sua destinazione. Non appena è arrivato, farà rapporto e ti informerà di ciò che ha scoperto. Mentre aspetti il suo rapporto, potresti far produrre Razioni di Spedizione aggiuntive per essere ben preparato per la Spedizione."
+    },
+    {
+      "k": 5437,
+      "v": "Molto bene! Il tuo esploratore è arrivato alle Rovine e ha già accumulato alcune informazioni a riguardo. Se riapri la finestra Panoramica della spedizione, vedrai che l'esploratore ti ha comunicato la sua valutazione della situazione sul posto. Questo ti mostra di quale tipo di Rovina si tratta qui e quali <link=\"14\"><style=\"DefaultLink\">Qualifiche e risorse</style></link> saranno vantaggiose in una spedizione."
+    },
+    {
+      "k": 5438,
+      "v": "Invio di esploratori"
+    },
+    {
+      "k": 5439,
+      "v": "Assicurati che i Coloni che invii alla Spedizione siano del tipo Esperto nel campo che l'esploratore ritiene importante e di dotarli di <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Abbigliamento protettivo</style></link>. Fornisci loro <link=\"14\"><style=\"DefaultLink\">Razioni di spedizione</style></link> sufficienti per assicurarti che abbiano il maggior margine di manovra possibile."
+    },
+    {
+      "k": 5440,
+      "v": "Eccellente. I tuoi esploratori inizieranno ora a portare tutto il materiale necessario per la spedizione alla stazione di spedizione e inizieranno a preparare la spedizione."
+    },
+    {
+      "k": 5441,
+      "v": "Invio di una spedizione"
+    },
+    {
+      "k": 5442,
+      "v": "Non appena i tuoi esploratori avranno portato tutti i materiali che hai scelto per la spedizione alla stazione di spedizione, i tuoi nuovi esploratori si riuniranno e partiranno insieme per la loro strada. Non appena sono arrivati, ti riferiranno e aspetteranno le tue istruzioni. Assumi il controllo della spedizione non appena è arrivata a destinazione."
+    },
+    {
+      "k": 5443,
+      "v": "In ogni caso, è andato tutto molto bene fino a questo punto! Hai costruito una stazione di spedizione, esaminato una rovina e guidato una spedizione di successo."
+    },
+    {
+      "k": 5444,
+      "v": "Dirigere una spedizione"
+    },
+    {
+      "k": 5445,
+      "v": "Con questo, ti ho insegnato quello che devi sapere per poter portare a termine con successo le Spedizioni in Endzone."
+    },
+    {
+      "k": 5446,
+      "v": "In conclusione, vorrei anche consigliarvi di dare un'occhiata al maggior numero possibile di Rovine nei vostri dintorni. È sicuro che troverai molte cose utili lì. Oltre a risorse e conoscenze utili, potrebbero esserci anche strumenti di ricerca o persino altri sopravvissuti che puoi aiutare. Vale sempre la pena tenere d'occhio l'ambiente in cui ti trovi!"
+    },
+    {
+      "k": 5447,
+      "v": "Ben fatto!"
+    },
+    {
+      "k": 5544,
+      "v": "Tempi cupi"
+    },
+    {
+      "k": 5476,
+      "v": "Un insediamento sull'orlo della distruzione. La tua missione sarà quella di ridare speranza alla gente e di stare al loro fianco durante la ricostruzione per evitare che cadano."
+    },
+    {
+      "k": 5477,
+      "v": "Meno male che sei qui! Abbiamo grossi problemi. L'ultima tempesta di sabbia ha causato molti danni e le nostre scorte si stanno esaurendo. Molti dei coloni credono che non saremo in grado di sopravvivere a lungo. Puoi aiutarci?"
+    },
+    {
+      "k": 5478,
+      "v": "Stiamo lottando per sopravvivere"
+    },
+    {
+      "k": 5479,
+      "v": "Prima di tutto, la cosa più importante sarà che sopravviviamo in primo luogo! Ma come dovremmo farlo, beh, non lo sappiamo. In questo caso stiamo riponendo la nostra fiducia nella tua esperienza e leadership!"
+    },
+    {
+      "k": 5480,
+      "v": "Che fortuna che sei venuto ad aiutarci! Non credo che questo accordo sarebbe sopravvissuto senza di te! Per lo meno, i primi passi sono già stati fatti!"
+    },
+    {
+      "k": 5481,
+      "v": "Ecco come appare il futuro per tutti noi... Non ci sono più soccorsi in vista per noi!"
+    },
+    {
+      "k": 5482,
+      "v": "Stiamo ricostruendo"
+    },
+    {
+      "k": 5483,
+      "v": "Quindi siamo arrivati a questo punto! Ma non ho la sensazione che possiamo già essere sicuri di aver superato questa crisi. Come passo successivo forse dovremmo cercare di stabilizzare le nostre circostanze. Cosa ne pensi?"
+    },
+    {
+      "k": 5484,
+      "v": "Incredibile! Con qualcuno al vertice che ha tutta l'esperienza che hai tu possiamo farcela, anche da situazioni disperate come queste!"
+    },
+    {
+      "k": 5485,
+      "v": "Ecco come appare il futuro per tutti noi... Non ci sono più soccorsi in vista per noi!"
+    },
+    {
+      "k": 5486,
+      "v": "Ci stiamo sviluppando ulteriormente"
+    },
+    {
+      "k": 5487,
+      "v": "Per il momento ci siamo lasciati alle spalle il peggio, giusto? Ci piacerebbe davvero essere in grado di stare in piedi da soli in futuro. Quindi ora sarebbe anche positivo se tu potessi mostrarci cosa dobbiamo fare in modo da non trovarci di nuovo in un dilemma come questo in futuro."
+    },
+    {
+      "k": 5488,
+      "v": "Non riesco a crederci... Prima che arrivassi, pensavo ancora che fosse tutto finito per noi. Ma siamo sopravvissuti! E ora siamo anche in una posizione migliore rispetto a prima!"
+    },
+    {
+      "k": 5489,
+      "v": "Ecco come appare il futuro per tutti noi... Non ci sono più soccorsi in vista per noi!"
+    },
+    {
+      "k": 5490,
+      "v": "Ti siamo molto debitori. Senza la tua leadership non saremmo usciti da questa crisi. Ci hai salvati, tutti noi! Da questo punto in poi penso che ce la faremo da soli. Ci hai mostrato come possiamo districarci anche dalla situazione più difficile."
+    },
+    {
+      "k": 5491,
+      "v": "Ecco come appare il futuro per tutti noi... Non ci sono più soccorsi in vista per noi!"
+    },
+    {
+      "k": 5492,
+      "v": "Con ciò, lo scenario \"Tempi cupi\" giunge al termine. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
+    },
+    {
+      "k": 5493,
+      "v": "Sopravvivere"
+    },
+    {
+      "k": 5494,
+      "v": "Aggiornare"
+    },
+    {
+      "k": 5495,
+      "v": "Ottimizzare"
+    },
+    {
+      "k": 5546,
+      "v": "Aiuta l'insediamento a uscire dalla crisi immediata!"
+    },
+    {
+      "k": 5547,
+      "v": "Dirigi la ricostruzione dell'insediamento!"
+    },
+    {
+      "k": 5548,
+      "v": "Aiuta i Coloni a essere ben armati anche in futuro!"
+    },
+    {
+      "k": 5500,
+      "v": "Il tuo Esploratore ha raggiunto le Rovine e si è già guardato intorno. Di conseguenza, è già in grado di darti alcune informazioni su ciò con cui i tuoi coloni devono tenere conto quando li mandi qui. Osservando i vantaggi indicati, puoi vedere quali Specialisti tra i tuoi Coloni dovresti inviare in questa Spedizione e quale Equipaggiamento dovresti fornire loro in modo che abbiano il maggior successo possibile."
+    },
+    {
+      "k": 5501,
+      "v": "La tua spedizione è arrivata. Ora sta a te guidarli attraverso la spedizione stessa. Finché hanno a disposizione razioni di spedizione sufficienti, i tuoi coloni possono cercare tra le rovine."
+    },
+    {
+      "k": 5502,
+      "v": "La prima spedizione"
+    },
+    {
+      "k": 5503,
+      "v": "Clicca qui per supervisionare la spedizione"
+    },
+    {
+      "k": 5504,
+      "v": "I tuoi coloni ora entreranno nelle rovine e ti informeranno di ciò che incontrano. Quindi puoi decidere come procedere da lì. Tieni presente che i tuoi coloni devono utilizzare le razioni di spedizione per ogni percorso che indagano."
+    },
+    {
+      "k": 5505,
+      "v": "Garage"
+    },
+    {
+      "k": 5506,
+      "v": "I tuoi coloni possono dare un'occhiata a questa parte delle rovine. Anche se, come puoi vedere, questa parte della Rovina non è l'unica. Ora puoi lasciare che i tuoi coloni procedano ulteriormente qui o scegliere l'altra parte."
+    },
+    {
+      "k": 5507,
+      "v": "I tuoi coloni si sono introdotti nel garage e hanno raccolto tutto ciò che sono riusciti a trovare. Se, secondo te, non c'è nient'altro che i tuoi coloni possono ottenere in questa rovina, puoi rimandarli indietro in qualsiasi momento."
+    },
+    {
+      "k": 5508,
+      "v": "Non posso andare avanti!"
+    },
+    {
+      "k": 5509,
+      "v": "Negozio"
+    },
+    {
+      "k": 5510,
+      "v": "Come puoi vedere qui, non è garantito che i tuoi coloni abbiano successo quando vogliono intraprendere questa strada. Tuttavia, se hai prestato attenzione ai diversi vantaggi e i tuoi coloni sono ben equipaggiati, puoi aumentare notevolmente le loro possibilità di successo."
+    },
+    {
+      "k": 5511,
+      "v": "I tuoi coloni sono riusciti a penetrare nella Rovina ed esplorarla. Ti informeranno di tutto ciò che di utile hanno trovato qui. Se, secondo te, non c'è nient'altro che i tuoi coloni possono ottenere in questa rovina, puoi rimandarli indietro in qualsiasi momento."
+    },
+    {
+      "k": 5512,
+      "v": "Sfortunatamente, i tuoi coloni non hanno avuto successo. Ciò può accadere quando non utilizzano tutti i vantaggi al massimo. Con alcune opzioni i tuoi coloni possono continuare a riprovare fino a quando hanno ancora abbastanza razioni di spedizione a loro disposizione. Con altre razioni possono provare solo una volta. A questo punto qui i tuoi coloni possono riprovare."
+    },
+    {
+      "k": 5513,
+      "v": "Ripostiglio"
+    },
+    {
+      "k": 5514,
+      "v": "Durante la ricerca nel negozio, i tuoi coloni hanno scoperto un magazzino. Ora possono penetrare ulteriormente all'interno della Rovina se li esorti a farlo. Anche in questo caso alcuni vantaggi torneranno utili."
+    },
+    {
+      "k": 5515,
+      "v": "I tuoi coloni hanno avuto molto successo con la loro ricerca. Sono stati in grado di trovare alcuni dispositivi di cui potranno fare buon uso per le attività di ricerca in seguito. Dovresti tenere d'occhio questi tipi di utensili di ricerca perché possono essere trovati solo nelle Spedizioni."
+    },
+    {
+      "k": 5516,
+      "v": "Sfortunatamente, i tuoi coloni non hanno avuto successo. Ciò può accadere quando non utilizzano tutti i vantaggi al massimo. Con alcune opzioni i tuoi coloni possono continuare a riprovare fino a quando hanno ancora abbastanza razioni di spedizione a loro disposizione. Con altri possono provare solo una volta. A questo punto qui i tuoi coloni possono riprovare."
+    },
+    {
+      "k": 5517,
+      "v": "Un promemoria radioattivo"
+    },
+    {
+      "k": 5518,
+      "v": "Ehi capo, è passato un bel po' di tempo da quando ci siamo avventurati fuori dalla nostra Endzone. Abbiamo sperimentato molto per il meglio, ma anche molto. In particolare, questa dannata Radiazione ci richiedeva molto. Pensiamo sia ora di erigere un Memoriale che ci ricordi sempre di non ripetere gli errori commessi dai nostri antenati!"
+    },
+    {
+      "k": 5519,
+      "v": "Sappiamo che ciò che desideriamo non può essere completato da un giorno all'altro. Ma per favore non dimenticare questa nostra preoccupazione. Il Memoriale è davvero importante per molti di noi!"
+    },
+    {
+      "k": 5520,
+      "v": "Questo è davvero un posto maestoso. Possa ricordarci a lungo il sacrificio che noi e le nostre Famiglie abbiamo fatto per costruire un po' di speranza per noi stessi."
+    },
+    {
+      "k": 5521,
+      "v": "Sappiamo che ciò che desideriamo non può essere completato da un giorno all'altro. Ma per favore non dimenticare questa nostra preoccupazione. Il Memoriale è davvero importante per molti di noi!"
+    },
+    {
+      "k": 5522,
+      "v": "Una grande crema solare"
+    },
+    {
+      "k": 5523,
+      "v": "Ehi capo, specialmente durante la siccità diventerà più caldo di quanto sai, e un qualche tipo di protezione dal sole sarebbe davvero accomodante, specialmente quando devi fare una pausa di tanto in tanto. Alcuni di noi hanno pensato a qualcosa. Immaginalo come una specie di tenda enorme dove possiamo riunirci e rilassarci sotto di essa!"
+    },
+    {
+      "k": 5524,
+      "v": "Che vergogna, capo! Oh beh, abbiamo ancora il progetto per costruire l'edificio un'altra volta. In ogni caso sarebbe una fantastica opportunità per l'accordo!"
+    },
+    {
+      "k": 5525,
+      "v": "Perfetto, è un vero aiuto per noi, soprattutto durante le fasi calde e secche. Ma in generale anche qui puoi rilassarti abbastanza bene!"
+    },
+    {
+      "k": 5526,
+      "v": "Che vergogna, capo! Oh beh, abbiamo ancora il progetto per costruire l'edificio un'altra volta. In ogni caso sarebbe una fantastica opportunità per l'accordo!"
+    },
+    {
+      "k": 5532,
+      "v": "Ogni volta che gli abitanti sono venuti qui, allora... non voglio immaginarmelo. Amico, siamo fortunati. Come le persone qui, anche i nostri antenati hanno costruito le loro case sottoterra per 150 anni. Sono sopravvissuti in modo che possiamo tornare in superficie. A loro dobbiamo ricordare a noi stessi chi erano."
+    },
+    {
+      "k": 5533,
+      "v": "Ci sono ancora dei piani sull'armadio. Sembra che siano per una delle tende, solo più grandi. Capo, penso che avrebbe dovuto diventare un padiglione aperto per rilassarsi ogni volta che pioveva o il sole era troppo. In ogni caso, porteremo i piani con noi."
+    },
+    {
+      "k": 5534,
+      "v": "Il dottore pensa che sarebbe un bene anche per i nostri malati.\n"
+    },
+    {
+      "k": 5535,
+      "v": "Ci sono ancora dei piani sull'armadio. Sembra che siano per una delle tende, solo più grandi. Capo, penso che avrebbe dovuto diventare un padiglione aperto per rilassarsi ogni volta che pioveva o il sole era troppo. In ogni caso, porteremo i piani con noi."
+    },
+    {
+      "k": 5536,
+      "v": "All'interno del reattore... era come trovarsi nel cuore della catastrofe. Dannazione, quasi non ce ne siamo più usciti. Incredibile che i nostri antenati abbiano costruito tutto questo. Dobbiamo fare qualcosa, capo... abbiamo bisogno di un posto che ricordi a tutti noi questo errore."
+    },
+    {
+      "k": 5537,
+      "v": "Non dimenticherò mai la sua faccia quando è stato ucciso in azione. Non avevamo alcuna protezione, proprio niente, come se il reattore fosse un parco giochi. Dovremmo conoscerci meglio, soprattutto noi! E ne è valsa davvero la pena, per un po' di rottame? Cercare il reattore è stato un errore. Dovremmo mettere un simbolo di umiltà in modo che nessuno lo ripeta."
+    },
+    {
+      "k": 5538,
+      "v": "La donna ha detto che l'edificio era una volta una \"pasticceria\". Non ho idea di cosa sia, ma qui ci sono un sacco di ricette. Me ne ha consigliato uno. Si chiama \"torta di libbra\". Penso che riusciremo a farcela e la gente potrebbe trarne vantaggio."
+    },
+    {
+      "k": 5539,
+      "v": "Oltre alle razioni, ci ha anche rivelato un segreto su come è riuscito a sopravvivere così a lungo: sullo stufato. Sì, neanche io ci credevo. Afferma che riporta in vita anche gli affamati. Vuole prepararne subito uno per noi quando saremo di nuovo alla colonia!"
+    },
+    {
+      "k": 5540,
+      "v": "Un enorme sistema di tubi pende dal soffitto che conduce a un pozzo esterno. Non ho idea per cosa avresti bisogno di così tanta acqua. Non siamo in grado di smantellarlo, capo, ma abbiamo fatto un disegno. Forse i nostri ricercatori possono farci qualcosa!"
+    },
+    {
+      "k": 5541,
+      "v": "Ci sono disegni qui nel contenitore che sono rimasti asciutti. Avevano pianificato di creare aziende di acquacoltura per l'allevamento fuori terra. Volevano fornire al pesce mangime speciale. È tutto descritto qui. Penso che funzioni anche per i nostri stagni. Per fortuna abbiamo dato un'occhiata qui intorno."
+    },
+    {
+      "k": 5550,
+      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."
     }
   ]
 }
