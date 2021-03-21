@@ -161,13 +161,37 @@
       "k": 5464,
       "v": "Nessun sopravvissuto"
     },
+	{
+      "k": 5866,
+      "v": "Cercare …"
+    },
     {
       "k": 5560,
       "v": "Accesso rapido alle modalità di costruzione"
     },
     {
       "k": 5561,
-      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."
+      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."										
+    },
+	{
+      "k": 5863,
+      "v": "Modalità pianificazione"
+    },
+    {
+      "k": 5864,
+      "v": "Nella modalità di pianificazione, la costruzione di edifici appena posizionati viene immediatamente sospesa per impedire ai costruttori di trasportare risorse ai rispettivi cantieri. Questa modalità è utile per una migliore pianificazione ponendo le commissioni di costruzione in una fase iniziale, ma la pausa consente di eseguire la costruzione stessa in un secondo momento."
+    },
+    {
+      "k": 5862,
+      "v": "Orma"
+    },
+    {
+      "k": 5879,
+      "v": "Nessun risultato durante il gioco successivo"
+    },
+    {
+      "k": 5880,
+      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."
     },
     {
       "k": 228,
@@ -1061,6 +1085,14 @@
       "k": 5473,
       "v": "Lampione"
     },
+	{
+      "k": 5682,
+      "v": "Barricata"
+    },
+    {
+      "k": 5683,
+      "v": "Torre con sirena"
+    },
     {
       "k": 301,
       "v": "Una piccola cabina in cui i coloni possono vivere e fondare una famiglia. I coloni si trasferiscono solo come una famiglia."
@@ -1287,8 +1319,12 @@
     },
 	{
       "k": 3952,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."	
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."																																													 
 	},
+	{
+      "k": 5826,
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nel suo territorio circostante. Inoltre, i tuoi coloni possono aumentare la loro contentezza vicino a questo edificio."
+    },
 	{
       "k": 4161,
       "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."																																						
@@ -1323,7 +1359,15 @@
     },
     {
       "k": 5551,
-      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."
+      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."																									
+    },
+	{
+      "k": 5774,
+      "v": "La torre con sirena riduce il morale dei predoni che si trovano nel suo raggio d'azione."
+    },
+    {
+      "k": 5775,
+      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."
     },
     {
       "k": 335,
@@ -1779,7 +1823,11 @@
     },
     {
       "k": 794,
-      "v": "Raccogli piante"
+      "v": "Raccogli piante"				  
+    },
+	{
+      "k": 5746,
+      "v": "Migliora le strade"
     },
     {
       "k": 399,
@@ -1804,6 +1852,10 @@
     {
       "k": 795,
       "v": "Ordina ai coloni di raccogliere piante forestali come bacche, funghi o erbe. Questo produce meno risultati rispetto all'utilizzo della cabina di un raduno."
+    },
+	{
+      "k": 5747,
+      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."
     },
     {
       "k": 403,
@@ -1955,7 +2007,11 @@
     },
     {
       "k": 2324,
-      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"
+      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"																																					  
+    },
+	{
+      "k": 5891,
+      "v": "Numero di coloni con una malattia. Non possono svolgere la loro funzione o esercitare la loro professione una volta che sono stati trattati presso una struttura medica."
     },
     {
       "k": 424,
@@ -2075,7 +2131,15 @@
     },
     {
       "k": 5180,
-      "v": "Cibo trattato"
+      "v": "Cibo trattato"			   
+    },
+	{
+      "k": 5632,
+      "v": "Letale"
+    },
+    {
+      "k": 5633,
+      "v": "Non letale"
     },
     {
       "k": 1619,
@@ -2755,7 +2819,75 @@
     },
     {
       "k": 4908,
-      "v": "Distintivi di distribuzione per l'istruzione"
+      "v": "Distintivi di distribuzione per l'istruzione"																						
+    },
+	{
+      "k": 5811,
+      "v": "Progresso totale"
+    },
+    {
+      "k": 5812,
+      "v": "Quando tutte le fasi del progresso di seguito sono state completate, il progresso totale è completamente riempito."
+    },
+    {
+      "k": 5795,
+      "v": "Avanzamento del gioco"
+    },
+    {
+      "k": 5796,
+      "v": "Semi raccolti per i campi"
+    },
+    {
+      "k": 5797,
+      "v": "Semi raccolti per i frutteti"
+    },
+    {
+      "k": 5798,
+      "v": "Tecnologie ricercate"
+    },
+    {
+      "k": 5799,
+      "v": "Edifici sbloccati"
+    },
+    {
+      "k": 5800,
+      "v": "Luoghi di spedizione completamente cancellati"
+    },
+    {
+      "k": 5801,
+      "v": "Trovati utensili per la ricerca raccolti"
+    },
+    {
+      "k": 5802,
+      "v": "Oggetti da collezione trovati"
+    },
+    {
+      "k": 5803,
+      "v": "I semi per i campi possono essere raccolti tramite spedizioni, missioni secondarie e accordi di scambio."
+    },
+    {
+      "k": 5804,
+      "v": "I semi per i frutteti possono essere raccolti tramite spedizioni, missioni secondarie e accordi di scambio."
+    },
+    {
+      "k": 5805,
+      "v": "Le tecnologie possono essere acquisite tramite ricerca, spedizioni o missioni secondarie."
+    },
+    {
+      "k": 5806,
+      "v": "Gli edifici possono essere sbloccati tramite ricerca, missioni secondarie e spedizioni."
+    },
+    {
+      "k": 5807,
+      "v": "I luoghi della spedizione sono considerati sgombrati quando una spedizione ha esplorato completamente la rispettiva rovina e tutte le risorse sono state portate via, o quando la rovina è stata approvata per la demolizione."
+    },
+    {
+      "k": 5808,
+      "v": "Gli utensili di ricerca possono essere trovati su Spedizioni."
+    },
+    {
+      "k": 5809,
+      "v": "Gli oggetti collezionabili sono edifici speciali che possono essere trovati solo nelle spedizioni o tramite missioni secondarie."
     },
     {
       "k": 995,
@@ -3107,7 +3239,31 @@
     },
     {
       "k": 502,
-      "v": "Incolto"
+      "v": "Incolto"					
+    },
+	{
+      "k": 5850,
+      "v": "Morto di vecchiaia"
+    },
+    {
+      "k": 5851,
+      "v": "Morto a causa di una malattia"
+    },
+    {
+      "k": 5852,
+      "v": "Morto di fame"
+    },
+    {
+      "k": 5853,
+      "v": "Morto di sete"
+    },
+    {
+      "k": 5854,
+      "v": "Morto a causa delle radiazioni"
+    },
+    {
+      "k": 5855,
+      "v": "Morto in battaglia"
     },
     {
       "k": 958,
@@ -3160,6 +3316,10 @@
     {
       "k": 510,
       "v": "<<name>> ({{profession}}) è morto di vecchiaia {{replacement_status}}."
+    },
+	{
+      "k": 5558,
+      "v": "<<name>> ({{profession}})  morì mentre difendeva l'insediamento {{replacement_status}}."
     },
     {
       "k": 511,
@@ -3227,7 +3387,19 @@
     },
     {
       "k": 517,
-      "v": "Età"
+      "v": "Età"															  
+    },
+	{
+      "k": 5887,
+      "v": "Una panoramica che evidenzia lo stato di tutte le reti elettriche nell'insediamento ed è utile anche quando si posizionano edifici elettrici."
+    },
+    {
+      "k": 5638,
+      "v": "Condizioni edilizie"
+    },
+    {
+      "k": 5639,
+      "v": "Questa panoramica evidenzia gli edifici danneggiati e distrutti."
     },
     {
       "k": 817,
@@ -3671,7 +3843,7 @@
     },
     {
       "k": 1202,
-      "v": "Porte a rulli"
+      "v": "Porte scorrevoli"
     },
     {
       "k": 1203,
@@ -4279,7 +4451,19 @@
     },
     {
       "k": 4532,
-      "v": "Uno scambio è stato concluso"
+      "v": "Uno scambio è stato concluso"						   
+    },
+	{
+      "k": 5615,
+      "v": "I predoni attaccano l'insediamento"
+    },
+    {
+      "k": 5623,
+      "v": "L'attacco dei predoni ha avuto successo"
+    },
+    {
+      "k": 5624,
+      "v": "L'attacco dei predoni è stato respinto"
     },
     {
       "k": 596,
@@ -4309,6 +4493,10 @@
       "k": 1054,
       "v": "Gli edifici dello stesso tipo vicini l'uno all'altro riducono la produzione per ciascun edificio."
     },
+	{
+      "k": 5874,
+      "v": "Gli edifici dello stesso tipo nell'area circostante diminuiscono l'efficienza di questo edificio."
+    },
     {
       "k": 1055,
       "v": "Edifici nelle vicinanze: <<amount>>"
@@ -4327,7 +4515,23 @@
     },
     {
       "k": 2218,
-      "v": "Aumenta al <<value>>% se fornito di elettricità"
+      "v": "Aumenta al <<value>>% se fornito di elettricità"						
+    },
+	{
+      "k": 5878,
+      "v": "Diminuisce al <<value>>% quando fornito con elettricità"
+    },
+    {
+      "k": 5875,
+      "v": "Uso diurno delle munizioni"
+    },
+    {
+      "k": 5876,
+      "v": "Uso notturno delle munizioni"
+    },
+    {
+      "k": 5877,
+      "v": "Efficienza di base"
     },
     {
       "k": 1028,
@@ -4552,6 +4756,10 @@
     {
       "k": 5142,
       "v": "Nessun animale di questo tipo è disponibile presso l'insediamento"
+    },
+	{
+      "k": 5791,
+      "v": "Gli animali possono essere catturati da un cacciatore o acquistati da alcuni commercianti presso la stazione commerciale"
     },
     {
       "k": 5040,
@@ -5079,7 +5287,15 @@
     },
     {
       "k": 4697,
-      "v": "Effetti"
+      "v": "Effetti"							
+    },
+	{
+      "k": 5562,
+      "v": "Chiudere l'accordo commerciale di baratto"
+    },
+    {
+      "k": 5563,
+      "v": "Adattare l'accordo commerciale di baratto"
     },
     {
       "k": 1073,
@@ -5131,7 +5347,11 @@
     },
 	{
       "k": 5233,
-      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"
+      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"									  
+    },
+	{
+      "k": 5870,
+      "v": "Utilizzo ridotto delle munizioni durante la notte"
     },
     {
       "k": 2245,
@@ -5283,7 +5503,11 @@
     },
 	{
       "k": 5240,
-      "v": "Distintivo da pastore"
+      "v": "Distintivo da pastore"				  
+    },
+	{
+      "k": 5778,
+      "v": "Distintivo della milizia"
     },
     {
       "k": 1172,
@@ -5395,7 +5619,11 @@
     },
 	{
       "k": 5241,
-      "v": "Mandria di cervi! I suoi .. i .. Cervi! pastore! pastore!"
+      "v": "Mandria di cervi! I suoi .. i .. Cervi! pastore! pastore!"								  
+    },
+	{
+      "k": 5779,
+      "v": "Non vai oltre!"
     },
     {
       "k": 1173,
@@ -5478,6 +5706,18 @@
       "v": "Scenari"
     },
 	{
+      "k": 5881,
+      "v": "È possibile sbloccare obiettivi relativi ai tutorial."
+    },
+    {
+      "k": 5882,
+      "v": "È possibile sbloccare obiettivi relativi alla modalità Sopravvivenza."
+    },
+    {
+      "k": 5883,
+      "v": "È possibile sbloccare obiettivi relativi agli scenari."
+    },
+	{
       "k": 4517,
       "v": "Tutorials"
     },
@@ -5491,11 +5731,19 @@
     },
     {
       "k": 2810,
-      "v": "Modifica impostazioni"
+      "v": "Modifica impostazioni"						  
+    },
+	{
+      "k": 5885,
+      "v": "Medaglie e obiettivi"
     },
     {
       "k": 2929,
       "v": "Medaglie"											  
+    },
+	{
+      "k": 5884,
+      "v": "Achievements"
     },
 	{
       "k": 5467,
@@ -5571,7 +5819,43 @@
     },
     {
       "k": 2352,
-      "v": "Riproduci introduzione"
+      "v": "Riproduci introduzione"								   
+    },
+	{
+      "k": 5856,
+      "v": "Luoghi interessanti per le spedizioni possono essere trovati qui"
+    },
+    {
+      "k": 5788,
+      "v": "Impostazioni di gioco"
+    },
+    {
+      "k": 5786,
+      "v": "Continua a utilizzare queste impostazioni"
+    },
+    {
+      "k": 5787,
+      "v": "Aggiorna l'anteprima della mappa"
+    },
+    {
+      "k": 5785,
+      "v": "Le impostazioni per la modalità di gioco sono state modificate. Quando la modalità di gioco viene modificata, tutte le impostazioni scelte verranno ripristinate."
+    },
+    {
+      "k": 5845,
+      "v": "Le impostazioni sono state modificate"
+    },
+    {
+      "k": 5781,
+      "v": "Modalità di gioco"
+    },
+    {
+      "k": 5782,
+      "v": "Utilizzo di un codice di condivisione"
+    },
+    {
+      "k": 5846,
+      "v": "Personalizzazione delle impostazioni della modalità di gioco"
     },
     {
       "k": 1926,
@@ -5583,7 +5867,15 @@
     },
     {
       "k": 2984,
-      "v": "Copia il codice di condivisione negli Appunti"
+      "v": "Copia il codice di condivisione negli Appunti"						  
+    },
+	{
+      "k": 5783,
+      "v": "Immettere un codice di condivisione nella casella di immissione e premere \"Adotta codice di condivisione\" per configurare tutte le impostazioni di gioco in modo corrispondente. Dopo sei pronto per iniziare il tuo round di gioco."
+    },
+    {
+      "k": 5784,
+      "v": "Adozione di un codice di azioni"
     },
     {
       "k": 610,
@@ -5793,6 +6085,10 @@
       "k": 5343,
       "v": "Utensili per la ricerca"
     },
+	{
+      "k": 5789,
+      "v": "Predoni"
+    },
     {
       "k": 5344,
       "v": "Quando giochi usando tutti gli utensili di ricerca, puoi esplorare liberamente l'albero di ricerca senza dover trovare utensili di ricerca nelle Spedizioni."
@@ -5903,7 +6199,11 @@
     },
     {
       "k": 3125,
-      "v": "Definisce se tutta la ricerca dovrebbe essere stata conclusa e, di conseguenza, tutti gli edifici, le formule di produzione e le altre tecnologie sono disponibili fin dall'inizio."
+      "v": "Definisce se tutta la ricerca dovrebbe essere stata conclusa e, di conseguenza, tutti gli edifici, le formule di produzione e le altre tecnologie sono disponibili fin dall'inizio."																																		 
+    },
+	{
+      "k": 5790,
+      "v": "Questa opzione definisce se i predoni sono abilitati in questo gioco. Se sono disabilitati, il tuo insediamento non verrà attaccato dai predoni."
     },
     {
       "k": 1734,
@@ -6011,6 +6311,10 @@
     },
     {
       "k": 2258,
+      "v": "Effetto delle radiazioni"						   
+    },
+	{
+      "k": 5886,
       "v": "Effetto sonoro di radiazione"
     },
     {
@@ -6287,7 +6591,27 @@
     },
 	{
       "k": 5212,
-      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"
+      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"					
+    },
+	{
+      "k": 5810,
+      "v": "Questo savegame è stato creato prima del rilascio della funzione \"Pedroni\". Vuoi abilitare i predoni in questo round di gioco e di conseguenza aumentare la difficoltà? Questa impostazione non può più essere modificata durante una partita in corso mentre procede."
+    },
+    {
+      "k": 5827,
+      "v": "Aggiorna il salvataggio del gioco"
+    },
+    {
+      "k": 5828,
+      "v": "Abilita i predoni"
+    },
+    {
+      "k": 5829,
+      "v": "Disabilita i predoni"
+    },
+    {
+      "k": 5890,
+      "v": "Scenario non riuscito"
     },
     {
       "k": 5148,
@@ -6575,7 +6899,127 @@
     },
     {
       "k": 5400,
-      "v": "Utensili di ricerca possono essere trovati in questa rovina."
+      "v": "Utensili di ricerca possono essere trovati in questa rovina."						   
+    },
+	{
+      "k": 5630,
+      "v": "La Spedizione è dotata di una piccola quantità di Razioni, anche se esiste la capacità di Razioni di Spedizione aggiuntive. Minore è la quantità di razioni che una spedizione ha con sé, meno è in grado di esplorare la sua destinazione mirata. Vuoi inviare le spedizioni come pianificato o apportare modifiche?"
+    },
+    {
+      "k": 5631,
+      "v": "Adatta spedizione"
+    },
+    {
+      "k": 5849,
+      "v": "Progresso di esplorazione"
+    },
+    {
+      "k": 5616,
+      "v": "Predone"
+    },
+    {
+      "k": 5684,
+      "v": "Forza pedrone"
+    },
+    {
+      "k": 5617,
+      "v": "Attacco da predoni"
+    },
+    {
+      "k": 5618,
+      "v": "I predoni danneggiano gli edifici e rubano risorse dall'insediamento. Assegna coloni come milizia e costruisci abbastanza edifici difensivi per respingere l'attacco."
+    },
+    {
+      "k": 5619,
+      "v": "Morale"
+    },
+    {
+      "k": 5691,
+      "v": "Il morale di una forza di predoni può essere ridotto tramite strategie di difesa non letali. Se una forza di predoni perde il suo morale, fugge e lascia la mappa."
+    },
+    {
+      "k": 5620,
+      "v": "Vigore e forza"
+    },
+    {
+      "k": 5692,
+      "v": "La forza di una forza di predoni può essere ridotta tramite strategie di difesa letali. Se tutti i predoni in una forza vengono uccisi, la forza è considerata sconfitta."
+    },
+    {
+      "k": 5621,
+      "v": "Risorse saccheggiate"
+    },
+    {
+      "k": 5693,
+      "v": "Le forze dei predoni che si muovono nell'insediamento rubano risorse dagli edifici circostanti."
+    },
+    {
+      "k": 5625,
+      "v": "È all'attacco"
+    },
+    {
+      "k": 5626,
+      "v": "È stato sconfitto"
+    },
+    {
+      "k": 5627,
+      "v": "È in fuga"
+    },
+    {
+      "k": 5634,
+      "v": "Paga tributo"
+    },
+    {
+      "k": 5635,
+      "v": "Rifiuta di pagare il tributo"
+    },
+    {
+      "k": 5636,
+      "v": "Tributo"
+    },
+    {
+      "k": 5637,
+      "v": "Paga tributo per scongiurare l'attacco dei predoni. Se rifiuti di pagare il tributo, i predoni attaccheranno il tuo insediamento."
+    },
+    {
+      "k": 5792,
+      "v": "Panoramica degli attacchi"
+    },
+    {
+      "k": 5793,
+      "v": "Perdite"
+    },
+    {
+      "k": 5794,
+      "v": "Risorse saccheggiate"
+    },
+    {
+      "k": 5813,
+      "v": "Edifici distrutti"
+    },
+    {
+      "k": 5814,
+      "v": "Edifici danneggiati"
+    },
+    {
+      "k": 5815,
+      "v": "Milizia uccisa"
+    },
+    {
+      "k": 5842,
+      "v": "Costi di riparazione"
+    },
+    {
+      "k": 5816,
+      "v": "Utilizzo delle munizioni"
+    },
+    {
+      "k": 5817,
+      "v": "Visualizza perdite"
+    },
+    {
+      "k": 5821,
+      "v": "Nessuna risorsa è stata saccheggiata."
     },
     {
       "k": 796,
@@ -6740,6 +7184,10 @@
 	{
       "k": 5545,
       "v": "Tiene d'occhio"
+    },
+	{
+      "k": 5847,
+      "v": "Spaventato dai predoni"
     },
     {
       "k": 2273,
@@ -6924,6 +7372,10 @@
     {
       "k": 784,
       "v": "Questo sito sembra promettente, ma il radar non mostra ancora esattamente con cosa abbiamo a che fare, capo. Dovremmo inviare uno dei nostri scout per controllare prima il posto - e quando sappiamo cosa faremo ci stiamo occupando, possiamo iniziare una spedizione in questo modo."
+    },
+	{
+      "k": 5848,
+      "v": "I nostri esploratori hanno esplorato completamente le rovine. Tuttavia, ci sono ancora alcune risorse che una spedizione potrebbe portare via."
     },
     {
       "k": 2264,
@@ -7371,7 +7823,19 @@
     },
     {
       "k": 5383,
-      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."
+      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."													 
+    },
+	{
+      "k": 5622,
+      "v": "Controlla le tue strategie di difesa"
+    },
+    {
+      "k": 5628,
+      "v": "I predoni sono stati uccisi o demoralizzati."
+    },
+    {
+      "k": 5629,
+      "v": "I predoni sono sopravvissuti e hanno mantenuto il loro morale."
     },
     {
       "k": 857,
@@ -7859,7 +8323,31 @@
     },
     {
       "k": 2492,
-      "v": "Lo farà!"
+      "v": "Lo farà!"					 
+    },
+	{
+      "k": 5867,
+      "v": "Vai fuori di qui!"
+    },
+    {
+      "k": 5868,
+      "v": "Lasciaci in pace!"
+    },
+    {
+      "k": 5869,
+      "v": "Va via!"
+    },
+    {
+      "k": 5871,
+      "v": "Non abbiamo paura!"
+    },
+    {
+      "k": 5872,
+      "v": "Dai, vedrai!"
+    },
+    {
+      "k": 5873,
+      "v": "Siamo pronti!"
     },
     {
       "k": 1157,
@@ -9111,7 +9599,67 @@
     },
     {
       "k": 1263,
-      "v": "Interfaccia utente"
+      "v": "Interfaccia utente"																																																																												  
+    },
+	{
+      "k": 5752,
+      "v": "Predoni"
+    },
+    {
+      "k": 5753,
+      "v": "Predoni"
+    },
+    {
+      "k": 5754,
+      "v": "Tributo"
+    },
+    {
+      "k": 5755,
+      "v": "Zolfo"
+    },
+    {
+      "k": 5756,
+      "v": "Proiettili di metallo"
+    },
+    {
+      "k": 5757,
+      "v": "Proiettili di gomma"
+    },
+    {
+      "k": 5758,
+      "v": "Ogni tanto può capitare che i pedroni dessero un'occhiata all'insediamento. Se decidono di attaccare, per difendere l'insediamento possono essere utilizzate torri di guardia, torri con sirena o barricate. Una banda di predoni si farà strada attraverso l'insediamento e raccoglierà risorse da tutti gli edifici nelle loro vicinanze. Nel processo, anche tutti gli edifici entro questo raggio verranno danneggiati. I predoni non si ritireranno finché non avranno saccheggiato abbastanza risorse o il loro morale non sarà diminuito troppo bruscamente. Se la Milizia spara proiettili di metallo ai predoni, ciò ridurrà la loro forza. Se la Milizia spara usando proiettili di gomma, questo abbassa il morale dei predoni."
+    },
+    {
+      "k": 5759,
+      "v": "I predoni spesso chiedono tributi prima di decidere di attaccare. Se l'accordo è disposto e in grado di aumentare questa quantità di tributo, i predoni si asterranno dall'attaccare questa volta."
+    },
+    {
+      "k": 5760,
+      "v": "Lo zolfo può essere estratto nelle <link=\"15\"><style=\"DefaultLink\">Miniere</style></link> ed è necessario durante la produzione di proiettili metallici e proiettili di gomma. Per poter estrarre lo zolfo nelle miniere, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 5761,
+      "v": "I proiettili di metallo possono essere usati dalla milizia di stanza in una torre di guardia per sparare contro i predoni attaccanti. Quando lo fai, ogni colpo sparato riduce la forza di un'orda di predoni. I proiettili di metallo sono prodotti nella fabbrica di munizioni e sono costituiti da zolfo, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"16\"><style=\"DefaultLink\">Metallo</style></link>."
+    },
+    {
+      "k": 5762,
+      "v": "I proiettili di gomma possono essere usati dalla milizia di stanza in una torre di guardia per sparare contro i predoni attaccanti. In questo modo, ogni colpo sparato riduce il morale di un'orda di predoni. I proiettili di gomma sono prodotti nella fabbrica di munizioni e sono costituiti da zolfo, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"16\"><style=\"DefaultLink\">Plastica</style></link>."
+    },
+    {
+      "k": 5763,
+      "v": "La fabbrica di munizioni <link=\"3\"><style=\"DefaultLink\">impiega</style></link> tecnici. I tecnici producono proiettili di metallo e proiettili di gomma con lo zolfo, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"16\"><style=\"DefaultLink\">metallo o plastica</style></link>. È possibile impostare il prodotto successivo da produrre. Il tecnico impiegato inizia con il lavoro sul nuovo prodotto non appena l'attività corrente è stata completata. La Fabbrica di munizioni riduce il <link=\"8\"><style=\"DefaultLink\">contenuto</style></link> di tutti i coloni che hanno il loro <link=\"4\"><style=\"DefaultLink\">dimora</style></link> nelle sue vicinanze. Per poter costruire una fabbrica di munizioni, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 5764,
+      "v": "La Torre di Guardia <link=\"3\"><style=\"DefaultLink\">impiega</style></link> milizia. La Milizia di stanza lì fa fuoco contro i predoni attaccanti dalla torre. Per fare questo hanno bisogno di proiettili di metallo o proiettili di gomma. Il tipo di munizioni da utilizzare può essere configurato in qualsiasi momento sulla Torre di Guardia. La Torre di Guardia consuma più munizioni <link=\"7\"><style=\"DefaultLink\">di notte</style></link> che durante il giorno. Questo svantaggio può essere compensato quando la Torre di Guardia è collegata a una <link=\"13\"><style=\"DefaultLink\">Rete elettrica</style></link> funzionante. Per poter creare una Torre di Guardia, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 5765,
+      "v": "La torre con sirena abbassa il morale dei predoni che si trovano nel suo raggio fintanto che è fornita di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link>. Per poter costruire una Torre con Sirene, devi prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 5766,
+      "v": "La barricata riduce la velocità di movimento di tutti i predoni situati nell'area circostante. Per poter impostare una barriera, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1334,
@@ -10119,7 +10667,7 @@
     },
     {
       "k": 1513,
-      "v": "<b> 4. Cancellazione dei dati e periodo di conservazione </b> \nI dati personali dell'interessato saranno cancellati o bloccati non appena cesserà di applicarsi lo scopo della conservazione. Oltre a ciò, la memorizzazione può si verificano quando ciò è stato previsto dal legislatore europeo o nazionale in direttive, leggi o altri regolamenti relativi al diritto dell'UE da cui è regolato il responsabile del trattamento. Un blocco o la cancellazione dei dati si verifica anche quando un periodo di conservazione prescritto dalle norme dichiarate scade a meno che esiste la necessità di un'ulteriore conservazione dei dati per la conclusione di un contratto o l'adempimento di un contratto. "
+      "v": "<b>4. Cancellazione dei dati e periodo di conservazione </b> \nI dati personali dell'interessato saranno cancellati o bloccati non appena cesserà di applicarsi lo scopo della conservazione. Oltre a ciò, la memorizzazione può si verificano quando ciò è stato previsto dal legislatore europeo o nazionale in direttive, leggi o altri regolamenti relativi al diritto dell'UE da cui è regolato il responsabile del trattamento. Un blocco o la cancellazione dei dati si verifica anche quando un periodo di conservazione prescritto dalle norme dichiarate scade a meno che esiste la necessità di un'ulteriore conservazione dei dati per la conclusione di un contratto o l'adempimento di un contratto. "
     },
     {
       "k": 1514,
@@ -10468,6 +11016,26 @@
     {
       "k": 2299,
       "v": "Caro sopravvissuto,\n\nBenvenuto all'accesso anticipato di Endzone - A World Apart! Stai giocando a una versione iniziale del gioco soggetta a modifiche. Inoltre, tieni presente che non possiamo garantire la compatibilità dei savegame attraverso l'Accesso anticipato (anche se stiamo facendo del nostro meglio). Se si verifica una modifica alla rottura del savegame, ti informeremo nelle note sulla patch.\n\n<color=#ED7C32>Puoi facilmente dare un feedback durante il gioco premendo F1 o facendo clic sull'icona del bug.</color>\n\nAbbiamo anche diversi modi per metterti in contatto con noi.\n\n\\u2022 Unisciti al nostro <style=\"DefaultLink\"><link=”https://discord.gg/HF7SaH7”>Discord server</link></style> per aggiornamenti settimanali e discussioni dirette\n\\u2022 Scrivici a:  support@gentlymadstudios.com\n\\u2022 Dai un'occhiata alla corrente <style=\"DefaultLink\"><link=”https://www.stomt.com/endzone”>Feedback Stream</link></style>."
+    },
+	{
+      "k": 5860,
+      "v": "A tutti i sopravvissuti..."
+    },
+    {
+      "k": 5857,
+      "v": "Sostienici durante l'ulteriore sviluppo utilizzando \"F1\" per fornirci un feedback in-game o inviare un'e-mail a:"
+    },
+    {
+      "k": 5861,
+      "v": "Inoltre, esistono le seguenti possibilità per mettersi in contatto con noi o per saperne di più su di noi:"
+    },
+    {
+      "k": 5865,
+      "v": "Feedback nel gioco"
+    },
+    {
+      "k": 5858,
+      "v": "Informazioni generali"
     },
     {
       "k": 1931,
@@ -12383,7 +12951,7 @@
     },
     {
       "k": 3406,
-      "v": "Sembra abbastanza robusto per una porta di legno! <<dynamicmessage>>\n"
+      "v": "Sembra abbastanza robusta per essere una porta di legno! <<dynamicmessage>>\n"
     },
     {
       "k": 3407,
@@ -14667,7 +15235,11 @@
     },
     {
       "k": 2342,
-      "v": "Mostra popup all'avvio"
+      "v": "Mostra popup all'avvio"					 
+    },
+	{
+      "k": 5859,
+      "v": "Rivedi e visualizza l'anteprima"
     },
     {
       "k": 2500,
@@ -15271,7 +15843,67 @@
     },
     {
       "k": 4173,
-      "v": "Decreti"
+      "v": "Decreti"																									 
+    },
+	{
+      "k": 5641,
+      "v": "La fabbrica di munizioni"
+    },
+    {
+      "k": 5642,
+      "v": "Tuttavia, un insediamento così fiorente come questo qui non ha solo i suoi vantaggi. Potrebbe essere che l'attenzione dei predoni in agguato sia attratta da te e dovrai difenderti da loro. Prima di tutto sarà importante impostare il nostro <link=\"6\"><style=\"DefaultLink\">Difese</style></link>. Sarà necessaria una fabbrica di munizioni per armare quei coloni che difenderanno l'insediamento in futuro. Sarebbe meglio se venissero assegnati subito anche diversi tecnici che dovrebbero lavorare alla fabbrica di munizioni."
+    },
+    {
+      "k": 5643,
+      "v": "Molto bene. Sta a te decidere se vuoi che la tua <link=\"23\"><style=\"DefaultLink\">fabbrica di munizioni</style></link> produca <link=\"23\"><style=\"DefaultLink\">Munizioni</style></link>. Mentre le munizioni letali infliggono danni ai predoni attaccanti, le munizioni non letali assicurano che il loro morale affondi. Se i predoni hanno perso tutto il loro morale, fuggiranno."
+    },
+    {
+      "k": 5644,
+      "v": "La miniera di zolfo"
+    },
+    {
+      "k": 5645,
+      "v": "Indipendentemente dal tipo di munizioni che desideri produrre, una cosa non può mancare: la tua fabbrica di munizioni richiede un po' di <link=\"23\"><style=\"DefaultLink\">Zolfo</style></link> per la produzione. Lo zolfo può essere ottenuto dalle <link=\"15\"><style=\"DefaultLink\">Miniere</style></link>. Per fare ciò, istruisci semplicemente le tue miniere a estrarre lo zolfo in futuro."
+    },
+    {
+      "k": 5646,
+      "v": "Molto bene, vecchio amico! Ora la produzione di munizioni può andare avanti a pieno ritmo."
+    },
+    {
+      "k": 5647,
+      "v": "La Torre di Guardia"
+    },
+    {
+      "k": 5648,
+      "v": "Per essere in grado di proteggere il tuo insediamento dagli aggressori, la prossima cosa che vuoi fare è creare diverse <link=\"23\"><style=\"DefaultLink\">Torri di guardia</style></link> e assegna <link=\"23\"><style=\"DefaultLink\">Milizia</style></link> li. I tuoi coloni spareranno ai predoni da queste torri di guardia. Sarà meglio se posizioni le tue torri in modo che non siano troppo vicine l'una all'altra in modo che l'intero insediamento possa essere protetto quando possibile."
+    },
+    {
+      "k": 5649,
+      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni Torre di Guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
+    },
+    {
+      "k": 5650,
+      "v": "Un attacco"
+    },
+    {
+      "k": 5651,
+      "v": "Come puoi vedere, la <link=\"23\"><style=\"DefaultLink\">Forza dei pedroni</style></link> è in arrivo. Presta attenzione alla direzione da cui provengono. Potresti avere abbastanza tempo per adattare un po 'la tua difesa. Per il momento terrò la testa bassa finché quei mascalzoni non daranno più fastidio all'accordo. In bocca al lupo!"
+    },
+    {
+      "k": 5652,
+      "v": "Sembra che siano stati gli ultimi predoni. E l'insediamento è ancora in piedi! Bene, ha avuto qualche graffio qua e là, ma niente da cui non siamo riusciti a recuperare."
+    },
+    {
+      "k": 5694,
+      "v": "Tributo"
+    },
+    {
+      "k": 5695,
+      "v": "Tuttavia, in molti casi i predoni non ti faranno visita proprio in quel modo senza alcun preavviso e motivo. La maggior parte delle volte ti chiederanno un <link=\"23\"><style=\"DefaultLink\">Tributo</style></link> in aticipo. Se puoi pagare questo tributo ti lasceranno in pace, almeno per un certo periodo di tempo. Questa volta voglio che tu paghi il tributo che i predoni ti chiedono in modo che possiamo concentrarci sulla ricostruzione qui nell'insediamento."
+    },
+    {
+      "k": 5696,
+      "v": "Molto bene! In questo modo ci hai concesso un po' di tempo per permetterci di prepararci ulteriormente."
     },
     {
       "k": 2472,
@@ -16432,6 +17064,14 @@
     {
       "k": 2807,
       "v": "Qui puoi rilassarti, goderti lo scenario e costruire un po' alla volta in condizioni rilassate. Se vuoi, puoi anche fare un tour alla scoperta."
+    },
+	{
+      "k": 5843,
+      "v": "Difficoltà avanzata"
+    },
+    {
+      "k": 5844,
+      "v": "Questa impostazione rende il gioco più difficile rispetto a un normale round. Se hai già accumulato esperienza, questa modalità ti presenta una nuova sfida."
     },
     {
       "k": 2808,
@@ -18267,7 +18907,11 @@
     },
 	{
       "k": 5050,
-      "v": "Divieto di vagabondaggio"
+      "v": "Divieto di vagabondaggio"						 
+    },
+	{
+      "k": 5776,
+      "v": "Cerca sopravvissuti"
     },
     {
       "k": 4069,
@@ -18316,6 +18960,10 @@
 	{
       "k": 5051,
       "v": "Vieta ai coloni di aumentare la loro fiducia visitando le loro case o altri edifici e, di conseguenza, distraendoli dal loro lavoro."
+    },
+	{
+      "k": 5777,
+      "v": "I tuoi coloni stanno prestando attenzione ai messaggi radio di altri sopravvissuti che sono disposti a unirsi al tuo insediamento a determinate condizioni."
     },
     {
       "k": 4466,
@@ -18411,7 +19059,15 @@
     },
     {
       "k": 4151,
-      "v": "In costruzione"
+      "v": "In costruzione"					 
+    },
+	{
+      "k": 5653,
+      "v": "Edificio danneggiato"
+    },
+    {
+      "k": 5654,
+      "v": "Edificio distrutto"
     },
     {
       "k": 4097,
@@ -18479,7 +19135,15 @@
     },
     {
       "k": 4152,
-      "v": "Edifici attualmente in costruzione."
+      "v": "Edifici attualmente in costruzione."																							   
+    },
+	{
+      "k": 5655,
+      "v": "Gli edifici danneggiati sono funzionali e richiedono una certa quantità di risorse per essere riparati."
+    },
+    {
+      "k": 5656,
+      "v": "Gli edifici distrutti non sono più funzionali e devono essere riparati per poter essere riutilizzati."
     },
     {
       "k": 4128,
@@ -20871,7 +21535,647 @@
     },
     {
       "k": 5550,
-      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."
+      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."																															 
+    },
+	{
+      "k": 5564,
+      "v": "L'incrollabile fa"
+    },
+    {
+      "k": 5565,
+      "v": "Hai detto che la mia gente è un caso senza speranza. Lo eravamo, una volta. Ne ho presi uno e tutti, insieme siamo forti. Dacci ciò di cui abbiamo bisogno, così nessuno si farà male."
+    },
+    {
+      "k": 5566,
+      "v": "Sì, tutti conducono una vita comoda. Ma quando qualcuno non si adatta qui, viene semplicemente mandato via. Guardaci, siamo tornati! Dacci quello che vogliamo, altrimenti lo prenderemo!"
+    },
+    {
+      "k": 5567,
+      "v": "Sì, sì, sei stato fortunato! Non iniziare ad avere idee! Non dimenticare le persone che non hanno capito niente. Questo è esattamente il punto, siamo sopravvissuti e ora siamo qui. Abituati a trattarci decentemente!"
+    },
+    {
+      "k": 5568,
+      "v": "Gli emarginati vengono da me perché li tengo in vita. È vero, non abbiamo molto e lavoriamo sodo, ogni giorno. Ma non facciamo solo quello che ci viene detto, non da nessuno. Non pensare per un secondo di essere migliore di noi."
+    },
+    {
+      "k": 5569,
+      "v": "È una buona cosa. Credo tu abbia capito."
+    },
+    {
+      "k": 5570,
+      "v": "Bene, non rinunciare a ciò che è tuo. Allora è il momento per noi di venire da te!"
+    },
+    {
+      "k": 5571,
+      "v": "Risorgeremo ancora, ancora e ancora, e questa è una promessa!"
+    },
+    {
+      "k": 5572,
+      "v": "Goditi l'attimo. Presto riderai dall'altra parte delle tue facce!"
+    },
+    {
+      "k": 5573,
+      "v": "Pensi di essere qualcosa di meglio. Ti meriti quello che sta succedendo qui!"
+    },
+    {
+      "k": 5574,
+      "v": "Liam il profeta"
+    },
+    {
+      "k": 5575,
+      "v": "La catastrofe ha mostrato dove abbiamo commesso i nostri errori. Il progresso è un percorso che porta fuori strada. Le mie visioni mi hanno mostrato un posto diverso! Uniamo le forze e guariamo, è l'unico percorso che c'è. Ci sosterrai o ti opporrai a noi?"
+    },
+    {
+      "k": 5576,
+      "v": "Ho capito il punto. Non impari. Quello che chiamate progresso ha già spazzato via l'umanità una volta. Comprendi che stai camminando sulla strada sbagliata. Dai quello che hai. Un giorno mi sarai grato!"
+    },
+    {
+      "k": 5577,
+      "v": "I vecchi demoni vi tormentano, vi lasciate governare dalla tecnologia. Liberatevi, perché qui vi aspetta solo il destino. Conosco il sentiero, come se potessi vederlo davanti ai miei occhi. Ci tirerete su di morale o vi metterete sulla nostra strada?"
+    },
+    {
+      "k": 5578,
+      "v": "C'è speranza, lo so. Quando ho perso la vista sono stato in grado di vedere più chiaramente che mai. Esiste un percorso per un mondo puro. L'ho visto nei miei sogni. Lo sai anche tu: lascia questo posto! Ti unirai a noi nel nostro cammino?"
+    },
+    {
+      "k": 5579,
+      "v": "Potrei essere cieco, ma la mia gente dice che quello che dai è molto. Spero per il tuo bene che presto ci seguirai."
+    },
+    {
+      "k": 5580,
+      "v": "Errori in questo mondo, la tecnologia ti avvelena. Lascia che ti liberi!"
+    },
+    {
+      "k": 5581,
+      "v": "Queste anime si erano avviate verso una vita migliore. Hai dovuto ucciderli tutti. Ne valeva la pena?"
+    },
+    {
+      "k": 5582,
+      "v": "Queste persone ti hanno allungato la mano, ma tu hai rifiutato di prenderla. Spero non sia la tua fine."
+    },
+    {
+      "k": 5583,
+      "v": "Tutto quello che abbiamo fatto è stato nel tuo migliore interesse. Spero che prima o poi lo capirai."
+    },
+    {
+      "k": 5584,
+      "v": "Lynn la regina"
+    },
+    {
+      "k": 5585,
+      "v": "Sono la tua regina, ho dato la libertà al mio popolo. Hai paura, vero? Ruggisci i tuoi stupidi comandi, striscia via e nasconditi nei tuoi buchi. Le persone libere prendono semplicemente ciò che vogliono."
+    },
+    {
+      "k": 5586,
+      "v": "I miei antenati sono sopravvissuti qui in superficie mentre tu aspettavi ancora come vermi sottoterra. Noi siamo sopravvissuti. Un essere umano non è mai stato così libero. Non ho mai seguito un ordine, nemmeno uno. Ti mostrerò cos'è la libertà!I miei antenati sono sopravvissuti qui in superficie mentre tu aspettavi ancora come vermi sottoterra. Noi siamo sopravvissuti. Un essere umano non è mai stato così libero. Non ho mai seguito un ordine, nemmeno uno. Ti mostrerò cos'è la libertà!"
+    },
+    {
+      "k": 5587,
+      "v": "Ti affretti e scarabocchi così indaffarati, e tutto solo per resistere ancora un po '. Dai, consegna tutto quello che hai, questo è ciò che vuole il tuo leader. Vivi come formiche, a volte sottoterra, altre volte sopra. Questo è quello che sei: insetti, non esseri umani."
+    },
+    {
+      "k": 5588,
+      "v": "La mia gente mi segue, mi ama. Sono malati e stanchi di schiavizzare come animali per gli altri. Ora vivono come vogliono e io lascio che prendano ciò di cui hanno bisogno. Credi davvero di poterli fermare?"
+    },
+    {
+      "k": 5589,
+      "v": "Sì, giusto e quadrato, dai quello che hai, è così! Non aver paura, non ti farò niente. Puoi continuare a vivere qualunque fosse la tua vita."
+    },
+    {
+      "k": 5590,
+      "v": "Ti schiaccio tra le mie dita!"
+    },
+    {
+      "k": 5591,
+      "v": "Sono venuti, hanno combattuto, sono morti. È così che è vivere davvero, veramente!"
+    },
+    {
+      "k": 5592,
+      "v": "Presto le persone scapperanno e lasceranno anche te. Vorranno riaverci indietro!"
+    },
+    {
+      "k": 5593,
+      "v": "E così te ne stai lì nella sporcizia, agitando le tue braccia magre. Non ti porterà da nessuna parte!"
+    },
+    {
+      "k": 5594,
+      "v": "Mike il Mega Divoratore"
+    },
+    {
+      "k": 5595,
+      "v": "Dicono che mangio qualsiasi cosa. Ne hai in abbondanza. *Annusa*… Posso annusarlo, yeeeaaah, annusarlo fin qui. Dallo A me! Voglio TUTTO!"
+    },
+    {
+      "k": 5596,
+      "v": "Alcuni mi chiamano maiale. *Schiaffeggia le labbra* I maiali mangiano le persone?"
+    },
+    {
+      "k": 5597,
+      "v": "Quelle sono le tue macchine? Ahh, solo il mio stomaco. Il mio stomaco sta ringhiando!"
+    },
+    {
+      "k": 5598,
+      "v": "Niente di nuovo. Tutto finito. Neanche un po 'da nessuna parte. Mhm… abbiamo fame! Il tuo cibo! Consegnarlo!"
+    },
+    {
+      "k": 5599,
+      "v": "Funghi e bacche. Di tanto in tanto c'è carne di cervo. Niente da trovare da nessuna parte! Hai così tanto cibo. Dove l'hai preso, eh? Dove? Dacci un po'!"
+    },
+    {
+      "k": 5600,
+      "v": "Ahhhh... solo l'odore!"
+    },
+    {
+      "k": 5601,
+      "v": "Ora del pasto!"
+    },
+    {
+      "k": 5602,
+      "v": "Mangia o fatti mangiare!"
+    },
+    {
+      "k": 5603,
+      "v": "Hmm …. Hai talento. Aspetta e vedrai. Tornerò!"
+    },
+    {
+      "k": 5604,
+      "v": "Sopravvivere significa divorare!"
+    },
+    {
+      "k": 5605,
+      "v": "I nichilisti"
+    },
+    {
+      "k": 5606,
+      "v": "Vogliamo prendere parte al tuo divertimento. Non preoccuparti, non ti rapineremo né ti uccideremo. Ma hai così tante cose che possiamo distruggere. D'altra parte, potresti pagare per la protezione, ma sarebbe così... noioso!"
+    },
+    {
+      "k": 5607,
+      "v": "Quando è stata l'ultima volta che hai distrutto qualcosa? Su, provaci! Non c'è sensazione al mondo come questa."
+    },
+    {
+      "k": 5608,
+      "v": "Ottieni i tuoi piccoli calci per costruire tutte queste cose carine. E ci divertiamo ad abbatterli di nuovo. Si chiama dividere il lavoro."
+    },
+    {
+      "k": 5609,
+      "v": "Vogliamo divertirci? Per favore, non pagare alcun tributo. Offriamo l'opzione solo perché è così che è fatto. Non vogliamo sporgere come un pollice dolorante."
+    },
+    {
+      "k": 5610,
+      "v": "Che peccato... forse un'altra volta."
+    },
+    {
+      "k": 5611,
+      "v": "Non puoi fare niente. Prova a ballare un po' in giro."
+    },
+    {
+      "k": 5612,
+      "v": "Sembra che questo round vada a te."
+    },
+    {
+      "k": 5613,
+      "v": "Torneremo, non lasceremo nulla dietro, sarai spogliato fino all'osso."
+    },
+    {
+      "k": 5614,
+      "v": "Quello è un vero parco giochi quello che hai lì. Torneremo di nuovo, è una promessa!"
+    },
+    {
+      "k": 5657,
+      "v": "Pagare il tributo?"
+    },
+    {
+      "k": 5658,
+      "v": "Puoi vedere il tipo di richieste poste dai Raiders qui. Puoi decidere se pagarli o meno. Normalmente i Raiders ti attaccherebbero se non sei disposto a pagare, ma questo è naturalmente solo un esercizio. Lascio a te decidere se vuoi consegnare il tributo o meno."
+    },
+    {
+      "k": 5659,
+      "v": "Hai pagato i predoni. Questa volta non ti attaccheranno."
+    },
+    {
+      "k": 5660,
+      "v": "I predoni ora stanno arrivando al tuo insediamento."
+    },
+    {
+      "k": 5661,
+      "v": "La tua difesa è riuscita a fermare tutti i predoni. Molto ben fatto."
+    },
+    {
+      "k": 5662,
+      "v": "La tua difesa è riuscita a costringere tutti i predoni a fuggire. Non torneranno così in fretta."
+    },
+    {
+      "k": 5663,
+      "v": "Sfortunatamente, la tua difesa non è stata in grado di costringere tutti i predoni a fuggire o di fermarli. La prossima volta dovresti essere meglio preparato."
+    },
+    {
+      "k": 5700,
+      "v": "Tutorial sui predoni"
+    },
+    {
+      "k": 5701,
+      "v": "Una breve introduzione al sistema dei predoni in Endzone. Impara a proteggere il tuo insediamento dagli attacchi o evitali del tutto."
+    },
+    {
+      "k": 5664,
+      "v": "Benvenuto"
+    },
+    {
+      "k": 5665,
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegare come puoi preparare i tuoi coloni per <link=\"23\"><style=\"DefaultLink\">Predoni</style></link>. Più grande e più successo ottiene il tuo insediamento, maggiore è la probabilità che i predoni ti notino."
+    },
+    {
+      "k": 5666,
+      "v": "Tuttavia, non devi preoccuparti di essere impotente e in balia di questi predoni. Oggi vorrei mostrarti diverse strategie che puoi utilizzare per proteggere il tuo insediamento."
+    },
+    {
+      "k": 5667,
+      "v": "Fabbrica di munizioni"
+    },
+    {
+      "k": 5668,
+      "v": "Innanzitutto, sarà importante impostare il nostro <link=\"23\"><style=\"DefaultLink\">Difese</style></link>. Sarà necessaria una fabbrica di munizioni per armare quei coloni che difenderanno il tuo insediamento in futuro. Sarebbe meglio se assegnassi subito anche diversi tecnici che dovrebbero lavorare alla fabbrica di munizioni."
+    },
+    {
+      "k": 5669,
+      "v": "Molto bene. Sta a te decidere se vuoi che la tua <link=\"23\"><style=\"DefaultLink\">fabbrica di munizioni</style></link> produca <link=\"23\"><style=\"DefaultLink\">Munizioni</style></link> letali o non letali. Mentre le munizioni letali infliggono danni ai predoni attaccanti, le munizioni non letali assicurano che il loro morale affondi. Se i predoni hanno perso tutto il loro morale, fuggiranno."
+    },
+    {
+      "k": 5670,
+      "v": "Minerale"
+    },
+    {
+      "k": 5671,
+      "v": "Indipendentemente dal tipo di munizioni che desideri produrre, una cosa non può mancare: la tua fabbrica di munizioni richiede un po 'di <link=\"6\"><style=\"DefaultLink\">Zolfo</style></link> per la produzione. Lo zolfo può essere ottenuto dalle <link=\"6\"><style=\"DefaultLink\">Miniere</style></link>. Per fare ciò, istruisci semplicemente le tue miniere a estrarre lo zolfo in futuro."
+    },
+    {
+      "k": 5672,
+      "v": "Molto bene, vecchio amico! Ora la produzione di munizioni può andare avanti a pieno ritmo."
+    },
+    {
+      "k": 5673,
+      "v": "Torre di guardia"
+    },
+    {
+      "k": 5674,
+      "v": "Per essere in grado di proteggere il tuo insediamento dagli aggressori, la prossima cosa che dovresti fare è creare diverse <link=\"23\"><style=\"DefaultLink\">Torri di guardia</style></link> e assegna la <link=\"23\"><style=\"DefaultLink\">Milizia</style></link>. I tuoi coloni spareranno ai predoni da queste torri di guardia. Sarà meglio se posizioni le tue torri in modo che non siano troppo vicine l'una all'altra in modo che l'intero insediamento possa essere protetto quando possibile."
+    },
+    {
+      "k": 5675,
+      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni Torre di Guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
+    },
+    {
+      "k": 5676,
+      "v": "Torre con sirena"
+    },
+    {
+      "k": 5677,
+      "v": "Oltre alle torri di guardia con equipaggio puoi anche configurare <link=\"23\"><style=\"DefaultLink\">Torre con sirena</style></link> senza equipaggio azionate da un alimentatore. Queste torri con sirene emetteranno un forte segnale di allarme e ridurranno il morale dei predoni che si avventurano troppo vicino alla torre."
+    },
+    {
+      "k": 5678,
+      "v": "Molto bene! La nuova Torre con Sirene è stata eretta. Assicurati che sia alimentata con elettricità in caso di attacco. Altrimenti potrebbe accadere che non sia operativo nel momento decisivo."
+    },
+    {
+      "k": 5679,
+      "v": "Blocco"
+    },
+    {
+      "k": 5680,
+      "v": "Le tue torri di guardia e le torri con sirene sono ora pronte per l'azione. Puoi inoltre impostare <link=\"23\"><style=\"DefaultLink\">Blocchi</style></link> per trattenere ulteriormente i predoni che avanzano. Questi blocchi rallenteranno le bande di predoni e di conseguenza forniranno alle tue torri più tempo per rivelare i loro effetti devastanti."
+    },
+    {
+      "k": 5681,
+      "v": "Molto bene! Questo accordo mi sembra essere sufficientemente assicurato ora."
+    },
+    {
+      "k": 5685,
+      "v": "Un attacco"
+    },
+    {
+      "k": 5686,
+      "v": "Come puoi vedere, una <link=\"23\"><style=\"DefaultLink\">Forza di pedroni</style></link> è ora in arrivo. Presta attenzione alla direzione da cui provengono. Potresti avere abbastanza tempo per adattare un po 'la tua difesa. Per il momento terrò la testa bassa finché quei mascalzoni non daranno più fastidio all'accordo. In bocca al lupo!"
+    },
+    {
+      "k": 5687,
+      "v": "Sembra che siano stati gli ultimi predoni. E l'insediamento è ancora in piedi! Bene, ha avuto qualche graffio qua e là, ma niente da cui non siamo riusciti a recuperare."
+    },
+    {
+      "k": 5688,
+      "v": "Pagamento del tributo"
+    },
+    {
+      "k": 5689,
+      "v": "Tuttavia, in molti casi i predoni non ti faranno visita proprio così senza alcun preavviso e motivo. Il più delle volte ti chiederanno un <link=\"23\"><style=\"DefaultLink\">Tributo</style></link> in anticipo. Se puoi pagare questo tributo ti lasceranno in pace, almeno per un certo periodo di tempo. Questa volta voglio che tu paghi il tributo che i predoni ti chiedono in modo che possiamo concentrarci sulla ricostruzione qui nell'insediamento."
+    },
+    {
+      "k": 5690,
+      "v": "Molto bene! In questo modo ci hai concesso un po 'di tempo per permetterci di prepararci ulteriormente."
+    },
+    {
+      "k": 5697,
+      "v": "Arrivederci"
+    },
+    {
+      "k": 5698,
+      "v": "Con questo ti ho insegnato quello che devi sapere per difenderti dai predoni in Endzone."
+    },
+    {
+      "k": 5699,
+      "v": "In conclusione, vorrei anche darti un consiglio per provare diverse strategie e utilizzare l'area che circonda il tuo insediamento a tuo vantaggio."
+    },
+    {
+      "k": 5702,
+      "v": "Resisti alla prima incursione dei predoni"
+    },
+    {
+      "k": 5703,
+      "v": "Resisti alla seconda incursione dei predoni"
+    },
+    {
+      "k": 5704,
+      "v": "Resisti alla terza incursione dei predoni"
+    },
+    {
+      "k": 5705,
+      "v": "Cacciatori e cacciati"
+    },
+    {
+      "k": 5706,
+      "v": "Assalti regolari da parte di predoni hanno colpito duramente la popolazione della regione. Privati dei loro mezzi di sussistenza, sono alla ricerca di una nuova patria. Hai la missione di costruire un rifugio in un avamposto abbandonato che resista agli attacchi imminenti. Al tuo arrivo non trovi nient'altro che alcune torri di guardia arrugginite. Un commerciante chiacchierone implica che la tua intenzione non è rimasta un segreto per i predoni. Potete fornire alle persone in cerca di aiuto una nuova patria e difenderle da tutti gli attacchi?"
+    },
+    {
+      "k": 5707,
+      "v": "Finalmente sono arrivati tutti. Dopo il raid queste persone non hanno avuto una casa. Ora c'è un posto dove possono stabilire qualcosa di nuovo per se stessi."
+    },
+    {
+      "k": 5708,
+      "v": "Un avamposto abbandonato"
+    },
+    {
+      "k": 5709,
+      "v": "Sarà una vera sfida preparare e configurare questo sito. Almeno abbiamo alcune torri di guardia. Dovremmo andare a vederli. E si dice che i predoni siano ai ferri corti tra loro. Questo ci dà il tempo di cui dovremmo servirci per i preparativi."
+    },
+    {
+      "k": 5710,
+      "v": "Eccellente! Siamo riusciti a crearci una nuova casa. La nostra gente ha di nuovo la speranza che le cose stiano migliorando."
+    },
+    {
+      "k": 5711,
+      "v": "Come è successo? Nella mia mente questo era un compito formidabile che ci eravamo proposti di svolgere. Era semplicemente troppo per noi!"
+    },
+    {
+      "k": 5712,
+      "v": "Stiamo andando a combattere!"
+    },
+    {
+      "k": 5713,
+      "v": "Eccoli, i predoni, si sono uniti di nuovo! C'era motivo di temerlo. Dobbiamo assegnare milizie e presidiare le torri. Non possiamo rinunciare a questo posto."
+    },
+    {
+      "k": 5714,
+      "v": "Grazie a Dio, i predoni se ne sono andati! Torneranno, ma fino ad allora ci resta tempo prezioso."
+    },
+    {
+      "k": 5715,
+      "v": "Erano troppi, troppi. Abbiamo combattuto coraggiosamente, ma le nostre difese semplicemente non potevano competere con loro."
+    },
+    {
+      "k": 5716,
+      "v": "Un rifugio sicuro"
+    },
+    {
+      "k": 5717,
+      "v": "Dopo quell'attacco direi che per il momento i predoni hanno avuto il pieno. Questo ci dà abbastanza tempo per rafforzare le nostre difese. Tuttavia, i predoni hanno devastato due insediamenti nell'area circostante, gli Abitanti hanno perso tutto ciò che avevano. Ora quelle persone stanno arrivando qui. Siamo la loro ultima speranza di protezione."
+    },
+    {
+      "k": 5718,
+      "v": "Quello che abbiamo ottenuto è impressionante. La nostra gente si sente al sicuro, anche dopo tutti i pericoli che ha dovuto affrontare."
+    },
+    {
+      "k": 5719,
+      "v": "Come è successo? Nella mia mente questo era un compito formidabile che ci eravamo proposti di svolgere. Era semplicemente troppo per noi!"
+    },
+    {
+      "k": 5720,
+      "v": "Stanno contrattaccando!"
+    },
+    {
+      "k": 5721,
+      "v": "I predoni, sono tornati di nuovo e ce ne sono ancora di più! Sembra che molte delle loro vittime si siano unite a loro per sopravvivere. Speriamo che le nostre difese resistano all'attacco."
+    },
+    {
+      "k": 5722,
+      "v": "I predoni si stanno ritirando! Abbiamo fatto un buon lavoro nel difenderci! Le incursioni hanno portato le persone in questa regione sull'orlo della distruzione. Siamo la loro speranza! Questo accordo ha dimostrato la sua difendibilità. Le persone degli insediamenti circostanti sono partite per raggiungerci. "
+    },
+    {
+      "k": 5723,
+      "v": "Erano troppi, troppi. Abbiamo combattuto coraggiosamente, ma le nostre difese semplicemente non potevano competere con loro."
+    },
+    {
+      "k": 5724,
+      "v": "Una fortezza inespugnabile"
+    },
+    {
+      "k": 5725,
+      "v": "Forniamo a tutte le persone una casa sicura e protetta! Per ora i predoni si sono ritirati, il che ci dà il tempo di cui abbiamo bisogno. Nonostante tutto l'ottimismo, dobbiamo essere all'erta. I predoni sanno che c'è molto da saccheggiare da noi. Si dice che si stiano preparando a sferrare un potente colpo. Dobbiamo aumentare ulteriormente le difese."
+    },
+    {
+      "k": 5726,
+      "v": "Tutti hanno trovato il loro posto nel nostro insediamento e possono condurre una vita protetta. Vale molto!"
+    },
+    {
+      "k": 5727,
+      "v": "Come è successo? Nella mia mente questo era un compito formidabile che ci eravamo proposti di svolgere. Era semplicemente troppo per noi!"
+    },
+    {
+      "k": 5728,
+      "v": "Tutto o niente!"
+    },
+    {
+      "k": 5729,
+      "v": "Sono là! Mio dio, così tanti in una volta. La nostra peggiore paura si è avverata: vogliono radere al suolo questo insediamento."
+    },
+    {
+      "k": 5730,
+      "v": "Ce l'abbiamo fatta! Questo luogo è diventato una fortezza che ci offrirà protezione per molto tempo."
+    },
+    {
+      "k": 5731,
+      "v": "Erano troppi, troppi. Abbiamo combattuto coraggiosamente, ma le nostre difese semplicemente non potevano competere con loro."
+    },
+    {
+      "k": 5732,
+      "v": "Nessuno è rimasto. Sembra che la sopravvivenza in questo mondo non abbia alcuna possibilità."
+    },
+    {
+      "k": 5733,
+      "v": "Si dice che i restanti predoni si stiano spostando verso regioni più lontane. Non ci sono più prede facili per loro qui. Li abbiamo cacciati per sempre!"
+    },
+    {
+      "k": 5734,
+      "v": "Un prezzo speciale per gli amici"
+    },
+    {
+      "k": 5735,
+      "v": "Ehi ehi, ti ricordi di me? Rusty Rolph è qui! I predoni ti respirano sul collo, non è vero? Ascolta: ho dei progetti per te. Esatto, questo dovrebbe spaventarli a morte se vengono qui. Mi piacerebbe semplicemente consegnarteli... l'unica cosa è... i miei affari non stanno andando troppo bene al momento. Haha, sì, è così. Cosa ne pensi? Tu aiuti Rusty e Rusty ti aiuta?"
+    },
+    {
+      "k": 5736,
+      "v": "Dì, sei una persona peachy, davvero, lo sei. E noi due siamo una squadra di classe. Mi separerò prima - beh, qualunque cosa."
+    },
+    {
+      "k": 5738,
+      "v": "Devi capire che deve valere la pena anche per me. Affari e roba, offerte, sai... m-hm, sì, certo, un'offerta... può essere rifiutata, giusto."
+    },
+    {
+      "k": 5740,
+      "v": "Un'offerta allettante"
+    },
+    {
+      "k": 5741,
+      "v": "Prima di tutto, la buona notizia: Rusty è tornato di nuovo! E ora la parte negativa: i predoni si stanno radunando. Amico, amico, te lo dico, ce ne sono molti. Ho qualcosa qui: sono progetti. Questo dovrebbe fermarli sulle loro tracce se attaccano. Sorpresa, sorpresa, eh? Posso aiutarti, certo, te li darò... ma potresti dovermi fare un piccolo, solo un piccolissimo favore. "
+    },
+    {
+      "k": 5742,
+      "v": "Te l'avevo detto, te l'avevo detto: ci sono buoni affari da fare con te. Non sto scherzando, se arrivano i predoni, spero solo... aah diamine, te ne occuperai, certo... in qualche modo."
+    },
+    {
+      "k": 5744,
+      "v": "Andiamo, pensavo avessimo qualcosa di speciale tra noi. La vera amicizia è, qual è la parola ... inestimabile, sì, giusto. Bene, allora buona fortuna ... amico."
+    },
+    {
+      "k": 5748,
+      "v": "Aspetta che arrivino i predoni"
+    },
+    {
+      "k": 5749,
+      "v": "Niente più predoni nelle vicinanze"
+    },
+    {
+      "k": 5750,
+      "v": "Tutto pronto, capo! Nel prossimo futuro staremo alla ricerca di messaggi radio inviati da altri sopravvissuti e ti avviseremo se ci imbattiamo in qualcosa."
+    },
+    {
+      "k": 5751,
+      "v": "Terremo d'occhio gli stranieri."
+    },
+    {
+      "k": 5767,
+      "v": "Torri con sirene fornite con elettricità: <<amount>>"
+    },
+    {
+      "k": 5768,
+      "v": "Strategie di difesa ricercate: <<amount>>"
+    },
+    {
+      "k": 5769,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. Propongono di sviluppare una serie di strategie di difesa che dovrebbero proteggerci da potenziali attacchi. Stanno aspettando il permesso per iniziare i loro studi."
+    },
+    {
+      "k": 5770,
+      "v": "Torre con sirena ricercata: <<amount>>"
+    },
+    {
+      "k": 5771,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. Propongono di sviluppare una torre che sia in grado di abbassare il morale dei predoni che avanzano fintanto che è fornita di elettricità. Stanno aspettando il permesso per iniziare i loro studi."
+    },
+    {
+      "k": 5772,
+      "v": "Barricata ricercata: <<amount>>"
+    },
+    {
+      "k": 5773,
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. Propongono di sviluppare barricate che possono rallentare l'avanzata dei predoni durante il loro attacco. Stanno aspettando il permesso per iniziare i loro studi."
+    },
+    {
+      "k": 5818,
+      "v": "Cambia modalità di costruzione di strade"
+    },
+    {
+      "k": 5819,
+      "v": "Numero massimo di fotogrammi al secondo"
+    },
+    {
+      "k": 5820,
+      "v": "Illimitato"
+    },
+    {
+      "k": 5822,
+      "v": 60
+    },
+    {
+      "k": 5825,
+      "v": "Ricerca nella categoria Difesa"
+    },
+    {
+      "k": 5823,
+      "v": 30
+    },
+    {
+      "k": 5824,
+      "v": 48
+    },
+    {
+      "k": 5830,
+      "v": "Sopravvissuti aggiuntivi"
+    },
+    {
+      "k": 5831,
+      "v": "Un gruppo di sopravvissuti ci ha contattato. La situazione sembra riguardare un gruppo più ampio di sopravvissuti. Chiedono di lasciarli aderire al nostro accordo. Ma per provvedere a un numero così elevato di nuovi arrivati ci sono diversi preparativi che dovremo fare. Pensa che al momento possiamo permetterci un progetto su questa scala, capo?"
+    },
+    {
+      "k": 5832,
+      "v": "Abbiamo fatto tutti i preparativi per quanto possibile, capo! Ora siamo in grado di accettare il gruppo. Abbiamo già parlato con loro e sono già in viaggio verso il nostro insediamento."
+    },
+    {
+      "k": 5833,
+      "v": "Siamo spiacenti, ma informeremo il gruppo che sfortunatamente non saremo in grado di consentire loro di unirsi a noi."
+    },
+    {
+      "k": 5834,
+      "v": "Purtroppo, non riusciremo a provvedere anche a queste persone, capo. Non abbiamo altra scelta che inviarli e augurare loro tutto il meglio."
+    },
+    {
+      "k": 5835,
+      "v": "Vagabondi"
+    },
+    {
+      "k": 5836,
+      "v": "Abbiamo appena ricevuto un messaggio radio, capo! Un gruppo di sopravvissuti in roaming ha chiesto di supportarli con alcuni tipi di materiali. Secondo le informazioni che hanno inviato hanno bisogno di cibo, acqua, indumenti protettivi e simili. Credi che ci sia qualcosa che possiamo risparmiare?"
+    },
+    {
+      "k": 5837,
+      "v": "Abbiamo raccolto nell'insediamento e messo insieme tutto quello che eravamo in grado di risparmiare. Avremmo dovuto aiutare ad alleviare le peggiori difficoltà di quelle persone con quella roba. Una parte del gruppo ha persino deciso di unirsi al nostro insediamento. È una cosa sicura che saremo in grado di mettere a frutto le mani in più."
+    },
+    {
+      "k": 5838,
+      "v": "Se la pensa così, capo! Darò loro la notizia che al momento non siamo in grado di aiutare nessuno."
+    },
+    {
+      "k": 5839,
+      "v": "Se non siamo in grado di fornire a queste persone il minimo necessario, probabilmente sarebbe meglio se semplicemente andassero avanti. Non è facile, ma non possiamo risparmiare niente."
+    },
+    {
+      "k": 5840,
+      "v": "Raccogli per i sopravvissuti!"
+    },
+    {
+      "k": 5841,
+      "v": "Non possiamo risparmiare niente!"
+    },
+    {
+      "k": 5888,
+      "v": "Difenditi con successo contro i predoni."
+    },
+    {
+      "k": 5889,
+      "v": "Se la missione fallisce, lo scenario fallisce."
+    },
+    {
+      "k": 5892,
+      "v": "Penso che sia finalmente giunto il momento per me di rinunciare alla carica di consigliere. Sono fermamente convinto che ci condurrai a un futuro glorioso."
     }
   ]
 }
