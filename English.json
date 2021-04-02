@@ -3239,7 +3239,7 @@
     },
     {
       "k": 502,
-      "v": "Incolto"					
+      "v": "Incolto"
     },
 	{
       "k": 5850,
@@ -3311,7 +3311,7 @@
     },
     {
       "k": 509,
-      "v": "<<name>> ({{profession}}) è morto per radiazione {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) è morto per le radiazioni {{replacement_status}}."
     },
     {
       "k": 510,
@@ -3387,7 +3387,7 @@
     },
     {
       "k": 517,
-      "v": "Età"															  
+      "v": "Età"
     },
 	{
       "k": 5887,
@@ -5287,7 +5287,7 @@
     },
     {
       "k": 4697,
-      "v": "Effetti"							
+      "v": "Effetti"
     },
 	{
       "k": 5562,
@@ -11347,7 +11347,7 @@
     },
     {
       "k": 2010,
-      "v": "* ronzio * Quanta legna potrebbe mandare un ceppo. Se un ceppo potrebbe mandare il legno? Quanto legno potrebbe fare un ceppo, Se un ceppo potrebbe mandare il legno."
+      "v": "*ronzio* Quanta legna potrebbe mandare un ceppo. Se un ceppo potrebbe mandare il legno? Quanto legno potrebbe fare un ceppo, Se un ceppo potrebbe mandare il legno."
     },
     {
       "k": 2011,
@@ -15519,7 +15519,7 @@
     },
     {
 	   "k": 3510,
-	   "v": "cibo pulito"
+	   "v": "Cibo pulito"
     },
     {
       "k": 2421,
@@ -18351,7 +18351,7 @@
     },
     {
       "k": 3787,
-      "v": "Alternativa:"														
+      "v": "Alternativa:"
     },
 	{
       "k": 5234,
@@ -22175,7 +22175,11 @@
     },
     {
       "k": 5892,
-      "v": "Penso che sia finalmente giunto il momento per me di rinunciare alla carica di consigliere. Sono fermamente convinto che ci condurrai a un futuro glorioso."
+      "v": "Penso che sia finalmente giunto il momento per me di rinunciare alla carica di consigliere. Sono fermamente convinto che ci condurrai a un futuro glorioso."														  
+    },
+	{
+      "k": 5894,
+      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."
     }
   ]
 }
