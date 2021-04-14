@@ -1827,7 +1827,35 @@
     },
 	{
       "k": 5746,
-      "v": "Migliora le strade"
+      "v": "Migliora le strade"					  
+    },
+	{
+      "k": 5904,
+      "v": "Riattiva edifici"
+    },
+    {
+      "k": 5905,
+      "v": "Metti in pausa gli edifici"
+    },
+    {
+      "k": 5906,
+      "v": "Demolire edifici"
+    },
+    {
+      "k": 5907,
+      "v": "Annulla demolizione edifici"
+    },
+    {
+      "k": 5908,
+      "v": "Migliora gli edifici"
+    },
+    {
+      "k": 5914,
+      "v": "Annulla gli aggiornamenti degli edifici"
+    },
+    {
+      "k": 5927,
+      "v": "Priorità di difesa"
     },
     {
       "k": 399,
@@ -1855,7 +1883,35 @@
     },
 	{
       "k": 5747,
-      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."
+      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."																																							
+    },
+	{
+      "k": 5909,
+      "v": "Gli edifici di produzione sospesi e i cantieri in un'area riprendono il funzionamento."
+    },
+    {
+      "k": 5910,
+      "v": "Gli edifici produttivi e i cantieri sono sospesi in un'area."
+    },
+    {
+      "k": 5911,
+      "v": "Gli edifici e le altre costruzioni sono contrassegnati per la demolizione in un'area."
+    },
+    {
+      "k": 5912,
+      "v": "La demolizione di edifici e altre costruzioni è sospesa in un'area."
+    },
+    {
+      "k": 5913,
+      "v": "La rimozione di edifici in grado di farlo è prescritta in un'area."
+    },
+    {
+      "k": 5915,
+      "v": "Gli aggiornamenti degli edifici in un'area vengono annullati."
+    },
+    {
+      "k": 5928,
+      "v": "Le torri di guardia in quest'area saranno prima equipaggiate. La milizia in eccedenza sarà assegnata alle altre torri. Puoi inserire tutte le attività che desideri."
     },
     {
       "k": 403,
@@ -2589,6 +2645,10 @@
       "k": 5280,
       "v": "Pascoli"
     },
+	{
+      "k": 5895,
+      "v": "Pozzi e pompe dell'acqua elettriche"
+    },
     {
       "k": 2853,
       "v": "Edifici di produzione collegati alla rete elettrica"
@@ -2660,6 +2720,14 @@
     {
       "k": 2893,
       "v": "Distribuzione dello spazio abitativo"
+    },
+	{
+      "k": 5942,
+      "v": "Spazio di vita gratuito per le famiglie"
+    },
+    {
+      "k": 5943,
+      "v": "Spazio di vita libero nei rifugi"
     },
     {
       "k": 2894,
@@ -3015,7 +3083,39 @@
     },
     {
       "k": 490,
-      "v": "Statistiche"
+      "v": "Statistiche"					 
+    },
+	{
+      "k": 5902,
+      "v": "Crescita demografica"
+    },
+    {
+      "k": 5903,
+      "v": "La crescita della popolazione è un'istantanea che indica se la popolazione aumenterà, diminuirà o rimarrà stabile per un periodo di tempo più lungo."
+    },
+    {
+      "k": 5896,
+      "v": "Popolazione in crescita"
+    },
+    {
+      "k": 5897,
+      "v": "La popolazione crescerà a lungo termine, poiché i coloni fertili vivono per lo più in case e daranno vita a famiglie.\n\nAssicurati di avere sufficienti scorte essenziali o limita la crescita della popolazione collocando i coloni nei rifugi. In caso di emergenza, la procreazione può essere vietata per decreto per alcune stagioni."
+    },
+    {
+      "k": 5898,
+      "v": "Popolazione stabile"
+    },
+    {
+      "k": 5899,
+      "v": "La popolazione cambierà a malapena nel lungo periodo.\nQuesto potrebbe essere dovuto a una distribuzione equilibrata degli alloggi tra case e rifugi. Inoltre, prestare attenzione alla distribuzione dei coloni fertili e sterili."
+    },
+    {
+      "k": 5900,
+      "v": "Diminuzione della popolazione"
+    },
+    {
+      "k": 5901,
+      "v": "La popolazione diminuirà nel lungo periodo perché i tuoi coloni hanno troppo poche case per crescere una famiglia o un gran numero della tua popolazione è sterile."
     },
     {
       "k": 491,
@@ -3623,7 +3723,7 @@
     },
     {
       "k": 1129,
-      "v": "Forse troveremo qualcosa nel cortile ..."
+      "v": "Forse troveremo qualcosa nel cortile..."
     },
     {
       "k": 1130,
@@ -4463,11 +4563,55 @@
     },
     {
       "k": 5624,
-      "v": "L'attacco dei predoni è stato respinto"
+      "v": "L'attacco dei predoni è stato respinto"						
+    },
+	{
+      "k": 5934,
+      "v": "Avvicinamento ai predoni"
     },
     {
       "k": 596,
-      "v": "Irrigare"
+      "v": "Irrigare"	  
+    },
+	{
+      "k": 5929,
+      "v": "Configura inventario"
+    },
+    {
+      "k": 5930,
+      "v": "Capacità assegnata"
+    },
+    {
+      "k": 5931,
+      "v": "Svuota tutto"
+    },
+    {
+      "k": 5932,
+      "v": "Distribuire in modo uniforme"
+    },
+    {
+      "k": 5936,
+      "v": "Aggiungi risorse alle capacità"
+    },
+    {
+      "k": 5937,
+      "v": "Rimuovi risorsa dalle capacità"
+    },
+    {
+      "k": 5938,
+      "v": "Bisogni del colono"
+    },
+    {
+      "k": 5939,
+      "v": "Con questa preimpostazione, le risorse relative ai bisogni dei coloni, come acqua, cibo, vestiti o strumenti, vengono accumulate."
+    },
+    {
+      "k": 5940,
+      "v": "Materie prime"
+    },
+    {
+      "k": 5941,
+      "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."
     },
 	{
       "k": 5555,
@@ -5981,6 +6125,22 @@
       "k": 2817,
       "v": "Ogni siccità"
     },
+	{
+      "k": 5944,
+      "v": "Off"
+    },
+    {
+      "k": 5945,
+      "v": "Pochi"
+    },
+    {
+      "k": 5946,
+      "v": "Normale"
+    },
+    {
+      "k": 5947,
+      "v": "Molti"
+    },
     {
       "k": 2904,
       "v": "Area libera attorno al punto di partenza"
@@ -6395,7 +6555,11 @@
     },
 	{
       "k": 4448,
-      "v": "Usa il cursore del mouse grande"
+      "v": "Usa il cursore del mouse grande"					  
+    },
+	{
+      "k": 5893,
+      "v": "Scorrimento della camera dal bordo dello schermo"
     },
     {
       "k": 2275,
@@ -6459,7 +6623,7 @@
     },
     {
       "k": 2290,
-      "v": "Zoom fotocamera"
+      "v": "Zoom camera"
     },
     {
       "k": 2291,
@@ -6993,6 +7157,10 @@
       "k": 5794,
       "v": "Risorse saccheggiate"
     },
+	{
+      "k": 5933,
+      "v": "Risorse perse"
+    },
     {
       "k": 5813,
       "v": "Edifici distrutti"
@@ -7020,6 +7188,10 @@
     {
       "k": 5821,
       "v": "Nessuna risorsa è stata saccheggiata."
+    },
+	{
+      "k": 5926,
+      "v": "Un attacco da parte dei predoni si sta avvicinando da questa direzione."
     },
     {
       "k": 796,
@@ -7836,6 +8008,10 @@
     {
       "k": 5629,
       "v": "I predoni sono sopravvissuti e hanno mantenuto il loro morale."
+    },
+	{
+      "k": 5935,
+      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."
     },
     {
       "k": 857,
@@ -22179,7 +22355,19 @@
     },
 	{
       "k": 5894,
-      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."
+      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."									   
+    },
+	{
+      "k": 5952,
+      "v": "È stato rilevato un monitor con frequenze di aggiornamento elevate. Vai al menu delle opzioni per verificare se stai utilizzando le impostazioni grafiche corrette."
+    },
+    {
+      "k": 5953,
+      "v": "Stai utilizzando un monitor con una frequenza di aggiornamento elevata! Si consiglia di limitare il numero massimo di fps per evitare un elevato consumo energetico non necessario dell'hardware."
+    },
+    {
+      "k": 5955,
+      "v": "Pensiamo di aver raccolto tutto."
     }
   ]
 }
