@@ -1,11 +1,11 @@
 {
   "languageID": "English",
   "translations": [
-	{
+    {
       "k": 5239,
-      "v": "Filtri"
+      "v": "Filtri "
     },
-	{
+    {
       "k": 4079,
       "v": "min"
     },
@@ -31,19 +31,19 @@
     },
     {
       "k": 2332,
-      "v": "Disponibile"
+      "v": "In magazzino"
     },
     {
       "k": 2339,
-      "v": "<<amount>> disponibile"
+      "v": "<<amount>> in magazzino"
     },
-	{
+    {
       "k": 4893,
-      "v": "<<amount>> in stock nell'insediamento"
+      "v": "<<amount>> in magazzino al momento dell'insediamento"
     },
     {
       "k": 2307,
-      "v": "MAX"
+      "v": "MASS"
     },
     {
       "k": 2308,
@@ -51,19 +51,19 @@
     },
     {
       "k": 2251,
-      "v": "<color=red><b>Oopsy! Si è verificato un errore in background!</b></color>\nIl gioco potrebbe ora essere instabile. Riavvia il gioco e aiutaci segnalando questo problema!"
+      "v": "<color=red><b>Oopsy! Si è verificato un errore in background!</b></color>\nIl gioco ora potrebbe essere instabile. Riavvia il gioco e aiutaci segnalando questo problema!"
     },
     {
       "k": 2991,
-      "v": "Apri la cartella dei dati di gioco!"
+      "v": "Apri la cartella Game Data!"
     },
-	{
+    {
       "k": 5420,
       "v": "Costruire"
     },
     {
       "k": 2317,
-      "v": "metri"
+      "v": "metro"
     },
     {
       "k": 2318,
@@ -95,7 +95,7 @@
     },
     {
       "k": 1522,
-      "v": "Rifiuta"
+      "v": "Declinea"
     },
     {
       "k": 1035,
@@ -125,7 +125,7 @@
       "k": 2595,
       "v": "Semi"
     },
-	{
+    {
       "k": 4680,
       "v": "Seme per <<name>>"
     },
@@ -135,17 +135,17 @@
     },
     {
       "k": 3496,
-      "v": "Morte"
+      "v": "Morto"
     },
     {
       "k": 3473,
-      "v": "Risorse necessarie"
+      "v": "Risorse Richieste"
     },
-	{
+    {
       "k": 4894,
-      "v": "Apri la panoramica del tutorial"			 
+      "v": "Apre Panoramica sul Tutorial"
     },
-	{
+    {
       "k": 5028,
       "v": "Animale"
     },
@@ -155,15 +155,15 @@
     },
     {
       "k": 5154,
-      "v": "Priorità"																																							 
+      "v": "Priorità"
     },
-	{
+    {
       "k": 5464,
       "v": "Nessun sopravvissuto"
     },
-	{
+    {
       "k": 5866,
-      "v": "Cercare …"
+      "v": "Ricerca per …"
     },
     {
       "k": 5560,
@@ -171,31 +171,31 @@
     },
     {
       "k": 5561,
-      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."										
+      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva che mostra tutti gli edifici dello stesso tipo nel mondo per permettere di vedere e cambiare la loro modalità."
     },
-	{
+    {
       "k": 5863,
       "v": "Modalità pianificazione"
     },
     {
       "k": 5864,
-      "v": "Nella modalità di pianificazione, la costruzione di edifici appena posizionati viene immediatamente sospesa per impedire ai costruttori di trasportare risorse ai rispettivi cantieri. Questa modalità è utile per una migliore pianificazione ponendo le commissioni di costruzione in una fase iniziale, ma la pausa consente di eseguire la costruzione stessa in un secondo momento."
+      "v": "Nella modalità di pianificazione la costruzione degli edifici appena piazzati viene immediatamente messa in pausa per impedire ai costruttori di trasportare le risorse ai rispettivi siti di costruzione. Questa modalità è utile per una migliore pianificazione posizionando le commissioni di costruzione in una fase iniziale, ma la pausa rende possibile la costruzione stessa in un secondo momento."
     },
     {
       "k": 5862,
-      "v": "Orma"
+      "v": "Impronta"
     },
     {
       "k": 5879,
-      "v": "Nessun risultato durante il gioco successivo"
+      "v": "Nessun risultato durante il proseguimento del gioco"
     },
     {
       "k": 5880,
-      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."
+      "v": "Nessun risultato può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare una vasta gamma di obiettivi."
     },
     {
       "k": 228,
-      "v": "Legno"
+      "v": "Legna"
     },
     {
       "k": 229,
@@ -215,7 +215,7 @@
     },
     {
       "k": 233,
-      "v": "Stoffa"
+      "v": "Tessuto"
     },
     {
       "k": 234,
@@ -239,7 +239,7 @@
     },
     {
       "k": 239,
-      "v": "Carne di cinghiale"
+      "v": "Carne di Cinghiale"
     },
     {
       "k": 240,
@@ -267,15 +267,15 @@
     },
     {
       "k": 246,
-      "v": "Sciarpa"
+      "v": "Sciarpa da collo"
     },
     {
       "k": 247,
-      "v": "Maschera al carbone attivo"
+      "v": "Maschera a carbone attiva"
     },
     {
       "k": 248,
-      "v": "Abito di radiazione"
+      "v": "Tuta anti-radiazioni"
     },
     {
       "k": 250,
@@ -299,7 +299,7 @@
     },
     {
       "k": 255,
-      "v": "Zucca"
+      "v": "Zucchina"
     },
     {
       "k": 256,
@@ -315,7 +315,7 @@
     },
     {
       "k": 259,
-      "v": "Cherry"
+      "v": "Ciliegia"
     },
     {
       "k": 260,
@@ -327,7 +327,7 @@
     },
     {
       "k": 262,
-      "v": "Nocciolo americano"
+      "v": "Pecan"
     },
     {
       "k": 263,
@@ -347,7 +347,7 @@
     },
     {
       "k": 494,
-      "v": "Erba"
+      "v": "Joint"
     },
     {
       "k": 973,
@@ -355,11 +355,11 @@
     },
     {
       "k": 1178,
-      "v": "Razione di spedizione"
+      "v": "Razione per la spedizione"
     },
     {
       "k": 1179,
-      "v": "Liquore duro"
+      "v": "Liquore forte"
     },
     {
       "k": 3497,
@@ -371,35 +371,35 @@
     },
     {
       "k": 3499,
-      "v": "Compresse di iodio"				   
+      "v": "Compresse di iodio"
     },
-	{
+    {
       "k": 4142,
-      "v": "Cibo trattato"
+      "v": "Pasto sostanzioso"
     },
-	{
+    {
       "k": 4442,
       "v": "Pomodoro"
     },
     {
       "k": 4443,
-      "v": "Carote"
+      "v": "Carota"
     },
     {
       "k": 4444,
       "v": "Zucchine"
     },
-	{
+    {
       "k": 4738,
-      "v": "Mostarda"
+      "v": "Senape"
     },
     {
       "k": 4739,
-      "v": "Lupino"
+      "v": "Luppolo"
     },
     {
       "k": 4740,
-      "v": "Barbabietola"
+      "v": "Barbabietole da zucchero"
     },
     {
       "k": 4654,
@@ -411,11 +411,11 @@
     },
     {
       "k": 4656,
-      "v": "Carne di Bufalo"
+      "v": "Carne di bufalo"
     },
     {
       "k": 4657,
-      "v": "Carne di gallina"
+      "v": "Carne di pollo"
     },
     {
       "k": 4658,
@@ -447,15 +447,15 @@
     },
     {
       "k": 4686,
-      "v": "Capriolo" 
+      "v": "Capriolo"
     },
-	{
+    {
       "k": 5191,
       "v": "Capra"
     },
     {
       "k": 5192,
-      "v": "lepre"
+      "v": "Lepre"
     },
     {
       "k": 5193,
@@ -485,301 +485,301 @@
       "k": 5175,
       "v": "Stufato"
     },
-	{
+    {
       "k": 5448,
       "v": "Zolfo"
     },
     {
       "k": 5449,
-      "v": "Proiettile di metallo"
+      "v": "Pallottola di metallo"
     },
     {
       "k": 5450,
-      "v": "Proiettile di gomma"
+      "v": "Pallottole di gomma"
     },
     {
-	  "k": 880,
-      "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
+      "k": 880,
+      "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in una fornace."
     },
     {
       "k": 881,
-      "v": "Lo scarto non è solo un materiale da costruzione di base per gli edifici. Può anche essere utilizzato per fabbricare strumenti o per trasformarsi in risorse speciali."
+      "v": "Gli scarti sono solo un materiale da costruzione di base per gli edifici. Può anche essere usato per fabbricare attrezzi o per essere trasformato in risorse speciali."
     },
     {
       "k": 882,
-      "v": "Il metallo può essere recuperato dagli scarti. Per fare questo è necessario un riciclatore o una raffineria. Il metallo è un materiale più robusto che viene utilizzato principalmente per strumenti migliorati o edifici speciali."
+      "v": "Il metallo può essere recuperato dagli scarti. Per farlo è necessario un Riciclatore o una Raffineria. Il Metallo è un materiale più robusto che viene usato principalmente per migliorare gli Strumenti o gli Edifici speciali."
     },
     {
       "k": 883,
-      "v": "La plastica può essere recuperata dagli scarti. Per fare questo è necessario un riciclatore o una raffineria. È un materiale chiave per trattenere le radiazioni."
+      "v": "La plastica può essere recuperata dagli scarti. Per farlo è necessario un Riciclatore o una Raffineria. È un materiale chiave per trattenere le radiazioni."
     },
     {
       "k": 884,
-      "v": "L'elettronica può essere recuperata dagli scarti. Per fare ciò è necessario un riciclatore o una raffineria. L'elettronica viene utilizzata principalmente per l'alimentazione."
+      "v": "L'elettronica può essere recuperata dagli scarti. Per fare questo è necessario un Riciclatore o una Raffineria. L'elettronica è usata principalmente per l'alimentazione."
     },
     {
       "k": 885,
-      "v": "Il tessuto può essere recuperato dagli scarti. Per farlo è necessario un riciclatore o una raffineria. Il tessuto viene utilizzato da un sarto per produrre indumenti protettivi."
+      "v": "Il tessuto può essere recuperato dagli scarti. Per fare questo è necessario un Riciclatore o una Raffineria. In alternativa, il tessuto può essere prodotto dalla Canapa. Questo avviene nella Tessitura della Canapa. Il tessuto è usato da un sarto per fare abiti protettivi."
     },
     {
       "k": 886,
-      "v": "L'acqua è la chiave per sopravvivere. L'acqua può essere raccolta dai laghi attraverso un molo, da terra attraverso un pozzo o dalla pioggia tramite un raccoglitore di acqua piovana. Una cisterna o una torre dell'acqua è necessaria per distribuire l'acqua all'interno l'insediamento."
+      "v": "L'acqua è la chiave per la sopravvivenza. L'acqua può essere raccolta dai laghi tramite un pontile, dal terreno tramite un pozzo o dalla pioggia tramite un collettore di acqua piovana. Una cisterna o una torre d'acqua è necessaria per distribuire l'acqua all'interno dell'insediamento."
     },
     {
       "k": 887,
-      "v": "Fornire un'ampia varietà di alimenti insieme alle erbe mantiene sani i tuoi coloni e riduce il rischio di insorgenza di una malattia."
+      "v": "Fornire un'ampia varietà di cibo insieme alle erbe mantiene i tuoi coloni in salute e riduce il rischio di un'epidemia."
     },
     {
       "k": 889,
-      "v": "Le bacche sono raccolte dai Raccoglitori e possono essere trovate nelle foreste."
+      "v": "Le bacche vengono raccolte dai Raccoglitori e si trovano nelle foreste."
     },
     {
       "k": 890,
-      "v": "I funghi vengono raccolti dai Raccoglitori e possono essere trovati nelle foreste."
+      "v": "I funghi vengono raccolti dai Raccoglitori e si trovano nelle foreste."
     },
     {
       "k": 891,
-      "v": "Le radici vengono scavate dai Raccoglitori e possono essere trovate nelle foreste."
+      "v": "Le radici vengono scavate dai raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 892,
-      "v": "I cinghiali forniscono carne di cinghiale quando vengono uccisi da un cacciatore."
+      "v": "La carne di cinghiale può essere prodotta cacciando cinghiali non addomesticati o macellando cinghiali tenuti nei pascoli.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 893,
-      "v": "I cervi forniscono il capriolo se ucciso da un cacciatore."
+      "v": "Il Capriolo può essere ottenuto cacciando il Capriolo selvatico o macellando il Capriolo allevato al pascolo."
     },
     {
       "k": 894,
-      "v": "Le erbe vengono raccolte dai Raduni e possono essere trovate nelle foreste."
+      "v": "Le erbe vengono raccolte dai Raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 895,
-      "v": "La birra viene prodotta nella Taverna e serve a ravvivare l'umore dei coloni."
+      "v": "La birra viene prodotta nel pub e serve a rallegrare l'umore dei coloni."
     },
     {
       "k": 896,
-      "v": "Uno strumento importante per completare le attività di lavoro nell'ambiente circostante."
+      "v": "Uno strumento importante per completare i compiti di lavoro nell'ambiente circostante."
     },
     {
       "k": 897,
-      "v": "Uno strumento più avanzato con una maggiore durata per eseguire compiti di lavoro ovunque intorno all'insediamento."
+      "v": "Uno strumento più avanzato con una maggiore durata per eseguire compiti di lavoro ovunque nell'insediamento."
     },
     {
       "k": 898,
-      "v": "Il carbone di legna è fatto di legno usando un forno per carbonella. Può essere usato in una torre d'acqua per purificare l'acqua per rimuovere le radiazioni."
+      "v": "Il carbone è ricavato dal legno usando una fornace. Può essere usato in una torre d'acqua per purificare l'acqua e rimuovere le radiazioni."
     },
     {
       "k": 899,
-      "v": "Sciarpe al collo proteggono i coloni dalle radiazioni di basso livello."
+      "v": "Le sciarpe da collo proteggono i coloni dalle radiazioni a basso livello."
     },
     {
       "k": 900,
-      "v": "Le maschere al carbone attivo proteggono i coloni dalle radiazioni di livello medio."
+      "v": "Le maschere al carbonio attivo proteggono i coloni dalle radiazioni di livello medio."
     },
     {
       "k": 901,
-      "v": "L'abito da radiazione proteggono i coloni dalle radiazioni di alto livello."
+      "v": "Le tute antiradiazioni proteggono i coloni dalle radiazioni di alto livello."
     },
     {
       "k": 902,
-      "v": "I fagioli possono essere raccolti dai campi."
+      "v": "I fagioli possono essere raccolti sui campi."
     },
     {
       "k": 903,
-      "v": "Il cavolo può essere raccolto dai campi."
+      "v": "Il cavolo può essere raccolto nei campi."
     },
     {
       "k": 904,
-      "v": "Il mais può essere raccolto dai campi."
+      "v": "Il mais può essere raccolto nei campi."
     },
     {
       "k": 905,
-      "v": "I peperoni possono essere raccolti dai campi."
+      "v": "I peperoni possono essere raccolti nei campi."
     },
     {
       "k": 906,
-      "v": "Le patate possono essere raccolte dai campi."
+      "v": "Le patate possono essere raccolte nei campi."
     },
     {
       "k": 907,
-      "v": "Le zucche giganti possono essere raccolte dai campi."
+      "v": "Le zucche giganti possono essere raccolte nei campi."
     },
     {
       "k": 908,
-      "v": "La zucca può essere raccolta dai campi."
+      "v": "La zucca può essere raccolta nei campi."
     },
     {
       "k": 909,
-      "v": "Il grano può essere raccolto dai campi."
+      "v": "Il grano può essere raccolto nei campi."
     },
     {
       "k": 910,
-      "v": "Le mele possono essere raccolte dai frutteti."
+      "v": "Le mele possono essere raccolte nei frutteti."
     },
     {
       "k": 911,
-      "v": "Le ciliegie possono essere raccolte dai frutteti."
+      "v": "Le ciliegie possono essere raccolte nei frutteti."
     },
     {
       "k": 912,
-      "v": "Le pesche possono essere raccolte dai frutteti."
+      "v": "Le pesche possono essere raccolte nei frutteti."
     },
     {
       "k": 913,
-      "v": "Le pere possono essere raccolte dai frutteti."
+      "v": "Le pere possono essere raccolte nei frutteti."
     },
     {
       "k": 914,
-      "v": "Le noci pecan possono essere raccolte dai frutteti."
+      "v": "Le noci pecan possono essere raccolte nei frutteti."
     },
     {
       "k": 915,
-      "v": "Le prugne possono essere raccolte dai frutteti."
+      "v": "Le prugne possono essere raccolte nei frutteti."
     },
     {
       "k": 916,
-      "v": "Le noci possono essere raccolte dai frutteti."
+      "v": "Le noci possono essere raccolte nei frutteti."
     },
     {
       "k": 917,
-      "v": "I pesci possono essere catturati nelle capanne di pesca."
+      "v": "Il pesce può essere pescato nei capanni da pesca."
     },
     {
       "k": 918,
-      "v": "La canapa può essere raccolta nei campi. A differenza di altre colture, la canapa non è una fonte di cibo. La canapa viene convertita in erba in un pub. Possono essere consumati dai coloni per aumentare la loro fiducia."
+      "v": "La canapa può essere raccolta sui campi. A differenza di altre colture, la canapa non è una fonte di cibo. La Canapa viene trasformata in Joints in un Pub. Possono essere consumati dai coloni per aumentare la loro Fiducia."
     },
     {
       "k": 919,
-      "v": "L'erba possono essere prodotti in una taverna e consumati dai coloni per aumentare la loro fiducia."
+      "v": "Gli Joints possono essere prodotti in un pub e consumati dai coloni per aumentare la loro Fiducia."
     },
     {
       "k": 974,
-      "v": "La medicina può essere prodotta presso strutture mediche."
+      "v": "Le medicine possono essere prodotte nelle strutture mediche."
     },
     {
       "k": 1180,
-      "v": "Le razioni di spedizione sono pacchetti di cibo e acqua con cui le spedizioni possono essere equipaggiate per esplorare ripetutamente le rovine prima che la spedizione debba tornare."
+      "v": "Le Razioni per la Spedizione sono pacchetti di Cibo e Acqua con cui le Spedizioni possono essere equipaggiate per esplorare ripetutamente le Rovine prima che la Spedizione debba tornare indietro."
     },
     {
       "k": 1181,
-      "v": "Il Liquore Duro può essere prodotto in un Pub da vari ingredienti."
+      "v": "Il liquore forte può essere prodotto in un Pub da vari ingredienti."
     },
     {
       "k": 3514,
-      "v": "I kit di decontaminazione sono prodotti in una stazione di decontaminazione. Sono usati per pulire il cibo dalla contaminazione negli edifici per alimenti e di stoccaggio."
+      "v": "I kit di decontaminazione sono prodotti in una stazione di decontaminazione. Vengono utilizzati per purificare il cibo dalla contaminazione negli edifici alimentari e di stoccaggio."
     },
-	{
+    {
       "k": 3515,
-      "v": "Lo iodio può essere recuperato nelle miniere e trasformato in compresse di iodio presso le strutture mediche. "
+      "v": "Lo iodio può essere recuperato nelle miniere e trasformato in compresse di iodio nelle strutture mediche."
     },
     {
       "k": 3516,
-      "v": "Le compresse di iodio possono essere consumate dai coloni per liberare i loro corpi dalle radiazioni. "
+      "v": "Le compresse di iodio possono essere consumate dai coloni per liberare i loro corpi dalle radiazioni."
     },
-	{
+    {
       "k": 4143,
-      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."											  
+      "v": "I Pasti sostanziosi possono essere prodotti dal cibo convenzionale in una cucina. I coloni hanno meno bisogno di una varietà di fonti di cibo per una dieta sana quando mangiano un pasto sostanzioso."
     },
-	{
+    {
       "k": 4445,
-      "v": "I pomodori possono essere raccolti dai campi."
+      "v": "I pomodori possono essere raccolti nei campi."
     },
     {
       "k": 4446,
-      "v": "Le carote possono essere raccolte dai campi."
+      "v": "Le carote possono essere raccolte nei campi."
     },
     {
       "k": 4447,
-      "v": "Le zucchine possono essere raccolte dai campi."																
+      "v": "Le zucchine possono essere raccolte nei campi."
     },
-	{
+    {
       "k": 4741,
-      "v": "I semi di senape possono essere raccolti dai campi."
+      "v": "I semi di senape possono essere raccolti nei campi."
     },
     {
       "k": 4742,
-      "v": "Il lupino può essere raccolto dai campi."
+      "v": "Il luppolo può essere raccolto nei campi."
     },
     {
       "k": 4743,
-      "v": "Le barbabietole da zucchero possono essere raccolte dai campi."
+      "v": "Le barbabietole da zucchero possono essere raccolte nei campi."
     },
     {
       "k": 4660,
-      "v": "La carne di capra può essere prodotta macellando capre tenute in recinti."
+      "v": "La carne di capra può essere prodotta cacciando capre selvatiche o macellando capre allevate al pascolo."
     },
     {
       "k": 4661,
-      "v": "La carne di lepre può essere prodotta macellando le lepri conservate nei recinti."
+      "v": "La carne di lepre può essere prodotta dalla caccia alle lepri selvatiche o dalla macellazione delle lepri allevate al pascolo."
     },
     {
       "k": 4662,
-      "v": "La carne di bufalo può essere prodotta macellando bufali tenuti in recinti."
+      "v": "La carne di bufalo può essere prodotta cacciando i bufali selvatici o macellando i bufali tenuti nei pascoli."
     },
     {
       "k": 4663,
-      "v": "La carne di pollo può essere prodotta macellando i polli tenuti in recinti."
+      "v": "La carne di pollo può essere prodotta cacciando i polli selvatici o macellando i polli tenuti nei pascoli."
     },
     {
       "k": 4664,
-      "v": "Il latte può essere ottenuto da Bufali o Capre tenuti in recinti."
+      "v": "Il latte può essere ottenuto da bufali o capre tenuti in recinti."
     },
     {
       "k": 4665,
-      "v": "Le uova possono essere ottenute dai polli tenuti nei recinti."
+      "v": "Le uova possono essere ottenute dai polli tenuti in recinti."
     },
     {
       "k": 4698,
-      "v": "I cinghiali possono essere tenuti nei recinti e lì riprodursi. Possono essere macellati e fornire carne di maiale."
+      "v": "I Cinghiali possono essere tenuti nei pascoli dove si riproducono. Possono essere macellati per ottenere carne.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 4699,
-      "v": "Capriolo e Cervo possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire selvaggina."
+      "v": "Il Capriolo e il Cervo possono essere tenuti nei pascoli dove si riproducono. Possono essere macellati per ottenere carne.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 4700,
-      "v": "Le capre possono essere tenute in recinti e lì riprodursi. Producono latte di capra. Quando vengono macellati forniscono carne di capra."
+      "v": "Le capre possono essere tenute nei pascoli dove si riproducono. Possono essere macellate per ottenere carne. Inoltre producono latte.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 4701,
-      "v": "Le lepri possono essere tenute in recinti e riprodotte lì. Forniscono una piccola quantità di carne e la loro pelliccia può essere trasformata in indumenti. Sono anche carini."
+      "v": "Le lepri possono essere tenute nei pascoli dove si riproducono. Possono essere macellate per ottenere carne.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 4702,
-      "v": "I bufali possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire carne di bufalo. La loro pelle può essere trasformata in abiti."
+      "v": "I bufali possono essere tenuti nei pascoli dove si riproducono. Possono essere macellati per ottenere carne. Inoltre producono latte.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
     {
       "k": 4703,
-      "v": "I polli possono essere tenuti in recinti e riprodotti lì. Depongono le uova e possono essere macellati per fornire carne di pollo."
+      "v": "I polli possono essere tenuti nei pascoli dove si riproducono. Possono essere macellati per ottenere carne. Se sono tenuti in cattività come bestiame producono anche uova.\n  \nGli animali possono essere generalmente catturati da un Cacciatore o acquistati da alcuni Commercianti al Posto di Commercio."
     },
-	{
+    {
       "k": 5145,
-      "v": "La salsefrica nera può essere raccolta dai campi."
+      "v": "La salsefrica nera può essere raccolta nei campi."
     },
     {
       "k": 5176,
-      "v": "La torta può essere prodotta dal cibo convenzionale in una cucina. I coloni che consumano la torta aumentano la loro fiducia mangiandola."
+      "v": "La Torta può essere prodotta dal cibo convenzionale in una cucina. I coloni che consumano la Torta aumentano la loro Fiducia mangiandola."
     },
     {
       "k": 5177,
-      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano stufato migliorano la loro salute nel processo."															  
+      "v": "Lo Stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano Stufato migliorano la loro salute durante il processo."
     },
-	{
+    {
       "k": 5451,
-      "v": "Lo zolfo viene utilizzato per creare polvere nera per munizioni."
+      "v": "Lo zolfo è usato per produrre polvere da sparo per le munizioni."
     },
     {
       "k": 5454,
-      "v": "I proiettili di metallo sono un metodo letale per difendersi dai predoni."
+      "v": "Le pallottole di metallo sono una possibilità di difesa contro i saccheggiatori. Le pallottole di metallo sono letali."
     },
     {
       "k": 5455,
-      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."
+      "v": "I proiettili di gomma sono una possibilità non letale per difendersi dai saccheggiatori."
     },
     {
       "k": 267,
-      "v": "Casa"
+      "v": "Capanna"
     },
     {
       "k": 268,
@@ -787,11 +787,11 @@
     },
     {
       "k": 373,
-      "v": "Riparo"
+      "v": "Rifugio"
     },
     {
       "k": 2992,
-      "v": "Casa aggiornata"
+      "v": "Rifugio aggiornato"
     },
     {
       "k": 269,
@@ -807,7 +807,7 @@
     },
     {
       "k": 2993,
-      "v": "Ripostiglio temporaneo"
+      "v": "Magazzino temporaneo"
     },
     {
       "k": 272,
@@ -819,7 +819,7 @@
     },
     {
       "k": 273,
-      "v": "Scorta"
+      "v": "Scorte"
     },
     {
       "k": 274,
@@ -835,11 +835,11 @@
     },
     {
       "k": 277,
-      "v": "Naufragio dell'autobus"
+      "v": "Relitto d'autobus"
     },
     {
       "k": 1220,
-      "v": "Bus montato"
+      "v": "Autobus"
     },
     {
       "k": 1221,
@@ -859,15 +859,15 @@
     },
     {
       "k": 280,
-      "v": "Casetta del raccoglitore"
+      "v": "Capanna del raccoglitore"
     },
     {
       "k": 281,
-      "v": "Rifugio di caccia"
+      "v": "Capanna da caccia"
     },
     {
       "k": 282,
-      "v": "Casetta di pesca"
+      "v": "Capanna per la pesca"
     },
     {
       "k": 283,
@@ -891,7 +891,7 @@
     },
     {
       "k": 288,
-      "v": "Discarica"
+      "v": "Discarica di rottami"
     },
     {
       "k": 289,
@@ -903,23 +903,23 @@
     },
     {
       "k": 291,
-      "v": "Officina"
+      "v": "Laboratorio"
     },
     {
       "k": 292,
-      "v": "casetta delle erbe"
+      "v": "Capanna delle erbe"
     },
     {
       "k": 293,
-      "v": "casetta del silvicoltore"
+      "v": "Loggia Forestale"
     },
     {
       "k": 294,
-      "v": "forno per carbonella"
+      "v": "Forno a carbone"
     },
     {
       "k": 295,
-      "v": "Raccoglitore d'acqua piovana"
+      "v": "Collettore di acqua piovana"
     },
     {
       "k": 296,
@@ -927,11 +927,11 @@
     },
     {
       "k": 297,
-      "v": "Raccoglitore solare"
+      "v": "Collettore solare"
     },
     {
       "k": 298,
-      "v": "Polo di energia elettrica"
+      "v": "Palo dell'energia elettrica"
     },
     {
       "k": 299,
@@ -943,7 +943,7 @@
     },
     {
       "k": 381,
-      "v": "Molo"
+      "v": "Pontile"
     },
     {
       "k": 693,
@@ -963,7 +963,7 @@
     },
     {
       "k": 997,
-      "v": "Stazione meteorologica"
+      "v": "Stazione meteo"
     },
     {
       "k": 1225,
@@ -971,11 +971,11 @@
     },
     {
       "k": 2995,
-      "v": "Raccoglitore di rottami"
+      "v": "Raccoglitore di scarti"
     },
     {
       "k": 2996,
-      "v": "Mulino di canapa"
+      "v": "Tessitura della canapa"
     },
     {
       "k": 2997,
@@ -993,13 +993,13 @@
       "k": 3501,
       "v": "Miniera"
     },
-	{
+    {
       "k": 3809,
       "v": "Cucina"
     },
     {
       "k": 3946,
-      "v": "Totem di scarto"
+      "v": "Totem di scarti"
     },
     {
       "k": 3947,
@@ -1019,13 +1019,13 @@
     },
     {
       "k": 3951,
-      "v": "Campanelli eolici"
+      "v": "Campane a vento"
     },
     {
       "k": 4149,
       "v": "Bandiera"
     },
-	{
+    {
       "k": 4160,
       "v": "Forum"
     },
@@ -1033,21 +1033,21 @@
       "k": 4426,
       "v": "Siepe"
     },
-	{
+    {
       "k": 4514,
-      "v": "Stazione commerciale"
+      "v": "Posto di commercio"
     },
     {
       "k": 4635,
-      "v": "Scuola Superiore"
+      "v": "Scuola avanzata"
     },
     {
       "k": 4744,
       "v": "Pascolo"
     },
-	{
+    {
       "k": 5136,
-      "v": "Dispensario alimentare"
+      "v": "Stazione del cibo"
     },
     {
       "k": 5228,
@@ -1057,17 +1057,17 @@
       "k": 5229,
       "v": "Punto d'acqua"
     },
-	{
+    {
       "k": 5393,
-      "v": "Torre di guardia"		   
+      "v": "Torre di Guardia"
     },
-	{
+    {
       "k": 5456,
-      "v": "Armeria"				  
+      "v": "Fabbrica di munizioni"
     },
-	{
+    {
       "k": 5469,
-      "v": "Sartoria migliorata"
+      "v": "Sartoria aggiornata"
     },
     {
       "k": 5470,
@@ -1085,105 +1085,105 @@
       "k": 5473,
       "v": "Lampione"
     },
-	{
+    {
       "k": 5682,
       "v": "Barricata"
     },
     {
       "k": 5683,
-      "v": "Torre con sirena"
+      "v": "Torre della Sirena"
     },
     {
       "k": 301,
-      "v": "Una piccola cabina in cui i coloni possono vivere e fondare una famiglia. I coloni si trasferiscono solo come una famiglia."
+      "v": "Una piccola capanna dove i coloni possono vivere e far nascere la prole."
     },
     {
       "k": 302,
-      "v": "Una casa robusta in cui i coloni possono vivere e creare una famiglia. Questo edificio ha una capacità aggiuntiva di immagazzinare acqua e cibo e può resistere a più tempeste di sabbia. I coloni si trasferiscono solo come una famiglia."
+      "v": "Una Casa robusta dove i coloni possono vivere e far nascere la prole. Questo edificio può resistere meglio alle tempeste di sabbia."
     },
     {
       "k": 374,
-      "v": "Un grande campo che può ospitare un gran numero di coloni ma non è adatto per iniziare una famiglia. Questo edificio non può essere collegato a una rete elettrica."
+      "v": "Un Rifugio ospita un gran numero di coloni ma non è adatto a generare prole. Questo edificio non può essere collegato ad una rete elettrica."
     },
     {
       "k": 2999,
-      "v": "Un rifugio esteso che può ospitare un gran numero di coloni ma non è adatto per avviare una famiglia. Questo edificio può essere collegato a una rete elettrica per aumentare la fiducia dei suoi abitanti."
+      "v": "Un Rifugio espanso che può ospitare un gran numero di Coloni, ma non è adatto per iniziare una Famiglia. Questo edificio può essere collegato a una rete elettrica per aumentare la Fiducia dei suoi abitanti."
     },
     {
       "k": 303,
-      "v": "Una strada semplice che consente ai coloni di fare rapidi progressi."
+      "v": "Una strada semplice che permette ai coloni di progredire velocemente."
     },
     {
       "k": 304,
-      "v": "Una strada asfaltata che consente ai coloni di fare progressi più rapidi."
+      "v": "Una strada asfaltata che permette ai coloni di avanzare più velocemente."
     },
     {
       "k": 305,
-      "v": "Una strada asfaltata che consente ai coloni di viaggiare più velocemente e rende possibile la protezione contro la pioggia tossica."
+      "v": "Una strada asfaltata che permette ai coloni di viaggiare più velocemente e rende possibile la protezione contro la pioggia tossica."
     },
     {
       "k": 3000,
-      "v": "Un sito improvvisato per la memorizzazione di diverse risorse che offre poca capacità. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un magazzino temporaneo immagazzina diverse risorse. Questo edificio non può essere utilizzato per immagazzinare l'Acqua."
     },
     {
       "k": 306,
-      "v": "Un sito per la memorizzazione di risorse diverse che offre più spazio di un ripostiglio temporaneo. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un sito per lo stoccaggio di diverse risorse che offre più spazio di un magazzino temporaneo. Questo edificio non può essere usato per raccogliere acqua."
     },
     {
       "k": 3001,
-      "v": "Un magazzino espanso che è in grado di immagazzinare una varietà di risorse e ha un sacco di spazio di stoccaggio. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un Magazzino aggiornato offre una grande capacità e immagazzina una varietà di Risorse. Questo edificio non può essere utilizzato per immagazzinare Acqua."
     },
     {
       "k": 307,
-      "v": "Un posto dove conservare materie prime come legno, rottami o metallo."
+      "v": "Un posto per immagazzinare materie prime come legno, scarti o metallo."
     },
     {
       "k": 308,
-      "v": "Un edificio centrale per la distribuzione di tutte le risorse nell'insediamento. I logisti raccolgono risorse dalle immediate vicinanze del mercato."
+      "v": "Un edificio centrale dove i Logisti assegnati ammassano tutte le risorse dell'area circostante per renderle disponibili ai Coloni. Inoltre, i coloni possono visitare il Mercato per aumentare la loro fiducia."
     },
     {
       "k": 309,
-      "v": "Una stazione di spedizione invia esploratori per raccogliere risorse e oggetti speciali nelle posizioni sulla mappa."
+      "v": "Una Stazione di spedizione invia gli esploratori a raccogliere risorse e oggetti speciali in luoghi della mappa."
     },
     {
       "k": 310,
-      "v": "Un cimitero offre ai coloni un posto dove possono piangere i loro parenti defunti, il che aumenta la loro fiducia."
+      "v": "Un Cimitero fornisce ai coloni un luogo dove possono piangere i loro parenti defunti, il che aumenta la loro fiducia. Inoltre, i becchini raccolgono attrezzi e indumenti protettivi che sono in condizioni ragionevolmente sufficienti per essere riutilizzati."
     },
     {
       "k": 311,
-      "v": "L'autobus è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse. Non appena l'autobus è stato bloccato sul posto, i coloni possono incontrarsi lì e aumentare la loro fiducia."
+      "v": "Il Bus è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse e fornisce più capacità con ogni aggiornamento. Non appena il Bus viene posizionato, i coloni possono incontrarsi lì e aumentare la loro fiducia."
     },
     {
       "k": 2652,
-      "v": "Il centro città è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse e offre più capacità ad ogni aggiornamento. Inoltre, è un luogo dove i coloni possono incontrarsi per aumentare la loro fiducia. Cerca anche la radio messaggi di altri sopravvissuti che potrebbero unirsi all'insediamento."
+      "v": "Il Centro città è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse e ha una grande capacità. Inoltre, è un luogo dove i coloni possono incontrarsi per aumentare la loro fiducia."
     },
     {
       "k": 312,
-      "v": "Una struttura medica assiste i coloni che sono malati."
+      "v": "Una Struttura medica assiste i coloni che sono malati."
     },
     {
       "k": 313,
-      "v": "Una scuola offre ai bambini a partire da una certa età un posto dove crescere per diventare adulti istruiti. Ciò consente loro di esercitare le loro professioni successive in modo più efficace."
+      "v": "Una scuola prepara i bambini a diventare adulti. Questo permette loro di esercitare più efficacemente le loro successive professioni."
     },
-	{
+    {
       "k": 4636,
-      "v": "Una scuola educa i bambini in diverse materie fino a un livello intermedio. Un focus può essere posto sulle singole materie al fine di educare pienamente i bambini in quella materia e accelerare la formazione educativa su questa materia."
+      "v": "Una Scuola educa i bambini in diverse materie fino ad un livello intermedio. Ci si può concentrare su singole materie al fine di educare completamente i bambini in quella materia e accelerare la formazione educativa riguardante questa materia."
     },
     {
       "k": 314,
-      "v": "La casetta di un raduno accumula cibo dalle piante nelle foreste."
+      "v": "La Capanna del raccoglitore accumula Cibo dalle Piante nelle foreste."
     },
     {
       "k": 315,
-      "v": "Una loggia di caccia caccia la fauna selvatica per il cibo."
+      "v": "Una Capanna da Caccia, caccia la fauna selvatica per il Cibo."
     },
     {
       "k": 316,
-      "v": "Una casetta per la pesca fornisce cibo da pesci catturati, ma può essere collocata solo in riva al mare."
+      "v": "Una Capanna per la pesca fornisce cibo da pesce pescato, ma può essere collocata solo sul bordo delle acque."
     },
     {
       "k": 317,
-      "v": "Un frutteto fornisce cibo come frutta e noci dagli alberi. Sebbene un frutteto possa essere creato senza costi di costruzione, ha bisogno di tempo per consentire ai suoi alberi di crescere."
+      "v": "Un Frutteto fornisce cibo come frutta e noci dagli alberi. Anche se un Frutteto è creabile senza costi di costruzione, ha bisogno di tempo per permettere ai suoi alberi di crescere."
     },
     {
       "k": 318,
@@ -1191,63 +1191,63 @@
     },
     {
       "k": 319,
-      "v": "Un campo coltivato fornisce cibo da colture agricole. Sebbene un campo possa essere creato senza costi di costruzione, è necessario del tempo per coltivare le colture."
+      "v": "Un Campo coltivato fornisce cibo dalle coltivazioni. Anche se un campo può essere creato senza costi di costruzione, ha bisogno di tempo per far crescere i raccolti."
     },
     {
       "k": 320,
-      "v": "Un campo coperto fornisce cibo proveniente da colture agricole e può essere coperto per evitare piogge tossiche."
+      "v": "Un campo coperto fornisce cibo dalle colture agricole e può essere coperto per evitare la pioggia tossica."
     },
     {
       "k": 321,
-      "v": "Una raffineria separa simultaneamente metallo, tessuto, plastica o elettronica dagli scarti."
+      "v": "Una raffineria impiega molti raffinatori che separano simultaneamente metallo, stoffa, plastica o elettronica dagli scarti."
     },
     {
       "k": 322,
-      "v": "Uno deposito rottami raccoglie rottami tra le rovine nei suoi immediati dintorni."
+      "v": "La Discarica raccoglie gli scarti delle rovine in una zona predefinita."
     },
     {
       "k": 323,
-      "v": "Un pub produce birra, liquori o erba che possono essere consumati dai coloni per aumentare la loro fiducia."
+      "v": "Un Pub produce Birra, Liquore o Joints che possono essere consumati dai coloni per aumentare la loro fiducia."
     },
     {
       "k": 324,
       "v": "Un sarto produce abiti che proteggono i coloni dalle radiazioni."
     },
-	{
+    {
       "k": 5474,
-      "v": "Una sartoria aggiornata produce abbigliamento che protegge i coloni dalle radiazioni. Impiega più sarti e lavora in modo più efficiente di una normale sartoria."
+      "v": "Una Sartoria potenziata produce abiti che proteggono i coloni dalle radiazioni. Impiega più sarti e lavora in modo più efficiente di una Sartoria normale."
     },
     {
       "k": 325,
-      "v": "Un laboratorio produce strumenti che sono necessari per eseguire qualsiasi tipo di lavoro."
+      "v": "Un Laboratorio produce Strumenti che sono necessari per fare qualsiasi tipo di lavoro."
     },
-	{
+    {
       "k": 5475,
-      "v": "Un laboratorio aggiornato produce gli strumenti necessari per qualsiasi tipo di lavoro. Impiega più tecnici e lavora in modo più efficiente di un normale laboratorio."
+      "v": "Un Laboratorio aggiornato produce gli strumenti necessari per qualsiasi tipo di lavoro. Impiega più tecnici e lavora in modo più efficiente di un Laboratorio normale."
     },
     {
       "k": 326,
-      "v": "Una casetta di erbe raccoglie erbe in foreste che possono essere utilizzate per migliorare la salute dei coloni."
+      "v": "Una Capanna delle erbe raccoglie erbe nelle foreste che possono essere usate per migliorare la salute dei coloni."
     },
     {
       "k": 327,
-      "v": "Una casetta del silvicoltore può tagliare alberi per produrre legno o piantare alberelli per rimboschire una determinata area, oppure fare entrambe le cose."
+      "v": "La Loggia di un Boscaiolo può abbattere alberi per produrre Legno o piantare alberelli per riforestare una certa area, o fare entrambe le cose."
     },
     {
       "k": 328,
-      "v": "Un forno per carbonella produce carbone di legna dal legno."
+      "v": "Un Forno a carbone produce carbone dal legno."
     },
     {
       "k": 329,
-      "v": "Un collezionista di acqua piovana raccoglie l'acqua dalla pioggia senza richiedere forza lavoro. Può essere coperto per evitare la raccolta di pioggia tossica. Per distribuire l'acqua all'interno dell'insediamento è necessaria una cisterna o una torre d'acqua."
+      "v": "Un Collettore di acqua piovana raccoglie l'acqua dalla pioggia senza bisogno di forza lavoro. Può essere coperto per evitare di raccogliere la pioggia tossica. Per distribuire l'acqua all'interno dell'insediamento è necessaria una Cisterna o una Torre dell'acqua."
     },
     {
       "k": 330,
-      "v": "Una torre d'acqua raccoglie e immagazzina acqua. Può anche usare carbone per filtrare le radiazioni fuori dall'acqua. Questo edificio richiede un molo, un pozzo o un Raccoglitore di acqua piovana per funzionare."
+      "v": "Una Torre dell'acqua raccoglie e conserva l'acqua. Può anche usare il carbone per filtrare le radiazioni dall'acqua. Questo edificio richiede un Pontile, un Pozzo o un Collettore di acqua piovana per funzionare."
     },
     {
       "k": 331,
-      "v": "Un Raccoglitore solare genera una certa quantità di energia per fornire elettricità all'edificio collegato alla rete elettrica."
+      "v": "Un Collettore solare genera energia e fornisce elettricità agli edifici collegati alla rete elettrica."
     },
     {
       "k": 332,
@@ -1259,119 +1259,119 @@
     },
     {
       "k": 334,
-      "v": "Un falò è un luogo di incontro per i coloni per aumentare la loro fiducia."
+      "v": "Un fuoco da campo è un luogo d'incontro per i coloni per aumentare la loro fiducia."
     },
     {
       "k": 382,
-      "v": "Un posto per raccogliere l'acqua. Richiede una cisterna o una torre dell'acqua per raccogliere e conservare l'acqua."
+      "v": "Il Pontile permette ai coloni di raccogliere l'acqua. Richiede una Cisterna o una Torre dell'acqua per conservare l'acqua raccolta. Può essere costruito solo sulla sponda dell'acqua."
     },
     {
       "k": 694,
-      "v": "Una scorta di risorse che può essere raccolto e trasferito in un edificio di stoccaggio dai coloni."
+      "v": "Uno stock di risorse che può essere raccolto e trasferito in un edificio di stoccaggio dai coloni."
     },
     {
       "k": 947,
-      "v": "Un pozzo produce acqua lentamente e persino durante una siccità. I ​​pozzi costruiti troppo vicini hanno un impatto negativo sulla loro rispettiva efficienza."
+      "v": "Un pozzo produce acqua lentamente e anche durante una siccità. Le brevi distanze tra i pozzi riducono la loro efficienza."
     },
     {
       "k": 948,
-      "v": "Un riciclatore separa lentamente metallo, stoffa, plastica o elettronica dagli scarti con bassa efficienza. È possibile separare solo una di queste risorse alla volta."
+      "v": "Un Riciclatore separa lentamente il Metallo, il Tessuto, la Plastica o l'Elettronica da Scarti con bassa efficienza. Si può separare solo una di queste risorse alla volta."
     },
     {
       "k": 976,
-      "v": "Un sistema di impianto di irrigazione aumenta nel tempo l'umidità del suolo nel suo raggio di influenza. Questo processo consuma acqua. Il livello di contaminazione dell'acqua utilizzata influisce anche sulla radiazione terrestre."
+      "v": "Un Impianto di irrigazione aumenta l'umidità del terreno nel suo raggio d'azione nel tempo. Questo processo consuma acqua. Il livello di contaminazione dell'acqua utilizzata ha anche un'influenza sulla radiazione terrestre."
     },
     {
       "k": 998,
-      "v": "La Stazione meteorologica consente di decidere a quale livello di contaminazione della pioggia devono essere coperti i campi e i collettori di acqua piovana. Inoltre fornisce una previsione di contaminazione della pioggia."
+      "v": "La Stazione meteo regola a quale livello di contaminazione da pioggia sono coperti i campi e il collettore di acqua piovana. Fornisce inoltre una previsione di contaminazione da pioggia."
     },
     {
       "k": 1226,
-      "v": "Una cisterna raccoglie e immagazzina acqua. Questo edificio richiede un molo, un pozzo o un raccoglitore di acqua piovana per funzionare.\nI pontili e i pozzi sono preferiti ai collettori di acqua piovana quando viene raccolta l'acqua."
+      "v": "Una Cisterna raccoglie e conserva l'acqua. Per funzionare, questo edificio richiede un Pontile, un Pozzo o un Collettore di acqua piovana.\nPontili e pozzi sono preferiti al Collettore di acqua piovanas quando si raccoglie l'acqua."
     },
     {
       "k": 3002,
-      "v": "Uno Raccoglitore di rottami cattura piccole quantità di rottame che girano intorno. Ciò si verifica in modo particolarmente efficace durante le Tempeste di Sabbia. Uno Deposito rottami è necessario per trasportare via lo Scarto catturato e portarlo da qualche parte."
+      "v": "Un Raccoglitore di scarti raccoglie piccole quantità di scarti che vorticano intorno. Questo avviene in modo particolarmente efficace durante le tempeste di sabbia. È necessaria una Discarica di scarti per portare via gli scarti raccolti e portarli da qualche parte."
     },
     {
       "k": 3003,
-      "v": "Un filatoio di canapa produce tessuti di canapa."
+      "v": "Una tessitura di canapa produce tessuti di canapa."
     },
     {
       "k": 3004,
-      "v": "Una turbina eolica è un generatore di energia continuo, ma in grado di fornire solo un piccolo numero di edifici."
+      "v": "Una turbina eolica è un generatore di energia affidabile, ma in grado di alimentare solo un piccolo numero di edifici."
     },
     {
       "k": 3005,
-      "v": "La Stazione di ricerca è necessaria per eseguire ricerche su varie nuove tecnologie e risorse. Fino a quando non viene effettuata alcuna ricerca, tutti i ricercatori assegnati generano conoscenza."
+      "v": "La Stazione di ricerca è necessaria per eseguire ricerche su varie nuove tecnologie e risorse. Finché non viene eseguita alcuna Ricerca, tutti i Ricercatori assegnati generano Conoscenza."
     },
     {
       "k": 3502,
-      "v": "Un post di decontaminazione ha prodotto kit di decontaminazione. Questi sono utilizzati nei depositi degli edifici circostanti per liberare cibo e altre risorse dalla contaminazione."
+      "v": "Un Posto di decontaminazione produce Kit di decontaminazione. Questi sono utilizzati nei magazzini degli edifici circostanti per preservare il cibo e altre risorse dalla contaminazione."
     },
     {
       "k": 3503,
-      "v": "Una miniera deve essere costruita su una montagna dove può produrre diverse materie prime come iodio o carbone."
-	},
-	{
+      "v": "Una miniera estrae le risorse Iodio, Carbone o Zolfo. L'estrazione di alcune risorse deve essere ricercata in anticipo. La miniera deve essere costruita sul fianco di una montagna."
+    },
+    {
       "k": 3810,
-      "v": "Una cucina può trasformare una varietà di semplici fonti di nutrimento in cibo di qualità superiore e di conseguenza fornire un numero maggiore di coloni."
+      "v": "Una Cucina può trasformare una varietà di semplici fonti di nutrimento in cibo di qualità superiore e di conseguenza rifornire un maggior numero di coloni."
     },
-	{
+    {
       "k": 3952,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."																																													 
-	},
-	{
+      "v": "Un oggetto decorativo in grado di aumentare l'attrattiva dell'insediamento nelle sue vicinanze."
+    },
+    {
       "k": 5826,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nel suo territorio circostante. Inoltre, i tuoi coloni possono aumentare la loro contentezza vicino a questo edificio."
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nei suoi dintorni. Inoltre, i tuoi coloni possono aumentare la loro Contentezza vicino a questo edificio."
     },
-	{
+    {
       "k": 4161,
-      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."																																						
+      "v": "Al Forum, si possono imporre dei decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, può essere visualizzata e assunta una selezione di Compiti dei coloni."
     },
-	{
+    {
       "k": 4515,
-      "v": "I commercianti arrivano alla stazione commerciale a intervalli regolari per barattare i diversi beni che offrono."
+      "v": "I commercianti arrivano al Posto di commercio a intervalli regolari per barattare le diverse merci che offrono."
     },
     {
       "k": 4637,
-      "v": "A differenza di una scuola normale, una scuola avanzata istruisce completamente i bambini in tutte le materie. Anche la formazione scolastica avviene decisamente più velocemente."
+      "v": "A differenza di una Scuola normale, una Scuola Avanzata educa completamente i bambini in tutte le materie. La formazione educativa avviene anche in modo nettamente più veloce."
     },
     {
       "k": 4745,
-      "v": "Gli animali sono tenuti a pascolare sul pascolo."																													
+      "v": "Gli animali possono essere tenuti su un Pascolo al fine di macellarli per il Cibo o ottenere altre Risorse tramite il Rendimento passivo del prodotto. Diversi tipi di Animali possono essere catturati da un Cacciatore e acquisiti tramite Baratto o Spedizioni."
     },
-	{
+    {
       "k": 5137,
-      "v": "Un dispensario alimentare è continuamente rifornito di cibo e di conseguenza può ridurre i percorsi per l'assunzione di cibo."
+      "v": "Una Stazione del cibo è continuamente rifornita di cibo e può di conseguenza accorciare i percorsi di assunzione del cibo."
     },
     {
       "k": 5230,
-      "v": "Una pompa dell'acqua elettrica pompa l'acqua dal terreno senza l'uso di manodopera. Richiede il collegamento ad una rete elettrica funzionante."
+      "v": "Una Pompa dell'acqua elettrica pompa l'acqua dal terreno senza l'uso di manodopera. Richiede la connessione a una rete elettrica funzionante."
     },
     {
       "k": 5231,
-      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."																							
+      "v": "Un Punto d'acqua è costantemente riempito d'acqua e può di conseguenza accorciare i percorsi di viaggio per ottenere l'acqua."
     },
-	{
+    {
       "k": 5457,
       "v": "Un armaiolo produce diversi tipi di munizioni che possono essere utilizzate per difendersi dai saccheggiatori."
     },
     {
       "k": 5551,
-      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."																									
+      "v": "Le milizie possono essere stazionate in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."
     },
-	{
+    {
       "k": 5774,
-      "v": "La torre con sirena riduce il morale dei predoni che si trovano nel suo raggio d'azione."
+      "v": "La Torre della Sirena riduce il morale dei razziatori che si trovano nel suo raggio d'azione."
     },
     {
       "k": 5775,
-      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."
+      "v": "La Barricata riduce la velocità di movimento di tutti i razziatori che si trovano nella sua area circostante."
     },
     {
       "k": 335,
-      "v": "Colonizzatore"
+      "v": "Colono"
     },
     {
       "k": 336,
@@ -1383,11 +1383,11 @@
     },
     {
       "k": 768,
-      "v": "Ricognitore"
+      "v": "Ricercatore"
     },
     {
       "k": 338,
-      "v": "logista"
+      "v": "Logista"
     },
     {
       "k": 339,
@@ -1419,11 +1419,11 @@
     },
     {
       "k": 346,
-      "v": "Collezionista di rottami"
+      "v": "Raccoglitore di scarti"
     },
     {
       "k": 347,
-      "v": "Oste"
+      "v": "Birraio"
     },
     {
       "k": 348,
@@ -1439,11 +1439,11 @@
     },
     {
       "k": 351,
-      "v": "Guardia forestale"
+      "v": "Boscaiolo"
     },
     {
       "k": 352,
-      "v": "Bruciatore di carbone"
+      "v": "Bruciatore a carbone"
     },
     {
       "k": 353,
@@ -1463,11 +1463,11 @@
     },
     {
       "k": 780,
-      "v": "impresario di pompe funebri"
+      "v": "Becchino"
     },
     {
       "k": 949,
-      "v": "Guarda pozzo"
+      "v": "Custode del pozzo"
     },
     {
       "k": 978,
@@ -1485,41 +1485,41 @@
       "k": 3505,
       "v": "Minatore"
     },
-	{
+    {
       "k": 3813,
-      "v": "Cucinare"
+      "v": "Cuoco"
     },
-	{
+    {
       "k": 4746,
-      "v": "Pastore"
+      "v": "Allevatore"
     },
-	{
+    {
       "k": 5394,
       "v": "Milizia"
     },
     {
       "k": 354,
-      "v": "Esegue attività semplici e aiuta a trasportare risorse."
+      "v": "Esegue semplici Compiti e aiuta a trasportare le Risorse."
     },
     {
       "k": 355,
-      "v": "Necessario per costruire una costruzione."
+      "v": "Necessario per realizzare una costruzione."
     },
     {
       "k": 356,
-      "v": "Gli esploratori non fanno parte della distribuzione professionale delle professioni. Possono essere assegnati e inviati alle spedizioni usando una stazione di spedizione. Gli esploratori non assumono alcun lavoro nell'insediamento."
+      "v": "Gli esploratori non fanno parte della distribuzione generale delle professioni. Possono essere assegnati e inviati in spedizioni utilizzando una Stazione di spedizione. Gli Esploratori non assumono alcun lavoro nell'Insediamento."
     },
     {
       "k": 769,
-      "v": "Gli scout possono essere inviati per scoprire posizioni sconosciute o produrre razioni di spedizione nella stazione di spedizione."
+      "v": "I ricercatori possono essere inviati alla scoperta di luoghi sconosciuti o produrre razioni per le spedizioni nella Stazione di spedizione."
     },
     {
       "k": 357,
-      "v": "Distribuisce tutte le risorse sul mercato."
+      "v": "Trasporta le risorse a vari edifici logistici come il Mercato, la Stazione del cibo, il Punto Acqua o il Posto di commercio."
     },
     {
       "k": 358,
-      "v": "È necessario per curare i coloni malati in una struttura medica."
+      "v": "È necessario per curare i coloni malati in una Struttura medica."
     },
     {
       "k": 359,
@@ -1527,35 +1527,35 @@
     },
     {
       "k": 360,
-      "v": "Raccoglie le piante forestali come fonte di cibo."
+      "v": "Raccoglie piante della foresta come fonte di cibo."
     },
     {
       "k": 361,
-      "v": "Caccia al gioco selvaggio per il cibo."
+      "v": "Caccia selvaggina per il cibo."
     },
     {
       "k": 362,
-      "v": "Pesci per fornire cibo."
+      "v": "Pesca per fornire cibo."
     },
     {
       "k": 363,
-      "v": "Funziona su un campo."
+      "v": "Lavora sul terreno."
     },
     {
       "k": 364,
-      "v": "Affina i rottami su metallo, elettronica, plastica o tessuto."
+      "v": "Raffina gli scarti in metallo, elettronica, plastica o tessuto."
     },
     {
       "k": 365,
-      "v": "Funziona in uno Deposito di rottami."
+      "v": "Lavora in una Discarica di scarti."
     },
     {
       "k": 366,
-      "v": "Produce birra, liquori o erba in un pub."
+      "v": "Produce Birra, Liquori Forti o Joints in un Pub."
     },
     {
       "k": 367,
-      "v": "Indossa indumenti protettivi."
+      "v": "Rende l'abbigliamento protettivo."
     },
     {
       "k": 368,
@@ -1563,71 +1563,71 @@
     },
     {
       "k": 369,
-      "v": "Raccoglie erbe dalla foresta che aiutano a mantenere in salute i coloni."
+      "v": "Raccoglie erbe dalla foresta e aiuta a mantenere i coloni in salute."
     },
     {
       "k": 370,
-      "v": "Pianta o abbatte alberi."
+      "v": "Pianta o taglia alberi."
     },
     {
       "k": 371,
-      "v": "Crea carbone di legna dal legno."
+      "v": "Crea carbone dal legno."
     },
     {
       "k": 372,
-      "v": "Raccoglie acqua da moli, pozzi o collezionisti di acqua piovana e la conduce in una cisterna o in una torre d'acqua."
+      "v": "Raccoglie l'acqua da pontili, pozzi o collettori di acqua piovana e la conduce a una Cisterna o una Torre dell'acqua."
     },
     {
       "k": 377,
-      "v": "I bambini aiutano le loro famiglie a trasportare cibo e acqua a casa loro."
+      "v": "I bambini aiutano a trasportare cibo e acqua a casa delle loro famiglie."
     },
     {
       "k": 378,
-      "v": "Gli studenti imparano in una scuola. Quando hanno terminato la loro formazione scolastica, sono adulti istruiti e, di conseguenza, lavorano in modo più efficace."
+      "v": "Gli studenti imparano in una Scuola. Quando terminano la loro formazione educativa diventano adulti istruiti e lavorano in modo più efficace."
     },
     {
       "k": 380,
-      "v": "Gli adulti possono diventare attivi nelle professioni o aiutare a trasportare risorse e svolgere compiti semplici."
+      "v": "Gli adulti possono diventare attivi nelle professioni o aiutare a trasportare risorse e a svolgere compiti semplici."
     },
     {
       "k": 781,
-      "v": "Si prende cura dei coloni morti e offre ai loro parenti un posto dove piangere."
+      "v": "Si prende cura dei coloni morti e dà ai loro parenti un posto per il lutto."
     },
     {
       "k": 950,
-      "v": "Aziona le pompe in un pozzo per garantire un flusso costante di acqua."
+      "v": "Gestisce le pompe in un pozzo per assicurare un flusso costante di acqua."
     },
     {
       "k": 979,
-      "v": "Fornisce al sistema dell'impianto di irrigazione acqua proveniente da cisterne o torri d'acqua."
+      "v": "Alimenta il Sistema di irrigazione con l'acqua delle Cisterne o della Torre dell'acqua."
     },
     {
       "k": 3007,
-      "v": "I ricercatori lavorano in una stazione di ricerca."
+      "v": "I ricercatori lavorano in una Stazione di ricerca."
     },
     {
       "k": 3506,
-      "v": "I decontaminatori lavorano in un posto di decontaminazione. Producono kit di decontaminazione per pulire il cibo dalla contaminazione."
+      "v": "I decontaminatori lavorano in un Posto di decontaminazione. Producono Kit di decontaminazione che servono a rimuovere le radiazioni dal cibo."
     },
     {
       "k": 3507,
-      "v": "I minatori lavorano in una miniera dove possono estrarre varie materie prime."
+      "v": "I minatori lavorano in una miniera. Lì possono estrarre diverse risorse."
     },
-	{
+    {
       "k": 3814,
-      "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore da un'alimentazione più semplice."
+      "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore utilizzando un'alimentazione più semplice."
     },
-	{
+    {
       "k": 4747,
-      "v": "Tiene gli animali al pascolo."
+      "v": "Gli allevatori si occupano della macellazione degli animali e della raccolta dei prodotti zootecnici sui Pascoli. Inoltre forniscono acqua agli animali su un Pascolo per mantenerli in vita."
     },
     {
       "k": 383,
-      "v": "Il colono ha una casa."
+      "v": "Il colono si è ripreso a casa."
     },
     {
       "k": 384,
-      "v": "Il colono ha visitato un falò."
+      "v": "Colono ha visitato un Fuoco da campo."
     },
     {
       "k": 385,
@@ -1635,23 +1635,23 @@
     },
     {
       "k": 386,
-      "v": "Il colono ha visitato la tomba di un parente."
+      "v": "Un colono ha visitato la tomba di un parente."
     },
     {
       "k": 387,
-      "v": "Il colono ha visitato un mercato."
+      "v": "Il colono ha visitato un Mercato."
     },
     {
       "k": 388,
-      "v": "Il colono ha acqua."
+      "v": "Il colono ha l'acqua."
     },
     {
       "k": 389,
-      "v": "Il colono ha cibo."
+      "v": "Il colono ha il cibo."
     },
     {
       "k": 390,
-      "v": "La casa del colono viene fornita di elettricità."
+      "v": "La casa del colono è fornita di elettricità."
     },
     {
       "k": 391,
@@ -1667,7 +1667,7 @@
     },
     {
       "k": 393,
-      "v": "Il colono è sterile a causa della radiazione di alto livello."
+      "v": "Il colono è sterile a causa dei livelli elevati di radiazioni."
     },
     {
       "k": 394,
@@ -1675,21 +1675,21 @@
     },
     {
       "k": 1227,
-      "v": "La casa del colono è gravemente danneggiata. \n"
+      "v": "La casa del colono è gravemente danneggiata.\n"
     },
     {
       "k": 2161,
-      "v": "Il colono soffre di stress mentale."
+      "v": "Il colono ha avuto un'esperienza spiacevole."
     },
     {
       "k": 2165,
-      "v": "Il colono ha sperimentato qualcosa di buono durante una spedizione."
+      "v": "Il colono ha sperimentato qualcosa di positivo durante una spedizione."
     },
     {
       "k": 2501,
-      "v": "Il colono ha un morale alto grazie a una buona leadership."															 
+      "v": "Il colono ha il morale alto grazie a una buona leadership."
     },
-	{
+    {
       "k": 3827,
       "v": "Il colono è scontento a causa della scarsa leadership."
     },
@@ -1719,35 +1719,35 @@
     },
     {
       "k": 4113,
-      "v": "Il colono ha vissuto qualcosa di piacevole."
+      "v": "Il colono ha sperimentato qualcosa di positivo."
     },
     {
       "k": 4114,
-      "v": "Il colono ha fatto visita a un edificio per divertirsi."
+      "v": "Il colono è stato intrattenuto."
     },
     {
       "k": 4115,
-      "v": "Il colono ha fatto visita a un edificio per socializzare."																										   
+      "v": "Il colono ha avviato contatti sociali."
     },
-	{
+    {
       "k": 5155,
-      "v": "I coloni che hanno una dimora aumentano la loro fiducia di <<number>> per un certo periodo di tempo quando ci vanno."
+      "v": "I coloni che hanno un'abitazione aumentano la loro fiducia di <<number>> per un certo periodo di tempo quando ci vanno."
     },
     {
       "k": 5156,
-      "v": "I coloni che visitano un pub o alcuni edifici decorativi aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+      "v": "I coloni che fanno visita a un pub o a certi edifici decorativi aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
     },
     {
       "k": 5157,
-      "v": "I coloni che visitano un falò, il forum, un mercato o il centro città aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+      "v": "I coloni che visitano un Fuoco da campo, il Forum, un Mercato, il Centro città o certi Edifici decorativi aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
     },
     {
       "k": 5158,
-      "v": "I coloni che sono in grado di rifornirsi di acqua aumentano la loro fiducia in modo permanente di <<number>>."
+      "v": "I coloni che sono in grado di rifornirsi dell' acqua aumentano la loro fiducia in modo permanente di <<number>>."
     },
     {
       "k": 5159,
-      "v": "I coloni che sono in grado di rifornirsi di cibo aumentano la loro fiducia in modo permanente di <<number>>."
+      "v": "I coloni in grado di rifornirsi di cibo aumentano la loro fiducia in modo permanente di <<number>>."
     },
     {
       "k": 5160,
@@ -1759,51 +1759,51 @@
     },
     {
       "k": 5162,
-      "v": "I coloni che sono diventati infertili in una fase iniziale a causa delle radiazioni riducono la loro fiducia in modo permanente di <<number>>."
+      "v": "I coloni diventati sterili precocemente a causa delle radiazioni riducono la loro fiducia in modo permanente di <<number>>."
     },
     {
       "k": 5163,
-      "v": "I coloni i cui parenti deceduti non sono stati ancora sepolti riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni i cui parenti deceduti non sono ancora stati sepolti riducono la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5164,
-      "v": "I coloni la cui casa è danneggiata riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui casa è danneggiata riducono la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5165,
-      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle Missioni dei Coloni al Forum, a causa dell'emissione di Decreti o delle Spedizioni."
+      "v": "I coloni che hanno avuto una cattiva esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Le esperienze negative possono verificarsi a causa del fallimento delle Missioni dei coloni al Forum, a causa dell'emissione di Decreti, o nelle Spedizioni."
     },
     {
       "k": 5166,
-      "v": "I coloni che hanno vissuto un'esperienza gioiosa aumentano la loro Fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi esperienze gioiose grazie al completamento con successo delle missioni dei coloni al Forum o durante le spedizioni."
+      "v": "I coloni che hanno avuto un'esperienza gioiosa aumentano la loro fiducia di <<number>> per un certo periodo di tempo. Esperienze gioiose possono verificarsi a causa del completamento con successo delle Missioni del Colono al Forum o nelle Spedizioni."
     },
     {
       "k": 5167,
-      "v": "I coloni che sono dotati di uno strumento aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni che sono dotati di uno strumento aumentano la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5168,
-      "v": "I coloni che sono equipaggiati con indumenti protettivi aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni che sono dotati di indumenti protettivi aumentano la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5169,
-      "v": "I coloni in buono stato di salute aumentano la loro fiducia di <<number>> durante questo periodo."
+      "v": "I coloni che sono in un buono stato di salute aumentano la loro fiducia di <<number>> durante questo periodo."
     },
     {
       "k": 5170,
-      "v": "I coloni che sono stati sufficientemente istruiti in tutte le materie durante la loro infanzia aumentano la loro Fiducia in modo permanente di <<number>>."
+      "v": "I coloni che sono stati sufficientemente istruiti in tutte le materie durante la loro infanzia aumentano la loro fiducia in modo permanente di <<number>>."
     },
     {
       "k": 5171,
-      "v": "I coloni la cui dimora si trova in un ambiente attraente o decorativo aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui abitazione si trova in un ambiente attraente o decorativo aumentano la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5172,
-      "v": "I coloni la cui dimora si trova in un ambiente poco attraente riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui abitazione si trova in un ambiente poco attraente riducono la loro fiducia per la durata di questo tempo di <<number>>."
     },
     {
       "k": 5173,
-      "v": "Questo effetto può accumularsi fino a <<number>> volte."
+      "v": "Questo effetto può accumulare fino a <<number>> di volte."
     },
     {
       "k": 395,
@@ -1811,21 +1811,21 @@
     },
     {
       "k": 396,
-      "v": "Raccogli legna"
+      "v": "Raccogli il legno"
     },
     {
       "k": 397,
-      "v": "Raccogli scarto"
+      "v": "Raccogli gli Scarti"
     },
     {
       "k": 398,
-      "v": "Rimuovi radiazione"
+      "v": "Rimuovi le radiazioni"
     },
     {
       "k": 794,
-      "v": "Raccogli piante"				  
+      "v": "Raccogli le Piante"
     },
-	{
+    {
       "k": 5746,
       "v": "Migliora le strade"					  
     },
@@ -2351,19 +2351,19 @@
     },
     {
       "k": 4594,
-      "v": "I migliori coloni sono addestrati alla produttività, più efficientemente svolgono il loro lavoro in varie professioni."
+      "v": "I migliori coloni sono addestrati alla produttività, svolgono più efficientemente il loro lavoro in varie professioni."
     },
     {
       "k": 4595,
-      "v": "I migliori coloni sono addestrati all'uso degli strumenti, più a lungo possono utilizzare un singolo strumento prima che si rompa."
+      "v": "I migliori coloni sono addestrati all'uso degli strumenti, possono utilizzare più a lungo un singolo strumento prima che si rompa."
     },
     {
       "k": 4596,
-      "v": "I migliori coloni sono addestrati a maneggiare i vestiti, più a lungo possono indossarli prima che siano consumati."
+      "v": "I migliori coloni sono addestrati a maneggiare i vestiti, possono indossarli più a lungo prima che siano consumati."
     },
     {
       "k": 4597,
-      "v": "Più i coloni sono formati meglio nell'ottenere i badge, più spesso vengono loro assegnati nel corso della loro vita per i loro servizi in varie professioni."
+      "v": "Più i coloni sono addestrati a ottenere Distintivi, più spesso saranno premiati per i loro risultati nel corso della loro vita."
     },
     {
       "k": 448,
@@ -2391,7 +2391,7 @@
     },
     {
       "k": 450,
-      "v": "Nessuna forza lavoro disponibile. Fare clic per aprire Disposizione dei lavoratori o assegnare direttamente a questo edificio."
+      "v": "Nessuna forza lavoro disponibile. Clicca per aprire la disposizione del lavoratore o assegnarlo direttamente a questo edificio."
     },
     {
       "k": 451,
@@ -2399,7 +2399,7 @@
     },
     {
       "k": 452,
-      "v": "Nessun costruttore disponibile. Fai clic per aprire il menu Professionisti o assegnare direttamente a questo edificio."
+      "v": "Nessun costruttore disponibile. Clicca qui per aprire il menu dei professionisti o assegnarlo direttamente a questo edificio."
     },
     {
       "k": 453,
@@ -2423,7 +2423,7 @@
     },
 	{
       "k": 5226,
-      "v": "Questo edificio ha due di ogni tipo di animale nel suo inventario. Distribuisci gli animali sui pascoli al tuo insediamento per creare spazio per nuovi animali in questo edificio."
+      "v": "Questo edificio ha due di ogni tipo di animale nel suo inventario. Distribuisci gli animali sui pascoli del tuo insediamento per creare spazio per nuovi animali."
     },
 	{
       "k": 5380,
@@ -5863,23 +5863,23 @@
     },
 	{
       "k": 4517,
-      "v": "Tutorials"
+      "v": "Tutorial"
     },
     {
       "k": 4518,
-      "v": "Gioca al tutorial"
+      "v": "Inizia con il Tutorial"
     },
     {
       "k": 2672,
-      "v": "Riproduci scenario"
+      "v": "Riproduci Scenario"
     },
     {
       "k": 2810,
-      "v": "Modifica impostazioni"						  
+      "v": "Modifica le Impostazioni"						  
     },
 	{
       "k": 5885,
-      "v": "Medaglie e obiettivi"
+      "v": "Medaglie & Obiettivi"
     },
     {
       "k": 2929,
@@ -5887,7 +5887,7 @@
     },
 	{
       "k": 5884,
-      "v": "Achievements"
+      "v": "Risultati"
     },
 	{
       "k": 5467,
@@ -5935,7 +5935,7 @@
     },
     {
       "k": 605,
-      "v": "Nuovo gioco"
+      "v": "Nuova Partita"
     },
     {
       "k": 606,
@@ -8903,7 +8903,7 @@
     },
     {
       "k": 1581,
-      "v": "I coloni hanno bisogno di cibo per sopravvivere. Se non ricevono abbastanza cibo, muoiono di fame e muoiono. Più <link=\"9\"> <style=\"DefaultLink\">fonti di cibo</stile > </link> a loro disposizione, meglio è. Se i coloni hanno fame e il cibo è disponibile, si occupano della loro alimentazione in modo autonomo. "
+      "v": "I coloni hanno bisogno di cibo per sopravvivere. Se non ricevono abbastanza cibo, muoiono di fame e muoiono. Più <link=\"9\"> <style=\"DefaultLink\">fonti di cibo</style></link> a loro disposizione, meglio è. Se i coloni hanno fame e il cibo è disponibile, si occupano della loro alimentazione in modo autonomo. "
     },
     {
       "k": 1582,
@@ -15871,7 +15871,7 @@
     },
     {
       "k": 2452,
-      "v": "Puoi decidere a quale tipo di attività i tuoi costruttori dovrebbero dare priorità nel nostro <link=\"7\"><style=\"DefaultLink\">Centro città</style></link>. Puoi istruirli a riparare semplicemente gli edifici, a erigere nuovi edifici o fare entrambi allo stesso tempo. Ciò ti consente di reagire rapidamente in situazioni di crisi, ad esempio in caso di <link=\"7\"><stile=\"DefaultLink\">Tempesta di sabbia</style></link> e per provvedere rapidamente alla riparazione degli edifici danneggiati. "
+      "v": "Puoi decidere a quale tipo di attività i tuoi costruttori dovrebbero dare priorità nel nostro <link=\"7\"><style=\"DefaultLink\">Centro città</style></link>. Puoi istruirli a riparare semplicemente gli edifici, a erigere nuovi edifici o fare entrambi allo stesso tempo. Ciò ti consente di reagire rapidamente in situazioni di crisi, ad esempio in caso di <link=\"7\"><style=\"DefaultLink\">Tempesta di sabbia</style></link> e per provvedere rapidamente alla riparazione degli edifici danneggiati."
     },
     {
       "k": 2453,
