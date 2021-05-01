@@ -2,6 +2,14 @@
   "languageID": "English",
   "translations": [
 	{
+      "k": 5958,
+      "v": "Seleziona tutto"
+    },
+    {
+      "k": 5959,
+      "v": "Deselezionare tutto"
+    },
+	{
       "k": 5239,
       "v": "Filtri"
     },
@@ -5441,6 +5449,10 @@
       "k": 5563,
       "v": "Adattare l'accordo commerciale di baratto"
     },
+	{
+      "k": 5960,
+      "v": "Questa risorsa non è disponibile in quantità sufficiente nell'insediamento e deve essere prima prodotta."
+    },
     {
       "k": 1073,
       "v": "Nessuna rete elettrica nel raggio d'azione"
@@ -6127,7 +6139,7 @@
     },
 	{
       "k": 5944,
-      "v": "Off"
+      "v": "Nessuna"
     },
     {
       "k": 5945,
@@ -19241,6 +19253,14 @@
       "k": 5653,
       "v": "Edificio danneggiato"
     },
+	{
+      "k": 5956,
+      "v": "Edificio leggermente danneggiato"
+    },
+    {
+      "k": 5957,
+      "v": "Edificio gravemente danneggiato"
+    },
     {
       "k": 5654,
       "v": "Edificio distrutto"
@@ -22355,7 +22375,63 @@
     },
 	{
       "k": 5894,
-      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."									   
+      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."									   					   
+    },
+	{
+      "k": 5916,
+      "v": "Una grande crescita della popolazione"
+    },
+    {
+      "k": 5917,
+      "v": "Ciao, capo! Siamo un po' preoccupati che le nostre cifre sulla popolazione possano aumentare drasticamente nel prossimo futuro. Se la nostra popolazione cresce troppo forte potrebbe portare a calamità per noi. Forse sarebbe meglio ridurre un po' quella crescita, o cosa ne pensi?"
+    },
+    {
+      "k": 5918,
+      "v": "È importante che la nostra popolazione non cresca troppo velocemente. Altrimenti non saremo in grado di provvedere adeguatamente a tutti i Coloni. Per mettere un freno alla crescita della popolazione, potresti provare a fare in modo che più coloni vivano nei rifugi invece che nelle loro cabine, perché non si riprodurranno nei rifugi?"
+    },
+    {
+      "k": 5919,
+      "v": "Guarda la crescita della tua popolazione!"
+    },
+    {
+      "k": 5920,
+      "v": "Preparazione ben fortificata"
+    },
+    {
+      "k": 5921,
+      "v": "Abbiamo sentito parlare di gruppi di predoni che stanno rendendo pericolosa l'area circostante. I nostri coloni vogliono che tu intraprenda misure per difenderli da possibili attacchi da parte dei predoni."
+    },
+    {
+      "k": 5922,
+      "v": "Abbiamo creato una buona base per consentirci di difenderci dai predoni in futuro. D'altra parte, non dovresti riposarti ora e continuare ad aggiornare le nostre difese ove possibile!"
+    },
+    {
+      "k": 5923,
+      "v": "È brutto, capo! Se non siamo in grado di difenderci, allora siamo completamente alla mercé dei predoni. Probabilmente non avremo altra scelta che soddisfare le loro richieste."
+    },
+    {
+      "k": 5924,
+      "v": "Imminente attacco da parte dei predoni"
+    },
+    {
+      "k": 5925,
+      "v": "Ehi, capo! Voci allarmanti sono arrivate alle nostre orecchie. Apparentemente una forza di predoni si sta radunando proprio vicino a noi e non passerà molto tempo prima che provino ad attaccarci. Dovresti assicurarti che le nostre difese siano in grado di resistere a un attacco!"
+    },
+    {
+      "k": 5948,
+      "v": "I predoni sono stati sconfitti!"
+    },
+    {
+      "k": 5949,
+      "v": "Abbiamo battuto gli aggressori, capo! Siamo stati in grado di raccogliere parte dell'attrezzatura che avevano con loro. Alcune di queste cose potrebbero rivelarsi estremamente utili."
+    },
+    {
+      "k": 5950,
+      "v": "I predoni sono stati cacciati via"
+    },
+    {
+      "k": 5951,
+      "v": "I predoni sono fuggiti perdutamente! Mentre prendevano il volo, apparentemente hanno lasciato dietro di sé parte della loro attrezzatura. Abbiamo raccolto tutto ciò che saremo ancora in grado di utilizzare."
     },
 	{
       "k": 5952,
