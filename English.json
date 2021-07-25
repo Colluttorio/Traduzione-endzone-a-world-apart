@@ -505,6 +505,38 @@
       "k": 5450,
       "v": "Proiettile di gomma"
     },
+	{
+      "k": 5961,
+      "v": "Caffè"
+    },
+    {
+      "k": 5962,
+      "v": "Chicco di caffè"
+    },
+    {
+      "k": 5963,
+      "v": "Sapone"
+    },
+    {
+      "k": 5964,
+      "v": "Metallo di rinforzo"
+    },
+    {
+      "k": 5965,
+      "v": "Cemento"
+    },
+    {
+      "k": 5966,
+      "v": "Vetro"
+    },
+    {
+      "k": 5967,
+      "v": "Sabbia"
+    },
+    {
+      "k": 5968,
+      "v": "Calcestruzzo"
+    },
     {
 	  "k": 880,
       "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
@@ -1099,7 +1131,47 @@
     },
     {
       "k": 5683,
-      "v": "Torre con sirena"
+      "v": "Torre con sirena"			  
+    },
+	{
+      "k": 5977,
+      "v": "Serra"
+    },
+    {
+      "k": 5978,
+      "v": "Acqua farm"
+    },
+    {
+      "k": 5979,
+      "v": "Fabbrica di calcestruzzo"
+    },
+    {
+      "k": 5980,
+      "v": "Endzone"
+    },
+    {
+      "k": 5981,
+      "v": "Torre ad acqua aggiornata"
+    },
+    {
+      "k": 5982,
+      "v": "Miniera di sabbia"
+    },
+    {
+      "k": 5983,
+      "v": "Stazione di pompaggio"
+    },
+    {
+      "k": 5984,
+      "v": "Fabbrica di materiali"
+    },
+    {
+      "k": 5985,
+      "v": "Municipio"
+    },
+    {
+      "k": 5986,
+      "v": "Casa confortevole"
     },
     {
       "k": 301,
@@ -1920,6 +1992,10 @@
     {
       "k": 5928,
       "v": "Le torri di guardia in quest'area saranno prima equipaggiate. La milizia in eccedenza sarà assegnata alle altre torri. Puoi inserire tutte le attività che desideri."
+    },
+	{
+      "k": 6114,
+      "v": "Svantaggi"
     },
     {
       "k": 403,
@@ -4379,7 +4455,11 @@
     },
     {
       "k": 556,
-      "v": "Spedizioni"
+      "v": "Spedizioni"					  
+    },
+	{
+      "k": 6205,
+      "v": "Lavori di costruzione"
     },
     {
       "k": 557,
@@ -4576,6 +4656,10 @@
 	{
       "k": 5934,
       "v": "Avvicinamento ai predoni"
+    },
+	{
+      "k": 6201,
+      "v": "Richieste aperte di coloni in municipio"
     },
     {
       "k": 596,
@@ -5951,7 +6035,11 @@
     },
     {
       "k": 606,
-      "v": "Salva partita"
+      "v": "Salva partita"						
+    },
+	{
+      "k": 6117,
+      "v": "Elimina sessione di gioco"
     },
     {
       "k": 607,
@@ -5976,6 +6064,10 @@
     {
       "k": 2352,
       "v": "Riproduci introduzione"								   
+    },
+	{
+      "k": 6081,
+      "v": "Seme mappa casuale"
     },
 	{
       "k": 5856,
@@ -8187,7 +8279,11 @@
     },
     {
       "k": 944,
-      "v": "Forza lavoro non assegnata: <<workforceAmount>>\nProfessionisti: <<professionalsAmount>>"
+      "v": "Forza lavoro non assegnata: <<workforceAmount>>\nProfessionisti: <<professionalsAmount>>"						 
+    },
+	{
+      "k": 6196,
+      "v": "Forza lavoro non assegnata"
     },
     {
       "k": 1010,
@@ -17395,7 +17491,15 @@
     },
 	{
       "k": 4487,
-      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."
+      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."			 
+    },
+	{
+      "k": 6410,
+      "v": "Un'altra tecnologia è già in fase di ricerca. Vuoi sostituire la ricerca in corso o continuare?"
+    },
+    {
+      "k": 6411,
+      "v": "Sostituire la ricerca"
     },
     {
       "k": 3009,
@@ -22443,7 +22547,39 @@
     },
     {
       "k": 5955,
-      "v": "Pensiamo di aver raccolto tutto."
+      "v": "Pensiamo di aver raccolto tutto."					
+    },
+	{
+      "k": 6054,
+      "v": "Riprende l'ultima sessione di gioco"
+    },
+    {
+      "k": 6055,
+      "v": "Riavvia la sessione di gioco corrente"
+    },
+    {
+      "k": 6056,
+      "v": "Tutorial, Modalità sopravvivenza, Scenari"
+    },
+    {
+      "k": 6057,
+      "v": "Salva la sessione di gioco corrente"
+    },
+    {
+      "k": 6058,
+      "v": "Carica una sessione di gioco salvata"
+    },
+    {
+      "k": 6059,
+      "v": "Cambia le impostazioni di gioco"
+    },
+    {
+      "k": 6060,
+      "v": "Crediti e introduzione"
+    },
+    {
+      "k": 6409,
+      "v": "Rendering su richiesta"
     }
   ]
 }
