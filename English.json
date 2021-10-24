@@ -2,6 +2,42 @@
   "languageID": "English",
   "translations": [
 	{
+	  "k": 6825,
+      "v": "Caricamento notizie..."
+    },
+    {
+      "k": 6826,
+      "v": "Scopri di più..."
+    },
+    {
+      "k": 6795,
+      "v": "Prosperità"
+    },
+    {
+      "k": 6796,
+      "v": "Halloween"
+    },
+    {
+      "k": 6797,
+      "v": "Abilita questo contenuto aggiuntivo (DLC) per un round di gioco per poter utilizzare tutti i contenuti correlati durante il gioco."
+    },
+    {
+      "k": 6719,
+      "v": "DLC"
+    },
+    {
+      "k": 6788,
+      "v": "Livello di aggiornamento"
+    },
+    {
+      "k": 5866,
+      "v": "Cercare…"
+    },
+    {
+      "k": 6720,
+      "v": "Edifici nelle vicinanze"
+    },
+	{
       "k": 5958,
       "v": "Seleziona tutto"
     },
@@ -169,10 +205,6 @@
       "k": 5464,
       "v": "Nessun sopravvissuto"
     },
-	{
-      "k": 5866,
-      "v": "Cercare …"
-    },
     {
       "k": 5560,
       "v": "Accesso rapido alle modalità di costruzione"
@@ -199,7 +231,11 @@
     },
     {
       "k": 5880,
-      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."
+      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."				 
+    },
+	{
+      "k": 6645,
+      "v": "per edificio"
     },
     {
       "k": 228,
@@ -815,7 +851,67 @@
     },
     {
       "k": 5455,
-      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."
+      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."																																		 
+    },
+	{
+      "k": 5969,
+      "v": "L'oggetto di lusso Caffè può essere prodotto con chicchi di caffè e acqua nei pub e aumenta la fiducia dei tuoi coloni quando viene consumato."
+    },
+    {
+      "k": 5970,
+      "v": "I chicchi di caffè possono essere raccolti dai campi. Sono necessari per produrre l'oggetto di lusso Caffè."
+    },
+    {
+      "k": 5971,
+      "v": "L'oggetto di lusso Sapone può essere prodotto con latte ed erbe curative presso le strutture mediche. Aumenta la fiducia dei tuoi coloni quando viene utilizzato."
+    },
+    {
+      "k": 5972,
+      "v": "Il metallo rinforzato può essere ricavato dal metallo in una fabbrica di materiali. È necessario nella costruzione di alcuni tipi di edifici robusti."
+    },
+    {
+      "k": 5973,
+      "v": "Il cemento può essere estratto in una miniera ed è necessario per produrre calcestruzzo."
+    },
+    {
+      "k": 5974,
+      "v": "Il vetro può essere prodotto in una fabbrica di materiali. È necessario nella costruzione di alcuni tipi di edifici complessi."
+    },
+    {
+      "k": 5975,
+      "v": "La sabbia può essere estratta in una miniera di sabbia. La sabbia può essere ulteriormente trasformata in vetro o utilizzata per produrre calcestruzzo."
+    },
+    {
+      "k": 5976,
+      "v": "Il calcestruzzo può essere prodotto in una fabbrica di calcestruzzo. È necessario nella costruzione di alcuni tipi di edifici stabili."
+    },
+    {
+      "k": 6840,
+      "v": "Il grano è coltivato nei campi, ma non è una fonte di cibo. Il grano serve come prodotto di base per l'articolo di lusso Birra."
+    },
+    {
+      "k": 6841,
+      "v": "Il latte può essere ottenuto da Bufali o Capre tenuti in recinti. Serve come prodotto di base per il sapone per articoli luyury."
+    },
+    {
+      "k": 6842,
+      "v": "La canapa può essere coltivata nei campi, ma non è una fonte di cibo. La canapa può essere trasformata nell'oggetto di lusso Giunti in un pub o trasformata in stoffa in una fabbrica di canapa."
+    },
+    {
+      "k": 6843,
+      "v": "Gli articoli di lusso Giunti sono prodotti in un Pub e consumati dai Coloni per rafforzare la loro Fiducia."
+    },
+    {
+      "k": 6844,
+      "v": "L'oggetto di lusso Birra viene prodotto in un pub e aumenta la fiducia dei coloni."
+    },
+    {
+      "k": 6845,
+      "v": "L'oggetto di lusso Torta può essere prodotta dal cibo convenzionale in una cucina. Di conseguenza, i coloni che consumano torte aumentano la loro fiducia."
+    },
+    {
+      "k": 6846,
+      "v": "L'oggetto di lusso Stufato può essere prodotto dal cibo convenzionale in una cucina. Se i coloni mangiano lo stufato, di conseguenza migliorano la loro salute."
     },
     {
       "k": 267,
@@ -1171,7 +1267,123 @@
     },
     {
       "k": 5986,
-      "v": "Casa confortevole"
+      "v": "Casa confortevole"		 
+    },
+	{
+      "k": 6545,
+      "v": "Pub aggiornato"
+    },
+    {
+      "k": 6546,
+      "v": "Rifugio confortevole"
+    },
+    {
+      "k": 6621,
+      "v": "Torcia in piedi"
+    },
+    {
+      "k": 6622,
+      "v": "Cactus"
+    },
+    {
+      "k": 6623,
+      "v": "Monumento"
+    },
+    {
+      "k": 6624,
+      "v": "Panca"
+    },
+    {
+      "k": 6625,
+      "v": "Campana"
+    },
+    {
+      "k": 6689,
+      "v": "Padiglione"
+    },
+    {
+      "k": 6690,
+      "v": "Lampada Moderna"
+    },
+    {
+      "k": 6759,
+      "v": "Monumento ai fiori"
+    },
+    {
+      "k": 6760,
+      "v": "Zona per sedersi"
+    },
+    {
+      "k": 6766,
+      "v": "Muro commemorativo"
+    },
+    {
+      "k": 6767,
+      "v": "Faro"
+    },
+    {
+      "k": 6768,
+      "v": "Unità di fabbrica"
+    },
+    {
+      "k": 6774,
+      "v": "Baldacchino"
+    },
+    {
+      "k": 6626,
+      "v": "Bandiera Oscura"
+    },
+    {
+      "k": 6627,
+      "v": "Zucche"
+    },
+    {
+      "k": 6628,
+      "v": "Spaventapasseri"
+    },
+    {
+      "k": 6629,
+      "v": "Calderone"
+    },
+    {
+      "k": 6630,
+      "v": "Totem"
+    },
+    {
+      "k": 6631,
+      "v": "Torcia Teschio"
+    },
+    {
+      "k": 6632,
+      "v": "Memoriale ai morti"
+    },
+    {
+      "k": 6633,
+      "v": "Triste Mietitore"
+    },
+    {
+      "k": 6644,
+      "v": "Pozzo del fuoco"
+    },
+    {
+      "k": 6691,
+      "v": "Gabbia"
+    },
+    {
+      "k": 6761,
+      "v": "Gabbia sospesa"
+    },
+    {
+      "k": 6762,
+      "v": "Il Grande Vecchio"
+    },
+    {
+      "k": 6763,
+      "v": "Statua del Gargoyle"
+    },
+    {
+      "k": 6764,
+      "v": "Lampada Oscura"
     },
     {
       "k": 301,
@@ -1447,7 +1659,79 @@
     },
     {
       "k": 5775,
-      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."
+      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."																													 
+    },
+	{
+      "k": 5987,
+      "v": "Tutti i semi che crescono sui campi possono essere coltivati in serra. In una serra il seme piantato viene seminato automaticamente, cresce più velocemente e non può essere contaminato dalle radiazioni. Una Serra deve essere costantemente rifornita di Acqua per poter funzionare."
+    },
+    {
+      "k": 5988,
+      "v": "Un Aquafarm alleva pesci. A differenza di una capanna da pesca, è anche in grado di funzionare durante una siccità. Inoltre, il Pesce non è influenzato dalle Radiazioni."
+    },
+    {
+      "k": 5989,
+      "v": "Una fabbrica di calcestruzzo ha bisogno di sabbia, acqua, cemento e carbone per produrre calcestruzzo. Questo calcestruzzo è necessario nella costruzione di alcuni tipi di edifici robusti."
+    },
+    {
+      "k": 5990,
+      "v": "Un Endzone è un complesso di bunker sotterraneo costruito molto tempo fa come rifugio sicuro per proteggere gli esseri umani dalla catastrofe nucleare."
+    },
+    {
+      "k": 5991,
+      "v": "Una torre dell'acqua potenziata raccoglie e immagazzina l'acqua. Può essere fornito con carbone da vettori d'acqua per filtrare le radiazioni dall'acqua. Una torre dell'acqua può riempire automaticamente il suo serbatoio con acqua tramite stazioni di pompaggio. Questo edificio può essere alternativamente rifornito di acqua tramite un molo di legno, un pozzo o un collettore di acqua piovana utilizzando una forza lavoro."
+    },
+    {
+      "k": 5992,
+      "v": "Una miniera di sabbia estrae la sabbia dai laghi. Deve essere costruito vicino all'acqua per funzionare. La sabbia è necessaria nella produzione di calcestruzzo e vetro."
+    },
+    {
+      "k": 5993,
+      "v": "Una stazione di pompaggio trasporta l'acqua dai laghi. Sebbene non richieda alcuna forza lavoro, deve essere fornito di elettricità per funzionare. Le stazioni di pompaggio richiedono torri idriche potenziate per poter rendere disponibile la loro acqua nell'insediamento."
+    },
+    {
+      "k": 5994,
+      "v": "Una fabbrica di materiali produce vetro e metallo rinforzato. Vetro e metallo rinforzato sono necessari nella costruzione di alcuni tipi di edifici complessi."
+    },
+    {
+      "k": 5995,
+      "v": "Il municipio è il livello di aggiornamento più alto per il centro città. È un luogo centrale per i coloni per fare richieste sulla vita nell'insediamento."
+    },
+    {
+      "k": 5996,
+      "v": "Una casa confortevole in cui i coloni possono vivere e produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
+    },
+    {
+      "k": 6634,
+      "v": "Un Rifugio Confortevole ospita un gran numero di Coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
+    },
+    {
+      "k": 6635,
+      "v": "Un Pub aggiornato produce beni di consumo come birra, superalcolici o spinelli, che aumentano la fiducia dei coloni. Funziona in modo più efficace di un normale Pub."
+    },
+    {
+      "k": 6784,
+      "v": "Un punto di riferimento radioso che rappresenta la prosperità e il progresso. Questo edificio passa attraverso diverse fasi di costruzione prima di essere completato. Quando l'aggiornamento è terminato, questo aumenta l'attrattiva del luogo per l'intero insediamento."
+    },
+    {
+      "k": 6785,
+      "v": "L'unità di fabbrica consuma diverse risorse come cemento, metallo rinforzato o vetro per aumentare l'efficienza di alcuni edifici di produzione vicini."
+    },
+    {
+      "k": 6831,
+      "v": "La medicina, le compresse di iodio o il sapone di lusso sono prodotti in una struttura medica e somministrati ai coloni per prevenire l'insorgenza di malattie. Inoltre, i coloni malati vengono qui per le cure."
+    },
+    {
+      "k": 6832,
+      "v": "Un pub produce superalcolici insieme agli articoli di lusso birra, caffè e spinelli. Questi beni aumentano la fiducia dei coloni e soddisfano le richieste che potrebbero avanzare."
+    },
+    {
+      "k": 6833,
+      "v": "Una miniera estrae facoltativamente le materie prime iodio, carbone, cemento o zolfo. L'estrazione della rispettiva Risorsa deve essere ricercata in anticipo. La miniera deve essere costruita sul fianco di una montagna. Piccole distanze tra loro potrebbero ridurre l'efficienza."
+    },
+    {
+      "k": 6834,
+      "v": "Una cucina trasforma il cibo in pasti abbondanti o in articoli di lusso come torta e stufato. Di conseguenza, è possibile fornire un numero maggiore di coloni in modo più efficiente e soddisfare le eventuali richieste della popolazione."
     },
     {
       "k": 335,
@@ -1577,6 +1861,10 @@
       "k": 5394,
       "v": "Milizia"
     },
+	{
+      "k": 6775,
+      "v": "Ingegnere"
+    },
     {
       "k": 354,
       "v": "Esegue attività semplici e aiuta a trasportare risorse."
@@ -1699,7 +1987,35 @@
     },
 	{
       "k": 4747,
-      "v": "Tiene gli animali al pascolo."
+      "v": "Tiene gli animali al pascolo."																																			 
+    },
+	{
+      "k": 6636,
+      "v": "La milizia presidia la loro torre di guardia in caso di attacco e da lì combattono contro i predoni. Trasportano le munizioni alla loro Torre di Guardia."
+    },
+    {
+      "k": 6776,
+      "v": "Gli ingegneri lavorano in un'unità di fabbrica o producono calcestruzzo in una fabbrica di cemento. Trasportano le risorse necessarie per il loro lavoro sul posto di lavoro."
+    },
+    {
+      "k": 6835,
+      "v": "A seconda dello stato della ricerca, i minatori estraggono carbone, iodio, cemento o zolfo in una miniera. Se lavorano in una miniera di sabbia, lì producono sabbia."
+    },
+    {
+      "k": 6836,
+      "v": "I gestori di pub producono superalcolici, birra, caffè o spinelli nel pub. Trasportano le risorse necessarie per il loro lavoro sul posto di lavoro."
+    },
+    {
+      "k": 6837,
+      "v": "Le raffinerie producono metallo, plastica, stoffa o elettronica presso un riciclatore o una raffineria. Producono vetro o metallo rinforzato in una fabbrica di materiali. Trasportano le Risorse necessarie sul posto di lavoro. Possono essere assegnati solo una volta per riciclatore, ma possono essere assegnati più di una volta presso la raffineria e la fabbrica di materiali."
+    },
+    {
+      "k": 6838,
+      "v": "I pescatori raccolgono il pesce dai laghi da una capanna di pescatori. In un Aquafarm provvedono ai pesci e li trasformano in cibo."
+    },
+    {
+      "k": 6839,
+      "v": "Semi di piante agricole nei campi, nei frutteti o nelle serre. Presso quest'ultimo forniscono anche acqua alle Serre quando necessario. Portano il raccolto quando richiesto o non appena il raccolto è maturo."
     },
     {
       "k": 383,
@@ -1820,6 +2136,10 @@
     {
       "k": 5157,
       "v": "I coloni che visitano un falò, il forum, un mercato o il centro città aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
+    },
+	{
+      "k": 6681,
+      "v": "I Coloni che visitano determinati Edifici o Decorazioni della comunità o consumano determinate Risorse aumentano la loro Fiducia di <<number>> per un certo periodo di tempo."
     },
     {
       "k": 5158,
@@ -3609,6 +3929,14 @@
       "k": 941,
       "v": "Fai clic per aprire il menu delle risorse"
     },
+	{
+      "k": 6853,
+      "v": "Seleziona il prossimo edificio"
+    },
+    {
+      "k": 6854,
+      "v": "Seleziona edificio precedente"
+    },
     {
       "k": 2195,
       "v": "Metti a fuoco l'edificio precedente di questo tipo con la videocamera"
@@ -4661,6 +4989,10 @@
       "k": 6201,
       "v": "Richieste aperte di coloni in municipio"
     },
+	{
+      "k": 6554,
+      "v": "La domanda di un colono deve essere soddisfatta"
+    },
     {
       "k": 596,
       "v": "Irrigare"	  
@@ -4706,6 +5038,10 @@
       "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."
     },
 	{
+      "k": 6647,
+      "v": "Distribuzione automatica delle risorse"
+    },
+	{
       "k": 5555,
       "v": "Restrizione per gli occupanti"
     },
@@ -4719,7 +5055,11 @@
     },
 	{
       "k": 3934,
-      "v": "Posizione attrattiva"
+      "v": "Posizione attrattiva"							
+    },
+	{
+      "k": 6830,
+      "v": "Attrattività dell'insediamento"
     },
     {
       "k": 3935,
@@ -4767,7 +5107,15 @@
     },
     {
       "k": 5877,
-      "v": "Efficienza di base"
+      "v": "Efficienza di base"					
+    },
+	{
+      "k": 6806,
+      "v": "Questo edificio può essere collegato all'elettricità per migliorarne l'efficienza."
+    },
+    {
+      "k": 6807,
+      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."
     },
     {
       "k": 1028,
@@ -4779,7 +5127,11 @@
     },
     {
       "k": 598,
-      "v": "Laghi"
+      "v": "Laghi"		  
+    },
+	{
+      "k": 6723,
+      "v": "Stazioni di pompaggio"
     },
     {
       "k": 1067,
@@ -4788,6 +5140,14 @@
     {
       "k": 1068,
       "v": "Questa torre dell'acqua filtra <<amount>> volte la quantità di acqua per unità di carbone tramite elettricità."
+    },
+	{
+      "k": 6721,
+      "v": "Questo edificio viene automaticamente rifornito di acqua dalle stazioni di pompaggio."
+    },
+    {
+      "k": 6722,
+      "v": "Questo edificio non è attualmente collegato a stazioni di pompaggio."
     },
     {
       "k": 966,
@@ -4963,7 +5323,27 @@
     },
 	{
       "k": 5460,
-      "v": "Pozzi e pompe dell'acqua elettriche"
+      "v": "Pozzi e pompe dell'acqua elettriche"					  
+    },
+	{
+      "k": 6447,
+      "v": "Aggiornamento della Endzone"
+    },
+    {
+      "k": 6786,
+      "v": "Aggiornamento del punto di riferimento del faro"
+    },
+    {
+      "k": 6787,
+      "v": "Connetti alla rete elettrica"
+    },
+    {
+      "k": 6789,
+      "v": "Lancio dell'operazione"
+    },
+    {
+      "k": 6819,
+      "v": "Aumenta la tua cifra di popolazione per poter continuare a potenziare il punto di riferimento Beacon."
     },
     {
       "k": 5138,
@@ -5225,6 +5605,10 @@
       "k": 1050,
       "v": "Potenza memorizzata"
     },
+	{
+      "k": 6651,
+      "v": "Autosostenitore"
+    },
     {
       "k": 2201,
       "v": "Attualmente in produzione"
@@ -5239,7 +5623,15 @@
     },
     {
       "k": 3474,
-      "v": "Riempi il livello del serbatoio dell'acqua"		
+      "v": "Riempi il livello del serbatoio dell'acqua"					 
+    },
+	{
+      "k": 6808,
+      "v": "Risorse immagazzinate"
+    },
+    {
+      "k": 6809,
+      "v": "<<Resources>> può essere immagazzinato e consumato in questo edificio per aumentare l'efficienza di alcuni edifici di produzione nelle vicinanze."
     },
 	{
       "k": 4630,
@@ -5749,6 +6141,10 @@
       "k": 5778,
       "v": "Distintivo della milizia"
     },
+	{
+      "k": 6777,
+      "v": "Distintivo da ingegnere"
+    },
     {
       "k": 1172,
       "v": "Ho imparato molto dal rovinare gli edifici."
@@ -5863,7 +6259,11 @@
     },
 	{
       "k": 5779,
-      "v": "Non vai oltre!"
+      "v": "Non vai oltre!"								  
+    },
+	{
+      "k": 6778,
+      "v": "Niente frena questo ingegnere!"
     },
     {
       "k": 1173,
@@ -5955,7 +6355,11 @@
     },
     {
       "k": 5883,
-      "v": "È possibile sbloccare obiettivi relativi agli scenari."
+      "v": "È possibile sbloccare obiettivi relativi agli scenari."														   
+    },
+	{
+      "k": 6553,
+      "v": "Nessun obiettivo può essere sbloccato."
     },
 	{
       "k": 4517,
@@ -6023,7 +6427,31 @@
     },
     {
       "k": 2257,
-      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."
+      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."									   
+    },
+	{
+      "k": 6810,
+      "v": "Contenuto aggiuntivo mancante (DLC)"
+    },
+    {
+      "k": 6811,
+      "v": "Impossibile caricare questo salvataggio perché mancano i seguenti contenuti aggiuntivi (DLC): <<missingAddons>>"
+    },
+    {
+      "k": 6812,
+      "v": "Nuovi contenuti aggiuntivi (DLC) disponibili"
+    },
+    {
+      "k": 6813,
+      "v": "Sono stati installati contenuti aggiuntivi (DLC) che possono essere abilitati per continuare a giocare in questo salvataggio. Per tutti gli altri salvataggi salvati, è necessario installare i rispettivi Contenuti aggiuntivi (DLC) per poterli caricare."
+    },
+    {
+      "k": 6816,
+      "v": "Questo contenuto aggiuntivo (DLC) è già stato abilitato per questo salvataggio. Questa operazione non può essere annullata e annullata."
+    },
+    {
+      "k": 6817,
+      "v": "Questo contenuto aggiuntivo (DLC) è già stato disabilitato in passato per questo salvataggio. Questa operazione non può essere annullata e annullata."
     },
     {
       "k": 604,
@@ -6171,7 +6599,11 @@
     },
     {
       "k": 1748,
-      "v": "Impostazioni mappa"
+      "v": "Impostazioni mappa"							 
+    },
+	{
+      "k": 6794,
+      "v": "Contenuti aggiuntivi (DLC)"
     },
     {
       "k": 2263,
@@ -7697,6 +8129,10 @@
       "k": 2336,
       "v": "I nostri esploratori hanno fatto tutto il possibile qui. Tuttavia, i resti di questa rovina sembrano pericolosi da salvare."
     },
+	{
+      "k": 6649,
+      "v": "Ricezione di edifici"
+    },
     {
       "k": 806,
       "v": "Rovine"
@@ -7708,6 +8144,10 @@
     {
       "k": 809,
       "v": "Molo, collezionista di acqua piovana o pozzo"
+    },
+	{
+      "k": 6857,
+      "v": "Molo, collettore di acqua piovana, pozzo o stazione di pompaggio"
     },
     {
       "k": 810,
@@ -8115,7 +8555,15 @@
     },
 	{
       "k": 5935,
-      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."
+      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."																							   
+    },
+	{
+      "k": 6202,
+      "v": "Accetta una richiesta in modo tempestivo in modo che i tuoi coloni rimangano soddisfatti."
+    },
+    {
+      "k": 6555,
+      "v": "Completa in tempo la missione corrispondente dei tuoi coloni."
     },
     {
       "k": 857,
@@ -8375,7 +8823,19 @@
     },
 	{
       "k": 5552,
-      "v": "I piani di costruzione o le tecnologie possono essere trovati qui."
+      "v": "I piani di costruzione o le tecnologie possono essere trovati qui."		  
+    },
+	{
+      "k": 6822,
+      "v": "Progressi nel luogo della spedizione"
+    },
+    {
+      "k": 6823,
+      "v": "Pacchetto pieno"
+    },
+    {
+      "k": 6824,
+      "v": "Continua spedizione"
     },
     {
       "k": 1114,
@@ -8765,6 +9225,22 @@
       "k": 4081,
       "v": "Il controllo delle nascite può essere attivato per impedire ai tuoi coloni di avere figli durante le prossime 3 stagioni. In questo modo puoi evitare che la tua economia venga gravata troppo da un elevato numero di bambini."
     },
+	{
+      "k": 6082,
+      "v": "Casa confortevole"
+    },
+    {
+      "k": 6083,
+      "v": "La casa confortevole funziona come una casa robusta e può ospitare ugualmente fino a 4 adulti e 6 bambini. La Casa Confortevole è anche in grado di resistere meglio alle tempeste di sabbia. I coloni si trasferiscono solo come famiglia. Se è disponibile spazio sufficiente in una casa confortevole, la famiglia ha fino a 6 bambini contemporaneamente. Una Casa Confortevole si rifornisce di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non deve essere collegata a una rete elettrica. Per essere in grado di costruire una Casa Confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di una Casa Confortevole possono influenzare positivamente o negativamente la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> dei suoi abitanti."
+    },
+    {
+      "k": 6724,
+      "v": "Rifugio confortevole"
+    },
+    {
+      "k": 6725,
+      "v": "Un comodo rifugio offre spazio per un massimo di 100 coloni. Mentre vivono in un rifugio confortevole, i coloni non danno vita a una famiglia né si riproducono. Un comodo rifugio si fornisce <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non ha bisogno di essere prima collegato a una rete elettrica. Per essere in grado di costruire un Rifugio Confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di un Confortevole Rifugio possono influenzare positivamente o negativamente la Contentezza dei suoi Abitanti."
+    },
     {
       "k": 1245,
       "v": "Controlli della fotocamera"
@@ -9055,7 +9531,31 @@
     },
 	{
       "k": 5044,
-      "v": "Il pascolo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pastori. I pastori si prendono cura del pascolo Animali tenuti al pascolo. Per poter assegnare un animale selvatico catturato a un certo pascolo, il pulsante \"Scegli prossimo animale\" deve essere selezionato su quel pascolo. Gli animali selvatici tenuti su un pascolo devono essere riforniti di acqua in modo che non muoiano. Quando un pastore si prende cura degli animali, questi cresceranno e si riprodurranno. Non appena abbastanza animali sono completamente cresciuti, possono essere macellati. Inoltre, alcuni animali producono risorse preziose aggiuntive come latte o uova."
+      "v": "Il pascolo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pastori. I pastori si prendono cura del pascolo Animali tenuti al pascolo. Per poter assegnare un animale selvatico catturato a un certo pascolo, il pulsante \"Scegli prossimo animale\" deve essere selezionato su quel pascolo. Gli animali selvatici tenuti su un pascolo devono essere riforniti di acqua in modo che non muoiano. Quando un pastore si prende cura degli animali, questi cresceranno e si riprodurranno. Non appena abbastanza animali sono completamente cresciuti, possono essere macellati. Inoltre, alcuni animali producono risorse preziose aggiuntive come latte o uova."	 
+    },
+	{
+      "k": 6084,
+      "v": "Serra"
+    },
+    {
+      "k": 6085,
+      "v": "La serra <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Agricoltori. Tutti i semi che possono essere seminati sui campi possono essere piantati in una serra. Finché le piante sono fornite con <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> sufficiente, crescono automaticamente e non devono essere seminate di nuovo. All'interno della serra le piante sono protette dalle <link=\"10\"><style=\"DefaultLink\">Radiazioni ambientali</style></link> e dalle radiazioni dell'acqua accumulata e crescono più velocemente che su un campo coltivato. Per essere in grado di costruire una serra, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 6086,
+      "v": "Acquafarm"
+    },
+    {
+      "k": 6087,
+      "v": "L'acquafarm <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pescatori. I pesci crescono continuamente fintanto che l'Acquafarm viene fornita da <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> sufficiente. Questi pesci sono protetti dalle <link=\"10\"><style=\"DefaultLink\">Radiazioni ambientali</style></link> e dalle radiazioni dell'acqua accumulata. Possono anche essere allevati durante una <link=\"7\"><style=\"DefaultLink\">Siccità</style></link>. Per poter costruire un'Acquafarm è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 6088,
+      "v": "Latte"
+    },
+    {
+      "k": 6089,
+      "v": "Il latte viene prodotto sui pascoli quando vi sono allevati bufali o capre. Il latte serve come fonte di cibo ed è necessario per produrre <link=\"5\"><style=\"DefaultLink\">Sapone</style></link>."
     },
     {
       "k": 1250,
@@ -9099,7 +9599,23 @@
     },
 	{
       "k": 5371,
-      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."
+      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."																																																																																																									   
+    },
+	{
+      "k": 6090,
+      "v": "Stazione di pompaggio"
+    },
+    {
+      "k": 6091,
+      "v": "Una stazione di pompaggio consuma <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per convogliare continuamente acqua da un lago e può pompare l'acqua in torri idriche potenziate. Non è necessaria alcuna <link=\"3\"><style=\"DefaultLink\">Forza lavoro</style></link> aggiuntiva per farlo. Per essere in grado di costruire una stazione di pompaggio, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 6092,
+      "v": "Torre dell'acqua potenziata"
+    },
+    {
+      "k": 6093,
+      "v": "La torre dell'acqua potenziata funziona in modo simile a come funzionano la torre dell'acqua e la cisterna. Come dice il nome, rappresenta un aggiornamento. Una singola torre dell'acqua potenziata può <link=\"18\"><style=\"DefaultLink\">accumulare</style></link> fino a 20.000 unità d'acqua. Il numero massimo di Portatori d'Acqua è ugualmente maggiore. Inoltre, la torre dell'acqua ha un sistema di filtraggio per purificare le radiazioni da <link=\"10\"><style=\"DefaultLink\">Acqua contaminata</style></link> con l'aiuto di <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Inoltre, la torre dell'acqua potenziata può essere collegata a una stazione di pompaggio per essere automaticamente riempita d'acqua. Per essere in grado di costruire una torre dell'acqua potenziata, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1251,
@@ -9225,6 +9741,30 @@
       "k": 1818,
       "v": "Il pub <link=\"3\"><style=\"DefaultLink\">impiega</style></link> un oste. I oste producono birra, liquori o erba con ingredienti diversi. oste è in grado di preparare una di queste ricette alla volta.\n\nPuò essere possibile impostare la ricetta successiva. L'oste impiegato inizia con il lavoro sulla nuova ricetta non appena l'attività corrente viene completata. \nI setter possono visitare la Taverna. Se ricevono birra, liquori o giunture, ottengono una spinta temporanea alla loro fiducia."
     },
+	{
+      "k": 6094,
+      "v": "Proprio come qualsiasi seme, i chicchi di caffè vengono piantati su <link=\"5\"><style=\"DefaultLink\">Campi coltivati</style></link>. Successivamente possono essere utilizzati per produrre caffè."
+    },
+    {
+      "k": 6399,
+      "v": "Proprio come qualsiasi seme, i chicchi di caffè vengono piantati su <link=\"5\"><style=\"DefaultLink\">Campi coltivati</style></link>. Successivamente possono essere utilizzati per produrre caffè."
+    },
+    {
+      "k": 6095,
+      "v": "Caffè"
+    },
+    {
+      "k": 6400,
+      "v": "Il caffè può essere prodotto da un gestore di pub da <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> e chicchi di caffè.\nQuesto aumenta temporaneamente la fiducia dei suoi consumatori e riduce la loro <link=\"6\"><style=\"DefaultLink\">Sete</style></link>."
+    },
+    {
+      "k": 6726,
+      "v": "Pub aggiornato"
+    },
+    {
+      "k": 6727,
+      "v": "Il Pub aggiornato impiega gestori di pub. Il Pub aggiornato impiega più Pubkeeper rispetto al Pub normale. I gestori dei pub producono birra, superalcolici, caffè o canne da vari ingredienti e sono un po' più efficienti della produzione in un normale pub. Ogni gestore di pub può creare solo uno di questi prodotti alla volta.\nÈ possibile configurare quale prodotto deve essere prodotto successivamente. Il gestore del pub impiegato inizia con il lavoro sul nuovo prodotto non appena l'attività corrente è stata completata.\nI coloni possono visitare il pub. Ricevono un aumento temporaneo della fiducia quando ricevono birra, superalcolici, caffè o spinelli."
+    },
     {
       "k": 1253,
       "v": "Salute"
@@ -9267,7 +9807,15 @@
     },
 	{
       "k": 3590,
-      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."
+      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."																																																			  
+    },
+	{
+      "k": 6096,
+      "v": "Sapone"
+    },
+    {
+      "k": 6097,
+      "v": "Il sapone è prodotto dai medici con erbe e <link=\"5\"><style=\"DefaultLink\">Latte</style></link>, e aumenta la <link=\"5\"><style=\"DefaultLink\">Contentezza</style></link> dei coloni che lo usano. Per essere in grado di produrre sapone, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1254,
@@ -9547,7 +10095,31 @@
     },
     {
       "k": 3597,
-      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."
+      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."																											   
+    },
+	{
+      "k": 6098,
+      "v": "Sabbia"
+    },
+    {
+      "k": 6099,
+      "v": "La sabbia è necessaria per produrre <link=\"25\"><style=\"DefaultLink\">Vetro</style></link> o <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link>. Può essere estratto da un <link=\"6\"><style=\"DefaultLink\">Lago</style></link> con una Miniera di Sabbia."
+    },
+    {
+      "k": 6100,
+      "v": "Miniera di sabbia"
+    },
+    {
+      "k": 6101,
+      "v": "La miniera di sabbia <link=\"3\"><style=\"DefaultLink\">impiega</style></link> minatori. Questi minatori estraggono la sabbia dai <link=\"6\"><style=\"DefaultLink\">Laghi</style></link>. Per fare ciò devono essere posizionati direttamente accanto a un lago. Per essere in grado di costruire una miniera di sabbia, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+    },
+    {
+      "k": 6102,
+      "v": "Cemento"
+    },
+    {
+      "k": 6103,
+      "v": "Il cemento viene estratto nelle miniere. È necessario per produrre <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link>."
     },
     {
       "k": 1260,
@@ -9728,6 +10300,14 @@
 	{
       "k": 5372,
       "v": "Il punto d'acqua <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano l'acqua dalle cisterne dell'insediamento, dalle torri dell'acqua, dai pozzi, dai collettori dell'acqua piovana e dalle pompe elettriche al punto d'acqua. L'acqua può essere consumata e usata dai coloni qui. Il punto d'acqua può essere incaricato di prendere l'acqua solo da edifici specificati."
+    },
+	{
+      "k": 6728,
+      "v": "L'unità di fabbrica <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. La velocità di produzione di <link=\"11\"><style=\"DefaultLink\">Nogozi di Sartoria</style></link>, <link=\"12\"><style=\"DefaultLink\">Laboratori</style></link>, <link=\"23\"><style=\"DefaultLink\">Fabbriche di munizioni</style></link>, <link=\"9\"><style=\"DefaultLink\">Strutture mediche</style></link> e <link=\"11\"><style=\"DefaultLink\">Postazioni di decontaminazione</style></link> situati nel la vicinanza dell'Unità di Fabbrica è accresciuta dalla presenza dell'Unità di Fabbrica. L'unità di fabbrica consuma continuamente <link=\"25\"><style=\"DefaultLink\">Metallo rinforzato</style></link>, <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link> e <link=\"25\"><style=\"DefaultLink\">Vetro</style></link>. Per essere in grado di costruire un'unità di fabbrica, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. L'Unità di Fabbrica riduce la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> di tutti i Coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
+    },
+    {
+      "k": 6729,
+      "v": "Unità di fabbrica"
     },
     {
       "k": 3060,
@@ -9943,7 +10523,187 @@
     },
     {
       "k": 5766,
-      "v": "La barricata riduce la velocità di movimento di tutti i predoni situati nell'area circostante. Per poter impostare una barriera, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+      "v": "La barricata riduce la velocità di movimento di tutti i predoni situati nell'area circostante. Per poter impostare una barriera, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."		 
+    },
+	{
+      "k": 6104,
+      "v": "Richieste"
+    },
+    {
+      "k": 6105,
+      "v": "Richieste"
+    },
+    {
+      "k": 6106,
+      "v": "I coloni chiederanno al municipio di migliorare le loro condizioni di vita. Nel fare ciò ci saranno sempre due suggerimenti, per cui una delle richieste deve essere soddisfatta. A differenza di quanto accade al <link=\"21\"><style=\"DefaultLink\">Forum</style></link>, la <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> dei coloni diminuisce drasticamente quando le loro richieste non vengono soddisfatte o le richieste vengono ignorate."
+    },
+    {
+      "k": 6388,
+      "v": "Richieste"
+    },
+    {
+      "k": 6389,
+      "v": "Il municipio è il livello di aggiornamento più alto per il <link=\"18\"><style=\"DefaultLink\">Centro città</style></link>. Il municipio può immagazzinare qualsiasi risorsa eccetto <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. l tipo di Risorsa che dovrebbe essere conservato presso il Municipio può essere configurato in qualsiasi momento. Inoltre, il municipio funge da luogo in cui i coloni possono fare richieste sulla vita nell'insediamento. Il municipio non può essere costruito finché i tuoi coloni non esprimono il desiderio di farlo costruire. Non esprimeranno questo desiderio fino a quando non sarà stato prima ricercato un certo numero di <link=\"19\"><style=\"DefaultLink\">Progetti di ricerca</style></link>."
+    },
+    {
+      "k": 6730,
+      "v": "Crescita demografica"
+    },
+    {
+      "k": 6731,
+      "v": "L'indicatore di crescita mostra quanto è lontano il tuo insediamento sulla strada per diventare una vera metropoli. Più coloni contiene il tuo insediamento e più lontano è stato aggiornato il tuo segnalatore, più ti avvicinerai a questo obiettivo. Una volta che il punto di riferimento Beacon è stato completamente aggiornato, avrai creato una metropoli che può resistere alla prova del tempo."
+    },
+    {
+      "k": 6732,
+      "v": "Il faro"
+    },
+    {
+      "k": 6733,
+      "v": "Il faro può essere aggiornato fino a due volte. L'ultimo livello di potenziamento aumenta notevolmente l'attrattiva dell'intero insediamento. Fino a che punto puoi aggiornare il tuo punto di riferimento faro dipende dal numero di coloni che hai."
+    },
+    {
+      "k": 6107,
+      "v": "Materiali da costruzione aumentati"
+    },
+    {
+      "k": 6108,
+      "v": "Calcestruzzo"
+    },
+    {
+      "k": 6109,
+      "v": "Il calcestruzzo viene prodotto in una fabbrica di calcestruzzo con <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link>, <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"15\"><style=\"DefaultLink\">Cemento</style></link>. Il calcestruzzo è necessario come materiale da costruzione per molti edifici robusti."
+    },
+    {
+      "k": 6110,
+      "v": "Fabbrica di calcestruzzo"
+    },
+    {
+      "k": 6111,
+      "v": "La fabbrica di calcestruzzo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. Il calcestruzzo viene prodotto in una fabbrica di calcestruzzo con <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link>, <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"15\"><style=\"DefaultLink\">Cemento</style></link>. Il calcestruzzo è necessario come materiale da costruzione per molti edifici robusti. Per essere in grado di costruire una Fabbrica di Calcestruzzo, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica di Calcestruzzo riduce la <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i Coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
+    },
+    {
+      "k": 6112,
+      "v": "Vetro"
+    },
+    {
+      "k": 6113,
+      "v": "Il vetro è prodotto in una fabbrica di materiali con <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Il vetro serve come materiale da costruzione per edifici come <link=\"5\"><style=\"DefaultLink\">Acquafarm</style></link> o <link=\"5\"><style=\"DefaultLink\">Serra</style></link>."
+    },
+    {
+      "k": 6390,
+      "v": "Metallo rinforzato"
+    },
+    {
+      "k": 6391,
+      "v": "Il metallo rinforzato è prodotto in una fabbrica di materiali con <link=\"15\"><style=\"DefaultLink\">Metallo</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Il metallo rinforzato è necessario come materiale da costruzione per molti edifici robusti."
+    },
+    {
+      "k": 6392,
+      "v": "Fabbrica di materiali"
+    },
+    {
+      "k": 6393,
+      "v": "La fabbrica di materiali <link=\"3\"><style=\"DefaultLink\">impiega</style></link> riciclatori. Il vetro può essere prodotto nella fabbrica del materiale da <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>, e metallo rinforzato con <link=\"15\"><style=\"DefaultLink\">Metallo</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Per essere in grado di costruire una Fabbrica di Materiali, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica dei Materiali riduce la <link=\"8\"><style=\"DefaultLink\">Felicità</style></link> di tutti i Coloni che hanno la loro <link=\"4\"><style=\"DefaultLink\">Residenza</style></link> nelle vicinanze."
+    },
+    {
+      "k": 6394,
+      "v": "I cactus possono essere posizionati per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 6395,
+      "v": "Le campane possono essere posizionate per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 6396,
+      "v": "Le panchine possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6397,
+      "v": "Le moderne lampade possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6398,
+      "v": "I monumenti possono essere posizionati per aumentare notevolmente l'attrattiva di un'area."
+    },
+    {
+      "k": 6734,
+      "v": "Il \"Padiglione\" può essere posizionato per aumentare notevolmente l'Attrattiva di un'area. I coloni possono visitare il Padiglione per aumentare la loro <link=\"8\"><style=\"DefaultLink\">Fiducia</style></link>."
+    },
+    {
+      "k": 6735,
+      "v": "Le torce in piedi possono essere posizionate per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 6736,
+      "v": "I monumenti floreali possono essere posizionati per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6737,
+      "v": "Le gabbie possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6738,
+      "v": "I calderoni possono essere posizionati per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6739,
+      "v": "Le bandiere scure possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6740,
+      "v": "I focolari possono essere posizionati per aumentare notevolmente l'attrattiva di un'area."
+    },
+    {
+      "k": 6741,
+      "v": "I Tristi mietitori possono essere posizionati per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6742,
+      "v": "I memoriali ai morti possono essere posizionati per aumentare notevolmente l'attrattiva di un'area."
+    },
+    {
+      "k": 6743,
+      "v": "Le zucche possono essere posizionate per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 6744,
+      "v": "Gli spaventapasseri possono essere posizionati per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6745,
+      "v": "Le Torce Teschio possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6746,
+      "v": "I totem possono essere posizionati per aumentare notevolmente l'attrattività di un'area."
+    },
+    {
+      "k": 6747,
+      "v": "Il Grande Vecchio può essere posizionato per aumentare l'Attrattiva di un'area."
+    },
+    {
+      "k": 6748,
+      "v": "Le statue di Gargoyle possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6755,
+      "v": "Le gabbie sospese possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6756,
+      "v": "Le lampade scure possono essere posizionate per aumentare leggermente l'attrattiva di un'area."
+    },
+    {
+      "k": 6757,
+      "v": "I muri commemorativi possono essere posizionati per aumentare notevolmente l'attrattiva di un'area."
+    },
+    {
+      "k": 6765,
+      "v": "Le aree di seduta possono essere posizionate per aumentare l'attrattiva di un'area."
+    },
+    {
+      "k": 6798,
+      "v": "I baldacchini possono essere posizionati per aumentare notevolmente l'attrattiva di un'area."
     },
     {
       "k": 1334,
@@ -17419,7 +18179,19 @@
     },
     {
       "k": 5463,
-      "v": "Domare la capra"
+      "v": "Domare la capra"	  
+    },
+	{
+      "k": 6401,
+      "v": "Ella Sawchyn"
+    },
+    {
+      "k": 6402,
+      "v": "Alma la cuoca"
+    },
+    {
+      "k": 6403,
+      "v": "Ben Adams"
     },
     {
       "k": 4679,
@@ -17497,6 +18269,10 @@
       "k": 6410,
       "v": "Un'altra tecnologia è già in fase di ricerca. Vuoi sostituire la ricerca in corso o continuare?"
     },
+	{
+      "k": 6556,
+      "v": "Vuoi mettere in pausa la Ricerca in corso? La Conoscenza Investita ti verrà restituita e potrai usarla per iniziare una diversa Ricerca."
+    },
     {
       "k": 6411,
       "v": "Sostituire la ricerca"
@@ -17523,7 +18299,11 @@
     },
     {
       "k": 3047,
-      "v": "Interrompi ricerca"
+      "v": "Interrompi ricerca"				
+    },
+	{
+      "k": 6821,
+      "v": "Annulla ricerca"
     },
     {
       "k": 3048,
@@ -17540,6 +18320,10 @@
     {
       "k": 3051,
       "v": "Deve essere sbloccato tramite la ricerca."
+    },
+	{
+      "k": 6693,
+      "v": "Già ricercato"
     },
     {
       "k": 3052,
@@ -17594,7 +18378,11 @@
       "v": "Le risorse vengono raccolte..."				   
     },
 	{
-      "k": 5285,
+      "k": 6856,
+      "v": "Strumenti di conoscenza e ricerca"
+    },
+	{
+	  "k": 5285,
       "v": "Utensili di ricerca"																																														
     },
 	{
@@ -17615,7 +18403,47 @@
     },
 	{
       "k": 5401,
-      "v": "Trascina la visualizzazione"
+      "v": "Trascina la visualizzazione"			
+    },
+	{
+      "k": 6552,
+      "v": "Ricerca attuale"
+    },
+    {
+      "k": 6682,
+      "v": "Cibo e alloggio"
+    },
+    {
+      "k": 6683,
+      "v": "Risorse"
+    },
+    {
+      "k": 6684,
+      "v": "La logistica"
+    },
+    {
+      "k": 6685,
+      "v": "Elettricità"
+    },
+    {
+      "k": 6686,
+      "v": "Tecnologia e difesa"
+    },
+    {
+      "k": 6548,
+      "v": "Prosperità"
+    },
+    {
+      "k": 6549,
+      "v": "Ricerca almeno <<amount>> Tecnologie e successivamente aggiorna il tuo Centro Città a Municipio per sbloccare Tecnologie per la prosperità."
+    },
+    {
+      "k": 6550,
+      "v": "Progresso tecnologico"
+    },
+    {
+      "k": 6551,
+      "v": "Trasforma il centro città in un municipio"
     },
     {
       "k": 3012,
@@ -22521,6 +23349,10 @@
       "k": 5925,
       "v": "Ehi, capo! Voci allarmanti sono arrivate alle nostre orecchie. Apparentemente una forza di predoni si sta radunando proprio vicino a noi e non passerà molto tempo prima che provino ad attaccarci. Dovresti assicurarti che le nostre difese siano in grado di resistere a un attacco!"
     },
+	{
+      "k": 5954,
+      "v": "Dovremmo stare all'erta, capo! Chissà quando i predoni partiranno per la loro strada qui."
+    },
     {
       "k": 5948,
       "v": "I predoni sono stati sconfitti!"
@@ -22547,7 +23379,287 @@
     },
     {
       "k": 5955,
-      "v": "Pensiamo di aver raccolto tutto."					
+      "v": "Pensiamo di aver raccolto tutto."																																											  
+    },
+	{
+      "k": 5997,
+      "v": "Tutorial sulla prosperità"
+    },
+    {
+      "k": 5998,
+      "v": "Un'introduzione ai nuovi contenuti di Endzone - A World Apart - Prosperity. Scopri le nuove materie prime e gli edifici, oltre a come funziona il municipio."
+    },
+    {
+      "k": 5999,
+      "v": "Benvenuto!"
+    },
+    {
+      "k": 6000,
+      "v": "Un caloroso benvenuto a te! Sono felice di darvi il benvenuto di nuovo. In questo tutorial vorrei essere al tuo fianco durante i passi che il tuo insediamento farà per diventare una solida culla per una nuova civiltà."
+    },
+    {
+      "k": 6001,
+      "v": "Finora sei riuscito a far sopravvivere i tuoi coloni in questo mondo desolato e arido. Gli hai fornito cibo, acqua, indumenti protettivi e un tetto sopra le loro teste. Hai anche già iniziato a rimettere a loro disposizione l'Elettricità ea migliorare la loro qualità di vita."
+    },
+    {
+      "k": 6002,
+      "v": "Municipio"
+    },
+    {
+      "k": 6003,
+      "v": "Ora che questa fornitura è assicurata, i tuoi coloni richiederanno notevolmente più lusso nelle loro vite. Dopo le lunghe prove e tribolazioni, vogliono finalmente poter godere dei frutti del loro duro lavoro. Il luogo a cui possono rivolgersi per tali richieste è il Municipio. Per costruire un <link=\"24\"><style=\"DefaultLink\">Municipio</style></link> devi aggiornare il Centro Città."
+    },
+    {
+      "k": 6004,
+      "v": "Molto bene. Ora che i tuoi coloni hanno un municipio, sarà solo questione di tempo prima che si riuniscano lì per indirizzare le loro richieste su di te."
+    },
+    {
+      "k": 6005,
+      "v": "Le richieste dei coloni"
+    },
+    {
+      "k": 6006,
+      "v": "A differenza del forum in cui i tuoi coloni ti danno suggerimenti su come assicurarti la loro sopravvivenza, il municipio è il luogo in cui i tuoi coloni chiederanno che tu metta in atto il loro <link=\"24\"><style=\"DefaultLink\">richieste</style></link>. Quando lo fai ti daranno sempre due opzioni. Per soddisfarli devi sempre soddisfare solo una di queste richieste. Forse dovresti dare un'occhiata ora e vedere se i tuoi coloni stanno già avanzando richieste e soddisfarne una."
+    },
+    {
+      "k": 6007,
+      "v": "Ha funzionato bene. Se non soddisfi le richieste dei tuoi coloni o le ignori per troppo tempo, i tuoi coloni diventeranno sempre più scontenti del tuo stile di leadership. Quindi assicurati di mantenerli sempre soddisfatti quando fanno una richiesta."
+    },
+    {
+      "k": 6008,
+      "v": "Miniera di sabbia"
+    },
+    {
+      "k": 6009,
+      "v": "Le richieste dei coloni avranno molto a che fare con il miglioramento delle loro condizioni di vita. Per raggiungere questo obiettivo, prima o poi avrai bisogno di materiali da costruzione e risorse completamente nuovi. Cominciamo da qui con la <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link>. La sabbia è un'importante materia prima richiesta durante la produzione di <link=\"25\"><style=\"DefaultLink\">Vetro</style></link> o <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link>. Costruisci una miniera di sabbia vicino al piccolo lago nel tuo insediamento per poter estrarre la sabbia."
+    },
+    {
+      "k": 6010,
+      "v": "La miniera di sabbia è stata ora costruita ed è pronta per l'uso. I tuoi minatori ora inizieranno ad estrarre la sabbia e ad immagazzinarla."
+    },
+    {
+      "k": 6011,
+      "v": "Calcestruzzo"
+    },
+    {
+      "k": 6012,
+      "v": "Oltre alla sabbia, è necessario anche <link=\"15\"><style=\"DefaultLink\">Cemento</style></link> per produrre <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link>. Il cemento può essere ottenuto dalle miniere. Per fare ciò, istruisci una delle tue miniere a estrarre il cemento in futuro. Allo stesso tempo, ti chiederei di costruire una <link=\"25\"><style=\"DefaultLink\">Fabbrica di cemento</style></link> per consentire l'utilizzo delle risorse necessarie per iniziare a produrre calcestruzzo."
+    },
+    {
+      "k": 6013,
+      "v": "Molto bene! Con ciò, il tuo insediamento è ora in grado di produrre da solo un altro prezioso materiale da costruzione."
+    },
+    {
+      "k": 6014,
+      "v": "Fabbrica di materiali"
+    },
+    {
+      "k": 6015,
+      "v": "Ma il calcestruzzo non è l'unica nuova materia prima di cui avrai bisogno per placare i tuoi coloni che sono diventati così esigenti. La <link=\"25\"><style=\"DefaultLink\">Fabbrica di materiali</style></link> è in grado di ottenere <link=\"25\"><style=\"DefaultLink\">Vetro</style></link> in Sabbia o <link=\"25\"><style=\"DefaultLink\">Metallo rinforzato</style></link> in Metallo. Avrai bisogno di entrambe le materie prime per erigere edifici come la serra o l'acquafarm. Ma sto andando un po' più avanti di me stesso. Forse ci concentreremo prima sulla costruzione della fabbrica di materiali."
+    },
+    {
+      "k": 6016,
+      "v": "La fabbrica dei materiali è ora attiva e pronta per l'uso! Molto ben fatto! Ora che i nuovi materiali da costruzione sono a tua disposizione possiamo affrontare Progetti più ambiziosi. Da quando i tuoi coloni sono arrivati qui, hanno subito iniziato a raccogliere acqua. È giunto il momento di migliorare un po' questo processo."
+    },
+    {
+      "k": 6017,
+      "v": "Stazione di pompaggio"
+    },
+    {
+      "k": 6018,
+      "v": "Se posizioni una <link=\"6\"><style=\"DefaultLink\">Stazione di pompaggio</style></link> vicino al tuo lago e gli fornisci elettricità, inizierà a pompare acqua alle tue torri , tutto da solo e in modo completamente automatico. Quindi puoi assegnare la forza lavoro che è stata liberata di conseguenza in un luogo diverso. Pratico, no? Tuttavia, per consentire alla tua torre idrica di essere collegata a una stazione di pompaggio devi <link=\"6\"><style=\"DefaultLink\">aggiornarla ancora una volta</style></link>."
+    },
+    {
+      "k": 6019,
+      "v": "La stazione di pompaggio funziona! Questo è un grande passo per il nostro insediamento. Una pompa del genere renderà la vita dei coloni più sicura e piacevole!"
+    },
+    {
+      "k": 6020,
+      "v": "Acquafarm"
+    },
+    {
+      "k": 6021,
+      "v": "Con l'acqua in eccesso dalla stazione di pompaggio potremmo provare a eseguire un <link=\"5\"><style=\"DefaultLink\">Acquafarm</style></link>. L'Acquafarm alleva pesci senza che necessitino di un lago in cui riprodursi. Finché viene rifornita di acqua, l'Aquafarm è in grado di continuare a produrre cibo."
+    },
+    {
+      "k": 6022,
+      "v": "Eccellente. Con questo Aquafarm il nostro approvvigionamento alimentare diventerà sempre meno dipendente dalle condizioni meteorologiche e ora, anche durante una siccità, siamo in una buona posizione per nutrirci meglio."
+    },
+    {
+      "k": 6023,
+      "v": "Serra"
+    },
+    {
+      "k": 6024,
+      "v": "Oltre a fornire loro pesce durante un periodo di siccità, puoi anche fare degli sforzi per far sì che anche i tuoi coloni ricevano semi. Con il Vetro appena ottenuto puoi commissionare la costruzione di una <link=\"5\"><style=\"DefaultLink\">Serra</style></link>. In una serra come questa puoi piantare tutti i tipi di semi che i tuoi coloni normalmente seminerebbero sui campi."
+    },
+    {
+      "k": 6025,
+      "v": "La serra è stata costruita. Ora i semi possono crescere lì, completamente protetti dall'ambiente, e continuare a provvedere al tuo insediamento. Sarà un grande aiuto!"
+    },
+    {
+      "k": 6026,
+      "v": "Nuove Abitazioni"
+    },
+    {
+      "k": 6027,
+      "v": "Con tutti i materiali da costruzione aggiuntivi ora disponibili, i tuoi coloni ti chiederanno anche di iniziare gradualmente a <link=\"4\"><style=\"DefaultLink\">migliorare ulteriormente le loro abitazioni</style></link> in modo che offrano più comfort e diventino più resistenti alle condizioni atmosferiche."
+    },
+    {
+      "k": 6028,
+      "v": "I tuoi coloni sono contenti delle loro nuove abitazioni molto più confortevoli. Sono felici di vivere in questo insediamento perché può fornire loro una vita sicura, dignitosa e nel frattempo anche confortevole. Hai fatto un ottimo lavoro nel configurare le cose!"
+    },
+    {
+      "k": 6029,
+      "v": "Una culla di civiltà"
+    },
+    {
+      "k": 6030,
+      "v": "Tutti i nostri progressi ci hanno portato a essere sulla strada migliore per diventare la culla di una nuova civiltà. Attraverso una Crescita costante e stabile questo insediamento sorgerà lentamente ma inesorabilmente per diventare una vera metropoli e un fulgido esempio della nostra volontà di sopravvivere. Più coloni chiamano questo insediamento la loro casa, più ci avvicineremo al nostro obiettivo di creare un futuro sano e salvo per l'umanità. Se desideri sapere di quanti altri coloni hai bisogno sul tuo percorso, puoi farti mostrare i tuoi progressi di crescita."
+    },
+    {
+      "k": 6031,
+      "v": "Forse dovremmo anche cominciare erigendo un simbolo che mostri al mondo intero che, nonostante tutti gli ostacoli, siamo sopravvissuti con successo. Cosa ne pensi? Tuttavia, non dimenticare che la crescita cieca può portare rapidamente a non essere in grado di provvedere a tutti i coloni a sufficienza. Se intendi continuare a crescere, ecco perché dovresti essere certo che anche la tua popolazione possa gestire quella Crescita."
+    },
+    {
+      "k": 6695,
+      "v": "Arrivederci"
+    },
+    {
+      "k": 6696,
+      "v": "E con ciò vorrei cogliere prontamente l'occasione per ritirarmi di nuovo! In conclusione, voglio consigliarti urgentemente di prestare attenzione alle richieste della tua popolazione di volta in volta, perché se le ignori potrebbero rapidamente portare a un grande grado di malcontento che sorge nel tuo insediamento."
+    },
+    {
+      "k": 6697,
+      "v": "Tuttavia, sono convinto che guiderai i tuoi Coloni verso un grande futuro."
+    },
+    {
+      "k": 6749,
+      "v": "Un raggio di speranza"
+    },
+    {
+      "k": 6750,
+      "v": "Più grande e soddisfatto diventa il nostro insediamento, più abitanti può anche provvedere. Prima o poi, si spargerà la voce che sei in grado di offrire un futuro proficuo per tutti quanti qui. Il tuo insediamento sarà presto sulla buona strada per evolversi in una metropoli a tutti gli effetti. Quando la crescita è andata abbastanza avanti, possiamo iniziare a erigere un <link=\"25\"><style=\"DefaultLink\">Monumento al nostro successo</style></link>. Puoi già disporre della struttura di base per esso ora."
+    },
+    {
+      "k": 6751,
+      "v": "Con questo, il primo passo è stato fatto! Continua a crescere per consentire il completamento della costruzione del punto di riferimento Beacon. Questa potrebbe rivelarsi una strada lunga e rocciosa, ma sono convinto che riuscirai a padroneggiare anche questo percorso."
+    },
+    {
+      "k": 6752,
+      "v": "L'unità di fabbrica"
+    },
+    {
+      "k": 6753,
+      "v": "Con una popolazione così numerosa potrebbe diventare difficile per i nostri stabilimenti di produzione fornire a tutti i coloni abbigliamento e strumenti sufficienti. Se costruisci una <link=\"18\"><style=\"DefaultLink\">Unità di fabbrica</style></link> vicino a questo edificio di produzione, l'unità di fabbrica accelererà la produzione nelle strutture. Tuttavia, per realizzare ciò, l'unità di fabbrica richiede un afflusso costante di vetro, calcestruzzo e metallo rinforzato."
+    },
+    {
+      "k": 6754,
+      "v": "Molto bene! Questa unità di fabbrica aumenterà ulteriormente la produzione nelle nostre sartorie e laboratori al fine di prepararci per la più ampia crescita della nostra popolazione."
+    },
+    {
+      "k": 6698,
+      "v": "Con ciò hai completato con successo il Tutorial per la prosperità."
+    },
+    {
+      "k": 6699,
+      "v": "Apri la panoramica della crescita"
+    },
+    {
+      "k": 6032,
+      "v": "I tuoi coloni ora sono protetti contro i rischi ambientali e gli attacchi esterni. Si sentono sani e salvi nel tuo insediamento. Ciò che potrebbe ancora accadere ora è che i tuoi Coloni vengano da te ancora e ancora per chiedere un po' di lusso nelle loro vite per poter godere dei frutti del loro duro lavoro per un cambiamento dopo tutte le lunghe prove e tribolazioni. Il luogo dove si rivolgeranno a te con tali richieste è il <link=\"24\"><style=\"DefaultLink\">Municipio</style></link>. Per ottenere un municipio devi aggiornare ancora una volta il centro città."
+    },
+    {
+      "k": 6033,
+      "v": "Ora che l'elettronica è finalmente disponibile per noi, puoi fare in modo che il tuo centro città venga aggiornato ancora una volta per fornire più capacità di archiviazione."
+    },
+    {
+      "k": 6034,
+      "v": "Molto bene! La capacità di archiviazione aggiuntiva sarà molto utile."
+    },
+    {
+      "k": 6035,
+      "v": "Migliora il centro città"
+    },
+    {
+      "k": 6036,
+      "v": "Trova un Utensile di ricerca e amplia la selezione di Alimenti offerti"
+    },
+    {
+      "k": 6037,
+      "v": "Costruisci una cucina ed espandi la quantità di fattorie"
+    },
+    {
+      "k": 6038,
+      "v": "Costruisci serre e coltiva caffè"
+    },
+    {
+      "k": 6039,
+      "v": "Torna indietro"
+    },
+    {
+      "k": 6040,
+      "v": "Dopo una serie di controversie interne, questa promettente colonia di ricerca si è divisa in due campi e minaccia di disgregarsi del tutto. Da una parte ci sono i Ricercatori, dall'altra gli scout. Se dovessero lavorare insieme, potrebbero migliorare la vita reciproca in modo duraturo. Invece, i coloni litigano per il cibo! Sei stato nominato mediatore come ultimo tentativo di risolvere il litigio. Riuscirai a riunire l'insediamento diviso senza perdere di vista gli obiettivi comuni?"
+    },
+    {
+      "k": 6041,
+      "v": "È tutto un grande circo qui! Gli scout dovrebbero recuperare gli utensili dall'area circostante in modo che i ricercatori possano coltivare le piante che hanno selezionato nei campi. Qualunque cosa sia rimasta durante la raccolta, la terra è sul tavolo."
+    },
+    {
+      "k": 6115,
+      "v": "Nessuno è ancora morto di fame! Non con me! Ogni pancia è piena, è tutto super-duper! Ma tutto quello che sento è brontolare, brontolare, brontolare!"
+    },
+    {
+      "k": 6116,
+      "v": "Sì, sì, ho capito. Gli scout sgobbano giorno dopo giorno e quello che finisce nel piatto è sempre lo stesso. Ma cos'altro dovrei cucinare, eh? Le uniche cose coltivate sono Cavolo e Pere – è così che vogliono i Ricercatori, non è colpa mia."
+    },
+    {
+      "k": 6042,
+      "v": "Pugni chiusi"
+    },
+    {
+      "k": 6043,
+      "v": "Capo, non può andare avanti così. Gli scout vogliono più varietà e i ricercatori insistono sui loro utensili. I maledetti sciocchezze, ora non parlano nemmeno più! Detto tra noi: il cibo qui è davvero sempre lo stesso - e anche un drink non farebbe male."
+    },
+    {
+      "k": 6044,
+      "v": "Stanno accogliendo il Pub a braccia aperte! Ora ci sono finalmente diversi tipi di pasti e un bicchierino di liquore duro per l'avvio. Non serve altro per passare una bella serata. Ma le persone non sono ancora esattamente affezionate l'una all'altra."
+    },
+    {
+      "k": 6046,
+      "v": "Una mano lava l'altra"
+    },
+    {
+      "k": 6047,
+      "v": "I ricercatori continuano su quanto sia importante il loro progetto per prevenire una carestia. Ma hanno sicuramente apprezzato la nuova varietà nel cibo. Pensano che dovremmo coltivare più piante, ovviamente per scopi di ricerca. Gli scout sono decisi ad avere una vera cucina. Pensi che possiamo farcela?"
+    },
+    {
+      "k": 6048,
+      "v": "Ho sperato e pregato per una cucina da secoli! C'è anche una piccola selezione qui tra cui scegliere, con un vero menu! Te lo dico io, un pasto caldo fa miracoli. Mette semplicemente le persone di buon umore. Gli scout hanno persino trovato un altro utensile."
+    },
+    {
+      "k": 6050,
+      "v": "Mano nella mano"
+    },
+    {
+      "k": 6051,
+      "v": "Questo scienziato, ha proposto di costruire alcune serre per la ricerca. Sarebbe davvero un bel passo per tutti. Immaginatelo, aveva con sé alcuni chicchi di caffè che potevano essere piantati. Uomo d'affari, capo, caffè e torta! Ora c'è una buona ragione per fare degli straordinari!"
+    },
+    {
+      "k": 6052,
+      "v": "A-OK! All'inizio mangiavamo le stesse cose, voglio dire ogni singolo giorno, e gli scout non parlavano con i ricercatori. Non una parola. Sicuramente non ha aiutato nessuno. Ora abbiamo anche caffè e torta! Non è stato poi così difficile, dopotutto: un po' di considerazione e tanta collaborazione."
+    },
+    {
+      "k": 6061,
+      "v": "In realtà, tutto sommato, non è stato così difficile: bastava un po' di considerazione e tanta collaborazione."
+    },
+    {
+      "k": 6404,
+      "v": "Speravo davvero che le persone qui avrebbero trovato un modo per andare d'accordo di nuovo. Ma erano così in disaccordo l'uno con l'altro che non avevamo la possibilità di sopravvivere in questo mondo."
+    },
+    {
+      "k": 6405,
+      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
     },
 	{
       "k": 6054,
@@ -22575,11 +23687,2291 @@
     },
     {
       "k": 6060,
-      "v": "Crediti e introduzione"
+      "v": "Crediti e introduzione"						   
+    },
+	{
+      "k": 6062,
+      "v": "Metti in sicurezza le strutture fatiscenti nell'Endzone"
+    },
+    {
+      "k": 6063,
+      "v": "Garantire un approvvigionamento a lungo termine di materie prime"
+    },
+    {
+      "k": 6064,
+      "v": "Scorte di scorte per generazioni"
+    },
+    {
+      "k": 6065,
+      "v": "Futuro Senza Sole"
+    },
+    {
+      "k": 6066,
+      "v": "Prevale sempre più l'opinione che i Coloni debbano allargare di nuovo la vecchia vicina Endzone e tornare sotto la superficie. Vogliono aspettare lì finché le condizioni non saranno migliorate. Sta diventando sempre più chiaro che si tratta di uno sforzo enormemente ambizioso ma realizzabile."
+    },
+    {
+      "k": 6067,
+      "v": "È stato deciso: ricostruiremo di nuovo la nostra vecchia Endzone. Grazie che gestirai questo progetto. Ho cercato di guidare questa colonia attraverso tutte le sue crisi. Quello che viene ora non è un lavoro per un vecchio come me. Ero deciso a ritirarmi... ma penso che dovrei stare al tuo fianco e consigliarti il meglio che posso."
+    },
+    {
+      "k": 6068,
+      "v": "Struttura basilare"
+    },
+    {
+      "k": 6069,
+      "v": "Non riusciremo a sopravvivere qui in superficie, e il tentativo ci è già costato troppo. Le generazioni future hanno bisogno di un luogo sicuro. Gli studi iniziali mostrano che prima dobbiamo ripristinare le strutture cruciali dell'Endzone."
+    },
+    {
+      "k": 6070,
+      "v": "Una capsula in cui sopravvivere, senza sole, vento e intemperie. Quasi dimenticavo che strano posto fosse l'Endzone... Ad ogni modo, stiamo facendo buoni progressi. Le strutture cruciali sono a un punto in cui sono di nuovo sostenibili. Ma abbiamo ancora una buona parte del lavoro davanti a noi."
+    },
+    {
+      "k": 6072,
+      "v": "Attrezzatura"
+    },
+    {
+      "k": 6073,
+      "v": "I nostri discendenti hanno bisogno di enormi quantità di risorse per la manutenzione, la manutenzione e i materiali di consumo. Inoltre dovremmo mettere loro a disposizione mezzi per la Ricerca. Avranno un sacco di pace e tranquillità e tempo per lavorare su un ritorno in superficie."
+    },
+    {
+      "k": 6074,
+      "v": "Molto bene, abbiamo portato le materie prime e l'attrezzatura di ricerca nell'Endzone. Speriamo che siano utili. Forse i nostri discendenti saranno più intelligenti di noi. Spero che possano trovare una soluzione ai nostri problemi..."
+    },
+    {
+      "k": 6700,
+      "v": "Energia"
+    },
+    {
+      "k": 6701,
+      "v": "Una volta che sono laggiù, i nostri discendenti non saranno più in grado di creare alcun alimentatore. Questa è la nostra missione. Dovremmo fare affidamento su energia solare più affidabile, comprese le batterie, per fornire energia sufficiente per generazioni."
+    },
+    {
+      "k": 6702,
+      "v": "Eccellente. In questo modo, si spera, i nostri discendenti saranno in grado di rifornire i loro sistemi vitali di elettricità per decenni, per non parlare degli strumenti di ricerca e anche di altre attrezzature."
+    },
+    {
+      "k": 6076,
+      "v": "Precauzioni finali"
+    },
+    {
+      "k": 6077,
+      "v": "Siamo in dirittura d'arrivo, ma non dimentichiamo il necessario: Acqua e Cibo, tanto, perché dovrà durare a lungo. Dobbiamo anche accumulare pastiglie di iodio e tute antiradiazioni. In questo modo sono possibili almeno Spedizioni in superficie."
+    },
+    {
+      "k": 6078,
+      "v": "Sono state fatte! Ricordo chiaramente: quando siamo tornati in superficie allora ero deliziato dal sole e dall'aria fresca. Anche se è stato estenuante, ho sempre voluto essere qui. Adesso mi chiedo a volte se ho dato tutto quello che avevo, se abbiamo provato ogni possibilità."
+    },
+    {
+      "k": 6080,
+      "v": "Hai assicurato la sopravvivenza di molte generazioni, anche se cresceranno senza luce solare. Ma Endzone ci ha già salvato una volta, è la decisione giusta per te, ma non per me. non andrò d'accordo. Il mio posto è qui e io resto."
+    },
+    {
+      "k": 6406,
+      "v": "Avevo speranza allora. Forse eravamo ciechi ai rischi e abbiamo reagito troppo lentamente. Ora è tutto in rovina: siamo stati ingenui a sognare un po' d'aria fresca e un cielo azzurro?"
+    },
+    {
+      "k": 6407,
+      "v": "Con ciò, lo scenario 'Ritorno all'Endzone' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
+    },
+    {
+      "k": 6118,
+      "v": "--"
+    },
+    {
+      "k": 6119,
+      "v": "Un Acquafarm"
+    },
+    {
+      "k": 6120,
+      "v": "Ehi, capo, non è ora di migliorare la qualità del cibo che mangiamo? Se dovessimo allevare i nostri pesci in un Acquafarm il rischio di contaminazione sarebbe notevolmente inferiore."
+    },
+    {
+      "k": 6121,
+      "v": "Buon lavoro! Puoi davvero fare affidamento su di te, capo!"
+    },
+    {
+      "k": 6122,
+      "v": "--"
+    },
+    {
+      "k": 6123,
+      "v": "--"
+    },
+    {
+      "k": 6124,
+      "v": "--"
+    },
+    {
+      "k": 6125,
+      "v": "Vita confortevole"
+    },
+    {
+      "k": 6126,
+      "v": "Ehi, capo, viviamo ancora in capanne fatte di lamiera e rottami che non possono nemmeno resistere a una tempesta di sabbia. Anche se dovremmo certamente essere in grado di costruire alloggi più duraturi, non dovremmo?!"
+    },
+    {
+      "k": 6127,
+      "v": "Le nuove abitazioni sono molto meglio di quelle vecchie. Tanto di cappello a te che te ne sei occupato così in fretta, capo!"
+    },
+    {
+      "k": 6128,
+      "v": "--"
+    },
+    {
+      "k": 6129,
+      "v": "--"
+    },
+    {
+      "k": 6130,
+      "v": "--"
+    },
+    {
+      "k": 6131,
+      "v": "Acqua corrente"
+    },
+    {
+      "k": 6132,
+      "v": "Abbiamo bisogno di acqua per quasi tutto, capo! I nostri tecnici pensano di poter automatizzare ancora di più l'approvvigionamento idrico. Ciò risparmierebbe davvero un sacco di lavoro! Abbiamo bisogno del tuo sostegno, capo!"
+    },
+    {
+      "k": 6133,
+      "v": "La nuova stazione di pompaggio si è rivelata davvero impressionante. In questo modo non dobbiamo più preoccuparci dell'approvvigionamento idrico! Fantastico!"
+    },
+    {
+      "k": 6134,
+      "v": "--"
+    },
+    {
+      "k": 6135,
+      "v": "--"
+    },
+    {
+      "k": 6136,
+      "v": "--"
+    },
+    {
+      "k": 6137,
+      "v": "Agricoltura sicura"
+    },
+    {
+      "k": 6138,
+      "v": "Al momento i nostri Campi sono molto suscettibili alle Radiazioni e ai periodi di siccità. Con le Serre abbiamo potuto controllare meglio la qualità del raccolto. Speriamo che inizierai presto un progetto pilota, capo."
+    },
+    {
+      "k": 6139,
+      "v": "Il progetto è stato un completo successo. Non è solo efficiente, è anche impressionante da vedere! In questo modo avremo presto cibo molto migliore."
+    },
+    {
+      "k": 6140,
+      "v": "---"
+    },
+    {
+      "k": 6141,
+      "v": "--"
+    },
+    {
+      "k": 6142,
+      "v": "--"
+    },
+    {
+      "k": 6143,
+      "v": "Una serata rilassante"
+    },
+    {
+      "k": 6144,
+      "v": "Hai letto di come la gente fumava canapa per rilassarsi. Certo, giunti del genere sarebbero un vero oggetto di lusso, ma anche noi abbiamo lavorato duramente per la nostra prosperità. Non sarebbe un ottimo modo per premiarci?"
+    },
+    {
+      "k": 6145,
+      "v": "L'atmosfera è decisamente diventata più rilassata. Molte persone qui si accontentano del piccolo lusso che viene loro concesso."
+    },
+    {
+      "k": 6146,
+      "v": "--"
+    },
+    {
+      "k": 6147,
+      "v": "--"
+    },
+    {
+      "k": 6148,
+      "v": "--"
+    },
+    {
+      "k": 6149,
+      "v": "Non solo mezza cottura"
+    },
+    {
+      "k": 6150,
+      "v": "Al momento mangiamo la maggior parte dei nostri cibi crudi. I cuochi dicono che possiamo trasformare i nostri prodotti alimentari per fare uno stufato per ottenere ancora di più dalle nostre scorte. Proviamo, capo!"
+    },
+    {
+      "k": 6151,
+      "v": "Le persone si stanno virtualmente riversando in cucina per provare lo stufato. Ti riempie davvero anche!"
+    },
+    {
+      "k": 6152,
+      "v": "--"
+    },
+    {
+      "k": 6153,
+      "v": "--"
+    },
+    {
+      "k": 6154,
+      "v": "--"
+    },
+    {
+      "k": 6155,
+      "v": "Una richiesta di torta"
+    },
+    {
+      "k": 6156,
+      "v": "All'inizio abbiamo dovuto fare a meno quando si trattava di cibo. Ora che siamo alle spalle, vogliamo concederci più lusso nella nostra dieta. Pensiamo che la torta sarebbe la cosa giusta!"
+    },
+    {
+      "k": 6157,
+      "v": "La torta è proprio ciò di cui avevamo bisogno. È un buon segno che siamo in grado di concedercelo in questi tempi!"
+    },
+    {
+      "k": 6158,
+      "v": "--"
+    },
+    {
+      "k": 6159,
+      "v": "--"
+    },
+    {
+      "k": 6160,
+      "v": "--"
+    },
+    {
+      "k": 6161,
+      "v": "Una bella birra fredda"
+    },
+    {
+      "k": 6162,
+      "v": "Oltre al duro lavoro, dovremmo organizzare bene il nostro tempo libero. Dovremmo provare a fare la birra. Questo addolcirà le cose per molte persone dopo il lavoro."
+    },
+    {
+      "k": 6163,
+      "v": "L'umore migliore è evidente, le persone non vedono l'ora di abbandonare il lavoro! Buon lavoro!"
+    },
+    {
+      "k": 6164,
+      "v": "--"
+    },
+    {
+      "k": 6165,
+      "v": "--"
+    },
+    {
+      "k": 6166,
+      "v": "--"
+    },
+    {
+      "k": 6167,
+      "v": "Il desiderio di pulizia"
+    },
+    {
+      "k": 6168,
+      "v": "Alcuni posti nell'insediamento hanno un odore piuttosto sgradevole, capo! Se il sapone fosse a disposizione di tutti l'igiene quotidiana sarebbe molto più efficace. Ad ogni modo, non può rimanere così com'è ora!"
+    },
+    {
+      "k": 6169,
+      "v": "Ora ci togliamo davvero tutta quella sporcizia dalla pelle. Che miglioramento!"
+    },
+    {
+      "k": 6170,
+      "v": "--"
+    },
+    {
+      "k": 6171,
+      "v": "--"
+    },
+    {
+      "k": 6172,
+      "v": "--"
+    },
+    {
+      "k": 6173,
+      "v": "Caffè"
+    },
+    {
+      "k": 6174,
+      "v": "Abbiamo sentito che puoi coltivare piante di caffè e preparare i chicchi. Non sarebbe una joint venture che dovremmo affrontare? Sono sicuro che un po' di lusso andrà bene a ognuno di noi."
+    },
+    {
+      "k": 6175,
+      "v": "Il caffè è buono e forte e ti sveglia davvero. Finora ci mancava una bevanda del genere."
+    },
+    {
+      "k": 6176,
+      "v": "--"
+    },
+    {
+      "k": 6177,
+      "v": "--"
+    },
+    {
+      "k": 6178,
+      "v": "--"
+    },
+    {
+      "k": 6179,
+      "v": "Abbellimento del paesaggio"
+    },
+    {
+      "k": 6180,
+      "v": "Dovremmo tutti ricordare a noi stessi che insieme abbiamo creato una nuova Civiltà attraverso il duro lavoro. Potremmo esprimerlo con un edificio tutto suo."
+    },
+    {
+      "k": 6181,
+      "v": "Un traguardo davvero impressionante! È una vera verifica che non solo siamo sopravvissuti, ma siamo in grado di vivere in modo civile ancora una volta."
+    },
+    {
+      "k": 6182,
+      "v": "--"
+    },
+    {
+      "k": 6183,
+      "v": "--"
+    },
+    {
+      "k": 6184,
+      "v": "--"
+    },
+    {
+      "k": 6185,
+      "v": "La prima domanda"
+    },
+    {
+      "k": 6186,
+      "v": "Troverai la prima richiesta dei tuoi coloni in questa pagina. Puoi indirizzare i tuoi sforzi a questa Quest o all'altra. Non è necessario che tu soddisfi entrambe le richieste. Questa volta vogliono che tu metta loro a disposizione la torta."
+    },
+    {
+      "k": 6187,
+      "v": "Molto ben fatto. In questo modo hai soddisfatto la tua richiesta dei coloni. Ci vorrà un po' prima che si rivolgano a te con nuove richieste."
+    },
+    {
+      "k": 6188,
+      "v": "Se non soddisfi le richieste dei tuoi coloni, la loro fiducia diminuirà. Questo andrà avanti così a lungo finché non avrai partecipato alla Ricerca che ti è stata proposta di fare. Quindi dovresti cercare di soddisfare le richieste quando possibile."
+    },
+    {
+      "k": 6189,
+      "v": "Rifiutare le richieste dei tuoi coloni non li renderà particolarmente felici. La loro contentezza diminuirà rapidamente se ignori i loro desideri."
+    },
+    {
+      "k": 6190,
+      "v": "--"
+    },
+    {
+      "k": 6191,
+      "v": "La seconda domanda"
+    },
+    {
+      "k": 6192,
+      "v": "Troverai la seconda domanda dei tuoi coloni in questa pagina. Puoi indirizzare i tuoi sforzi a questa Quest o all'altra. Non è necessario che tu soddisfi entrambe le richieste. Questa volta vogliono che tu metta a loro disposizione lo stufato."
+    },
+    {
+      "k": 6193,
+      "v": "Molto ben fatto. In questo modo hai soddisfatto la tua richiesta dei coloni. Ci vorrà un po' prima che si rivolgano a te con nuove richieste."
+    },
+    {
+      "k": 6194,
+      "v": "Se non soddisfi le richieste dei tuoi coloni, la loro fiducia diminuirà. Questo andrà avanti così a lungo finché non avrai soddisfatto una delle richieste fatte su di te. Quindi dovresti cercare di soddisfare le richieste quando possibile."
+    },
+    {
+      "k": 6195,
+      "v": "Rifiutare le richieste dei tuoi coloni non li renderà particolarmente felici. La loro contentezza diminuirà rapidamente se ignori i loro desideri."
+    },
+    {
+      "k": 6197,
+      "v": "Richieste"
+    },
+    {
+      "k": 6198,
+      "v": "Scegli una delle richieste dei tuoi coloni che vuoi soddisfare!"
+    },
+    {
+      "k": 6199,
+      "v": "Soddisfa la domanda dei tuoi coloni in modo tempestivo per mantenere il loro benessere."
+    },
+    {
+      "k": 6200,
+      "v": "Accetta la domanda"
+    },
+    {
+      "k": 6203,
+      "v": "Visualizza le richieste"
+    },
+    {
+      "k": 6204,
+      "v": "Con ogni richiesta soddisfatta ricevi più tempo prima di dover accettare la domanda successiva."
+    },
+    {
+      "k": 6206,
+      "v": "--"
+    },
+    {
+      "k": 6207,
+      "v": "Cambio di marcia"
+    },
+    {
+      "k": 6208,
+      "v": "Con tutta questa tecnologia in giro, non dovrebbe esserci qualcosa che aiuta anche tutti noi a rilassarci? Abbiamo pensato ad alcuni Joint, per esempio. Non dimenticare, capo, si tratta del nostro benessere!"
+    },
+    {
+      "k": 6209,
+      "v": "Alla fine! Con tutta questa produttività è importante cambiare marcia di tanto in tanto. Che bello che ha funzionato."
+    },
+    {
+      "k": 6212,
+      "v": "--"
+    },
+    {
+      "k": 6213,
+      "v": "Che ne dici di provare una nuova ricetta?"
+    },
+    {
+      "k": 6214,
+      "v": "Sarebbe bello avere un po' più di varietà nel cibo. Non abbiamo bisogno di coltivare nuove piante, prenderemo solo quello che abbiamo e ne faremo stufato. Perché non dovrebbe essere possibile?"
+    },
+    {
+      "k": 6215,
+      "v": "Funziona magnificamente. Incredibile la differenza che fa una buona ricetta: non devi assolutamente piantare nulla di nuovo."
+    },
+    {
+      "k": 6216,
+      "v": "--"
+    },
+    {
+      "k": 6217,
+      "v": "--"
+    },
+    {
+      "k": 6218,
+      "v": "--"
+    },
+    {
+      "k": 6219,
+      "v": "Non dimenticare il dolce!"
+    },
+    {
+      "k": 6220,
+      "v": "Abbiamo pasti buoni e sostanziosi all'insediamento. Ma molti di noi vogliono un cambio di passo, in altre parole una vera alternativa. Che ne dici di Torta? Dovrebbe essere fattibile, no?"
+    },
+    {
+      "k": 6221,
+      "v": "Proprio come previsto, la Torta è un'alternativa super-duper agli altri piatti."
+    },
+    {
+      "k": 6222,
+      "v": "--"
+    },
+    {
+      "k": 6223,
+      "v": "--"
+    },
+    {
+      "k": 6224,
+      "v": "--"
+    },
+    {
+      "k": 6225,
+      "v": "Un'antica tradizione"
+    },
+    {
+      "k": 6226,
+      "v": "Le persone erano solite produrre birra dal grano e dall'acqua. Dobbiamo provarlo, capo!"
+    },
+    {
+      "k": 6227,
+      "v": "Una birra così è una bella cosa. Che fortuna portare avanti questa antica tradizione."
+    },
+    {
+      "k": 6228,
+      "v": "--"
+    },
+    {
+      "k": 6229,
+      "v": "--"
+    },
+    {
+      "k": 6230,
+      "v": "--"
+    },
+    {
+      "k": 6231,
+      "v": "Pulito come un fischio"
+    },
+    {
+      "k": 6232,
+      "v": "L'igiene personale è molto importante, capo. Ci laviamo regolarmente, ma non si diventa veramente puliti solo con l'acqua. Dovremmo davvero iniziare a produrre sapone."
+    },
+    {
+      "k": 6233,
+      "v": "Tutto lo sporco e la sporcizia sono finalmente spariti. Ti fa sentire subito come nuovo."
+    },
+    {
+      "k": 6234,
+      "v": "--"
+    },
+    {
+      "k": 6235,
+      "v": "--"
+    },
+    {
+      "k": 6236,
+      "v": "--"
+    },
+    {
+      "k": 6237,
+      "v": "Niente è come un caffè al mattino..."
+    },
+    {
+      "k": 6238,
+      "v": "Capo, nei giorni grigi molti di noi hanno problemi a svegliarsi davvero. Sembra che la gente bevesse caffè per farli andare meglio al mattino. Potrebbe funzionare anche per noi. Cosa ne pensi?"
+    },
+    {
+      "k": 6239,
+      "v": "Anche per noi una mattina grigia non è un problema. Prepara un po' di caffè e via."
+    },
+    {
+      "k": 6240,
+      "v": "--"
+    },
+    {
+      "k": 6241,
+      "v": "--"
+    },
+    {
+      "k": 6242,
+      "v": "--"
+    },
+    {
+      "k": 6243,
+      "v": "Più di un tetto sulla testa"
+    },
+    {
+      "k": 6244,
+      "v": "Alcuni edifici qui sono molto robusti, ma molte persone vivono ancora in baracche. Possiamo fare di meglio, capo, no? Senza se e senza ma al riguardo! Abbiamo bisogno di alloggi confortevoli!"
+    },
+    {
+      "k": 6245,
+      "v": "La vita qui è davvero molto migliore ora – Perché non l'abbiamo fatto prima?"
+    },
+    {
+      "k": 6246,
+      "v": "--"
+    },
+    {
+      "k": 6247,
+      "v": "--"
+    },
+    {
+      "k": 6248,
+      "v": "--"
+    },
+    {
+      "k": 6249,
+      "v": "Alcuni angoli e fessure adorabili"
+    },
+    {
+      "k": 6250,
+      "v": "Il nostro insediamento sembra abbastanza presentabile. Ma ci chiediamo se non potrebbe essere più bello. Dopotutto, non viviamo più nella miseria..."
+    },
+    {
+      "k": 6251,
+      "v": "Ora vedi veramente la prosperità di questa città. Bel posto che abbiamo qui!"
+    },
+    {
+      "k": 6252,
+      "v": "--"
+    },
+    {
+      "k": 6253,
+      "v": "--"
+    },
+    {
+      "k": 6254,
+      "v": "Sviluppa il cemento come materiale da costruzione"
+    },
+    {
+      "k": 6255,
+      "v": "Trasforma le risorse in materiali di alta qualità"
+    },
+    {
+      "k": 6256,
+      "v": "Fornire case confortevoli"
+    },
+    {
+      "k": 6257,
+      "v": "Più della sopravvivenza"
+    },
+    {
+      "k": 6258,
+      "v": "Quando i primi coloni sono usciti dall'Endzone hanno dovuto lottare per sopravvivere. Hanno fatto enormi sforzi per salvaguardare i loro rifornimenti di base e proteggersi dalle condizioni meteorologiche estreme e dalle radiazioni. Sembra che la fase delle difficoltà sia ormai finita. Una nuova generazione di coloni inizia a sognare progresso e prosperità per il proprio futuro. Si considerano cittadini di questa civiltà appena creata e, in quanto tali, rivendicano di poter dire la loro su ciò che accade. Hai ricevuto la Missione di mediare tra diverse idee e di realizzare il meglio di esse."
+    },
+    {
+      "k": 6259,
+      "v": "L'insediamento è fiorente! Eppure tutto è stato improvvisato all'inizio. Allora mi è stata affidata la progettazione e mi è stato assegnato il lavoro. Sì, a volte c'erano facce lunghe. Il fatto è che dovevamo sopravvivere. C'era questa volta, -"
+    },
+    {
+      "k": 6260,
+      "v": "Nonno, hai avuto un suggerimento, vero? Il nonno adora queste storie – e intanto le conosco a memoria."
+    },
+    {
+      "k": 6261,
+      "v": "Ma torniamo al suggerimento..."
+    },
+    {
+      "k": 6262,
+      "v": "Un posto per lo scambio"
+    },
+    {
+      "k": 6263,
+      "v": "Il suggerimento, sì, giusto, esattamente... Quindi ora siamo in grado di aggiornare il nostro centro città in un municipio. Quindi i sopravvissuti possono dare qualche piccolo suggerimento per migliorare l'insediamento."
+    },
+    {
+      "k": 6264,
+      "v": "È giunto il momento per me di ritirarmi. Mi piacerebbe prendere le cose un po' più facilmente alla mia età. Hai incontrato Ella. Si occuperà di tutto al municipio. Passa a trovarci e, se vuoi, lasciati ispirare quando prendi le tue decisioni."
+    },
+    {
+      "k": 6266,
+      "v": "Una fondazione potente"
+    },
+    {
+      "k": 6267,
+      "v": "Il nonno ha fatto molto, ma può essere molto 'risoluto'. Un tempo tutti dovevano sopravvivere, non c'era tempo per contraddire! In questi giorni le persone vogliono avere voce in capitolo. Siamo qui per mettere in pratica i loro desideri. Ci sono già due numeri sulla mia scrivania in municipio. Non importa quale dei due decidi di scegliere, in ogni caso avremo bisogno di Concrete. Quindi mettiti al lavoro!"
+    },
+    {
+      "k": 6268,
+      "v": "Con il Concrete, ora siamo in grado di costruire strutture molto più stabili. Ed è davvero fantastico che tu abbia visto le preoccupazioni dei coloni. Onestamente, la gente lo apprezza, anche se non è possibile realizzare ogni desiderio."
+    },
+    {
+      "k": 6270,
+      "v": "I migliori materiali"
+    },
+    {
+      "k": 6271,
+      "v": "Ora non c'è uno, ma un sacco di piani entusiasmanti per ottenere materiali preziosi dai rottami raccolti e, così facendo, migliorare la nostra fornitura d'acqua. Con tutti i mezzi, dovremmo farlo! Allora ho altri due suggerimenti qui. Cosa ne pensate, quale metteremo in pratica?"
+    },
+    {
+      "k": 6272,
+      "v": "Stupendo! I nuovi Materiali apriranno molte nuove Tecnologie. In particolare l'approvvigionamento idrico sta facendo un lavoro favoloso. Difficile credere che i primi coloni trasportassero l'acqua in secchi."
+    },
+    {
+      "k": 6274,
+      "v": "Una casa in cui sentirsi bene"
+    },
+    {
+      "k": 6275,
+      "v": "Quante idee! Le persone in qualche modo trovano sempre il tempo per pensare al nostro futuro. Suggeriscono di rendere le nostre abitazioni di lunga data un po' più stabili e confortevoli. E passa un minuto al municipio. Devi aiutarmi a prendere una decisione a favore di un suggerimento!"
+    },
+    {
+      "k": 6276,
+      "v": "Incredibile, anche questo progetto ha funzionato bene. Che lusso abbiamo raggiunto. Sono semplicemente felice!"
+    },
+    {
+      "k": 6278,
+      "v": "Finalmente, stiamo sognando di nuovo - e questa volta insieme, in modo che nessuno venga escluso! Dopotutto, ognuno ha il diritto di plasmare il proprio futuro. Grazie per avermi aiutato con questo - non avrei mai potuto metterlo in pratica da solo."
+    },
+    {
+      "k": 6408,
+      "v": "Con ciò, lo scenario 'Più che sopravvivenza' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
+    },
+    {
+      "k": 6279,
+      "v": "Piatti Vuoti"
+    },
+    {
+      "k": 6280,
+      "v": "Ehi, capo, stiamo finendo il caffè e la torta. Si sono formati gruppi fissi che si riuniscono nel pomeriggio. Dà loro supporto, specialmente i più grandi!"
+    },
+    {
+      "k": 6281,
+      "v": "Grazie mille per esserti preso cura di questo. Ora l'incontro è di nuovo bello come prima."
+    },
+    {
+      "k": 6282,
+      "v": "Ehi, capo, questa è una questione importante, non dovresti semplicemente perderne le tracce."
+    },
+    {
+      "k": 6283,
+      "v": "Che peccato. Abbiamo davvero pensato di poter migliorare le nostre condizioni di vita in modo duraturo. È un passo indietro!"
+    },
+    {
+      "k": 6284,
+      "v": "Umore da sbornia"
+    },
+    {
+      "k": 6285,
+      "v": "Ehi, capo, niente birra e niente canne in lungo e in largo. Le serate sono sempre state piacevoli e rilassate fino ad ora, ma cosa dovrebbe succedere ora dopo il lavoro?"
+    },
+    {
+      "k": 6286,
+      "v": "Molto bene, capo, sapevamo che l'avresti sistemato!"
+    },
+    {
+      "k": 6287,
+      "v": "Cosa, davvero, è questo per il relax ora? È piuttosto difficile, non credi, capo?"
+    },
+    {
+      "k": 6288,
+      "v": "Pensavamo di fare bene e di poter dedicare i nostri sforzi a problemi più grandi. Ma se non riusciamo nemmeno a produrre birra e spinelli in modo affidabile, faremmo meglio a ridimensionare le nostre ambizioni."
+    },
+    {
+      "k": 6289,
+      "v": "Piante non protette"
+    },
+    {
+      "k": 6290,
+      "v": "Ehi, capo, che succede con le nostre adorabili Serre? Volevamo riservarli ai tempi di crisi. Dovremmo semplicemente tornare a mangiare le Verdure dei Campi all'aperto?"
+    },
+    {
+      "k": 6291,
+      "v": "Sono tornati di nuovo, le Serre! Sembrano stupendi, vero?"
+    },
+    {
+      "k": 6292,
+      "v": "Prima costruisci serre, poi all'improvviso scompaiono. Ora ti rifiuti di ricostruirli - che succede, capo? È questa la cosiddetta pianificazione sostenibile?"
+    },
+    {
+      "k": 6293,
+      "v": "Avevamo già le Serre - e ora all'improvviso dovrebbe essere impossibile ricostruirle? In realtà stiamo facendo progressi, ma è davvero uno strano stato di cose!"
+    },
+    {
+      "k": 6294,
+      "v": "Il pesce non è fresco"
+    },
+    {
+      "k": 6295,
+      "v": "Cosa fai? Abbiamo appena finito di costruire le Acquafarm e ora se ne sono andate di nuovo?! Come possiamo mettere le mani sui pesci quando c'è una siccità?"
+    },
+    {
+      "k": 6296,
+      "v": "Semplicemente fantastico, un Acquafarm così. Spero che siano ancora lì quando torno domani..."
+    },
+    {
+      "k": 6297,
+      "v": "Pensavamo che la costruzione di Acquafarm fosse un affare fatto. Ma all'improvviso se ne sono andati e ora non vuoi costruirne di nuovi? È davvero difficile da capire, capo!"
+    },
+    {
+      "k": 6298,
+      "v": "Capo, stiamo davvero tornando indietro? Avevamo già le Acquafarm, quindi cosa c'è di così difficile nel ricostruirle?"
+    },
+    {
+      "k": 6299,
+      "v": "Belle serate al pub"
+    },
+    {
+      "k": 6300,
+      "v": "La sera, dopo tutto il lavoro, a volte vogliamo solo staccare la spina. Sarebbe bello se ci fosse qualcosa del genere! Magari una bella birra fresca e una canna per dimenticare tutto lo stress – ci deve essere spazio per questo!"
+    },
+    {
+      "k": 6301,
+      "v": "Molto buono, birra e spinelli sono buoni. Sei cordialmente invitato a rilassarti una sera con noi, capo!"
+    },
+    {
+      "k": 6302,
+      "v": "Pause Pranzo Conviviali"
+    },
+    {
+      "k": 6303,
+      "v": "C'è sempre qualcosa che manca con questo pasto abbondante all'ora di pranzo. A volte abbiamo ancora voglia di sederci insieme e sparare la brezza. Una forte tazza di caffè e una fetta di torta azzeccati per questo! Puoi configurarlo, vero?"
+    },
+    {
+      "k": 6304,
+      "v": "Fantastico che tu te ne sia occupato, capo. Caffè e torta per dessert, motivano molto di più a continuare a lavorare."
+    },
+    {
+      "k": 6305,
+      "v": "Ehi, cosa c'è che non va in te, capo? Prima prometti molto e poi non mantieni?! Ci aspettavamo davvero di più, non scherzo!"
+    },
+    {
+      "k": 6306,
+      "v": "Certo, non puoi accettare ogni desiderio. Ma semplicemente ignorarci completamente, ora è davvero deludente."
+    },
+    {
+      "k": 6307,
+      "v": "Nella serra"
+    },
+    {
+      "k": 6308,
+      "v": "Con più opzioni tecniche saremmo in grado di costruire Serre. Sono a prova di crisi, più produttivi e il raccolto ha un sapore più fresco. Dovremmo concederci questo!"
+    },
+    {
+      "k": 6309,
+      "v": "Le nuove Serre hanno un aspetto fantastico! Con tutta la sporcizia nell'aria, è decisamente meglio se le nostre piante crescono al loro interno."
+    },
+    {
+      "k": 6310,
+      "v": "Nella boccia del pesce rosso"
+    },
+    {
+      "k": 6311,
+      "v": "Con una migliore gestione dell'acqua saremmo in grado di costruire Acquafarm. In questo modo avremo pesce fresco e sano, anche durante la siccità. Nel frattempo ce lo siamo guadagnato!"
+    },
+    {
+      "k": 6312,
+      "v": "Il sistema dell'impianto funziona, i pesci stanno benissimo. Che prosperità è questa. Ora abbiamo pesce fresco, qualunque cosa accada."
+    },
+    {
+      "k": 6313,
+      "v": "Cos'è successo, capo, ti sei davvero impegnato per aiutarci? Speriamo che tu faccia un lavoro migliore la prossima volta."
+    },
+    {
+      "k": 6314,
+      "v": "Sei davvero così impegnato da non dedicare un minuto ad ascoltarci? Siamo davvero delusi da te, capo!"
+    },
+    {
+      "k": 6315,
+      "v": "Quel qualcosa di speciale"
+    },
+    {
+      "k": 6316,
+      "v": "Non puoi dimenticare i problemi quotidiani, capo. Alcuni pasti non ti riempiono davvero la pancia e, a parte questo, usiamo solo l'acqua per lavarci. Non ti pulisci mai davvero in quel modo!"
+    },
+    {
+      "k": 6317,
+      "v": "Lo Stufato è delizioso. Non ci saziavamo così da un po' di tempo. A proposito, il sapone fa miracoli. Ha un profumo molto migliore ad ogni angolo subito."
+    },
+    {
+      "k": 6318,
+      "v": "Quattro mura forti"
+    },
+    {
+      "k": 6319,
+      "v": "A volte ci chiediamo perché alcuni dei nostri Edifici siano ancora tali baracche. Non possono essere costruiti un po' più robusti in modo che non collassino?"
+    },
+    {
+      "k": 6320,
+      "v": "Grazie al nuovo Concrete gli edifici sembrano subito molto più robusti. Ora possono arrivare le tempeste di sabbia. Nessun tempo avrà la meglio su di noi."
+    },
+    {
+      "k": 6321,
+      "v": "Ci hai assicurato che te ne saresti occupato, capo! Ci chiediamo quanto siano importanti per te gli abitanti di questo insediamento!"
+    },
+    {
+      "k": 6322,
+      "v": "È chiedere troppo ascoltare le persone di questo insediamento per una volta? Molti di noi hanno buone idee per il futuro. Faresti meglio ad ascoltarli!"
+    },
+    {
+      "k": 6323,
+      "v": "Soddisfa una delle due richieste che i tuoi coloni ti hanno fatto!"
+    },
+    {
+      "k": 6324,
+      "v": "È un vero dolore che tu non possa aiutarci. Ci auguriamo che i nostri desideri ricevano più attenzione in futuro, capo!"
+    },
+    {
+      "k": 6325,
+      "v": "Davvero deludente. Abbiamo pensato che avresti preso un qualche tipo di azione."
+    },
+    {
+      "k": 6326,
+      "v": "Certo, capiamo che c'è molto da fare. Ma la questione era molto importante per tutti noi, capo!"
+    },
+    {
+      "k": 6327,
+      "v": "Chi dà la sua parola dovrebbe anche mantenerla, capo!"
+    },
+    {
+      "k": 6328,
+      "v": "Ho capito. Non tutto è così facile come sembra all'inizio. Ma abbiamo già ottenuto così tante cose insieme, ci saremmo davvero aspettati di più!"
+    },
+    {
+      "k": 6329,
+      "v": "Prima hai detto che ti saresti occupato di questo, ora abbiamo sentito che non è successo nulla. Non possiamo fare di meglio, capo?"
+    },
+    {
+      "k": 6330,
+      "v": "Forse faremmo meglio a non dire niente la prossima volta. Ovviamente sei piuttosto impegnato quando non puoi occuparti di qualcosa di così semplice!"
+    },
+    {
+      "k": 6331,
+      "v": "Ci meravigliamo che tu non sia riuscito a risolvere il problema. Fondamentalmente non era chiedere di fare l'impossibile, vero?"
+    },
+    {
+      "k": 6332,
+      "v": "Pensiamo che dovresti dedicare più tempo alle nostre preoccupazioni, capo!"
+    },
+    {
+      "k": 6333,
+      "v": "Vogliamo dire la nostra sul futuro di questo accordo, capo! Dovresti prenderti del tempo per noi. Dopotutto, siamo noi che abbiamo costruito tutto qui."
+    },
+    {
+      "k": 6334,
+      "v": "Certo, c'è molto da fare. Ma è davvero così tanto che non puoi ascoltarci per un momento, capo?"
+    },
+    {
+      "k": 6335,
+      "v": "Non pensi che dovresti prenderti il tempo per discutere diverse questioni importanti, capo?"
+    },
+    {
+      "k": 6336,
+      "v": "Abbiamo tutti lavorato duramente per questo tipo di vita. In cambio, abbiamo ugualmente il diritto che la nostra voce sia ascoltata!"
+    },
+    {
+      "k": 6337,
+      "v": "Certo, abbiamo fatto molta strada. Ma crediamo che sia giunto il momento per idee innovative. Dovresti davvero ascoltare quello che abbiamo da dire, capo!"
+    },
+    {
+      "k": 6338,
+      "v": "Non abbiamo tutto il tempo del mondo per aspettare qui. La prossima volta, spero che acconsentirai a farci ascoltare, capo!"
+    },
+    {
+      "k": 6339,
+      "v": "Ehi, capo, nel frattempo alcuni di noi si stanno chiedendo perché non hai tempo per le nostre preoccupazioni."
+    },
+    {
+      "k": 6340,
+      "v": "--"
+    },
+    {
+      "k": 6341,
+      "v": "Quanto è verde l'umore della sera"
+    },
+    {
+      "k": 6380,
+      "v": "Potremmo coltivare la canapa e poi essiccare le foglie. Ciò consente di realizzare Joints, la cosa perfetta per un rilassante pomeriggio al sole, naturalmente dopo il lavoro."
+    },
+    {
+      "k": 6342,
+      "v": "I giunti sono un grande successo. Assolutamente perfetto per godersi il sole di mezzogiorno, ovviamente solo quando non c'è lavoro da fare in questo momento..."
+    },
+    {
+      "k": 6343,
+      "v": "--"
+    },
+    {
+      "k": 6344,
+      "v": "--"
+    },
+    {
+      "k": 6345,
+      "v": "--"
+    },
+    {
+      "k": 6346,
+      "v": "Altro tra cui scegliere"
+    },
+    {
+      "k": 6381,
+      "v": "Pensiamo che una maggiore varietà non possa mai nuocere. Una possibilità in cucina è quella di servire lo stufato in futuro. Cosa ne pensi?"
+    },
+    {
+      "k": 6347,
+      "v": "Un supplemento di prim'ordine a quanto offerto prima. Grazie per il cambio di passo, capo!"
+    },
+    {
+      "k": 6348,
+      "v": "--"
+    },
+    {
+      "k": 6349,
+      "v": "--"
+    },
+    {
+      "k": 6350,
+      "v": "--"
+    },
+    {
+      "k": 6351,
+      "v": "Con la crema sopra, per favore!"
+    },
+    {
+      "k": 6382,
+      "v": "Mangia sempre solo per riempirti la pancia: desideriamo più lusso! Dovremmo provare Cake."
+    },
+    {
+      "k": 6352,
+      "v": "La torta è deliziosa. Hai voglia di provare anche tu un pezzo, capo?"
+    },
+    {
+      "k": 6353,
+      "v": "--"
+    },
+    {
+      "k": 6354,
+      "v": "--"
+    },
+    {
+      "k": 6355,
+      "v": "--"
+    },
+    {
+      "k": 6356,
+      "v": "L'acqua è ciò con cui ti lavi"
+    },
+    {
+      "k": 6383,
+      "v": "Beviamo Acqua tutto il giorno, capo: mattina, mezzogiorno e sera. Sarebbe opportuno un cambio di passo. Che ne dici di birra?"
+    },
+    {
+      "k": 6357,
+      "v": "Grazie per averci ascoltato, capo. La Birra è perfetta per dissetare."
+    },
+    {
+      "k": 6358,
+      "v": "--"
+    },
+    {
+      "k": 6359,
+      "v": "--"
+    },
+    {
+      "k": 6360,
+      "v": "--"
+    },
+    {
+      "k": 6361,
+      "v": "Non solo pulito ma immacolato"
+    },
+    {
+      "k": 6384,
+      "v": "Il nostro bucato diventa sempre più sporco, capo. Senza sapone non è così facile per noi liberarci dal lavoro. Questo dovrebbe cambiare!"
+    },
+    {
+      "k": 6362,
+      "v": "La nostra lavanderia è tornata davvero pulita. Si sente subito molto meglio sulla pelle."
+    },
+    {
+      "k": 6363,
+      "v": "--"
+    },
+    {
+      "k": 6364,
+      "v": "--"
+    },
+    {
+      "k": 6365,
+      "v": "--"
+    },
+    {
+      "k": 6366,
+      "v": "Marrone Oro"
+    },
+    {
+      "k": 6385,
+      "v": "Potremmo tentare la fortuna con piante più esotiche. Il caffè un tempo veniva coltivato in grandi quantità. Apparentemente la gente amava la roba. Sarà sicuramente un grande successo qui!"
+    },
+    {
+      "k": 6367,
+      "v": "Non è difficile capire che la gente era pazza per il caffè. Roba impressionante!"
+    },
+    {
+      "k": 6368,
+      "v": "--"
+    },
+    {
+      "k": 6369,
+      "v": "--"
+    },
+    {
+      "k": 6386,
+      "v": "--"
+    },
+    {
+      "k": 6370,
+      "v": "Una casa confortevole"
+    },
+    {
+      "k": 6371,
+      "v": "Certo, le nostre case sono calde e asciutte e non c'è niente di comodo in loro. Un po' di lusso, ce la faremmo sicuramente quando si tratta delle nostre abitazioni, giusto?"
+    },
+    {
+      "k": 6372,
+      "v": "Finalmente un po' di lusso anche a casa. Ti fa sentire subito molto più a tuo agio tra le tue quattro mura."
+    },
+    {
+      "k": 6373,
+      "v": "--"
+    },
+    {
+      "k": 6374,
+      "v": "--"
+    },
+    {
+      "k": 6387,
+      "v": "---"
+    },
+    {
+      "k": 6375,
+      "v": "Qualcosa per gli occhi"
+    },
+    {
+      "k": 6376,
+      "v": "Qua e là l'insediamento sembra ancora squallido e noioso. Viviamo in un mondo nuovo e migliore qui – non dovrebbe essere così anche il nostro insediamento?"
+    },
+    {
+      "k": 6377,
+      "v": "A volte attraversiamo semplicemente le strade e siamo felici di come viviamo bene. Grazie, capo!"
+    },
+    {
+      "k": 6378,
+      "v": "--"
+    },
+    {
+      "k": 6379,
+      "v": "--"
     },
     {
       "k": 6409,
-      "v": "Rendering su richiesta"
+      "v": "Rendering su richiesta"			
+    },
+	{
+      "k": 6412,
+      "v": "Dai l'istruzione che i tuoi coloni dovrebbero tornare nell'Endzone."
+    },
+    {
+      "k": 6413,
+      "v": "Stoccaggio di legna nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6414,
+      "v": "Stoccaggio di rottami nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6415,
+      "v": "Stoccaggio di metallo nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6416,
+      "v": "Stoccaggio di stoffa nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6417,
+      "v": "Stoccaggio di plastica nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6418,
+      "v": "Stoccaggio di carbone nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6419,
+      "v": "Stoccaggio di elettronica nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6420,
+      "v": "Stoccaggio di acqua nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6421,
+      "v": "Stoccaggio di cibo nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6422,
+      "v": "Stoccaggio di tute antiradiazioni nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6423,
+      "v": "Stoccaggio di compresse di iodio nell'Endzone: <<amount>>"
+    },
+    {
+      "k": 6424,
+      "v": "Primo aggiornamento Endzone iniziato e completato"
+    },
+    {
+      "k": 6425,
+      "v": "Secondo aggiornamento Endzone iniziato e completato"
+    },
+    {
+      "k": 6426,
+      "v": "Completa la terza fase dei preparativi."
+    },
+    {
+      "k": 6427,
+      "v": "Una stazione commerciale alla fine del mondo"
+    },
+    {
+      "k": 6428,
+      "v": "Da quando le condizioni sono peggiorate, in questa zona non viene più un commerciante. Ma potremmo costruire una stazione commerciale per fornire un porto di scalo. Anche se non ci salvano, forse hanno cose di cui possiamo fare uso."
+    },
+    {
+      "k": 6429,
+      "v": "Bene. Non avremo bisogno di alcune delle nostre merci laggiù. Possiamo barattarli in cambio ora."
+    },
+    {
+      "k": 6430,
+      "v": "Forse dovremmo concentrarci interamente sul nostro progetto e, così facendo, completarlo il più velocemente possibile."
+    },
+    {
+      "k": 6431,
+      "v": "Abbiamo sottovalutato quanta energia costa questa impresa. Sarebbe meglio se concentriamo i nostri sforzi esclusivamente sull'aggiornamento dell'Endzone."
+    },
+    {
+      "k": 6432,
+      "v": "L'uso di tutti i materiali"
+    },
+    {
+      "k": 6433,
+      "v": "L'aggiornamento sta consumando tonnellate di materiali riciclati e non siamo in grado di acquistarli tutti dai commercianti. Potremmo costruire una raffineria per coprire efficacemente il bisogno. Riusciremo a farlo?"
+    },
+    {
+      "k": 6434,
+      "v": "Eccellente! Con la Raffineria possiamo smistare il Rottame in modo molto più efficiente. Ciò farà risparmiare molto tempo."
+    },
+    {
+      "k": 6435,
+      "v": "Forse dovremmo concentrarci interamente sul nostro progetto e, così facendo, completarlo il più velocemente possibile."
+    },
+    {
+      "k": 6436,
+      "v": "Abbiamo sottovalutato quanta energia costa questa impresa. Sarebbe meglio se concentriamo i nostri sforzi esclusivamente sull'aggiornamento dell'Endzone."
+    },
+    {
+      "k": 6437,
+      "v": "Guardando lontano nel futuro"
+    },
+    {
+      "k": 6438,
+      "v": "Sarà difficile ottenere dati meteorologici precisi dall'Endzone. Dovremmo installare una stazione meteorologica quassù. Altrimenti i nostri discendenti saranno ciechi quanto noi quando torneranno."
+    },
+    {
+      "k": 6439,
+      "v": "È un passo avanti, la Stazione sta già raccogliendo dati! Col tempo potrebbe essere possibile leggere più dai dati meteorologici di quanto possiamo. I nostri discendenti non cercheranno a tentoni nel buio."
+    },
+    {
+      "k": 6440,
+      "v": "Forse dovremmo concentrarci interamente sul nostro progetto e, così facendo, completarlo il più velocemente possibile."
+    },
+    {
+      "k": 6441,
+      "v": "Abbiamo sottovalutato quanta energia costa questa impresa. Sarebbe meglio se concentriamo i nostri sforzi esclusivamente sull'aggiornamento dell'Endzone."
+    },
+    {
+      "k": 6442,
+      "v": "Una capsula del tempo per le piante"
+    },
+    {
+      "k": 6443,
+      "v": "I dati della stazione meteorologica dipingono un quadro cupo. Si stanno avvicinando tempeste molto più grandi di quanto avessimo previsto. Lunghe fasi di piogge acide potrebbero spazzare via per sempre molte delle piante quassù. Dobbiamo salvare i loro semi e prevenire un'estinzione di massa!"
+    },
+    {
+      "k": 6444,
+      "v": "Un'estinzione delle piante, ora quelle sono fosche prospettive per il futuro. Ma ogni volta che i nostri Figli tornano, almeno ora hanno la possibilità di ripristinare la flora."
+    },
+    {
+      "k": 6445,
+      "v": "Forse dovremmo concentrarci interamente sul nostro progetto e, così facendo, completarlo il più velocemente possibile."
+    },
+    {
+      "k": 6446,
+      "v": "Abbiamo sottovalutato quanta energia costa questa impresa. Sarebbe meglio se concentriamo i nostri sforzi esclusivamente sull'aggiornamento dell'Endzone."
+    },
+    {
+      "k": 6704,
+      "v": "Guarda il mondo e impara"
+    },
+    {
+      "k": 6705,
+      "v": "Anche se il tempo è poco, dobbiamo ancora occuparci di ottenere la migliore educazione possibile per i nostri figli. Ora hanno ancora l'opportunità di vivere il mondo con i propri sensi. Una volta sotto terra, dovranno imparare di nuovo tutto dai libri."
+    },
+    {
+      "k": 6706,
+      "v": "Almeno i nostri figli stanno ricevendo una buona educazione. Dopotutto, sono i Ricercatori di domani. Il nostro futuro e la nostra sopravvivenza sono nelle loro mani."
+    },
+    {
+      "k": 6707,
+      "v": "Forse dovremmo concentrarci interamente sul nostro Progetto e completarlo il più rapidamente possibile."
+    },
+    {
+      "k": 6708,
+      "v": "Abbiamo sottovalutato quanta energia costa questa impresa. Sarebbe meglio se concentriamo i nostri sforzi esclusivamente sull'aggiornamento dell'Endzone."
+    },
+    {
+      "k": 6709,
+      "v": "Non tutto in una volta!"
+    },
+    {
+      "k": 6710,
+      "v": "Alla luce della situazione urgente, capo, non passerà molto tempo prima che ci manchino le Risorse più basilari quassù. Forse dovresti tirare fuori alcuni Logisti dall'aggiornamento in modo che le merci siano distribuite meglio e la nostra economia rimanga stabile."
+    },
+    {
+      "k": 6711,
+      "v": "Bravo e damerino, un'azione troppo frettolosa non ci porterà da nessuna parte. Speriamo che i problemi logistici si risolvano presto da soli."
+    },
+    {
+      "k": 6712,
+      "v": "Ok, capo, allora finiamo il progetto il più velocemente possibile e portiamo tutto ciò che abbiamo nell'Endzone. La velocità è il nome del gioco!"
+    },
+    {
+      "k": 6713,
+      "v": "Probabilmente ci sono cose più importanti da fare. Speriamo solo che la produzione di beni quassù non venga interrotta."
+    },
+    {
+      "k": 6714,
+      "v": "Qualcosa per tutti"
+    },
+    {
+      "k": 6715,
+      "v": "Qualunque siano i conflitti, abbiamo problemi a distribuire anche i beni più necessari. Un mercato come hub di transito centrale sarebbe fantastico. Possiamo impiegare logistici appositamente per il trasporto di merci lì."
+    },
+    {
+      "k": 6716,
+      "v": "Fantastico, la distribuzione delle merci è già molto più mirata in questo modo."
+    },
+    {
+      "k": 6717,
+      "v": "Ok, capo, allora è così che dovrà funzionare."
+    },
+    {
+      "k": 6718,
+      "v": "Capo, è davvero urgente. Non possiamo permetterci che l'approvvigionamento di base si interrompa!"
+    },
+    {
+      "k": 6448,
+      "v": "Una nuova fase di civiltà"
+    },
+    {
+      "k": 6449,
+      "v": "Ehi, capo! Dopo i sacrifici coinvolti nella ricostruzione, i cittadini vogliono che tu metta a loro disposizione un municipio. Possiamo sollevare e discutere le nostre preoccupazioni lì. Sarebbe un grande passo per tutti noi nella direzione di una nuova, fiorente Civiltà. Aggiorna il centro città ancora una volta per raggiungere questo obiettivo."
+    },
+    {
+      "k": 6450,
+      "v": "Il municipio è ora aperto a tutti i coloni! Segna l'inizio di un periodo di prosperità e di autodeterminazione. A partire da ora, i residenti di questo insediamento esporranno le loro richieste. È naturale che non tutte le preoccupazioni possano essere risolte, ma senza dubbio prenderai le decisioni giuste e forse potrai imparare qualcosa dalle nostre idee, capo!"
+    },
+    {
+      "k": 6451,
+      "v": "Abbondante come la sabbia sulla spiaggia"
+    },
+    {
+      "k": 6452,
+      "v": "Ehi, capo, abbiamo pensato a nuovi materiali da costruzione. Calcestruzzo e vetro sono particolarmente promettenti. Un buon primo passo sarebbe eseguire più ricerche sulla costruzione di una miniera di sabbia."
+    },
+    {
+      "k": 6453,
+      "v": "Molto bene. Siamo già ansiosi di vedere come funziona la nostra invenzione nella pratica della vita reale."
+    },
+    {
+      "k": 6454,
+      "v": "Da dove otteniamo il cemento?"
+    },
+    {
+      "k": 6455,
+      "v": "Siamo già in grado di estrarre la sabbia, ma ci mancano ancora le conoscenze necessarie per ottenere il cemento. Questo dovrebbe essere il nostro prossimo progetto di ricerca!"
+    },
+    {
+      "k": 6456,
+      "v": "Con questa Tecnologia abbiamo tutti i materiali iniziali per produrre Calcestruzzo."
+    },
+    {
+      "k": 6457,
+      "v": "Costruito con la sabbia"
+    },
+    {
+      "k": 6458,
+      "v": "Sabbia e cemento sono a nostra disposizione, capo. Ciò di cui abbiamo ancora bisogno ora è una sorta di struttura in cui possiamo trasformarli entrambi in calcestruzzo. Nella migliore delle ipotesi, i nostri Ricercatori dovrebbero fare alcune proposte al riguardo."
+    },
+    {
+      "k": 6459,
+      "v": "Ce l'abbiamo, calcestruzzo! Allora vediamo cosa può fare per noi questo nuovo materiale miracoloso."
+    },
+    {
+      "k": 6460,
+      "v": "Scienza dei materiali"
+    },
+    {
+      "k": 6461,
+      "v": "Ci mancano semplicemente i materiali giusti per tecnologie veramente innovative, capo. Gli esperti dicono che dobbiamo sviluppare un nuovo tipo di impianto di produzione per ottenerli. Anche se saranno necessarie alcune ricerche, in seguito saremo in grado di costruire una fabbrica di materiali come quella."
+    },
+    {
+      "k": 6462,
+      "v": "Molto bene. Quando avremo davvero messo in funzione quella fabbrica di materiali, avremo possibilità completamente nuove a portata di mano."
+    },
+    {
+      "k": 6463,
+      "v": "Una nuova casa per il pesce"
+    },
+    {
+      "k": 6464,
+      "v": "Prendiamo ancora il nostro pesce dai laghi, capo. Forse è arrivato il momento di cercare un'alternativa. Con la giusta Conoscenza è una cosa sicura che potremmo costruire un'Acquafarm."
+    },
+    {
+      "k": 6465,
+      "v": "I nostri ricercatori riferiscono di aver completato i loro studi. Ora siamo pronti per costruire un'Acquafarm. Molto bene!"
+    },
+    {
+      "k": 6466,
+      "v": "Crescita schermata"
+    },
+    {
+      "k": 6467,
+      "v": "Dovremmo occuparci dell'idea di una serra per migliorare ancora di più la crescita delle nostre piante. Può metterci a disposizione i mezzi necessari, capo?"
+    },
+    {
+      "k": 6468,
+      "v": "Questo ci ha davvero portato oltre. Ora siamo pronti per costruire e gestire le nostre prime Serre."
+    },
+    {
+      "k": 6469,
+      "v": "Più acqua!"
+    },
+    {
+      "k": 6470,
+      "v": "I nostri ricercatori dicono di avere alcune idee sull'aggiornamento della torre dell'acqua. Possiamo mettere a loro disposizione i mezzi necessari?"
+    },
+    {
+      "k": 6471,
+      "v": "Molto bene. La torre dell'acqua di nuova concezione è un vero passo avanti rispetto a quella vecchia."
+    },
+    {
+      "k": 6472,
+      "v": "Acqua, come per magia?"
+    },
+    {
+      "k": 6473,
+      "v": "Collegando una stazione di pompaggio alle torri idriche di nuova concezione, saremo presto in grado di automatizzare completamente il nostro approvvigionamento idrico. L'unica cosa necessaria sarebbe qualche ricerca, quindi saremmo pronti a partire."
+    },
+    {
+      "k": 6474,
+      "v": "Questa tecnologia è fantastica. Quando lo metteremo in pratica, il nostro rifornimento idrico presto funzionerà da solo!"
+    },
+    {
+      "k": 6475,
+      "v": "Costruito per l'eternità"
+    },
+    {
+      "k": 6476,
+      "v": "Con i nostri materiali migliorati siamo in grado di costruire i nostri edifici con una stabilità notevolmente maggiore. Cosa ne pensi, capo, un po' più di resistenza in questo mondo non sarebbe di grande valore?"
+    },
+    {
+      "k": 6477,
+      "v": "Da subito i nostri Edifici sono molto più stabili di prima. Un ottimo investimento di risorse di ricerca!"
+    },
+    {
+      "k": 6478,
+      "v": "Le piante hanno sete"
+    },
+    {
+      "k": 6479,
+      "v": "Il nostro approvvigionamento idrico sta diventando sempre più avanzato. Con la giusta conoscenza potremmo usare i nostri impianti di irrigazione per rifornire di acqua un'area molto più grande in futuro."
+    },
+    {
+      "k": 6480,
+      "v": "Questa tecnologia ci farà superare ancora meglio i lunghi periodi di siccità. È davvero un bene che ora non dobbiamo più preoccuparci di irrigare i campi."
+    },
+    {
+      "k": 6481,
+      "v": "Comoda convivenza"
+    },
+    {
+      "k": 6482,
+      "v": "Alcuni di noi vivono in un rifugio. Non dovremmo incaricare i nostri Ricercatori di rendere questi alloggi un po' più confortevoli?"
+    },
+    {
+      "k": 6483,
+      "v": "Molto bene. Ora siamo già arrivati al punto di avere piani concreti per rendere la vita più piacevole in futuro. Dovremmo metterli in pratica presto."
+    },
+    {
+      "k": 6484,
+      "v": "Vivere piuttosto che abitare"
+    },
+    {
+      "k": 6485,
+      "v": "Siamo convinti che le nostre abitazioni potrebbero essere decisamente più confortevoli. Dovremmo mettere la nostra ingegnosità per lavorare su questo!"
+    },
+    {
+      "k": 6486,
+      "v": "È davvero fantastico quello che le nostre menti creative hanno escogitato per le abitazioni. Sono concetti molto promettenti!"
+    },
+    {
+      "k": 6487,
+      "v": "Un posto incantevole dove bere?"
+    },
+    {
+      "k": 6488,
+      "v": "Il Pub è diventato un luogo importante nella comunità. Dovremmo davvero vedere se non possiamo progettare il posto ancora più carino e migliore."
+    },
+    {
+      "k": 6489,
+      "v": "Queste sono ottime idee per il Pub. Mettiamoli in pratica il più velocemente possibile."
+    },
+    {
+      "k": 6490,
+      "v": "Una piantina delicata"
+    },
+    {
+      "k": 6491,
+      "v": "Capo, uno dei nostri ha appena trovato qualcosa nel sottobosco. È una piccola pianta del caffè! Difficile credere in questo clima. Sembra anche peggio per l'usura. Dovremmo ripiantarlo e ravvivarlo con molto fertilizzante. Forse in questo modo saremmo presto in grado di coltivare il caffè su una scala delle dimensioni di una piantagione."
+    },
+    {
+      "k": 6492,
+      "v": "Molto bene, ha funzionato. Ora abbiamo diverse giovani piante di caffè che possiamo distribuire sui campi. Dovremmo farlo il prima possibile."
+    },
+    {
+      "k": 6493,
+      "v": "È un fatto molto triste, ma la piccola pianta è morta. È un miracolo che sia sopravvissuto qui. Con un po' di cautela probabilmente avremmo potuto salvarlo, ma semplicemente ci mancavano i mezzi per farlo..."
+    },
+    {
+      "k": 6494,
+      "v": "È un vero peccato, capo. Ma se pensi che non possiamo permetterci il tempo e lo sforzo, allora dovremo lasciarci sfuggire questa occasione per il caffè."
+    },
+    {
+      "k": 6495,
+      "v": "Sogni Verdi"
+    },
+    {
+      "k": 6496,
+      "v": "Abbiamo trovato dei semi di canapa in un piccolo vecchio caso. Con un po' di terreno li abbiamo fatti crescere, ma per la coltivazione probabilmente avremo bisogno di diversi tipi di strumenti speciali. Potrebbe metterli a nostra disposizione, capo?"
+    },
+    {
+      "k": 6497,
+      "v": "Con gli Strumenti speciali siamo riusciti a garantire la Crescita delle Piante. Ora sono pronte per essere coltivate sui campi."
+    },
+    {
+      "k": 6498,
+      "v": "Purtroppo, non siamo riusciti a far crescere i semi di canapa. Alla fine ci mancavano gli strumenti giusti..."
+    },
+    {
+      "k": 6499,
+      "v": "È un vero peccato, capo. Abbiamo davvero pensato che avremmo potuto farlo funzionare. Sfortunatamente, in questo modo dovremo fare a meno delle piante di canapa."
+    },
+    {
+      "k": 6500,
+      "v": "Fioriti campi di grano"
+    },
+    {
+      "k": 6501,
+      "v": "Capo, non ci crederai: abbiamo messo le mani su alcuni semi di grano in modo da poterli coltivare il prima possibile. Cavolo, non vediamo l'ora che arrivi il primo raccolto. Pensa a tutte le cose che possiamo fare con quello..."
+    },
+    {
+      "k": 6502,
+      "v": "Perfetto. I campi stanno prosperando, proprio come ce lo immaginavamo."
+    },
+    {
+      "k": 6503,
+      "v": "È davvero fastidioso, capo. Abbiamo fatto di tutto per ottenere quei semi. E ora non stai facendo niente con loro! È davvero deludente!"
+    },
+    {
+      "k": 6504,
+      "v": "Davvero no, capo? Questa è una vera opportunità per noi. Il grano è la pianta perfetta per un raccolto. Ma se lo dici tu..."
+    },
+    {
+      "k": 6505,
+      "v": "La retata del bestiame"
+    },
+    {
+      "k": 6506,
+      "v": "Molti animali del vecchio mondo sono tornati a correre selvaggi. Recentemente abbiamo visto una mandria di mucche che si erano saziate nella foresta. Se potessimo piantare degli Alberi nelle vicinanze, è sicuro che torneranno di nuovo e potremmo portarne alcuni al Pascolo."
+    },
+    {
+      "k": 6507,
+      "v": "Siamo davvero riusciti a litigare con alcune mucche. Ora, se sistemiamo quei Bovini al pascolo avremo presto a disposizione il primo litro di Latte."
+    },
+    {
+      "k": 6508,
+      "v": "Le mucche non vengono da noi così. Probabilmente da tempo si sono trasferiti in altre regioni. È davvero un'occasione mancata, capo!"
+    },
+    {
+      "k": 6509,
+      "v": "Abbiamo davvero pensato che questa idea potesse portarci un passo avanti. Ma a quanto pare non abbiamo i mezzi per metterlo in pratica..."
+    },
+    {
+      "k": 6510,
+      "v": "Offerta allettante"
+    },
+    {
+      "k": 6511,
+      "v": "Uno di noi ha recentemente avvistato un branco di capre selvatiche che si aggiravano intorno. Se usassimo solo del cibo per attirarli più vicino a noi, potremmo catturarne alcuni e portarli al pascolo."
+    },
+    {
+      "k": 6512,
+      "v": "Siamo riusciti ad attirare le capre al nostro pascolo. È stata davvero un'ottima iniziativa, capo."
+    },
+    {
+      "k": 6513,
+      "v": "Le capre non passeggeranno così sul nostro pascolo. Ma a quanto pare non avevamo abbastanza Feed avanzato."
+    },
+    {
+      "k": 6514,
+      "v": "Neanche un po' di Mangime per Capre? Ora è davvero deludente..."
+    },
+    {
+      "k": 6515,
+      "v": "La tecnologia degli antenati"
+    },
+    {
+      "k": 6516,
+      "v": "Ehi, capo, abbiamo trovato un apparato molto interessante nelle vicinanze. Nessuno di noi sa a cosa serve. Ma sembra che potremmo imparare alcune cose sulla tecnologia che avevano i nostri antenati. Tuttavia, la cosa è altamente contaminata dalle radiazioni. L'unico modo in cui dovremmo rischiare un esame più attento è con gli indumenti protettivi."
+    },
+    {
+      "k": 6517,
+      "v": "Abbiamo esaminato il dispositivo e non siamo ancora sicuri a quale scopo potesse essere servito una volta. Ma abbiamo imparato alcune cose sulla meccanica e l'elettronica. Strano, le cose in cui i nostri antenati hanno investito tutto il loro tempo e le loro risorse..."
+    },
+    {
+      "k": 6518,
+      "v": "No, non esamineremo la parte senza indumenti protettivi: è semplicemente troppo pericoloso."
+    },
+    {
+      "k": 6519,
+      "v": "È un peccato, ma a quanto pare non possiamo espandere la nostra Conoscenza in questo modo."
+    },
+    {
+      "k": 6520,
+      "v": "Aggeggi d'oro"
+    },
+    {
+      "k": 6521,
+      "v": "Uno dei nostri più talentuosi artigiani ha un suggerimento, capo, ma per farlo ha bisogno di plastica ed elettronica. Nessuno in realtà capisce esattamente cosa intende fare, ma per la maggior parte le sue idee valgono oro a peso. Dovremmo darle una possibilità, non credi?"
+    },
+    {
+      "k": 6522,
+      "v": "Veramente di prim'ordine. Quello che ha costruito è totalmente pazzesco e non siamo sicuri che ci sia anche un modo pratico per usarlo. Ma nel processo abbiamo imparato alcune cose, quindi ne è valsa la pena."
+    },
+    {
+      "k": 6523,
+      "v": "Purtroppo, la nostra inventrice non è stata in grado di realizzare il suo progetto perché non aveva i mezzi per farlo. Ora ha già altri piani. Occasione mancata!"
+    },
+    {
+      "k": 6524,
+      "v": "È un peccato, capo. Dovremmo approvare più idee del genere in futuro, anche se il loro beneficio non è sempre immediatamente identificabile."
+    },
+    {
+      "k": 6525,
+      "v": "Impossibile soddisfare la domanda"
+    },
+    {
+      "k": 6526,
+      "v": "<<resourceName>> immagazzinato in <<buildingName>>: <<amount>>"
+    },
+    {
+      "k": 6527,
+      "v": "Miniera di sabbia ricercata: <<amount>>"
+    },
+    {
+      "k": 6528,
+      "v": "Cemento ricercato: <<amount>>"
+    },
+    {
+      "k": 6529,
+      "v": "Fabbrica di calcestruzzo ricercata: <<amount>>"
+    },
+    {
+      "k": 6530,
+      "v": "Fabbrica dei materiali ricercata: <<amount>>"
+    },
+    {
+      "k": 6531,
+      "v": "Torre dell'acqua potenziata ricercata: <<amount>>"
+    },
+    {
+      "k": 6532,
+      "v": "Stazione di pompaggio ricercata: <<amount>>"
+    },
+    {
+      "k": 6533,
+      "v": "Acquafarm ricercata: <<amount>>"
+    },
+    {
+      "k": 6534,
+      "v": "Serra ricercata: <<amount>>"
+    },
+    {
+      "k": 6535,
+      "v": "Aumento del raggio dell'impianto di irrigazione ricercato: <<amount>>"
+    },
+    {
+      "k": 6536,
+      "v": "Case Confortevoli ricercate: <<amount>>"
+    },
+    {
+      "k": 6537,
+      "v": "Rifugi confortevoli ricercati: <<amount>>"
+    },
+    {
+      "k": 6538,
+      "v": "Edifici durevoli ricercati: <<amount>>"
+    },
+    {
+      "k": 6539,
+      "v": "Pub aggiornato ricercato: <<amount>>"
+    },
+    {
+      "k": 6540,
+      "v": "Edifici durevoli"
+    },
+    {
+      "k": 6541,
+      "v": "Questa ricerca aumenta la resistenza di tutti gli edifici contro le tempeste di sabbia e gli attacchi dei predoni."
+    },
+    {
+      "k": 6542,
+      "v": "Irrigazione più ampia"
+    },
+    {
+      "k": 6543,
+      "v": "Questa ricerca aumenta il raggio in cui le piante di irrigazione irrigano l'ambiente circostante con un consumo di acqua costante."
+    },
+    {
+      "k": 6692,
+      "v": "Estrazione di cemento"
+    },
+    {
+      "k": 6544,
+      "v": "Collega una torre idrica potenziata a una stazione di pompaggio"
+    },
+    {
+      "k": 6547,
+      "v": "Scegli un seme per una serra: <<amount>>"
+    },
+    {
+      "k": 6557,
+      "v": "Un complimento"
+    },
+    {
+      "k": 6558,
+      "v": "Anche se non è tutto perfetto, le persone apprezzano davvero la tua dedizione, capo. In ogni caso siamo sulla strada giusta!"
+    },
+    {
+      "k": 6559,
+      "v": "Effrazioni nei magazzini!"
+    },
+    {
+      "k": 6560,
+      "v": "La gente sta forzando le porte dei Magazzini. Guarda che... Gli scaffali sono pieni. Perché ci tieni al guinzaglio, capo? – Smettila di trattarci come pazzi!"
+    },
+    {
+      "k": 6561,
+      "v": "I beni migliori, tutti saccheggiati!"
+    },
+    {
+      "k": 6562,
+      "v": "Anche le persone vogliono godersi la prosperità in cui viviamo. Non dimenticare quanto hanno lavorato duramente per tutto qui! Se non sei disposto a darci nulla, allora ci aiuteremo comunque a ciò a cui abbiamo diritto!"
+    },
+    {
+      "k": 6563,
+      "v": "Il primo di molti?"
+    },
+    {
+      "k": 6564,
+      "v": "Non sei l'unico che decide dove ci porta la fortuna, capo! Se non prendi sul serio le nostre preoccupazioni, presto molte più persone lasceranno questo insediamento."
+    },
+    {
+      "k": 6565,
+      "v": "Fuori dai sentieri battuti"
+    },
+    {
+      "k": 6566,
+      "v": "Questo insediamento appartiene a noi! Non dimenticarlo, capo! Se non ci ascolti, allora cercheremo un nuovo posto dove possiamo scegliere da soli dove ci porta la fortuna."
+    },
+    {
+      "k": 6567,
+      "v": "Non produrre sempre la stessa cosa!"
+    },
+    {
+      "k": 6568,
+      "v": "Cosa ti danno tutte le precauzioni e la sicurezza quando le cose non stanno facendo alcun progresso? La gente pensa che molte delle nostre operazioni siano superflue. Sarebbe meglio se prima non li ricostruissi e ti prendessi cura di noi!"
+    },
+    {
+      "k": 6569,
+      "v": "Le gazze e i loro nidi"
+    },
+    {
+      "k": 6570,
+      "v": "Capo, il nostro progresso è la tua missione, ma tu semplicemente ignori ciò che ci riguarda. Non sorprenderti se la gente sta svuotando Magazzini e Depositi! Vogliono rendere la loro vita più bella e prendere ciò che hanno a portata di mano. Non pensi che tutti noi dovremmo tirare di nuovo nella stessa direzione?"
+    },
+    {
+      "k": 6571,
+      "v": "Partire verso l'ignoto"
+    },
+    {
+      "k": 6572,
+      "v": "Le persone si chiedono se il loro benessere significhi ancora molto per te, capo. Molti di loro sono già partiti. Per loro, questo insediamento è un vicolo cieco in cui i loro desideri non hanno più alcun ruolo."
+    },
+    {
+      "k": 6573,
+      "v": "La rabbia di molti"
+    },
+    {
+      "k": 6574,
+      "v": "La gente ha perso tutta la pazienza, riesce a malapena a tenerla a bada. È colpa tua. Non hai preso sul serio nessuno dei nostri desideri, vero? Doveva davvero arrivare così lontano?"
+    },
+    {
+      "k": 6575,
+      "v": "Prepararsi al peggio"
+    },
+    {
+      "k": 6576,
+      "v": "Se non rispondi alle nostre preoccupazioni, capo, come facciamo a credere ancora che le cose funzionino eque e quadrate qui? Le persone stanno già iniziando a fare scorta dei beni più preziosi. Il caos regnerà presto qui!"
+    },
+    {
+      "k": 6577,
+      "v": "fresca speranza"
+    },
+    {
+      "k": 6578,
+      "v": "Davvero un'ottima cosa, capo! Ciò incoraggerà le persone a esprimere di nuovo più idee e preoccupazioni."
+    },
+    {
+      "k": 6579,
+      "v": "Tempo libero d'oro"
+    },
+    {
+      "k": 6580,
+      "v": "Fantastico, la gente è contenta. Sì, il lavoro a volte è duro, ma in cambio possiamo goderci ancora di più il nostro tempo libero!"
+    },
+    {
+      "k": 6581,
+      "v": "Suscitare giovani ambizioni"
+    },
+    {
+      "k": 6582,
+      "v": "La gente sta sbocciando. Se vengono ascoltati per una volta, escono con gli argomenti più selvaggi – e alcune idee innovative sono sempre tra loro."
+    },
+    {
+      "k": 6583,
+      "v": "Più coinvolgimento"
+    },
+    {
+      "k": 6584,
+      "v": "Finalmente possiamo avere voce in capitolo nel decidere il nostro futuro! Il tuo impegno ci dà speranza e questo stimola lo spirito inventivo delle persone qui."
+    },
+    {
+      "k": 6585,
+      "v": "Un buon motivo per lavorare"
+    },
+    {
+      "k": 6586,
+      "v": "Con così tante buone idee supereremo anche le sfide a venire. Non tutti i problemi sono stati ancora risolti, ma non ci vorrà molto."
+    },
+    {
+      "k": 6587,
+      "v": "L'orgoglio dei padri"
+    },
+    {
+      "k": 6588,
+      "v": "Cosa direbbero probabilmente i nostri antenati se solo potessero vedere come stiamo andando bene in questi giorni? Penso che sarebbero orgogliosi della nostra prosperità e dell'autodeterminazione che ci piace."
+    },
+    {
+      "k": 6589,
+      "v": "Stiamo facendo di nuovo le scelte da soli"
+    },
+    {
+      "k": 6590,
+      "v": "Abbiamo finalmente i mezzi per adattare di nuovo la vita alle nostre esigenze. La nostra prosperità sta anche attraendo persone da altri insediamenti. Diamo loro il benvenuto!"
+    },
+    {
+      "k": 6591,
+      "v": "Un grande passo avanti"
+    },
+    {
+      "k": 6592,
+      "v": "A volte mi chiedo quali sono tutte le cose che noi sopravvissuti possiamo ottenere. E poi ho sentito parlare di un sacco di grandi idee che si stanno realizzando qui! Voglio vivere in un posto così!"
+    },
+    {
+      "k": 6593,
+      "v": "Il valore dell'autodeterminazione"
+    },
+    {
+      "k": 6594,
+      "v": "La ricchezza più grande vale poco senza l'autodeterminazione. Nel frattempo molti viaggiatori vengono a vivere qui. Con noi, la vita e il futuro appartengono a tutti. Tutti hanno voce in capitolo."
+    },
+    {
+      "k": 6595,
+      "v": "Cittadini invece di lavoratori"
+    },
+    {
+      "k": 6596,
+      "v": "Siamo un fulgido esempio! Non siamo solo Lavoratori, siamo parte di una comunità retta. Ecco perché vengono qui così tante persone che cercano una vita migliore."
+    },
+    {
+      "k": 6597,
+      "v": "Un rifugio sicuro"
+    },
+    {
+      "k": 6598,
+      "v": "Così tante persone si stanno dirigendo verso di noi perché hanno sentito parlare della nostra Prosperità. Accogliamoli e lasciamo che condividano la nostra ricchezza!"
+    },
+    {
+      "k": 6599,
+      "v": "Tempi d'oro"
+    },
+    {
+      "k": 6600,
+      "v": "Sì, davvero, questi sono davvero tempi d'oro. Non solo sopravviviamo, ci è permesso di modellare le nostre vite qui secondo i nostri punti di vista. Tutto questo non sarebbe possibile senza di te, capo. Grazie mille per la tua dedizione e le sagge decisioni!"
+    },
+    {
+      "k": 6601,
+      "v": "Era davvero tutto migliore?"
+    },
+    {
+      "k": 6602,
+      "v": "Al giorno d'oggi, ogni volta che leggo alcuni testi e storie del vecchio mondo, mi chiedo se i nostri antenati stavano davvero meglio di noi, non riesco a immaginarlo."
+    },
+    {
+      "k": 6603,
+      "v": "Il nuovo periodo di massimo splendore dopo la caduta"
+    },
+    {
+      "k": 6604,
+      "v": "Dopo la catastrofe noi esseri umani alla fine ci siamo uniti tutti insieme! Ognuno di noi qui ha lavorato per generare parte della nostra prosperità e ha fornito idee per il nostro progresso. Lo dobbiamo al tuo impegno, capo, e vogliamo ringraziarti per questo!"
+    },
+    {
+      "k": 6605,
+      "v": "Esigente"
+    },
+    {
+      "k": 6606,
+      "v": "Fiducioso"
+    },
+    {
+      "k": 6607,
+      "v": "Comodo"
+    },
+    {
+      "k": 6608,
+      "v": "Spensierato"
+    },
+    {
+      "k": 6609,
+      "v": "Tempo rimasto fino a ulteriori Richieste: <style=\"BoldHighlight\"><<time>></style>"
+    },
+    {
+      "k": 6610,
+      "v": "Tempo rimasto per scegliere una richiesta: <style=\"BoldHighlight\"><<time>></style>"
+    },
+    {
+      "k": 6611,
+      "v": "È tempo di soddisfare una delle richieste dei tuoi coloni."
+    },
+    {
+      "k": 6612,
+      "v": "Visualizza le richieste"
+    },
+    {
+      "k": 6613,
+      "v": "Missione di domanda continua\n"
+    },
+    {
+      "k": 6614,
+      "v": "Soddisfa la richiesta attuale in tempo in modo che i tuoi coloni si sentano <style=\"BoldHighlight\">esigenti</style> e, di conseguenza, non facciano nuove richieste per molto tempo.\n"
+    },
+    {
+      "k": 6615,
+      "v": "Soddisfa l'attuale richiesta in tempo in modo che i tuoi coloni si sentano <style=\"BoldHighlight\">comodi</style> e, di conseguenza, non facciano nuove richieste per molto tempo.\n"
+    },
+    {
+      "k": 6616,
+      "v": "Soddisfa la domanda attuale in tempo in modo che i tuoi coloni si sentano <style=\"BoldHighlight\">fiduciosi</style> e, di conseguenza, non facciano nuove richieste per molto tempo.\n"
+    },
+    {
+      "k": 6617,
+      "v": "Soddisfa la domanda attuale in tempo in modo che i tuoi coloni si sentano <style=\"BoldHighlight\">spensierati</style> e, di conseguenza, non facciano nuove richieste per molto tempo.\n"
+    },
+    {
+      "k": 6618,
+      "v": "I tuoi coloni si sentono <style=\"BoldHighlight\">comodi</style> e non saranno così veloci da fare nuove richieste."
+    },
+    {
+      "k": 6619,
+      "v": "I tuoi coloni si sentono <style=\"BoldHighlight\">fiduciosi</style> e non saranno così veloci da fare nuove richieste."
+    },
+    {
+      "k": 6620,
+      "v": "I tuoi coloni si sentono <style=\"BoldHighlight\">spensierati</style> e non saranno così veloci da fare nuove richieste."
+    },
+    {
+      "k": 6650,
+      "v": "Umore attuale:"
+    },
+    {
+      "k": 6694,
+      "v": "Se questo stato d'animo viene raggiunto soddisfacendo le richieste, ci vorrà <<time>> prima che i coloni facciano nuove richieste."
+    },
+    {
+      "k": 6637,
+      "v": "Trasforma il tuo centro città in un municipio!"
+    },
+    {
+      "k": 6638,
+      "v": "Caffè ricercato: <<amount>>"
+    },
+    {
+      "k": 6639,
+      "v": "Birra ricercata: <<amount>>"
+    },
+    {
+      "k": 6640,
+      "v": "Sapone ricercato: <<amount>>"
+    },
+    {
+      "k": 6641,
+      "v": "Giunti ricercati: <<amount>>"
+    },
+    {
+      "k": 6642,
+      "v": "Stufato ricercato: <<amount>>"
+    },
+    {
+      "k": 6646,
+      "v": "Torta ricercata: <<amount>>"
+    },
+    {
+      "k": 6648,
+      "v": "Grazie"
+    },
+    {
+      "k": 6652,
+      "v": "Forza in erba"
+    },
+    {
+      "k": 6653,
+      "v": "Il fatto che diamo forma congiuntamente al nostro futuro è un pilastro fondamentale del nostro successo. Tuttavia, la maggior parte di noi considera il nostro insediamento troppo piccolo per affrontare le sfide del futuro. Pensano che dobbiamo crescere per garantire la nostra ricchezza su una base duratura."
+    },
+    {
+      "k": 6654,
+      "v": "Questo posto è diventato più grande con il passare del tempo, proprio come molti di noi avevano desiderato."
+    },
+    {
+      "k": 6655,
+      "v": "Ricchezza in crescita"
+    },
+    {
+      "k": 6656,
+      "v": "Ci siamo evoluti in una comunità straordinaria e dovremmo intraprendere il nostro percorso di crescita. Inoltre, sogniamo da tempo di dedicare un monumento significativo al nostro successo. Crediamo che sia giunto il momento di iniziare con il lavoro su un punto di riferimento come questo."
+    },
+    {
+      "k": 6657,
+      "v": "Ieri eravamo ancora pochi deboli, oggi siamo tanti e forti! Il lavoro sul punto di riferimento di Beacon sta procedendo bene e questo insediamento è più vivo che mai."
+    },
+    {
+      "k": 6658,
+      "v": "Prosperità fiorente"
+    },
+    {
+      "k": 6659,
+      "v": "La crescita è ciò che ha reso possibile la nostra prosperità in primo luogo e questo posto sarà ancora in grado di fornire a molte, molte più persone una casa sicura in futuro. Il nostro punto di riferimento faro dovrebbe salire in alto nel cielo, visibile a tutti, come simbolo della nostra fiducia."
+    },
+    {
+      "k": 6660,
+      "v": "Questo posto non è più solo un insediamento di sopravvissuti. Si è evoluta in una città, in una patria per i cittadini di una grande Civiltà che guardano con speranza e ottimismo al futuro."
+    },
+    {
+      "k": 6661,
+      "v": "Una nuova era: con te o senza di te?"
+    },
+    {
+      "k": 6662,
+      "v": "Siamo profondamente in debito con te, capo! Sarebbe un onore per noi quando i tuoi consigli continueranno ad accompagnarci. Eppure grazie a te non dobbiamo più fare affidamento su di esso. La nostra forza lavoro e intraprendenza saranno sufficienti per superare anche le sfide a venire. Tuttavia, continuerai a stare al nostro fianco o andrai in meritata pensione?"
+    },
+    {
+      "k": 6663,
+      "v": "Soddisfa la domanda di birra dei tuoi coloni!"
+    },
+    {
+      "k": 6664,
+      "v": "Soddisfa la richiesta di torta dei tuoi coloni!"
+    },
+    {
+      "k": 6665,
+      "v": "Soddisfa la richiesta di caffè dei tuoi coloni!"
+    },
+    {
+      "k": 6666,
+      "v": "Soddisfa la richiesta di giunti dei tuoi coloni!"
+    },
+    {
+      "k": 6667,
+      "v": "Soddisfa la richiesta di sapone dei tuoi coloni!"
+    },
+    {
+      "k": 6668,
+      "v": "Soddisfa la richiesta di stufato dei tuoi coloni!"
+    },
+    {
+      "k": 6669,
+      "v": "Le richieste dei coloni respinte."
+    },
+    {
+      "k": 6670,
+      "v": "Accetta la domanda"
+    },
+    {
+      "k": 6671,
+      "v": "Rifiuta la domanda"
+    },
+    {
+      "k": 6672,
+      "v": "Hai letto che le persone fumavano piante di canapa per rilassarsi. Certo, i giunti sono più qualcosa da avere per il tempo libero, ma abbiamo lavorato duramente anche per la nostra prosperità. Ci piacerebbe davvero provarlo, capo!"
+    },
+    {
+      "k": 6673,
+      "v": "Al momento mangiamo la maggior parte dei nostri cibi crudi. I cuochi dicono di aver cucinato molti dei nostri prodotti alimentari in stufato. Pensi che possiamo averne un po', capo?"
+    },
+    {
+      "k": 6674,
+      "v": "Oltre al duro lavoro, dovremmo organizzare bene il nostro tempo libero. La birra sarebbe l'ideale per addolcire la sera dopo il lavoro."
+    },
+    {
+      "k": 6675,
+      "v": "Dopo che solo pochi di noi hanno bevuto caffè fino ad ora, in questi giorni sempre più persone lo stanno assaggiando. Ma il caffè in realtà dovrebbe essere lì per tutti, giusto?"
+    },
+    {
+      "k": 6676,
+      "v": "Sarebbe bello avere un po' più di varietà in termini di pasti. Ora alcune persone hanno avuto un gusto per i pasti cotti. Pensi che possiamo preparare lo stufato per tutti, capo?"
+    },
+    {
+      "k": 6677,
+      "v": "Abbiamo pasti buoni e sostanziosi all'insediamento. Ma molti di noi vogliono un cambio di passo, in altre parole una vera alternativa. Torta per tutti, ora sarebbe già qualcosa, no?!"
+    },
+    {
+      "k": 6678,
+      "v": "Sempre più persone si godono la serata dopo il lavoro con una birra fresca in mano. Pensi di poter mettere le mani su abbastanza birra per tutti noi, capo?"
+    },
+    {
+      "k": 6679,
+      "v": "Abbiamo a nostra disposizione alcune quantità di Canapa essiccata. Da loro possono essere realizzati giunti. Sarebbero perfetti per un pomeriggio rilassante al sole, dopo il lavoro, ovviamente. Potrebbe essere organizzato, capo?"
+    },
+    {
+      "k": 6680,
+      "v": "Il caffè veniva consumato in grandi quantità per alleviare la fatica. Forse potremmo stabilire questa tradizione anche tra la nostra gente. Dovremmo fare un tentativo, capo?"
+    },
+    {
+      "k": 6687,
+      "v": "Alberi piantati: <<amount>>"
+    },
+    {
+      "k": 6688,
+      "v": "Grano vegetale sui campi: <<amount>>"
+    },
+    {
+      "k": 6758,
+      "v": "Nessuna missione disponibile"
+    },
+    {
+      "k": 6769,
+      "v": "coloni non faranno richieste finché il <link=\"24\"><style=\"DefaultLink\">Municipio</style></link> non sarà stato costruito."
+    },
+    {
+      "k": 6770,
+      "v": "Progetti per il punto di riferimento del faro"
+    },
+    {
+      "k": 6771,
+      "v": "Fondazione per il punto di riferimento del faro"
+    },
+    {
+      "k": 6772,
+      "v": "Aggiorna per il punto di riferimento del faro"
+    },
+    {
+      "k": 6773,
+      "v": "Completamento del punto di riferimento del faro"
+    },
+    {
+      "k": 6827,
+      "v": "Livello di aggiornamento attuale per il punto di riferimento del faro"
+    },
+    {
+      "k": 6779,
+      "v": "Abilita l'alimentazione per il punto di riferimento del faro."
+    },
+    {
+      "k": 6780,
+      "v": "<style=\"ColoredHighlight\"><<seasons>> Stagioni</style> fa i nostri antenati hanno lasciato l'Endzone protettiva. Nonostante tutti i rischi e i pericoli, abbiamo trovato la nostra strada per una buona vita."
+    },
+    {
+      "k": 6782,
+      "v": "Conduciamo un'esistenza in armonia con la natura. Siamo stati in grado di domare i suoi pericoli e abbiamo imparato a utilizzare i suoi tesori a beneficio della nostra prosperità."
+    },
+    {
+      "k": 6781,
+      "v": "Questa fiorente città ha <style=\"ColoredHighlight\"><<buildings>> Edifici</style> in cui oggi vivono <style=\"ColoredHighlight\"><<settlers>> Abitanti</style>. Insieme abbiamo esplorato il territorio circostante e sviluppato nuove Tecnologie. Allora i nostri antenati non erano nemmeno in grado di immaginare dove un giorno il progresso ci avrebbe portato."
+    },
+    {
+      "k": 6783,
+      "v": "Un risultato favoloso"
+    },
+    {
+      "k": 6814,
+      "v": "Fiducia raggiante"
+    },
+    {
+      "k": 6790,
+      "v": "Ora dovremmo concludere il lavoro sul nostro punto di riferimento del faro. Questa torre non è solo un'espressione del nostro successo, dovrebbe fornire un orientamento a coloro che sono alla ricerca di una vita migliore in questo mondo. Siete tutti i benvenuti!"
+    },
+    {
+      "k": 6791,
+      "v": "Capo, è un onore per noi che continui a stare al nostro fianco con i tuoi consigli. Ora abbiamo i mezzi per modellare la vita qui secondo le nostre idee. Che cosa ha in mente, capo?"
+    },
+    {
+      "k": 6815,
+      "v": "Più efficiente, ancora più efficiente?!"
+    },
+    {
+      "k": 6792,
+      "v": "I nostri scienziati vogliono progettare unità di fabbrica al fine di rendere disponibili gli stessi macchinari a tutte le strutture. La produttività di molte delle strutture vicine sarebbe aumentata in questo modo. Possiamo mettere a disposizione i mezzi necessari per mettere in pratica queste idee?"
+    },
+    {
+      "k": 6793,
+      "v": "Fantastico, capo, è un'idea di prim'ordine per aumentare la produttività in questo insediamento. Ora tutto ciò che dobbiamo fare è costruire un'unità di fabbrica come quella e metterla in funzione."
+    },
+    {
+      "k": 6799,
+      "v": "Collegare l'unità di fabbrica a una rete elettrica."
+    },
+    {
+      "k": 6800,
+      "v": "Collega la fabbrica di calcestruzzo a una rete elettrica."
+    },
+    {
+      "k": 6801,
+      "v": "Collegare la stazione di pompaggio a una rete elettrica."
+    },
+    {
+      "k": 6802,
+      "v": "Collega la fabbrica dei materiali a una rete elettrica."
+    },
+    {
+      "k": 6803,
+      "v": "Collega la miniera di sabbia a una rete elettrica."
+    },
+    {
+      "k": 6804,
+      "v": "Collega l'Acquafarm a una rete elettrica."
+    },
+    {
+      "k": 6805,
+      "v": "Collega la serra a una rete elettrica."
+    },
+    {
+      "k": 6820,
+      "v": "Strumenti di ricerca raccolti: <<amount>>"
+    },
+    {
+      "k": 6828,
+      "v": "Una casa confortevole in cui i coloni possono vivere e dare alla luce la prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendo elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia. L'esecuzione di ricerche sulla casa confortevole assicura che anche la casa robusta venga ricercata quando ciò non è già avvenuto."
+    },
+    {
+      "k": 6829,
+      "v": "Un Rifugio Confortevole ospita un gran numero di Coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendo elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia. L'esecuzione di ricerche sul rifugio confortevole assicura che anche il rifugio aggiornato venga ricercato quando ciò non è già avvenuto."
+    },
+    {
+      "k": 6847,
+      "v": "Per posizionare questo edificio, il centro della città deve essere trasformato in un municipio."
+    },
+    {
+      "k": 6848,
+      "v": "<<buildingName>> costruito"
+    },
+    {
+      "k": 6849,
+      "v": "Ehi capo! Dopo le fatiche della ricostruzione, i cittadini vogliono che tu fornisca loro un municipio. Lì possiamo esprimere le nostre preoccupazioni e discuterne. Sarebbe un grande passo per tutti noi verso una nuova, prospera civiltà. Per fare ciò, espandi il centro dell'insediamento in un municipio."
+    },
+    {
+      "k": 6850,
+      "v": "Risorse insufficienti per soddisfare questa richiesta."
+    },
+    {
+      "k": 6851,
+      "v": "Cambia attività appuntata"
+    },
+    {
+      "k": 6852,
+      "v": "Menu Azione"
     }
   ]
 }
