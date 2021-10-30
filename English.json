@@ -1,4 +1,4 @@
-{
+	{
   "languageID": "English",
   "translations": [
 	{
@@ -24,6 +24,14 @@
     {
       "k": 6719,
       "v": "DLC"
+    },
+	{
+      "k": 6859,
+      "v": "Completa con successo lo scenario per sbloccare il contenuto di \"Prosperità\"."
+    },
+    {
+      "k": 6860,
+      "v": "Lo scenario deve essere completato con successo prima che il contenuto aggiuntivo di \"Prosperità\" possa essere sbloccato."
     },
     {
       "k": 6788,
@@ -1235,7 +1243,7 @@
     },
     {
       "k": 5978,
-      "v": "Acqua farm"
+      "v": "Acquafarm"
     },
     {
       "k": 5979,
@@ -2607,7 +2615,11 @@
     },
     {
       "k": 1266,
-      "v": "Forza lavoro"
+      "v": "Forza lavoro"					
+    },
+	{
+      "k": 6858,
+      "v": "Numero massimo di lavoratori"
     },
     {
       "k": 1267,
@@ -25971,7 +25983,15 @@
     },
     {
       "k": 6852,
-      "v": "Menu Azione"
+      "v": "Menu Azione"											  
+    },
+	{
+      "k": 6863,
+      "v": "Serre fornite di energia elettrica: <<amount>>"
+    },
+    {
+      "k": 6864,
+      "v": "Serre che producono chicchi di caffè: <<amount>>"
     }
   ]
 }
