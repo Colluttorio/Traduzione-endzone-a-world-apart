@@ -33,6 +33,10 @@
       "k": 6860,
       "v": "Lo scenario deve essere completato con successo prima che il contenuto aggiuntivo di \"Prosperità\" possa essere sbloccato."
     },
+	{
+      "k": 6883,
+      "v": "Spazio su disco utilizzato:"
+    },
     {
       "k": 6788,
       "v": "Livello di aggiornamento"
@@ -5005,6 +5009,10 @@
       "k": 6554,
       "v": "La domanda di un colono deve essere soddisfatta"
     },
+	{
+      "k": 6866,
+      "v": "Arresto della produzione a causa di aree di lavoro vuote"
+    },
     {
       "k": 596,
       "v": "Irrigare"	  
@@ -5047,7 +5055,51 @@
     },
     {
       "k": 5941,
-      "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."
+      "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."		   
+    },
+	{
+      "k": 6868,
+      "v": "Stato dell'unità di fabbrica"
+    },
+    {
+      "k": 6869,
+      "v": "Le risorse immagazzinate sono sufficienti per"
+    },
+    {
+      "k": 6870,
+      "v": "Edifici migliorabili nelle vicinanze"
+    },
+    {
+      "k": 6871,
+      "v": "Accumulare risorse per aumentare l'efficienza della produzione nelle vicinanze."
+    },
+    {
+      "k": 6872,
+      "v": "Non ci sono edifici migliorabili nelle vicinanze."
+    },
+    {
+      "k": 6873,
+      "v": "Forza difensiva"
+    },
+	{
+      "k": 6874,
+      "v": "Più Milizia si trova in questa Torre di Guardia durante un attacco di Predoni, più forte può essere respinto."
+    },
+    {
+      "k": 6875,
+      "v": "Milizia assegnata"
+    },
+    {
+      "k": 6876,
+      "v": "Milizia sul posto"
+    },
+    {
+      "k": 6877,
+      "v": "Il numero di milizia assegnato a questa Torre di Guardia ha la priorità tramite una missione \"Priorità per la difesa\" situata nelle vicinanze."
+    },
+    {
+      "k": 6878,
+      "v": "La milizia occuperà la torre per difendersi non appena verrà individuato un attacco di predoni sulla mappa."
     },
 	{
       "k": 6647,
@@ -5064,6 +5116,10 @@
     {
       "k": 5557,
       "v": "Vecchio e sterile"
+    },
+	{
+      "k": 6892,
+      "v": "Condizioni di vita"
     },
 	{
       "k": 3934,
@@ -5087,7 +5143,11 @@
     },
     {
       "k": 1055,
-      "v": "Edifici nelle vicinanze: <<amount>>"
+      "v": "Edifici nelle vicinanze: <<amount>>"							 
+    },
+	{
+      "k": 6884,
+      "v": "Efficienza del tempo di lavoro"
     },
     {
       "k": 1070,
@@ -5127,7 +5187,23 @@
     },
     {
       "k": 6807,
-      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."
+      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."													
+    },
+	{
+      "k": 6885,
+      "v": "L'efficienza dell'edificio è attualmente aumentata dall'elettricità"
+    },
+    {
+      "k": 6886,
+      "v": "L'edificio non è attualmente fornito di elettricità"
+    },
+    {
+      "k": 6887,
+      "v": "L'efficienza dell'edificio è aumentata da un'Unità di fabbrica"
+    },
+    {
+      "k": 6888,
+      "v": "Non c'è nessuna Unità di fabbrica nelle vicinanze"
     },
     {
       "k": 1028,
@@ -6478,6 +6554,14 @@
       "v": "Salva partita"						
     },
 	{
+      "k": 6881,
+      "v": "Continua la sessione"
+    },
+    {
+      "k": 6882,
+      "v": "Mostra i salvataggi"
+    },
+	{
       "k": 6117,
       "v": "Elimina sessione di gioco"
     },
@@ -7581,6 +7665,14 @@
       "k": 2417,
       "v": "Vantaggi"
     },
+	{
+      "k": 6879,
+      "v": "Mostra/Nascondi filtro"
+    },
+    {
+      "k": 6880,
+      "v": "Tenere premuto per cancellare il filtro"
+    },
     {
       "k": 2418,
       "v": "Cancella filtro"
@@ -8575,7 +8667,11 @@
     },
     {
       "k": 6555,
-      "v": "Completa in tempo la missione corrispondente dei tuoi coloni."
+      "v": "Completa in tempo la missione corrispondente dei tuoi coloni."								 
+    },
+	{
+      "k": 6867,
+      "v": "Controlla i Depositi di rottami e le Foresterie"
     },
     {
       "k": 857,
@@ -11763,7 +11859,7 @@
     },
     {
       "k": 1754,
-      "v": "Ecco un edificio con uno strano segno sulla facciata anteriore. Non è esattamente nella forma migliore. I ragazzi dovrebbero portare con sé strumenti e un dottore. A parte questo, alcuni strani volantini sono in giro nelle case del quartiere: \"Moonshine per la fine del mondo\". Era una specie di festa? C'è una bottiglia al centro con la scritta \"XXX\" stampata su di essa. Oh, beh, scusa per aver dedicato del tempo, capo. .."
+      "v": "Ecco un edificio con uno strano segno sulla facciata anteriore. Non è esattamente nella forma migliore. I ragazzi dovrebbero portare con sé strumenti e un dottore. A parte questo, alcuni strani volantini sono in giro nelle case del quartiere: \"Moonshine per la fine del mondo\". Era una specie di festa? C'è una bottiglia al centro con la scritta \"XXX\" stampata su di essa. Oh, beh, scusa per aver dedicato del tempo, capo..."
     },
     {
       "k": 1755,
@@ -18151,7 +18247,7 @@
     },
     {
       "k": 2832,
-      "v": "Enea Pathfinder"
+      "v": "Aeneas Pathfinder"
     },
     {
       "k": 2833,
@@ -25983,7 +26079,31 @@
     },
     {
       "k": 6852,
-      "v": "Menu Azione"											  
+      "v": "Menu Azione"	
+    },
+	{
+      "k": 6865,
+      "v": "Cambia punto di vista"
+    },
+    {
+      "k": 6890,
+      "v": "Apri vista dettagliata"
+    },
+    {
+      "k": 6891,
+      "v": "Apri Configurazione rapida"
+    },
+    {
+      "k": 6855,
+      "v": "Non hai assegnato ad alcun Logistico la conservazione delle tue Risorse."
+    },
+    {
+      "k": 6861,
+      "v": "L'oggetto di lusso Sapone può essere prodotto con latte ed erbe curative presso le strutture mediche. Quando viene utilizzato aumenta la fiducia e la salute dei tuoi coloni."
+    },
+    {
+      "k": 6862,
+      "v": "Il sapone è prodotto dai Medici con Erbe e <link=\"5\"><style=\"DefaultLink\">Latte</style></link>. Aumenta la <link=\"5\"><style=\"DefaultLink\">Fiducia</style></link> e la Salute dei Coloni che lo usano. Per essere in grado di produrre sapone, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropiata."
     },
 	{
       "k": 6863,
