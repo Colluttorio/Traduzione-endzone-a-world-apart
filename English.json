@@ -17,9 +17,21 @@
       "k": 6796,
       "v": "Halloween"
     },
+	{
+      "k": 6893,
+      "v": "Luoghi Lontani"
+    },
     {
       "k": 6797,
-      "v": "Abilita questo contenuto aggiuntivo (DLC) per un round di gioco per poter utilizzare tutti i contenuti correlati durante il gioco."
+      "v": "Abilita questo contenuto aggiuntivo (DLC) per un round di gioco per poter utilizzare tutti i contenuti correlati durante il gioco."																																																																																		  
+    },
+	{
+      "k": 6919,
+      "v": "Dopo molti anni sulla superficie tossica della Terra, i sopravvissuti sono ora pronti a reclamare il pianeta per lottare finalmente per la prosperità! L'espansione introduce nuovi materiali, nuovi edifici, nuove sfide e nuove avventure. Puoi finalmente espandere e migliorare il tuo insediamento e inaugurare l'alba di una nuova era per la tua gente."
+    },
+	{
+      "k": 6920,
+      "v": "Con questo DLC gratuito per Endzone - Un mondo a parte il tuo insediamento può essere decorato con 14 nuovissime decorazioni, principalmente a tema Halloween, che si adattano perfettamente all'ambiente. Inoltre, i tuoi coloni, incluso te stesso, probabilmente non vorranno perdersi l'adorazione del Grande Antico, altrimenti..."
     },
     {
       "k": 6719,
@@ -243,7 +255,15 @@
     },
     {
       "k": 5880,
-      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."				 
+      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."				 									
+    },
+	{
+      "k": 6927,
+      "v": "Nessun trofeo durante l'ulteriore gioco"
+    },
+	{
+      "k": 6928,
+      "v": "Nessun trofeo può essere sbloccato durante l'ulteriore gioco. Inizia una partita in modalità Sopravvivenza per sbloccare una vasta gamma di trofei."
     },
 	{
       "k": 6645,
@@ -584,6 +604,14 @@
     {
       "k": 5968,
       "v": "Calcestruzzo"
+    },
+	{
+      "k": 6894,
+      "v": "Noce di cocco"
+    },
+    {
+      "k": 6895,
+      "v": "Banana"
     },
     {
 	  "k": 880,
@@ -2501,6 +2529,10 @@
       "k": 427,
       "v": "Ruota edificio"
     },
+	{
+      "k": 6902,
+      "v": "Movimento lento della camera"
+    },
     {
       "k": 428,
       "v": "Di giorno"
@@ -3943,7 +3975,15 @@
     },
     {
       "k": 941,
-      "v": "Fai clic per aprire il menu delle risorse"
+      "v": "Fai clic per aprire il menu delle risorse"																																												 
+    },
+	{
+      "k": 6903,
+      "v": "Numero massimo di lavoratori"
+    },
+    {
+      "k": 6904,
+      "v": "Numero massimo di lavoratori determina il numero massimo di lavoratori della professione corrispondente che possono essere assegnati a questo edificio quando il loro numero nell'insediamento viene aumentato."
     },
 	{
       "k": 6853,
@@ -6450,6 +6490,22 @@
       "v": "Nessun obiettivo può essere sbloccato."
     },
 	{
+      "k": 6929,
+      "v": "È possibile sbloccare trofei relativi ai tutorial."
+    },
+    {
+      "k": 6930,
+      "v": "È possibile sbloccare trofei relativi alla modalità Sopravvivenza."
+    },
+    {
+      "k": 6931,
+      "v": "È possibile sbloccare trofei relativi agli scenari."
+    },
+    {
+      "k": 6932,
+      "v": "Nessun trofeo può essere sbloccato."
+    },
+	{
       "k": 4517,
       "v": "Tutorials"
     },
@@ -6467,7 +6523,11 @@
     },
 	{
       "k": 5885,
-      "v": "Medaglie e obiettivi"
+      "v": "Medaglie e obiettivi"				  
+    },
+	{
+      "k": 6933,
+      "v": "Medaglie e trofei"
     },
     {
       "k": 2929,
@@ -6476,6 +6536,10 @@
 	{
       "k": 5884,
       "v": "Achievements"
+    },
+	{
+      "k": 6934,
+      "v": "Trofei"
     },
 	{
       "k": 5467,
@@ -7011,7 +7075,19 @@
     },
 	{
       "k": 3576,
-      "v": "Controlli"
+      "v": "Controlli"			
+    },
+	{
+      "k": 6922,
+      "v": "Camera"
+    },
+    {
+      "k": 6923,
+      "v": "Velocità di movimento"
+    },
+    {
+      "k": 6924,
+      "v": "Inverti rotazione"
     },
     {
       "k": 1736,
@@ -7347,7 +7423,19 @@
     },
     {
       "k": 4531,
-      "v": "Diminuisci di <<value>>"
+      "v": "Diminuisci di <<value>>"																																   
+    },
+	{
+      "k": 6899,
+      "v": "Salvataggio fallito"
+    },
+    {
+      "k": 6900,
+      "v": "Non c'è abbastanza spazio disponibile per salvare il round di gioco in corso. Elimina i salvataggi più vecchi e riavvia il processo di salvataggio."
+    },
+    {
+      "k": 6901,
+      "v": "Si è verificato un errore durante il processo di salvataggio. Riavvia il processo di salvataggio o riavvia il gioco."
     },
     {
       "k": 2261,
@@ -15215,7 +15303,7 @@
     },
     {
       "k": 4038,
-      "v": "Camera"
+      "v": "Stanza"
     },
     {
       "k": 4039,
@@ -23767,7 +23855,11 @@
     },
     {
       "k": 6405,
-      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
+      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."							 
+    },
+	{
+      "k": 6889,
+      "v": "Torna alla sessione di gioco in esecuzione"
     },
 	{
       "k": 6054,
@@ -23795,7 +23887,15 @@
     },
     {
       "k": 6060,
-      "v": "Crediti e introduzione"						   
+      "v": "Crediti e introduzione"						   						
+    },
+	{
+      "k": 6925,
+      "v": "Riproduci di nuovo l'intro"
+    },
+    {
+      "k": 6926,
+      "v": "I creatori di Endzone"
     },
 	{
       "k": 6062,
@@ -26091,7 +26191,35 @@
     },
     {
       "k": 6891,
-      "v": "Apri Configurazione rapida"
+      "v": "Apri Configurazione rapida"					  
+    },
+	{
+      "k": 6898,
+      "v": "Obiettivi e notifiche"
+    },
+    {
+      "k": 6905,
+      "v": "Seleziona Professione"
+    },
+    {
+      "k": 6906,
+      "v": "Modifica l'assegnazione della professione"
+    },
+    {
+      "k": 6907,
+      "v": "Chiudi Menu Professione"
+    },
+    {
+      "k": 6908,
+      "v": "Seleziona edificio"
+    },
+    {
+      "k": 6909,
+      "v": "Inizia a costruire il posizionamento"
+    },
+    {
+      "k": 6910,
+      "v": "Chiudi menu edificio"
     },
     {
       "k": 6855,
