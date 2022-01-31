@@ -7423,7 +7423,15 @@
     },
     {
       "k": 4531,
-      "v": "Diminuisci di <<value>>"																																   
+      "v": "Diminuisci di <<value>>	  
+    },
+	{
+      "k": 7423,
+      "v": "Caricamento fallito"
+    },
+    {
+      "k": 7424,
+      "v": "Si è verificato un errore durante il processo di caricamento. Riprova o carica un vecchio gioco salvato."
     },
 	{
       "k": 6899,
