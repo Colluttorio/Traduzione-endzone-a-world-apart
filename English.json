@@ -2,7 +2,7 @@
   "languageID": "English",
   "translations": [
 	{
-	  "k": 6825,
+"k": 6825,
       "v": "Caricamento notizie..."
     },
     {
@@ -614,7 +614,7 @@
       "v": "Banana"
     },
     {
-	  "k": 880,
+"k": 880,
       "v": "Il legno è un materiale da costruzione di base. Può anche essere trasformato in carbone in un forno per carbonella."
     },
     {
@@ -683,7 +683,7 @@
     },
     {
       "k": 898,
-      "v": "Il carbone di legna è fatto con il legno bruciato in un forno per carbonella. Può essere usato in una torre d'acqua per purificare l'acqua per rimuovere le radiazioni."
+      "v": "Il carbone è fatto con il legno bruciato in un forno per carbonella. Può essere usato in una torre d'acqua per purificare l'acqua per rimuovere le radiazioni."
     },
     {
       "k": 899,
@@ -763,7 +763,7 @@
     },
     {
       "k": 918,
-      "v": "La canapa può essere raccolta nei campi. A differenza di altre colture, la canapa non è una fonte di cibo. La canapa viene convertita in erba in un pub. Possono essere consumati dai coloni per aumentare la loro fiducia."
+      "v": "La canapa può essere raccolta nei campi. A differenza di altre colture, la canapa non è una fonte di cibo. La canapa viene convertita in spinelli in un pub. Possono essere consumati dai coloni per aumentare la loro fiducia."
     },
     {
       "k": 919,
@@ -1215,7 +1215,7 @@
     },
     {
       "k": 4635,
-      "v": "Scuola superiore"
+      "v": "Scuola avanzata"
     },
     {
       "k": 4744,
@@ -1267,7 +1267,7 @@
     },
     {
       "k": 5683,
-      "v": "Torre con sirena"	  
+      "v": "Torre con sirena"
     },
 	{
       "k": 5977,
@@ -1410,7 +1410,7 @@
       "v": "Gabbia"
     },
     {
-	  "k": 6761,
+"k": 6761,
       "v": "Gabbia sospesa"
     },
     {
@@ -1435,11 +1435,11 @@
     },
     {
       "k": 374,
-      "v": "Un grande campo che può ospitare un gran numero di coloni ma non è adatto per iniziare una famiglia. Questo edificio non può essere collegato a una rete elettrica."
+      "v": "Un grande campo che può ospitare un gran numero di coloni ma non è adatto per creare una famiglia. Questo edificio non può essere collegato a una rete elettrica."
     },
     {
       "k": 2999,
-      "v": "Un rifugio esteso che può ospitare un gran numero di coloni ma non è adatto per avviare una famiglia. Questo edificio può essere collegato a una rete elettrica per aumentare la fiducia dei suoi abitanti."
+      "v": "Un rifugio esteso che può ospitare un gran numero di coloni ma non è adatto per creare una famiglia. Questo edificio può essere collegato a una rete elettrica per aumentare la fiducia dei suoi abitanti."
     },
     {
       "k": 303,
@@ -1455,15 +1455,15 @@
     },
     {
       "k": 3000,
-      "v": "Un sito improvvisato per la memorizzazione di diverse risorse che offre poca capacità. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un sito improvvisato per lo stoccaggio di diverse risorse che offre poca capacità. Questo edificio non può essere utilizzato per raccogliere acqua."
     },
     {
       "k": 306,
-      "v": "Un sito per la memorizzazione di risorse diverse che offre più spazio di un ripostiglio temporaneo. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un sito per lo stoccaggio di risorse diverse che offre più spazio di un ripostiglio temporaneo. Questo edificio non può essere utilizzato per raccogliere acqua."
     },
     {
       "k": 3001,
-      "v": "Un magazzino espanso che è in grado di immagazzinare una varietà di risorse e ha un sacco di spazio di stoccaggio. Questo edificio non può essere utilizzato per raccogliere acqua."
+      "v": "Un magazzino espanso che è in grado di immagazzinare una varietà di risorse e ha tanto spazio di spazio di stoccaggio. Questo edificio non può essere utilizzato per raccogliere acqua."
     },
     {
       "k": 307,
@@ -1487,39 +1487,39 @@
     },
     {
       "k": 2652,
-      "v": "Il centro città è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse e offre più capacità ad ogni aggiornamento. Inoltre, è un luogo dove i coloni possono incontrarsi per aumentare la loro fiducia. Cerca anche la radio messaggi di altri sopravvissuti che potrebbero unirsi all'insediamento."
+      "v": "Il centro città è il cuore dell'insediamento. Può immagazzinare la maggior parte delle risorse e offre più capacità ad ogni aggiornamento. Inoltre, è un luogo dove i coloni possono incontrarsi per aumentare la loro fiducia. Cerca anche via radio, messaggi di altri sopravvissuti che potrebbero unirsi all'insediamento."
     },
     {
       "k": 312,
-      "v": "Una struttura medica assiste i coloni che sono malati."
+      "v": "Una struttura medica che assiste i coloni che sono malati."
     },
     {
       "k": 313,
-      "v": "Una scuola offre ai bambini a partire da una certa età un posto dove crescere per diventare adulti istruiti. Ciò consente loro di esercitare le loro professioni successive in modo più efficace."
+      "v": "Una scuola offre ai bambini, a partire da una certa età, un posto dove crescere per diventare adulti istruiti. Ciò consente loro di esercitare le loro professioni successive in modo più efficace."
     },
 	{
       "k": 4636,
-      "v": "Una scuola educa i bambini in diverse materie fino a un livello intermedio. Un focus può essere posto sulle singole materie al fine di educare pienamente i bambini in quella materia e accelerare la formazione educativa su questa materia."
+      "v": "Una scuola educa i bambini in diverse materie fino a un livello intermedio. Un focus può essere posto sulle singole materie al fine di educare pienamente i bambini e accelerare la formazione educativa su quella materia."
     },
     {
       "k": 314,
-      "v": "La casetta di un raduno accumula cibo dalle piante nelle foreste."
+      "v": "La casetta di un raduno accumula cibo dalle piante presenti nelle foreste."
     },
     {
       "k": 315,
-      "v": "Una loggia di caccia caccia la fauna selvatica per il cibo."
+      "v": "Una loggia di caccia, dà la caccia alla fauna selvatica per produrre cibo."
     },
     {
       "k": 316,
-      "v": "Una casetta per la pesca fornisce cibo da pesci catturati, ma può essere collocata solo in riva al mare."
+      "v": "Una casetta per la pesca fornisce cibo dai pesci catturati, ma può essere collocata solo in riva al mare."
     },
     {
       "k": 317,
-      "v": "Un frutteto fornisce cibo come frutta e noci dagli alberi. Sebbene un frutteto possa essere creato senza costi di costruzione, ha bisogno di tempo per consentire ai suoi alberi di crescere."
+      "v": "Un frutteto fornisce cibo come frutta e noci attraverso gli alberi. Sebbene un frutteto possa essere creato senza costi di costruzione, ha bisogno di tempo per consentire ai suoi alberi di crescere."
     },
     {
       "k": 318,
-      "v": "Un frutteto coperto fornisce cibo come frutta e noci dagli alberi e può essere coperto per evitare la pioggia tossica."
+      "v": "Un frutteto coperto fornisce cibo come frutta e noci attraverso gli alberi e può essere coperto per evitare la pioggia tossica."
     },
     {
       "k": 319,
@@ -1539,7 +1539,7 @@
     },
     {
       "k": 323,
-      "v": "Un pub produce birra, liquori o erba che possono essere consumati dai coloni per aumentare la loro fiducia."
+      "v": "Un pub produce birra, liquori o spinelli che possono essere consumati dai coloni per aumentare la loro fiducia."
     },
     {
       "k": 324,
@@ -1559,7 +1559,7 @@
     },
     {
       "k": 326,
-      "v": "Una casetta di erbe raccoglie erbe in foreste che possono essere utilizzate per migliorare la salute dei coloni."
+      "v": "Una casetta di erbe raccoglie erbe nelle foreste, che possono essere utilizzate per migliorare la salute dei coloni."
     },
     {
       "k": 327,
@@ -1567,19 +1567,19 @@
     },
     {
       "k": 328,
-      "v": "Un forno per carbonella produce carbone di legna dal legno."
+      "v": "Un forno per carbonella produce carbone dal legno."
     },
     {
       "k": 329,
-      "v": "Un collezionista di acqua piovana raccoglie l'acqua dalla pioggia senza richiedere forza lavoro. Può essere coperto per evitare la raccolta di pioggia tossica. Per distribuire l'acqua all'interno dell'insediamento è necessaria una cisterna o una torre d'acqua."
+      "v": "Un raccoglitore di acqua piovana raccoglie l'acqua dalla pioggia senza richiedere forza lavoro. Può essere coperto per evitare la raccolta di pioggia tossica. Per distribuire l'acqua all'interno dell'insediamento è necessaria una cisterna o una torre d'acqua."
     },
     {
       "k": 330,
-      "v": "Una torre d'acqua raccoglie e immagazzina acqua. Può anche usare carbone per filtrare le radiazioni fuori dall'acqua. Questo edificio richiede un molo, un pozzo o un Raccoglitore di acqua piovana per funzionare."
+      "v": "Una torre d'acqua raccoglie e immagazzina acqua. Può anche usare carbone per filtrare le radiazioni fuori dall'acqua. Questo edificio richiede un molo, un pozzo o un raccoglitore di acqua piovana per funzionare."
     },
     {
       "k": 331,
-      "v": "Un Raccoglitore solare genera una certa quantità di energia per fornire elettricità all'edificio collegato alla rete elettrica."
+      "v": "Un pannello solare genera una certa quantità di energia per fornire elettricità all'edificio collegato alla rete elettrica."
     },
     {
       "k": 332,
@@ -1599,7 +1599,7 @@
     },
     {
       "k": 694,
-      "v": "Una scorta di risorse che può essere raccolto e trasferito in un edificio di stoccaggio dai coloni."
+      "v": "Una scorta di risorse che può essere raccolta e trasferita in un edificio di stoccaggio dai coloni."
     },
     {
       "k": 947,
@@ -1615,7 +1615,7 @@
     },
     {
       "k": 998,
-      "v": "La Stazione meteorologica consente di decidere a quale livello di contaminazione della pioggia devono essere coperti i campi e i collettori di acqua piovana. Inoltre fornisce una previsione di contaminazione della pioggia."
+      "v": "La stazione meteorologica consente di decidere a quale livello di contaminazione della pioggia devono essere coperti i campi e i collettori di acqua piovana. Inoltre fornisce una previsione di contaminazione della pioggia."
     },
     {
       "k": 1226,
@@ -1623,7 +1623,7 @@
     },
     {
       "k": 3002,
-      "v": "Uno Raccoglitore di rottami cattura piccole quantità di rottame che girano intorno. Ciò si verifica in modo particolarmente efficace durante le Tempeste di Sabbia. Uno Deposito rottami è necessario per trasportare via lo Scarto catturato e portarlo da qualche parte."
+      "v": "Un raccoglitore di rottami cattura piccole quantità di rottami che girano intorno. Ciò si verifica in modo particolarmente efficace durante le tempeste di sabbia. Un deposito rottami è necessario per trasportare via lo scarto catturato e portarlo da qualche parte."
     },
     {
       "k": 3003,
@@ -1631,11 +1631,11 @@
     },
     {
       "k": 3004,
-      "v": "Una turbina eolica è un generatore di energia continuo, ma in grado di fornire solo un piccolo numero di edifici."
+      "v": "Una turbina eolica è un generatore di energia continuo, ma in grado di rifornire solo un piccolo numero di edifici."
     },
     {
       "k": 3005,
-      "v": "La Stazione di ricerca è necessaria per eseguire ricerche su varie nuove tecnologie e risorse. Fino a quando non viene effettuata alcuna ricerca, tutti i ricercatori assegnati generano conoscenza."
+      "v": "La stazione di ricerca è necessaria per eseguire ricerche su varie nuove tecnologie e risorse. Fino a quando non viene effettuata alcuna ricerca, tutti i ricercatori assegnati generano conoscenza."
     },
     {
       "k": 3502,
@@ -1651,7 +1651,7 @@
     },
 	{
       "k": 3952,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."	 
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."
 	},
 	{
       "k": 5826,
@@ -1671,7 +1671,7 @@
     },
     {
       "k": 4745,
-      "v": "Gli animali sono tenuti a pascolare sul pascolo."	
+      "v": "Gli animali sono tenuti a pascolare sul pascolo."
     },
 	{
       "k": 5137,
@@ -1679,11 +1679,11 @@
     },
     {
       "k": 5230,
-      "v": "Una pompa dell'acqua elettrica pompa l'acqua dal terreno senza l'uso di manodopera. Richiede il collegamento ad una rete elettrica funzionante."
+      "v": "Una pompa dell'acqua elettrica, pompa l'acqua dal terreno senza l'uso di manodopera. Richiede il collegamento ad una rete elettrica funzionante."
     },
     {
       "k": 5231,
-      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."	
+      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."
     },
 	{
       "k": 5457,
@@ -1691,7 +1691,7 @@
     },
     {
       "k": 5551,
-      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."	
+      "v": "Le milizie possono essere di stanza in una torre di guardia per difendere l'insediamento dai saccheggiatori."
     },
 	{
       "k": 5774,
@@ -1699,19 +1699,19 @@
     },
     {
       "k": 5775,
-      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."	 
+      "v": "La barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."
     },
 	{
       "k": 5987,
-      "v": "Tutti i semi che crescono sui campi possono essere coltivati in serra. In una serra il seme piantato viene seminato automaticamente, cresce più velocemente e non può essere contaminato dalle radiazioni. Una Serra deve essere costantemente rifornita di Acqua per poter funzionare."
+      "v": "Tutti i semi che crescono sui campi possono essere coltivati in serra. In una serra il seme piantato viene seminato automaticamente, cresce più velocemente e non può essere contaminato dalle radiazioni. Una serra deve essere costantemente rifornita di acqua per poter funzionare."
     },
     {
       "k": 5988,
-      "v": "Un Aquafarm alleva pesci. A differenza di una capanna da pesca, è anche in grado di funzionare durante una siccità. Inoltre, il Pesce non è influenzato dalle Radiazioni."
+      "v": "Un'Aquafarm alleva pesci. A differenza di una capanna da pesca, è anche in grado di funzionare durante una siccità. Inoltre, il pesce non è influenzato dalle radiazioni."
     },
     {
       "k": 5989,
-      "v": "Una fabbrica di calcestruzzo ha bisogno di sabbia, acqua, cemento e carbone per produrre calcestruzzo. Questo calcestruzzo è necessario nella costruzione di alcuni tipi di edifici robusti."
+      "v": "Una fabbrica di calcestruzzo ha bisogno di sabbia, acqua, cemento e carbone per produrre calcestruzzo, che è necessario nella costruzione di alcuni tipi di edifici robusti."
     },
     {
       "k": 5990,
@@ -1719,19 +1719,19 @@
     },
     {
       "k": 5991,
-      "v": "Una torre dell'acqua potenziata raccoglie e immagazzina l'acqua. Può essere fornito con carbone da vettori d'acqua per filtrare le radiazioni dall'acqua. Una torre dell'acqua può riempire automaticamente il suo serbatoio con acqua tramite stazioni di pompaggio. Questo edificio può essere alternativamente rifornito di acqua tramite un molo di legno, un pozzo o un collettore di acqua piovana utilizzando una forza lavoro."
+      "v": "Una torre dell'acqua potenziata raccoglie e immagazzina l'acqua. Può essere rifornita con carbone da vettori d'acqua per filtrare le radiazioni dall'acqua. Una torre dell'acqua può riempire automaticamente il suo serbatoio tramite stazioni di pompaggio. Questo edificio può essere alternativamente rifornito di acqua tramite un molo di legno, un pozzo o un collettore di acqua piovana utilizzando una forza lavoro."
     },
     {
       "k": 5992,
-      "v": "Una miniera di sabbia estrae la sabbia dai laghi. Deve essere costruito vicino all'acqua per funzionare. La sabbia è necessaria nella produzione di calcestruzzo e vetro."
+      "v": "Una miniera di sabbia estrae la sabbia dai laghi. Deve essere costruita vicino all'acqua per funzionare. La sabbia è necessaria nella produzione di calcestruzzo e vetro."
     },
     {
       "k": 5993,
-      "v": "Una stazione di pompaggio trasporta l'acqua dai laghi. Sebbene non richieda alcuna forza lavoro, deve essere fornito di elettricità per funzionare. Le stazioni di pompaggio richiedono torri idriche potenziate per poter rendere disponibile la loro acqua nell'insediamento."
+      "v": "Una stazione di pompaggio trasporta l'acqua dai laghi. Sebbene non richieda alcuna forza lavoro, deve essere rifornita di elettricità per funzionare. Le stazioni di pompaggio richiedono torri idriche potenziate per poter rendere disponibile la loro acqua nell'insediamento."
     },
     {
       "k": 5994,
-      "v": "Una fabbrica di materiali produce vetro e metallo rinforzato. Vetro e metallo rinforzato sono necessari nella costruzione di alcuni tipi di edifici complessi."
+      "v": "Una fabbrica di materiali produce vetro e metallo rinforzato che sono necessari nella costruzione di alcuni tipi di edifici complessi."
     },
     {
       "k": 5995,
@@ -1739,11 +1739,11 @@
     },
     {
       "k": 5996,
-      "v": "Una casa confortevole in cui i coloni possono vivere e produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
+      "v": "Una casa confortevole in cui i coloni possono vivere e produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti rifornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
     },
     {
       "k": 6634,
-      "v": "Un Rifugio Confortevole ospita un gran numero di Coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
+      "v": "Un rifugio confortevole ospita un gran numero di coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendosi di elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia."
     },
     {
       "k": 6635,
@@ -1767,7 +1767,7 @@
     },
     {
       "k": 6833,
-      "v": "Una miniera estrae facoltativamente le materie prime iodio, carbone, cemento o zolfo. L'estrazione della rispettiva Risorsa deve essere ricercata in anticipo. La miniera deve essere costruita sul fianco di una montagna. Piccole distanze tra loro potrebbero ridurre l'efficienza."
+      "v": "Una miniera estrae facoltativamente le materie prime iodio, carbone, cemento o zolfo. L'estrazione della rispettiva risorsa deve essere ricercata in anticipo. La miniera deve essere costruita sul fianco di una montagna. Piccole distanze tra loro potrebbero ridurre l'efficienza."
     },
     {
       "k": 6834,
@@ -1791,7 +1791,7 @@
     },
     {
       "k": 338,
-      "v": "logista"
+      "v": "Logista"
     },
     {
       "k": 339,
@@ -1847,7 +1847,7 @@
     },
     {
       "k": 352,
-      "v": "Bruciatore di carbone"
+      "v": "Carbonaio"
     },
     {
       "k": 353,
@@ -1867,7 +1867,7 @@
     },
     {
       "k": 780,
-      "v": "impresario di pompe funebri"
+      "v": "Impresario di pompe funebri"
     },
     {
       "k": 949,
@@ -1915,7 +1915,7 @@
     },
     {
       "k": 356,
-      "v": "Gli esploratori non fanno parte della distribuzione professionale delle professioni. Possono essere assegnati e inviati alle spedizioni usando una stazione di spedizione. Gli esploratori non assumono alcun lavoro nell'insediamento."
+      "v": "Gli esploratori non fanno parte della distribuzione professionale delle professioni. Possono essere assegnati e inviati nelle spedizioni usando una stazione di spedizione. Gli esploratori non assumono alcun lavoro nell'insediamento."
     },
     {
       "k": 769,
@@ -1955,11 +1955,11 @@
     },
     {
       "k": 365,
-      "v": "Funziona in uno Deposito di rottami."
+      "v": "Funziona in un deposito di rottami."
     },
     {
       "k": 366,
-      "v": "Produce birra, liquori o erba in un pub."
+      "v": "Produce birra, liquori o spinelli in un pub."
     },
     {
       "k": 367,
@@ -1979,7 +1979,7 @@
     },
     {
       "k": 371,
-      "v": "Crea carbone di legna dal legno."
+      "v": "Crea carbone dal legno."
     },
     {
       "k": 372,
@@ -2027,11 +2027,11 @@
     },
 	{
       "k": 4747,
-      "v": "Tiene gli animali al pascolo."	 
+      "v": "Tiene gli animali al pascolo."
     },
 	{
       "k": 6636,
-      "v": "La milizia presidia la loro torre di guardia in caso di attacco e da lì combattono contro i predoni. Trasportano le munizioni alla loro Torre di Guardia."
+      "v": "La milizia presidia la loro torre di guardia in caso di attacco e da lì combattono contro i predoni. Trasportano le munizioni alla loro torre di guardia."
     },
     {
       "k": 6776,
@@ -2123,7 +2123,7 @@
     },
     {
       "k": 2501,
-      "v": "Il colono ha un morale alto grazie a una buona leadership."	 
+      "v": "Il colono ha un morale alto grazie a una buona leadership."
     },
 	{
       "k": 3827,
@@ -2179,7 +2179,7 @@
     },
 	{
       "k": 6681,
-      "v": "I Coloni che visitano determinati Edifici o Decorazioni della comunità o consumano determinate Risorse aumentano la loro Fiducia di <<number>> per un certo periodo di tempo."
+      "v": "I coloni che visitano determinati Edifici o Decorazioni della comunità o consumano determinate Risorse aumentano la loro Fiducia di <<number>> per un certo periodo di tempo."
     },
     {
       "k": 5158,
@@ -2211,7 +2211,7 @@
     },
     {
       "k": 5165,
-      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle Missioni dei Coloni al Forum, a causa dell'emissione di Decreti o delle Spedizioni."
+      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle Missioni dei coloni al Forum, a causa dell'emissione di Decreti o delle Spedizioni."
     },
     {
       "k": 5166,
@@ -2267,7 +2267,7 @@
     },
 	{
       "k": 5746,
-      "v": "Migliora le strade"	  
+      "v": "Migliora le strade"
     },
 	{
       "k": 5904,
@@ -2323,7 +2323,7 @@
     },
 	{
       "k": 5747,
-      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."	
+      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."
     },
 	{
       "k": 5909,
@@ -2507,7 +2507,7 @@
     },
     {
       "k": 2324,
-      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"	  
+      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"
     },
 	{
       "k": 5891,
@@ -2635,7 +2635,7 @@
     },
     {
       "k": 5180,
-      "v": "Cibo trattato"	   
+      "v": "Cibo trattato"
     },
 	{
       "k": 5632,
@@ -2651,7 +2651,7 @@
     },
     {
       "k": 1266,
-      "v": "Forza lavoro"	
+      "v": "Forza lavoro"
     },
 	{
       "k": 6858,
@@ -2779,7 +2779,7 @@
     },
     {
       "k": 2311,
-      "v": "Progresso dell'educazione"	
+      "v": "Progresso dell'educazione"
     },
 	{
       "k": 4589,
@@ -2823,7 +2823,7 @@
     },
 	{
       "k": 4506,
-      "v": "La modalità costruttore è: <<builderMode>>"	   
+      "v": "La modalità costruttore è: <<builderMode>>"
     },
 	{
       "k": 5235,
@@ -3215,7 +3215,7 @@
     },
     {
       "k": 2901,
-      "v": "Edifici danneggiati"	
+      "v": "Edifici danneggiati"
     },
 	{
       "k": 4153,
@@ -3299,7 +3299,7 @@
     },
     {
       "k": 2989,
-      "v": "Nessun dato raccolto"	 
+      "v": "Nessun dato raccolto"
     },
 	{
       "k": 4899,
@@ -3535,7 +3535,7 @@
     },
     {
       "k": 490,
-      "v": "Statistiche"	 
+      "v": "Statistiche"
     },
 	{
       "k": 5902,
@@ -3779,7 +3779,7 @@
     },
     {
       "k": 816,
-      "v": "Un alto livello di Radiazione fa scemare la Salute dei Coloni. Inoltre, i Coloni diventano sterili o muoiono per l'alto livello di Radiazione."
+      "v": "Un alto livello di Radiazione fa scemare la Salute dei coloni. Inoltre, i coloni diventano sterili o muoiono per l'alto livello di Radiazione."
     },
     {
       "k": 500,
@@ -4723,7 +4723,7 @@
     },
 	{
       "k": 3792,
-      "v": "Farmaci contro la contaminazione"	
+      "v": "Farmaci contro la contaminazione"
     },
 	{
       "k": 4704,
@@ -4759,7 +4759,7 @@
     },
     {
       "k": 991,
-      "v": "Rendi disponibili farmaci come Erbe o Medicina in modo che i tuoi Coloni possano tornare in salute."
+      "v": "Rendi disponibili farmaci come Erbe o Medicina in modo che i tuoi coloni possano tornare in salute."
     },
     {
       "k": 2671,
@@ -4839,7 +4839,7 @@
     },
     {
       "k": 556,
-      "v": "Spedizioni"	  
+      "v": "Spedizioni"
     },
 	{
       "k": 6205,
@@ -5055,7 +5055,7 @@
     },
     {
       "k": 596,
-      "v": "Irrigare"	  
+      "v": "Irrigare"
     },
 	{
       "k": 5929,
@@ -5123,7 +5123,7 @@
     },
 	{
       "k": 6874,
-      "v": "Più Milizia si trova in questa Torre di Guardia durante un attacco di Predoni, più forte può essere respinto."
+      "v": "Più Milizia si trova in questa torre di guardia durante un attacco di Predoni, più forte può essere respinto."
     },
     {
       "k": 6875,
@@ -5135,7 +5135,7 @@
     },
     {
       "k": 6877,
-      "v": "Il numero di milizia assegnato a questa Torre di Guardia ha la priorità tramite una missione \"Priorità per la difesa\" situata nelle vicinanze."
+      "v": "Il numero di milizia assegnato a questa torre di guardia ha la priorità tramite una missione \"Priorità per la difesa\" situata nelle vicinanze."
     },
     {
       "k": 6878,
@@ -5163,7 +5163,7 @@
     },
 	{
       "k": 3934,
-      "v": "Posizione attrattiva"	
+      "v": "Posizione attrattiva"
     },
 	{
       "k": 6830,
@@ -5183,7 +5183,7 @@
     },
     {
       "k": 1055,
-      "v": "Edifici nelle vicinanze: <<amount>>"	 
+      "v": "Edifici nelle vicinanze: <<amount>>"
     },
 	{
       "k": 6884,
@@ -5219,7 +5219,7 @@
     },
     {
       "k": 5877,
-      "v": "Efficienza di base"	
+      "v": "Efficienza di base"
     },
 	{
       "k": 6806,
@@ -5227,7 +5227,7 @@
     },
     {
       "k": 6807,
-      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."	
+      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."
     },
 	{
       "k": 6885,
@@ -5447,11 +5447,11 @@
     },
     {
       "k": 5232,
-      "v": "Almeno due Animali di questo tipo sono necessari su questo pascolo affinché si riproducano. Inoltre, a partire dal terzo Animale, gli Animali possono essere trasferiti tra Pascoli o altri Edifici, come la Stazione Commerciale."
+      "v": "Almeno due Animali di questo tipo sono necessari su questo pascolo affinché si riproducano. Inoltre, a partire dal terzo Animale, gli Animali possono essere trasferiti tra Pascoli o altri Edifici, come la stazione Commerciale."
     },
 	{
       "k": 5460,
-      "v": "Pozzi e pompe dell'acqua elettriche"	  
+      "v": "Pozzi e pompe dell'acqua elettriche"
     },
 	{
       "k": 6447,
@@ -5579,7 +5579,7 @@
     },
     {
       "k": 1062,
-      "v": "Limitazione degli indumenti protettivi"	   
+      "v": "Limitazione degli indumenti protettivi"
     },
 	{
       "k": 5397,
@@ -5599,7 +5599,7 @@
     },
 	{
       "k": 4150,
-      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"	   
+      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"
     },
 	{
       "k": 5151,
@@ -5751,7 +5751,7 @@
     },
     {
       "k": 3474,
-      "v": "Riempi il livello del serbatoio dell'acqua"	 
+      "v": "Riempi il livello del serbatoio dell'acqua"
     },
 	{
       "k": 6808,
@@ -5927,7 +5927,7 @@
     },
     {
       "k": 4881,
-      "v": "I commercianti attraccano alla Stazione commerciale usando i propri palloncini. Là commerciano risorse e altri beni di valore."
+      "v": "I commercianti attraccano alla stazione commerciale usando i propri palloncini. Là commerciano risorse e altri beni di valore."
     },
     {
       "k": 4882,
@@ -6107,7 +6107,7 @@
     },
 	{
       "k": 5233,
-      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"	  
+      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"
     },
 	{
       "k": 5870,
@@ -6143,7 +6143,7 @@
     },
     {
       "k": 1066,
-      "v": "Apri finestra di spedizione"	   
+      "v": "Apri finestra di spedizione"
     },
 	{
       "k": 5542,
@@ -6163,7 +6163,7 @@
     },
     {
       "k": 1623,
-      "v": "Distintivo Collezionista di rottami"
+      "v": "Distintivo collezionista di rottami"
     },
     {
       "k": 1624,
@@ -6531,7 +6531,7 @@
     },
     {
       "k": 2929,
-      "v": "Medaglie"	  
+      "v": "Medaglie"
     },
 	{
       "k": 5884,
@@ -6579,7 +6579,7 @@
     },
     {
       "k": 2257,
-      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."	   
+      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."
     },
 	{
       "k": 6810,
@@ -6759,7 +6759,7 @@
     },
     {
       "k": 1748,
-      "v": "Impostazioni mappa"	 
+      "v": "Impostazioni mappa"
     },
 	{
       "k": 6794,
@@ -7023,7 +7023,7 @@
     },
     {
       "k": 2727,
-      "v": "Il numero di Laghi sulla mappa definisce il numero di punti in cui i tuoi Coloni possono raccogliere Acqua. Ma molti Laghi possono anche significare che è disponibile meno area per la costruzione."
+      "v": "Il numero di Laghi sulla mappa definisce il numero di punti in cui i tuoi coloni possono raccogliere Acqua. Ma molti Laghi possono anche significare che è disponibile meno area per la costruzione."
     },
     {
       "k": 2728,
@@ -7031,7 +7031,7 @@
     },
     {
       "k": 2729,
-      "v": "Il numero di Rovine sulla mappa definisce la quantità di Scarto disponibile all'inizio. Meno Scarto significa che i tuoi Coloni devono percorrere percorsi più lunghi."
+      "v": "Il numero di Rovine sulla mappa definisce la quantità di scarto disponibile all'inizio. Meno scarto significa che i tuoi coloni devono percorrere percorsi più lunghi."
     },
     {
       "k": 2730,
@@ -7075,7 +7075,7 @@
     },
 	{
       "k": 3576,
-      "v": "Controlli"	
+      "v": "Controlli"
     },
 	{
       "k": 6922,
@@ -7263,7 +7263,7 @@
     },
 	{
       "k": 4448,
-      "v": "Usa il cursore del mouse grande"	  
+      "v": "Usa il cursore del mouse grande"
     },
 	{
       "k": 5893,
@@ -7483,7 +7483,7 @@
     },
 	{
       "k": 5212,
-      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"	
+      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"
     },
 	{
       "k": 5810,
@@ -7711,7 +7711,7 @@
     },
     {
       "k": 2145,
-      "v": "Destinazione focus"	
+      "v": "Destinazione focus"
     },
 	{
       "k": 5188,
@@ -8087,8 +8087,7 @@
     },
     {
       "k": 5225,
-      "v": "Rimuove un animale morto"	
-    },
+      "v": "Rimuove un animale morto"},
 	{
       "k": 5545,
       "v": "Tiene d'occhio"
@@ -8107,7 +8106,7 @@
     },
     {
       "k": 2309,
-      "v": "Nessun partner"	 
+      "v": "Nessun partner"
     },
 	{
       "k": 3822,
@@ -8315,11 +8314,11 @@
     },
     {
       "k": 2333,
-      "v": "Questa rovina richiede il salvataggio di un Deposito rottami."
+      "v": "Questa rovina richiede il salvataggio di un deposito rottami."
     },
     {
       "k": 2334,
-      "v": "I nostri esploratori hanno fatto tutto il possibile qui. Potremmo salvare i resti della rovina con un Deposito rottami ora."
+      "v": "I nostri esploratori hanno fatto tutto il possibile qui. Potremmo salvare i resti della rovina con un deposito rottami ora."
     },
     {
       "k": 2335,
@@ -8343,7 +8342,7 @@
     },
     {
       "k": 809,
-      "v": "Molo, collezionista di acqua piovana o pozzo"
+      "v": "Molo, raccoglitore di acqua piovana o pozzo"
     },
 	{
       "k": 6857,
@@ -8663,7 +8662,7 @@
     },
     {
       "k": 849,
-      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"	 
+      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"
     },
 	{
       "k": 5222,
@@ -8703,7 +8702,7 @@
     },
     {
       "k": 2268,
-      "v": "Il potenziale bottino è memorizzato nella Stazione di spedizione"
+      "v": "Il potenziale bottino è memorizzato nella stazione di spedizione"
     },
     {
       "k": 2562,
@@ -8739,7 +8738,7 @@
     },
     {
       "k": 5383,
-      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."	 
+      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."
     },
 	{
       "k": 5622,
@@ -8755,7 +8754,7 @@
     },
 	{
       "k": 5935,
-      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."	   
+      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."
     },
 	{
       "k": 6202,
@@ -8851,7 +8850,7 @@
     },
     {
       "k": 2272,
-      "v": "Seleziona Stazione di spedizione"
+      "v": "Seleziona stazione di spedizione"
     },
     {
       "k": 928,
@@ -9023,7 +9022,7 @@
     },
 	{
       "k": 5391,
-      "v": "Gli utensili di ricerca possono essere trovati qui."	  
+      "v": "Gli utensili di ricerca possono essere trovati qui."
     },
 	{
       "k": 5552,
@@ -9271,7 +9270,7 @@
     },
     {
       "k": 2492,
-      "v": "Lo farà!"	 
+      "v": "Lo farà!"
     },
 	{
       "k": 5867,
@@ -9383,7 +9382,7 @@
     },
     {
       "k": 1235,
-      "v": "Fertilità"	  
+      "v": "Fertilità"
     },
 	{
       "k": 4080,
@@ -9407,7 +9406,7 @@
     },
     {
       "k": 1240,
-      "v": "Una casetta può essere costruita per dare una dimora ai coloni. I coloni costituiscono una famiglia quando vivono in una casa. <link=\"5\"><style=\"DefaultLink\">Prodotti alimentari</style></link> per i Coloni che vivono lì sono conservati nell'edificio. \nI setter con un tetto sopra la testa sono anche <link=\"8\"><style=\"DefaultLink\"> più sicuri</style></link>."
+      "v": "Una casetta può essere costruita per dare una dimora ai coloni. I coloni costituiscono una famiglia quando vivono in una casa. <link=\"5\"><style=\"DefaultLink\">Prodotti alimentari</style></link> per i coloni che vivono lì sono conservati nell'edificio. \nI setter con un tetto sopra la testa sono anche <link=\"8\"><style=\"DefaultLink\"> più sicuri</style></link>."
     },
     {
       "k": 1241,
@@ -9443,7 +9442,7 @@
     },
     {
       "k": 6725,
-      "v": "Un comodo rifugio offre spazio per un massimo di 100 coloni. Mentre vivono in un rifugio confortevole, i coloni non danno vita a una famiglia né si riproducono. Un comodo rifugio si fornisce <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non ha bisogno di essere prima collegato a una rete elettrica. Per essere in grado di costruire un Rifugio Confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di un Confortevole Rifugio possono influenzare positivamente o negativamente la Contentezza dei suoi Abitanti."
+      "v": "Un comodo rifugio offre spazio per un massimo di 100 coloni. Mentre vivono in un rifugio confortevole, i coloni non danno vita a una famiglia né si riproducono. Un comodo rifugio si fornisce <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non ha bisogno di essere prima collegato a una rete elettrica. Per essere in grado di costruire un rifugio confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di un Confortevole Rifugio possono influenzare positivamente o negativamente la Contentezza dei suoi Abitanti."
     },
     {
       "k": 1245,
@@ -9519,7 +9518,7 @@
     },
     {
       "k": 1542,
-      "v": "Puoi commissionare la costruzione di un edificio specificando un cantiere sul terreno in cui dovrebbe apparire l'edificio. Quando il suolo non consente la costruzione dell'edificio, lo indica contrassegnando le aree con problemi in rosso. Puoi specificare qualsiasi cantiere, anche quando il tuo insediamento non ha ancora le risorse necessarie. \nSe il suolo è<link=\"10\"><style=\"DefaultLink\">contaminato</style></link> con Radiazioni, i tuoi Coloni iniziano scavando prima il Terreno. \nNon appena i Coloni avranno liberato il cantiere dalle Radiazioni, i tuoi Costruttori porteranno le risorse necessarie per la Costruzione sul cantiere. \nQuando tutti i Le risorse necessarie ci sono sul posto, i costruttori inizieranno a costruire l'edificio.\n"
+      "v": "Puoi commissionare la costruzione di un edificio specificando un cantiere sul terreno in cui dovrebbe apparire l'edificio. Quando il suolo non consente la costruzione dell'edificio, lo indica contrassegnando le aree con problemi in rosso. Puoi specificare qualsiasi cantiere, anche quando il tuo insediamento non ha ancora le risorse necessarie. \nSe il suolo è<link=\"10\"><style=\"DefaultLink\">contaminato</style></link> con radiazioni, i tuoi coloni iniziano scavando prima il Terreno. \nNon appena i coloni avranno liberato il cantiere dalle radiazioni, i tuoi Costruttori porteranno le risorse necessarie per la Costruzione sul cantiere. \nQuando tutti i Le risorse necessarie ci sono sul posto, i costruttori inizieranno a costruire l'edificio.\n"
     },
     {
       "k": 1543,
@@ -9699,7 +9698,7 @@
     },
     {
       "k": 1583,
-      "v": "La Casetta del raccoglitore <link=\"3\"><style=\"DefaultLink\">impiega</style></link> i Raccoglitori. I Raccoglitori raccolgono funghi e bacche che si trovano all'interno del <link=\"1\"><style=\"DefaultLink\">loro raggio di lavoro</style></link>. I Raccoglitori lavorano in modo più efficiente quando la Casetta del Raccoglitore è <link=\"1\"><style=\"DefaultLink\">collocata</style></link> nelle vicinanze degli <link=\"15\"><style=\"DefaultLink\">alberi</style></link>."
+      "v": "La Casetta del raccoglitore <link=\"3\"><style=\"DefaultLink\">impiega</style></link> i Raccoglitori. I Raccoglitori raccolgono funghi e bacche che si trovano all'interno del <link=\"1\"><style=\"DefaultLink\">loro raggio di lavoro</style></link>. I Raccoglitori lavorano in modo più efficiente quando la Casetta del raccoglitore è <link=\"1\"><style=\"DefaultLink\">collocata</style></link> nelle vicinanze degli <link=\"15\"><style=\"DefaultLink\">alberi</style></link>."
     },
     {
       "k": 1584,
@@ -9723,7 +9722,7 @@
     },
     {
       "k": 1588,
-      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"	  
+      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"
     },
 	{
       "k": 3937,
@@ -9735,7 +9734,7 @@
     },
 	{
       "k": 5044,
-      "v": "Il pascolo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pastori. I pastori si prendono cura del pascolo Animali tenuti al pascolo. Per poter assegnare un animale selvatico catturato a un certo pascolo, il pulsante \"Scegli prossimo animale\" deve essere selezionato su quel pascolo. Gli animali selvatici tenuti su un pascolo devono essere riforniti di acqua in modo che non muoiano. Quando un pastore si prende cura degli animali, questi cresceranno e si riprodurranno. Non appena abbastanza animali sono completamente cresciuti, possono essere macellati. Inoltre, alcuni animali producono risorse preziose aggiuntive come latte o uova."	 
+      "v": "Il pascolo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Pastori. I pastori si prendono cura del pascolo Animali tenuti al pascolo. Per poter assegnare un animale selvatico catturato a un certo pascolo, il pulsante \"Scegli prossimo animale\" deve essere selezionato su quel pascolo. Gli animali selvatici tenuti su un pascolo devono essere riforniti di acqua in modo che non muoiano. Quando un pastore si prende cura degli animali, questi cresceranno e si riprodurranno. Non appena abbastanza animali sono completamente cresciuti, possono essere macellati. Inoltre, alcuni animali producono risorse preziose aggiuntive come latte o uova."
     },
 	{
       "k": 6084,
@@ -9803,7 +9802,7 @@
     },
 	{
       "k": 5371,
-      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."	   
+      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."
     },
 	{
       "k": 6090,
@@ -9891,11 +9890,11 @@
     },
     {
       "k": 1614,
-      "v": "La Stazione meteorologica ti consente di vedere se le nuvole di pioggia sono contaminate o meno dalle radiazioni. \nSe sono contaminate, vedi anche quanto è forte il loro livello di radiazioni. \nQui puoi anche impostare in quale punto <link=\"5\"><style=\"DefaultLink\">Campi e frutteti</style></link> nonché <link=\"6\"><style=\"DefaultLink\">I collezionisti di acqua piovana</style></link> devono essere coperti in modo da essere risparmiati dalla pioggia contaminata. Per poter costruire una stazione meteorologica, l'appropriato <link =\"19\"><style=\"DefaultLink\">La ricerca</style> </link> deve essere eseguita per prima."
+      "v": "La stazione meteorologica ti consente di vedere se le nuvole di pioggia sono contaminate o meno dalle radiazioni. \nSe sono contaminate, vedi anche quanto è forte il loro livello di radiazioni. \nQui puoi anche impostare in quale punto <link=\"5\"><style=\"DefaultLink\">Campi e frutteti</style></link> nonché <link=\"6\"><style=\"DefaultLink\">I collezionisti di acqua piovana</style></link> devono essere coperti in modo da essere risparmiati dalla pioggia contaminata. Per poter costruire una stazione meteorologica, l'appropriato <link =\"19\"><style=\"DefaultLink\">La ricerca</style> </link> deve essere eseguita per prima."
     },
     {
       "k": 1615,
-	  "v": "L'impianto di irrigazione <link=\"3\"><style=\"DefaultLink\">impiega</style></link> irrigatori. \nL'irrigatore trasporta l'acqua dalla <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link> o la cisterna per il sistema vegetale.\nUna volta attivato, il sistema vegetale aumenta il livello di irrigazione del suolo nell'<link=\"1\"><style=\"DefaultLink\">area di lavoro</style></link>.\nMaggiore è il livello di irrigazione, più acqua verrà consumata durante l'irrigazione. Durante una siccità il sistema di irrigazione consuma ancora più acqua.\nSe l'acqua è contaminata da radiazioni, il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> aumenta anche l'area di lavoro dell'impianto.\nA sua volta, l'acqua non contaminata da radiazioni riduce il livello di radiazione."
+"v": "L'impianto di irrigazione <link=\"3\"><style=\"DefaultLink\">impiega</style></link> irrigatori. \nL'irrigatore trasporta l'acqua dalla <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link> o la cisterna per il sistema vegetale.\nUna volta attivato, il sistema vegetale aumenta il livello di irrigazione del suolo nell'<link=\"1\"><style=\"DefaultLink\">area di lavoro</style></link>.\nMaggiore è il livello di irrigazione, più acqua verrà consumata durante l'irrigazione. Durante una siccità il sistema di irrigazione consuma ancora più acqua.\nSe l'acqua è contaminata da radiazioni, il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> aumenta anche l'area di lavoro dell'impianto.\nA sua volta, l'acqua non contaminata da radiazioni riduce il livello di radiazione."
     },
     {
       "k": 1252,
@@ -9943,7 +9942,7 @@
     },
     {
       "k": 1818,
-      "v": "Il pub <link=\"3\"><style=\"DefaultLink\">impiega</style></link> un oste. I oste producono birra, liquori o erba con ingredienti diversi. oste è in grado di preparare una di queste ricette alla volta.\n\nPuò essere possibile impostare la ricetta successiva. L'oste impiegato inizia con il lavoro sulla nuova ricetta non appena l'attività corrente viene completata. \nI setter possono visitare la Taverna. Se ricevono birra, liquori o giunture, ottengono una spinta temporanea alla loro fiducia."
+      "v": "Il pub <link=\"3\"><style=\"DefaultLink\">impiega</style></link> un oste. I oste producono birra, liquori o spinelli con ingredienti diversi. oste è in grado di preparare una di queste ricette alla volta.\n\nPuò essere possibile impostare la ricetta successiva. L'oste impiegato inizia con il lavoro sulla nuova ricetta non appena l'attività corrente viene completata. \nI setter possono visitare la Taverna. Se ricevono birra, liquori o giunture, ottengono una spinta temporanea alla loro fiducia."
     },
 	{
       "k": 6094,
@@ -10011,7 +10010,7 @@
     },
 	{
       "k": 3590,
-      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."	  
+      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."
     },
 	{
       "k": 6096,
@@ -10123,7 +10122,7 @@
     },
 	{
       "k": 5527,
-      "v": "Il negozio del sarto aggiornato <link=\"3\"><style=\"DefaultLink\">impiega</style></link>Sarti. I sarti producono sciarpe da collo, maschere al carbone attivo e tute anti-radiazioni con <link=\"16\"><style=\"DefaultLink\">Tessuto</style></link>, carbone e <link=\"16\"><style=\"DefaultLink\">Plastica</style></link>. La sartoria aggiornata è più efficace della sartoria. Puoi decidere quale formula del prodotto deve essere prodotta dopo. I sarti impiegati iniziano a lavorare utilizzando la nuova formula non appena la missione corrente è completata. La sartoria aggiornata riduce lo <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i Coloni che hanno il loro <link=\"4\"><style=\"DefaultLink\">abitazione</style></link> nelle loro vicinanze. Per poter creare un seminario aggiornato, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+      "v": "Il negozio del sarto aggiornato <link=\"3\"><style=\"DefaultLink\">impiega</style></link>Sarti. I sarti producono sciarpe da collo, maschere al carbone attivo e tute anti-radiazioni con <link=\"16\"><style=\"DefaultLink\">Tessuto</style></link>, carbone e <link=\"16\"><style=\"DefaultLink\">Plastica</style></link>. La sartoria aggiornata è più efficace della sartoria. Puoi decidere quale formula del prodotto deve essere prodotta dopo. I sarti impiegati iniziano a lavorare utilizzando la nuova formula non appena la missione corrente è completata. La sartoria aggiornata riduce lo <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i coloni che hanno il loro <link=\"4\"><style=\"DefaultLink\">abitazione</style></link> nelle loro vicinanze. Per poter creare un seminario aggiornato, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 1256,
@@ -10175,7 +10174,7 @@
     },
     {
       "k": 1855,
-      "v": "Il Raccoglitore solare genera energia durante il <link=\"7\"><style=\"DefaultLink\">Giorno</style></link>. Di notte non viene generata energia. per costruire un Raccoglitore solare, è necessario eseguire prima il <link=\"19\"><style=\"DefaultLink\">Ricerca</style> </link>."
+      "v": "Il pannello solare genera energia durante il <link=\"7\"><style=\"DefaultLink\">Giorno</style></link>. Di notte non viene generata energia. per costruire un pannello solare, è necessario eseguire prima il <link=\"19\"><style=\"DefaultLink\">Ricerca</style> </link>."
     },
     {
       "k": 1856,
@@ -10235,7 +10234,7 @@
     },
     {
       "k": 1868,
-      "v": "La stazione di spedizione <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Esploratore. Gli Esploratori producono Razioni. Puoi anche inviarli per esplorare le Rovine Le spedizioni vengono avviate anche da una Stazione di spedizione. Puoi costruire solo una Stazione di spedizione nel tuo insediamento. "
+      "v": "La stazione di spedizione <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Esploratore. Gli Esploratori producono Razioni. Puoi anche inviarli per esplorare le Rovine Le spedizioni vengono avviate anche da una stazione di spedizione. Puoi costruire solo una stazione di spedizione nel tuo insediamento. "
     },
     {
       "k": 1259,
@@ -10275,7 +10274,7 @@
     },
     {
       "k": 1875,
-      "v": "Il deposito di rottami <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Collezionisti di Rottame. I collezionisti di Rottame raccolgono il Rottame situato nel loro <link=\"1\"><style=\"DefaultLink\">area di lavoro assegnata</style> </link>. Collezionista di rottami funziona in modo più efficiente quando Deposito rottami <link =\"1\"><style=\"DefaultLink\">è collocato nelle vicinanze</style> </link> di diverse Mucchio di rottami o Rovine di scarto."
+      "v": "Il deposito di rottami <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Collezionisti di Rottame. I collezionisti di Rottame raccolgono il Rottame situato nel loro <link=\"1\"><style=\"DefaultLink\">area di lavoro assegnata</style> </link>. collezionista di rottami funziona in modo più efficiente quando deposito rottami <link =\"1\"><style=\"DefaultLink\">è collocato nelle vicinanze</style> </link> di diverse Mucchio di rottami o Rovine di scarto."
     },
     {
       "k": 1876,
@@ -10291,7 +10290,7 @@
     },
     {
       "k": 3056,
-      "v": "Raccoglitore di rottami cattura pezzi di rottami che volano in giro. Nel tempo ciò genera <link=\"15\"><style=\"DefaultLink\">Rottami</style> </link> che possono essere raccolto dai collezionisti di rottami. La quantità di rottami catturati aumenta enormemente durante un <link=\"7\"><style=\"DefaultLink\">Tempesta di sabbia</style> </link>. Per essere in grado di costruire uno Raccoglitore di rottami, è necessario eseguire prima la <link=\"19\"><style=\"DefaultLink\">Ricerca</style> </link>."
+      "v": "Raccoglitore di rottami cattura pezzi di rottami che volano in giro. Nel tempo ciò genera <link=\"15\"><style=\"DefaultLink\">Rottami</style> </link> che possono essere raccolto dai collezionisti di rottami. La quantità di rottami catturati aumenta enormemente durante un <link=\"7\"><style=\"DefaultLink\">Tempesta di sabbia</style> </link>. Per essere in grado di costruire uno raccoglitore di rottami, è necessario eseguire prima la <link=\"19\"><style=\"DefaultLink\">Ricerca</style> </link>."
     },
 	{
       "k": 3596,
@@ -10299,7 +10298,7 @@
     },
     {
       "k": 3597,
-      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."	   
+      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."
     },
 	{
       "k": 6098,
@@ -10379,7 +10378,7 @@
     },
     {
       "k": 1889,
-      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."	   
+      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."
     },
 	{
       "k": 4711,
@@ -10399,7 +10398,7 @@
     },
     {
       "k": 4715,
-      "v": "I coloni istruiti completano ogni compito loro assegnato più velocemente dei coloni non istruiti. Coloni istruiti possono anche utilizzare i loro <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Indumenti protettivi</style></link> in modo più efficace. I loro strumenti e indumenti protettivi durano il doppio e ricevono più distintivi dei coloni rispetto ai coloni ignoranti. Ogni Colono viene addestrato individualmente in queste aree. Migliore è il Settler in un'area, più efficace sarà il Settler in essa. Maggiore è il numero di Coloni che ricevono addestramento, più efficiente sarà il funzionamento di un insediamento. Per essere considerato istruito, il colono deve aver frequentato una scuola durante l'infanzia."
+      "v": "I coloni istruiti completano ogni compito loro assegnato più velocemente dei coloni non istruiti. coloni istruiti possono anche utilizzare i loro <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Indumenti protettivi</style></link> in modo più efficace. I loro strumenti e indumenti protettivi durano il doppio e ricevono più distintivi dei coloni rispetto ai coloni ignoranti. Ogni Colono viene addestrato individualmente in queste aree. Migliore è il Settler in un'area, più efficace sarà il Settler in essa. Maggiore è il numero di coloni che ricevono addestramento, più efficiente sarà il funzionamento di un insediamento. Per essere considerato istruito, il colono deve aver frequentato una scuola durante l'infanzia."
     },
     {
       "k": 4716,
@@ -10499,7 +10498,7 @@
     },
 	{
       "k": 5046,
-      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."	  
+      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."
     },
 	{
       "k": 5372,
@@ -10507,7 +10506,7 @@
     },
 	{
       "k": 6728,
-      "v": "L'unità di fabbrica <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. La velocità di produzione di <link=\"11\"><style=\"DefaultLink\">Nogozi di Sartoria</style></link>, <link=\"12\"><style=\"DefaultLink\">Laboratori</style></link>, <link=\"23\"><style=\"DefaultLink\">Fabbriche di munizioni</style></link>, <link=\"9\"><style=\"DefaultLink\">Strutture mediche</style></link> e <link=\"11\"><style=\"DefaultLink\">Postazioni di decontaminazione</style></link> situati nel la vicinanza dell'Unità di Fabbrica è accresciuta dalla presenza dell'Unità di Fabbrica. L'unità di fabbrica consuma continuamente <link=\"25\"><style=\"DefaultLink\">Metallo rinforzato</style></link>, <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link> e <link=\"25\"><style=\"DefaultLink\">Vetro</style></link>. Per essere in grado di costruire un'unità di fabbrica, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. L'Unità di Fabbrica riduce la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> di tutti i Coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
+      "v": "L'unità di fabbrica <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. La velocità di produzione di <link=\"11\"><style=\"DefaultLink\">Nogozi di Sartoria</style></link>, <link=\"12\"><style=\"DefaultLink\">Laboratori</style></link>, <link=\"23\"><style=\"DefaultLink\">Fabbriche di munizioni</style></link>, <link=\"9\"><style=\"DefaultLink\">Strutture mediche</style></link> e <link=\"11\"><style=\"DefaultLink\">Postazioni di decontaminazione</style></link> situati nel la vicinanza dell'Unità di Fabbrica è accresciuta dalla presenza dell'Unità di Fabbrica. L'unità di fabbrica consuma continuamente <link=\"25\"><style=\"DefaultLink\">Metallo rinforzato</style></link>, <link=\"25\"><style=\"DefaultLink\">Calcestruzzo</style></link> e <link=\"25\"><style=\"DefaultLink\">Vetro</style></link>. Per essere in grado di costruire un'unità di fabbrica, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. L'Unità di Fabbrica riduce la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> di tutti i coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
     },
     {
       "k": 6729,
@@ -10535,11 +10534,11 @@
     },
     {
       "k": 3064,
-      "v": "La conoscenza è necessaria per eseguire la ricerca. È generata dai ricercatori della Stazione di ricerca o trovata su <link=\"14\"><style=\"DefaultLink\">spedizioni</style></link>."
+      "v": "La conoscenza è necessaria per eseguire la ricerca. È generata dai ricercatori della stazione di ricerca o trovata su <link=\"14\"><style=\"DefaultLink\">spedizioni</style></link>."
     },
     {
       "k": 3065,
-      "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."
+      "v": "La stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la stazione di ricerca generano conoscenza."
     },
 	{
       "k": 5374,
@@ -10619,7 +10618,7 @@
     },
     {
       "k": 4411,
-      "v": "Nel forum puoi emanare decreti che i tuoi coloni rispetteranno. Ogni decreto presenta vantaggi e svantaggi per la tua liquidazione. Fai attenzione a non imporre troppo ai tuoi Coloni. Possono essere attivi fino a due decreti contemporaneamente. Per poter emanare alcuni decreti, è necessario eseguire prima una <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+      "v": "Nel forum puoi emanare decreti che i tuoi coloni rispetteranno. Ogni decreto presenta vantaggi e svantaggi per la tua liquidazione. Fai attenzione a non imporre troppo ai tuoi coloni. Possono essere attivi fino a due decreti contemporaneamente. Per poter emanare alcuni decreti, è necessario eseguire prima una <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 4412,
@@ -10719,7 +10718,7 @@
     },
     {
       "k": 5764,
-      "v": "La Torre di Guardia <link=\"3\"><style=\"DefaultLink\">impiega</style></link> milizia. La Milizia di stanza lì fa fuoco contro i predoni attaccanti dalla torre. Per fare questo hanno bisogno di proiettili di metallo o proiettili di gomma. Il tipo di munizioni da utilizzare può essere configurato in qualsiasi momento sulla Torre di Guardia. La Torre di Guardia consuma più munizioni <link=\"7\"><style=\"DefaultLink\">di notte</style></link> che durante il giorno. Questo svantaggio può essere compensato quando la Torre di Guardia è collegata a una <link=\"13\"><style=\"DefaultLink\">Rete elettrica</style></link> funzionante. Per poter creare una Torre di Guardia, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
+      "v": "La torre di guardia <link=\"3\"><style=\"DefaultLink\">impiega</style></link> milizia. La Milizia di stanza lì fa fuoco contro i predoni attaccanti dalla torre. Per fare questo hanno bisogno di proiettili di metallo o proiettili di gomma. Il tipo di munizioni da utilizzare può essere configurato in qualsiasi momento sulla torre di guardia. La torre di guardia consuma più munizioni <link=\"7\"><style=\"DefaultLink\">di notte</style></link> che durante il giorno. Questo svantaggio può essere compensato quando la torre di guardia è collegata a una <link=\"13\"><style=\"DefaultLink\">Rete elettrica</style></link> funzionante. Per poter creare una torre di guardia, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
     {
       "k": 5765,
@@ -10747,7 +10746,7 @@
     },
     {
       "k": 6389,
-      "v": "Il municipio è il livello di aggiornamento più alto per il <link=\"18\"><style=\"DefaultLink\">Centro città</style></link>. Il municipio può immagazzinare qualsiasi risorsa eccetto <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. l tipo di Risorsa che dovrebbe essere conservato presso il Municipio può essere configurato in qualsiasi momento. Inoltre, il municipio funge da luogo in cui i coloni possono fare richieste sulla vita nell'insediamento. Il municipio non può essere costruito finché i tuoi coloni non esprimono il desiderio di farlo costruire. Non esprimeranno questo desiderio fino a quando non sarà stato prima ricercato un certo numero di <link=\"19\"><style=\"DefaultLink\">Progetti di ricerca</style></link>."
+      "v": "Il municipio è il livello di aggiornamento più alto per il <link=\"18\"><style=\"DefaultLink\">Centro città</style></link>. Il municipio può immagazzinare qualsiasi risorsa eccetto <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>. l tipo di risorsa che dovrebbe essere conservato presso il Municipio può essere configurato in qualsiasi momento. Inoltre, il municipio funge da luogo in cui i coloni possono fare richieste sulla vita nell'insediamento. Il municipio non può essere costruito finché i tuoi coloni non esprimono il desiderio di farlo costruire. Non esprimeranno questo desiderio fino a quando non sarà stato prima ricercato un certo numero di <link=\"19\"><style=\"DefaultLink\">Progetti di ricerca</style></link>."
     },
     {
       "k": 6730,
@@ -10783,7 +10782,7 @@
     },
     {
       "k": 6111,
-      "v": "La fabbrica di calcestruzzo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. Il calcestruzzo viene prodotto in una fabbrica di calcestruzzo con <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link>, <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"15\"><style=\"DefaultLink\">Cemento</style></link>. Il calcestruzzo è necessario come materiale da costruzione per molti edifici robusti. Per essere in grado di costruire una Fabbrica di Calcestruzzo, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica di Calcestruzzo riduce la <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i Coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
+      "v": "La fabbrica di calcestruzzo <link=\"3\"><style=\"DefaultLink\">impiega</style></link> ingegneri. Il calcestruzzo viene prodotto in una fabbrica di calcestruzzo con <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link>, <link=\"6\"><style=\"DefaultLink\">Acqua</style></link>, <link=\"11\"><style=\"DefaultLink\">Carbone</style></link> e <link=\"15\"><style=\"DefaultLink\">Cemento</style></link>. Il calcestruzzo è necessario come materiale da costruzione per molti edifici robusti. Per essere in grado di costruire una Fabbrica di Calcestruzzo, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica di Calcestruzzo riduce la <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link> di tutti i coloni di cui l'<link=\"4\"><style=\"DefaultLink\">abitazione</style></link> è nelle vicinanze."
     },
     {
       "k": 6112,
@@ -10807,7 +10806,7 @@
     },
     {
       "k": 6393,
-      "v": "La fabbrica di materiali <link=\"3\"><style=\"DefaultLink\">impiega</style></link> riciclatori. Il vetro può essere prodotto nella fabbrica del materiale da <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>, e metallo rinforzato con <link=\"15\"><style=\"DefaultLink\">Metallo</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Per essere in grado di costruire una Fabbrica di Materiali, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica dei Materiali riduce la <link=\"8\"><style=\"DefaultLink\">Felicità</style></link> di tutti i Coloni che hanno la loro <link=\"4\"><style=\"DefaultLink\">Residenza</style></link> nelle vicinanze."
+      "v": "La fabbrica di materiali <link=\"3\"><style=\"DefaultLink\">impiega</style></link> riciclatori. Il vetro può essere prodotto nella fabbrica del materiale da <link=\"15\"><style=\"DefaultLink\">Sabbia</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>, e metallo rinforzato con <link=\"15\"><style=\"DefaultLink\">Metallo</style></link> e <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. Per essere in grado di costruire una Fabbrica di Materiali, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. La Fabbrica dei Materiali riduce la <link=\"8\"><style=\"DefaultLink\">Felicità</style></link> di tutti i coloni che hanno la loro <link=\"4\"><style=\"DefaultLink\">Residenza</style></link> nelle vicinanze."
     },
     {
       "k": 6394,
@@ -11391,7 +11390,7 @@
     },
     {
       "k": 1469,
-      "v": "Forse un Raccoglitore lo farebbe meglio..."
+      "v": "Forse un raccoglitore lo farebbe meglio..."
     },
     {
       "k": 1470,
@@ -11399,7 +11398,7 @@
     },
     {
       "k": 1471,
-      "v": "Mi è stato detto che si tratta di una specie di muschio con funghi. Il nostro Raccoglitore è sicuro che sia commestibile. Ha già preso un morso."
+      "v": "Mi è stato detto che si tratta di una specie di muschio con funghi. Il nostro raccoglitore è sicuro che sia commestibile. Ha già preso un morso."
     },
     {
       "k": 1472,
@@ -11475,7 +11474,7 @@
     },
     {
       "k": 1490,
-      "v": "Okay, siamo qui. Lo Scout non ci ha detto nulla, ma qui c'è un odore dolce che soffia nell'aria. Diventa ancora più forte man mano che ti avvicini alla Serra."
+      "v": "Okay, siamo qui. Lo Scout non ci ha detto nulla, ma qui c'è un odore dolce che soffia nell'aria. Diventa ancora più forte man mano che ti avvicini alla serra."
     },
     {
       "k": 1491,
@@ -11511,7 +11510,7 @@
     },
     {
       "k": 1499,
-      "v": "Potremmo lasciare le Piante dove sono per ora e cercare di salvare parte del Metallo di cui è fatta la Serra. <<dynamicmessage>>"
+      "v": "Potremmo lasciare le Piante dove sono per ora e cercare di salvare parte del Metallo di cui è fatta la serra. <<dynamicmessage>>"
     },
     {
       "k": 1500,
@@ -12727,7 +12726,7 @@
     },
     {
       "k": 2050,
-      "v": "Per fortuna abbiamo portato uno Collezionista di rottami per sistemare le cose che sono ancora utilizzabili."
+      "v": "Per fortuna abbiamo portato uno collezionista di rottami per sistemare le cose che sono ancora utilizzabili."
     },
     {
       "k": 2051,
@@ -12855,7 +12854,7 @@
     },
     {
       "k": 2190,
-      "v": "Il nostro Raccoglitore ci dice che non dovremmo rinunciare alla speranza. La puzza non significa che sia una causa persa!"
+      "v": "Il nostro raccoglitore ci dice che non dovremmo rinunciare alla speranza. La puzza non significa che sia una causa persa!"
     },
     {
       "k": 2082,
@@ -12987,11 +12986,11 @@
     },
     {
       "k": 2112,
-      "v": "Avrei dovuto portare con sé un buon Collezionista di rottami."
+      "v": "Avrei dovuto portare con sé un buon collezionista di rottami."
     },
     {
       "k": 2113,
-      "v": "Meno male che abbiamo portato con noi un buon Collezionista di rottami!"
+      "v": "Meno male che abbiamo portato con noi un buon collezionista di rottami!"
     },
     {
       "k": 2114,
@@ -12999,7 +12998,7 @@
     },
     {
       "k": 2115,
-      "v": ", individuato da uno dei nostri hard-core Collezionista di rottami"
+      "v": ", individuato da uno dei nostri hard-core collezionista di rottami"
     },
     {
       "k": 2116,
@@ -13007,7 +13006,7 @@
     },
     {
       "k": 2117,
-      "v": "Dovresti essere un duro Collezionista di rottami per trovare qualcosa in questo casino, capo."
+      "v": "Dovresti essere un duro collezionista di rottami per trovare qualcosa in questo casino, capo."
     },
     {
       "k": 2118,
@@ -13399,7 +13398,7 @@
     },
     {
       "k": 3191,
-      "v": "È una vista incredibile da quassù, capo! Puoi persino individuare la Stazione di spedizione del nostro insediamento in lontananza! Altrimenti non c'è niente quassù - ma che diamine, ne è valsa la pena comunque! <<dynamicmessage>>"
+      "v": "È una vista incredibile da quassù, capo! Puoi persino individuare la stazione di spedizione del nostro insediamento in lontananza! Altrimenti non c'è niente quassù - ma che diamine, ne è valsa la pena comunque! <<dynamicmessage>>"
     },
     {
       "k": 3192,
@@ -14715,7 +14714,7 @@
     },
     {
       "k": 3709,
-      "v": "In confronto alle altre Rovine, questo è praticamente un relitto: l'intero Deposito probabilmente crollerà la prossima volta che si verificherà una forte tempesta! Fai attenzione che nessuno di quei montanti metallici ti cada in testa! Avremmo potuto pensare a un equipaggiamento protettivo ... Ma chi dovrebbe avere la brillante idea che avresti avuto bisogno di elmetti nel post-apocalisse?"
+      "v": "In confronto alle altre Rovine, questo è praticamente un relitto: l'intero deposito probabilmente crollerà la prossima volta che si verificherà una forte tempesta! Fai attenzione che nessuno di quei montanti metallici ti cada in testa! Avremmo potuto pensare a un equipaggiamento protettivo ... Ma chi dovrebbe avere la brillante idea che avresti avuto bisogno di elmetti nel post-apocalisse?"
     },
     {
       "k": 3710,
@@ -14755,7 +14754,7 @@
     },
     {
       "k": 3719,
-      "v": "Oh beh, non c'è da stupirsi: le uniche cose qui sono casse piene di polvere nera. Un secondo! Il nostro carbone di legna qui dice che probabilmente è il carbone polverizzato che viene utilizzato per produrre bricchetti di carbone compressi! Meno male che lo abbiamo con noi - non mi sarebbe mai passato per la mente, non per la vita di me ..."
+      "v": "Oh beh, non c'è da stupirsi: le uniche cose qui sono casse piene di polvere nera. Un secondo! Il nostro carbone qui dice che probabilmente è il carbone polverizzato che viene utilizzato per produrre bricchetti di carbone compressi! Meno male che lo abbiamo con noi - non mi sarebbe mai passato per la mente, non per la vita di me ..."
     },
     {
       "k": 3720,
@@ -14971,7 +14970,7 @@
     },
     {
       "k": 3777,
-      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."	
+      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."
     },
 	{
       "k": 3957,
@@ -16167,7 +16166,7 @@
     },
     {
       "k": 4975,
-      "v": "Ehi, ora è quello che chiamo vista! Se non mi sbaglio, riesco persino a scorgere all'orizzonte le sagome della nostra Stazione! Ehi, un secondo: c'è un piccolo zaino che giace qui nell'angolo. Qualcuno deve averlo depositato qui ad un certo punto... Ci sono alcune cose utili dentro!"
+      "v": "Ehi, ora è quello che chiamo vista! Se non mi sbaglio, riesco persino a scorgere all'orizzonte le sagome della nostra stazione! Ehi, un secondo: c'è un piccolo zaino che giace qui nell'angolo. Qualcuno deve averlo depositato qui ad un certo punto... Ci sono alcune cose utili dentro!"
     },
     {
       "k": 4976,
@@ -16483,7 +16482,7 @@
     },
     {
       "k": 2342,
-      "v": "Mostra popup all'avvio"	 
+      "v": "Mostra popup all'avvio"
     },
 	{
       "k": 5859,
@@ -16607,11 +16606,11 @@
     },
     {
       "k": 2380,
-      "v": "Fantastico! Puoi anche modificare l'area di lavoro per il Deposito rottami. Possiamo riciclare Rottami in quattro risorse aggiuntive: <link=\"15\"><style=\"DefaultLink\">Stoffa</style></link>,<link=\"15\"><style=\"DefaultLink\">Metallo</style></link>,<link = \"15\"><style=\"DefaultLink\">Plastica</style></link> e <link=\"15\"><style=\"DefaultLink\">Elettronica</style> </link>. Lo faremo a breve, ma per ora dovremmo prima occuparci delle esigenze dei tuoi coloni. "
+      "v": "Fantastico! Puoi anche modificare l'area di lavoro per il deposito rottami. Possiamo riciclare Rottami in quattro risorse aggiuntive: <link=\"15\"><style=\"DefaultLink\">Stoffa</style></link>,<link=\"15\"><style=\"DefaultLink\">Metallo</style></link>,<link = \"15\"><style=\"DefaultLink\">Plastica</style></link> e <link=\"15\"><style=\"DefaultLink\">Elettronica</style> </link>. Lo faremo a breve, ma per ora dovremmo prima occuparci delle esigenze dei tuoi coloni. "
     },
     {
       "k": 2381,
-      "v": "Il nostro primo Deposito rottami"
+      "v": "Il nostro primo deposito rottami"
     },
     {
       "k": 2382,
@@ -16643,7 +16642,7 @@
     },
     {
       "k": 2389,
-      "v": "Classifichiamo <link=\"10\"><style=\"DefaultLink\">radiazione ambientale</style></link> in quattro livelli: nessuna radiazione, basso livello, medio livello e Radiazioni di alto livello La radiazione cambia costantemente ed è influenzata dalle condizioni meteorologiche e dalla pioggia contaminata L'abbigliamento protettivo aiuta a proteggerci da questo tipo di radiazione, ma ci vuole un po' prima che venga prodotta e la produzione si affida a un flusso costante di risorse in entrata. stabilire le catene di produzione in una fase iniziale e iniziare ad accumulare merci in modo che alcune siano sempre a portata di mano."
+      "v": "Classifichiamo <link=\"10\"><style=\"DefaultLink\">radiazione ambientale</style></link> in quattro livelli: nessuna radiazione, basso livello, medio livello e radiazioni di alto livello La radiazione cambia costantemente ed è influenzata dalle condizioni meteorologiche e dalla pioggia contaminata L'abbigliamento protettivo aiuta a proteggerci da questo tipo di radiazione, ma ci vuole un po' prima che venga prodotta e la produzione si affida a un flusso costante di risorse in entrata. stabilire le catene di produzione in una fase iniziale e iniziare ad accumulare merci in modo che alcune siano sempre a portata di mano."
     },
     {
       "k": 2390,
@@ -16715,7 +16714,7 @@
     },
     {
       "k": 2407,
-      "v": "Le <link=\"10\"><style=\"DefaultLink\">Radiazioni</style></link> è il motivo principale per cui <link=\"9\"><style=\"DefaultLink\">Lo stato di salute</style></link> del nostro insediamento può diminuire. Sebbene i nostri coloni utilizzino già indumenti protettivi per proteggersi dalle radiazioni ambientali, è possibile che le nostre fonti d'acqua vengano contaminate. Dovremmo iniziare per filtrare la nostra Acqua per evitare che ciò accada. Avremo bisogno di una grande quantità di <link=\"15\"><style=\"DefaultLink\">Carbone</style></link> per raggiungere questo obiettivo. <link=\"15\"><style=\"DefaultLink\">Forno per carbonella</style></link> brucerà il legno per produrre carbonella."
+      "v": "Le <link=\"10\"><style=\"DefaultLink\">Radiazioni</style></link> è il motivo principale per cui <link=\"9\"><style=\"DefaultLink\">Lo stato di salute</style></link> del nostro insediamento può diminuire. Sebbene i nostri coloni utilizzino già indumenti protettivi per proteggersi dalle radiazioni ambientali, è possibile che le nostre fonti d'acqua vengano contaminate. Dovremmo iniziare per filtrare la nostra acqua per evitare che ciò accada. Avremo bisogno di una grande quantità di <link=\"15\"><style=\"DefaultLink\">Carbone</style></link> per raggiungere questo obiettivo. <link=\"15\"><style=\"DefaultLink\">Forno per carbonella</style></link> brucerà il legno per produrre carbonella."
     },
     {
       "k": 2408,
@@ -16727,7 +16726,7 @@
     },
     {
       "k": 2410,
-      "v": "Sarebbe una vergogna se dovessimo demolire il nostro <link=\"6\"><style=\"DefaultLink\">Cistern</style> </link> solo per erigere un <link =\"6\"><style=\"DefaultLink\">Torre d'acqua</style></link> al suo posto. Quello che dovremmo fare invece è aggiornare la Cisterna stessa. Una Torre d'acqua può immagazzinare molta più Acqua e fornisce ambienti di lavoro per molti più portatori d'acqua rispetto alla nostra vecchia cisterna."
+      "v": "Sarebbe una vergogna se dovessimo demolire il nostro <link=\"6\"><style=\"DefaultLink\">Cistern</style> </link> solo per erigere un <link =\"6\"><style=\"DefaultLink\">Torre d'acqua</style></link> al suo posto. Quello che dovremmo fare invece è aggiornare la Cisterna stessa. Una Torre d'acqua può immagazzinare molta più acqua e fornisce ambienti di lavoro per molti più portatori d'acqua rispetto alla nostra vecchia cisterna."
     },
     {
       "k": 2411,
@@ -16743,7 +16742,7 @@
     },
     {
       "k": 2414,
-      "v": "Cominciamo con il filtraggio della nostra acqua. Per risparmiare sulla <link=\"15\"><style=\"DefaultLink\">Carbonella</style></link> dovremmo assicurarci che almeno un un po' d'acqua non contaminata dalle radiazioni viene immagazzinata nella nostra <link=\"6\"><style=\"DefaultLink\">Torre d'acqua</style></link>. Acqua ottenuta da un <link=\"6\"><style=\"DefaultLink\">Beh</style></link> non è mai contaminata dalle radiazioni, quindi si suggerisce a tale scopo. Quindi possiamo usare il carbone rimanente per produrre un abbigliamento protettivo migliore."
+      "v": "Cominciamo con il filtraggio della nostra acqua. Per risparmiare sulla <link=\"15\"><style=\"DefaultLink\">Carbonella</style></link> dovremmo assicurarci che almeno un un po' d'acqua non contaminata dalle radiazioni viene immagazzinata nella nostra <link=\"6\"><style=\"DefaultLink\">Torre d'acqua</style></link>. acqua ottenuta da un <link=\"6\"><style=\"DefaultLink\">Beh</style></link> non è mai contaminata dalle radiazioni, quindi si suggerisce a tale scopo. Quindi possiamo usare il carbone rimanente per produrre un abbigliamento protettivo migliore."
     },
     {
       "k": 2415,
@@ -16758,16 +16757,16 @@
       "v": "Attiva il filtro nella tua torre dell'acqua"
     },
     {
-	  "k": 3508,
+"k": 3508,
       "v": "Non solo la nostra acqua può diventare un pericolo per i nostri coloni a causa delle radiazioni: anche il nostro cibo può. Dovremmo erigere un posto di decontaminazione per impedire ai coloni di mangiare pasti contaminati dalle radiazioni."
     },
     {
-	   "k": 3509,
+"k": 3509,
        "v": "Molto bene! Il posto di decontaminazione fornirà tutti gli edifici che accumulano cibo e si trovano nella sua area di lavoro al fine di purificare il cibo che è stato colpito dalle radiazioni."
     },
     {
-	   "k": 3510,
-	   "v": "Cibo pulito"
+"k": 3510,
+"v": "Cibo pulito"
     },
     {
       "k": 2421,
@@ -16871,7 +16870,7 @@
     },
     {
       "k": 2440,
-      "v": "<link=\"18\"><style=\"DefaultLink\">Logisti</style></link> sono in grado di accumulare risorse dal tuo intero insediamento e portarle su <link=\"18\"><style=\"DefaultLink\">Mercato</style></link>. Ciò migliora il flusso dei tuoi Prodotti e porta i tuoi Coloni a percorrere distanze più brevi per soddisfare le loro esigenze individuali. La combinazione di questi attributi rendono il mercato l'edificio ideale quando si desidera ampliare o addirittura trasferire il proprio insediamento ."
+      "v": "<link=\"18\"><style=\"DefaultLink\">Logisti</style></link> sono in grado di accumulare risorse dal tuo intero insediamento e portarle su <link=\"18\"><style=\"DefaultLink\">Mercato</style></link>. Ciò migliora il flusso dei tuoi Prodotti e porta i tuoi coloni a percorrere distanze più brevi per soddisfare le loro esigenze individuali. La combinazione di questi attributi rendono il mercato l'edificio ideale quando si desidera ampliare o addirittura trasferire il proprio insediamento ."
     },
     {
       "k": 2441,
@@ -16879,7 +16878,7 @@
     },
 	{
       "k": 5020,
-      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni Coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po 'più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispense di cibo</style></link>. I logisti che lavorano in un dispensario alimentare raccoglieranno il cibo dai vostri edifici di stoccaggio e strutture di produzione e lo porteranno al dispensario alimentare."
+      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po 'più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispense di cibo</style></link>. I logisti che lavorano in un dispensario alimentare raccoglieranno il cibo dai vostri edifici di stoccaggio e strutture di produzione e lo porteranno al dispensario alimentare."
     },
     {
       "k": 5021,
@@ -16963,7 +16962,7 @@
     },
     {
       "k": 2454,
-      "v": "Dato che ci siamo presi cura di tutte le esigenze urgenti del nostro insediamento, come cibo, acqua, indumenti protettivi e strumenti, ora dovremmo occuparci di aumentare la produttività complessiva dell'insediamento. Giù nell'Endzone ci siamo occupati del concetto di <link=\"13\"><style=\"DefaultLink\">Raccoglitore solare</style></link>. Questo Raccoglitore solare è in grado di raccogliere la luce solare e convertirla in <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link>. Volevamo provare se la nostra idea funziona e costruirti un Raccoglitore solare."
+      "v": "Dato che ci siamo presi cura di tutte le esigenze urgenti del nostro insediamento, come cibo, acqua, indumenti protettivi e strumenti, ora dovremmo occuparci di aumentare la produttività complessiva dell'insediamento. Giù nell'Endzone ci siamo occupati del concetto di <link=\"13\"><style=\"DefaultLink\">Raccoglitore solare</style></link>. Questo pannello solare è in grado di raccogliere la luce solare e convertirla in <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link>. Volevamo provare se la nostra idea funziona e costruirti un pannello solare."
     },
     {
       "k": 2455,
@@ -17023,11 +17022,11 @@
     },
     {
       "k": 2466,
-      "v": "Ogni Rovina ha le sue sfide, segreti e risorse preziose. Scegli i Coloni che soddisfano i prerequisiti necessari per le rispettive Rovine e dai loro abbastanza <link=\"14\"><style=\"DefaultLink\">Razioni di spedizione</style></link> da portare con te. Inoltre, non dimenticare di equipaggiarli con indumenti e strumenti di protezione al meglio delle tue capacità prima di inviarli. "
+      "v": "Ogni Rovina ha le sue sfide, segreti e risorse preziose. Scegli i coloni che soddisfano i prerequisiti necessari per le rispettive Rovine e dai loro abbastanza <link=\"14\"><style=\"DefaultLink\">Razioni di spedizione</style></link> da portare con te. Inoltre, non dimenticare di equipaggiarli con indumenti e strumenti di protezione al meglio delle tue capacità prima di inviarli. "
     },
     {
       "k": 2467,
-      "v": "Ora che hai commissionato la <link=\"14\"><style=\"DefaultLink\">Spedizione</style></link>, è ora in fase di preparazione. Razioni di spedizione e vengono accumulate altre risorse necessarie. Successivamente, i Coloni che hai selezionato abbandoneranno i loro vecchi compiti, si riuniranno, si equipaggeranno e successivamente partiranno insieme per la loro strada. Preparati a prendere decisioni difficili ."
+      "v": "Ora che hai commissionato la <link=\"14\"><style=\"DefaultLink\">Spedizione</style></link>, è ora in fase di preparazione. Razioni di spedizione e vengono accumulate altre risorse necessarie. Successivamente, i coloni che hai selezionato abbandoneranno i loro vecchi compiti, si riuniranno, si equipaggeranno e successivamente partiranno insieme per la loro strada. Preparati a prendere decisioni difficili ."
     },
     {
       "k": 2468,
@@ -17035,7 +17034,7 @@
     },
     {
       "k": 2469,
-      "v": "Buone notizie! Il tuo <link=\"14\"><style=\"DefaultLink\">Spedizione</style></link> sta arrivando a destinazione. Adesso tocca a te Contattali non appena arrivano e ascolta ciò che hanno da dirti. Prendi decisioni sagge e guida i Coloni attraverso le Rovine con meticolosa cura. "
+      "v": "Buone notizie! Il tuo <link=\"14\"><style=\"DefaultLink\">Spedizione</style></link> sta arrivando a destinazione. Adesso tocca a te Contattali non appena arrivano e ascolta ciò che hanno da dirti. Prendi decisioni sagge e guida i coloni attraverso le Rovine con meticolosa cura. "
     },
     {
       "k": 2470,
@@ -17063,7 +17062,7 @@
     },
     {
       "k": 4166,
-      "v": "Ai tuoi coloni piaceranno davvero le decorazioni di recente costruzione. In questo modo puoi persino progettare in modo attraente un'area residenziale che si trova vicino a edifici industriali. E con tempo ed energia sufficienti, crea anche un insediamento in cui tutti i Coloni siano felici di viverci."
+      "v": "Ai tuoi coloni piaceranno davvero le decorazioni di recente costruzione. In questo modo puoi persino progettare in modo attraente un'area residenziale che si trova vicino a edifici industriali. E con tempo ed energia sufficienti, crea anche un insediamento in cui tutti i coloni siano felici di viverci."
     },
     {
       "k": 4167,
@@ -17091,7 +17090,7 @@
     },
     {
       "k": 4173,
-      "v": "Decreti"	 
+      "v": "Decreti"
     },
 	{
       "k": 5641,
@@ -17119,7 +17118,7 @@
     },
     {
       "k": 5647,
-      "v": "La Torre di Guardia"
+      "v": "La torre di guardia"
     },
     {
       "k": 5648,
@@ -17127,7 +17126,7 @@
     },
     {
       "k": 5649,
-      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni Torre di Guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
+      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni torre di guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
     },
     {
       "k": 5650,
@@ -17239,7 +17238,7 @@
     },
     {
       "k": 2498,
-      "v": "Costruisci un raccoglitore solare."
+      "v": "Costruisci un pannello solare."
     },
     {
       "k": 2507,
@@ -17303,7 +17302,7 @@
     },
     {
       "k": 2521,
-      "v": "Maledizione, capo! Non è ancora abbastanza. Abbiamo davvero bisogno di quelle Erbe per mantenere in salute i nostri Coloni."
+      "v": "Maledizione, capo! Non è ancora abbastanza. Abbiamo davvero bisogno di quelle Erbe per mantenere in salute i nostri coloni."
     },
     {
       "k": 2522,
@@ -17687,7 +17686,7 @@
     },
     {
       "k": 2623,
-      "v": "Abbiamo dato una buona occhiata a tutto dappertutto e sembra che i nostri Collezionista di rottami abbiano sbagliato. È solo la stessa vecchia spazzatura che conosciamo fin troppo bene ..."
+      "v": "Abbiamo dato una buona occhiata a tutto dappertutto e sembra che i nostri collezionista di rottami abbiano sbagliato. È solo la stessa vecchia spazzatura che conosciamo fin troppo bene ..."
     },
     {
       "k": 2624,
@@ -17707,7 +17706,7 @@
     },
     {
       "k": 2633,
-      "v": "Si è verificato un sovraccarico improvviso nel nostro raccoglitore solare. Sembra che sia stato danneggiato. Anche alcuni pali di energia elettrica sono interessati. Alcuni coloni sono rimasti feriti durante l'incidente. Dovremmo trattarli il più velocemente possibile."
+      "v": "Si è verificato un sovraccarico improvviso nel nostro pannello solare. Sembra che sia stato danneggiato. Anche alcuni pali di energia elettrica sono interessati. Alcuni coloni sono rimasti feriti durante l'incidente. Dovremmo trattarli il più velocemente possibile."
     },
     {
       "k": 2634,
@@ -17715,7 +17714,7 @@
     },
     {
       "k": 2635,
-      "v": "Va bene. I feriti vengono curati. Non sappiamo esattamente cosa sia successo, ma sembra che dovremo sostituire alcune parti che abbiamo usato per costruire il raccoglitore solare e i poli di energia elettrica."
+      "v": "Va bene. I feriti vengono curati. Non sappiamo esattamente cosa sia successo, ma sembra che dovremo sostituire alcune parti che abbiamo usato per costruire il pannello solare e i poli di energia elettrica."
     },
     {
       "k": 2636,
@@ -17747,7 +17746,7 @@
     },
     {
       "k": 2643,
-      "v": "La nuova batteria è costruita e pronta per l'azione. Ci sono ancora alcune parti rimaste dalle riparazioni sui vecchi pali di energia elettrica e sul raccoglitore solare che potremmo essere ancora in grado di utilizzare per alcune altre cose. "
+      "v": "La nuova batteria è costruita e pronta per l'azione. Ci sono ancora alcune parti rimaste dalle riparazioni sui vecchi pali di energia elettrica e sul pannello solare che potremmo essere ancora in grado di utilizzare per alcune altre cose. "
     },
     {
       "k": 2644,
@@ -18383,7 +18382,7 @@
     },
     {
       "k": 5463,
-      "v": "Domare la capra"	  
+      "v": "Domare la capra"
     },
 	{
       "k": 6401,
@@ -18467,7 +18466,7 @@
     },
 	{
       "k": 4487,
-      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."	 
+      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."
     },
 	{
       "k": 6410,
@@ -18559,7 +18558,7 @@
     },
     {
       "k": 3480,
-      "v": "La velocità di ricerca e quindi il tempo rimanente per terminare la ricerca o generare conoscenza dipende dal numero di ricercatori che svolgono attivamente ricerca e dalla loro formazione. Inoltre, la velocità di ricerca aumenta notevolmente quando la Stazione di ricerca è alimentata con elettricità."
+      "v": "La velocità di ricerca e quindi il tempo rimanente per terminare la ricerca o generare conoscenza dipende dal numero di ricercatori che svolgono attivamente ricerca e dalla loro formazione. Inoltre, la velocità di ricerca aumenta notevolmente quando la stazione di ricerca è alimentata con elettricità."
     },
     {
       "k": 3481,
@@ -18586,7 +18585,7 @@
       "v": "Strumenti di conoscenza e ricerca"
     },
 	{
-	  "k": 5285,
+"k": 5285,
       "v": "Utensili di ricerca"
     },
 	{
@@ -18607,7 +18606,7 @@
     },
 	{
       "k": 5401,
-      "v": "Trascina la visualizzazione"	
+      "v": "Trascina la visualizzazione"
     },
 	{
       "k": 6552,
@@ -19030,7 +19029,7 @@
       "v": "Una siccità senza acqua?"
     },
 	{
-	  "k": 3378,
+"k": 3378,
       "v": "Il paesaggio si prosciugherà presto, capo! E non abbiamo ancora molta acqua di riserva. Dobbiamo urgentemente fare qualcosa."
     },
     {
@@ -19175,7 +19174,7 @@
     },
     {
       "k": 3574,
-      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."	
+      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."
     },
 	{
       "k": 4736,
@@ -19319,7 +19318,7 @@
     },
     {
       "k": 3779,
-      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."	  
+      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."
     },
 	{
       "k": 5553,
@@ -19335,7 +19334,7 @@
     },
     {
       "k": 4755,
-      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."	 
+      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."
     },
 	{
       "k": 5458,
@@ -19343,7 +19342,7 @@
     },
     {
       "k": 5459,
-      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."
+      "v": "Questa tecnologia sblocca gli edifici torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."
     },
 	{
       "k": 5496,
@@ -19755,7 +19754,7 @@
     },
     {
       "k": 3849,
-      "v": "Secondo i nostri Coloni, non può esistere la situazione che alcuni di loro debbano vivere per strada e non indossare indumenti protettivi mentre altri stanno bene. Vogliono che tu cambi qualcosa al riguardo."
+      "v": "Secondo i nostri coloni, non può esistere la situazione che alcuni di loro debbano vivere per strada e non indossare indumenti protettivi mentre altri stanno bene. Vogliono che tu cambi qualcosa al riguardo."
     },
     {
       "k": 3850,
@@ -19827,7 +19826,7 @@
     },
     {
       "k": 3867,
-      "v": "È la tua chiamata, capo! Tuttavia, i Coloni sarebbero stati certamente contenti se la loro qualità di vita fosse aumentata un po '."
+      "v": "È la tua chiamata, capo! Tuttavia, i coloni sarebbero stati certamente contenti se la loro qualità di vita fosse aumentata un po '."
     },
     {
       "k": 3868,
@@ -19863,7 +19862,7 @@
     },
     {
       "k": 3876,
-      "v": "Fantastico, capo! I Coloni sono felicissimi per il nuovo Equipaggiamento. Sono particolarmente lieti che, anche se l'onere è stato grande, hai dimostrato loro che la nostra economia è ancora in grado di funzionare."
+      "v": "Fantastico, capo! I coloni sono felicissimi per il nuovo Equipaggiamento. Sono particolarmente lieti che, anche se l'onere è stato grande, hai dimostrato loro che la nostra economia è ancora in grado di funzionare."
     },
     {
       "k": 3877,
@@ -20047,7 +20046,7 @@
     },
     {
       "k": 3925,
-      "v": "Molti bambini sono nati di recente, capo! Dobbiamo fare attenzione che i nostri coloni siano ugualmente in grado di provvedere a sufficienza a questa generazione emergente. Forse sarebbe meglio avvisare i Coloni che nel prossimo futuro non dovrebbero avere più figli all'inizio. Cosa ne pensi, capo?"
+      "v": "Molti bambini sono nati di recente, capo! Dobbiamo fare attenzione che i nostri coloni siano ugualmente in grado di provvedere a sufficienza a questa generazione emergente. Forse sarebbe meglio avvisare i coloni che nel prossimo futuro non dovrebbero avere più figli all'inizio. Cosa ne pensi, capo?"
     },
     {
       "k": 3926,
@@ -20239,7 +20238,7 @@
     },
     {
       "k": 4069,
-      "v": "Questo decreto vieta il parto."	   
+      "v": "Questo decreto vieta il parto."
     },
 	{
       "k": 4323,
@@ -20279,7 +20278,7 @@
     },
     {
       "k": 4450,
-      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."	 
+      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."
     },
 	{
       "k": 5051,
@@ -20383,7 +20382,7 @@
     },
     {
       "k": 4151,
-      "v": "In costruzione"	 
+      "v": "In costruzione"
     },
 	{
       "k": 5653,
@@ -20467,7 +20466,7 @@
     },
     {
       "k": 4152,
-      "v": "Edifici attualmente in costruzione."	   
+      "v": "Edifici attualmente in costruzione."
     },
 	{
       "k": 5655,
@@ -20511,7 +20510,7 @@
     },
     {
       "k": 4338,
-      "v": "Alcuni dei tuoi Coloni hanno avuto l'idea di distribuire alcune delle nostre riserve agli Abitanti in modo che tutti possano avere di nuovo una vera festa, tanto per cambiare. Pensa che possiamo concederci questo, capo?"
+      "v": "Alcuni dei tuoi coloni hanno avuto l'idea di distribuire alcune delle nostre riserve agli Abitanti in modo che tutti possano avere di nuovo una vera festa, tanto per cambiare. Pensa che possiamo concederci questo, capo?"
     },
     {
       "k": 4339,
@@ -20655,7 +20654,7 @@
     },
     {
       "k": 4368,
-      "v": "I primi passi sono stati fatti. Mentre altri si limitano a garantire la sopravvivenza dei Coloni, tu ci hai dimostrato di possedere la lungimiranza per perseguire prontamente la nostra Grande Visione sin dall'inizio!"
+      "v": "I primi passi sono stati fatti. Mentre altri si limitano a garantire la sopravvivenza dei coloni, tu ci hai dimostrato di possedere la lungimiranza per perseguire prontamente la nostra Grande Visione sin dall'inizio!"
     },
     {
       "k": 4369,
@@ -20903,7 +20902,7 @@
     },
     {
       "k": 4511,
-      "v": "Fornisci a tutti i tuoi Coloni un'abitazione fornita di elettricità:  <<amount>>"
+      "v": "Fornisci a tutti i tuoi coloni un'abitazione fornita di elettricità:  <<amount>>"
     },
     {
       "k": 4537,
@@ -20911,7 +20910,7 @@
     },
     {
       "k": 4538,
-      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una stazione meteorologica in cui possiamo osservare il tempo per consentire di fare dichiarazioni sulle condizioni meteorologiche future. Vogliono che il tuo permesso possa iniziare i loro studi."	   
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una stazione meteorologica in cui possiamo osservare il tempo per consentire di fare dichiarazioni sulle condizioni meteorologiche future. Vogliono che il tuo permesso possa iniziare i loro studi."
     },
 	{
       "k": 4539,
@@ -20943,7 +20942,7 @@
     },
     {
       "k": 4522,
-      "v": "Sistema commerciale"	   
+      "v": "Sistema commerciale"
     },
 	{
       "k": 4557,
@@ -20971,11 +20970,11 @@
     },
     {
       "k": 4563,
-      "v": "Un commerciante sta arrivando alla nostra postazione commerciale! Una volta arrivato, scegli la Stazione di scambio e fai clic su “Mostra offerta del commerciante” per passare alla finestra del contratto di scambio."
+      "v": "Un commerciante sta arrivando alla nostra postazione commerciale! Una volta arrivato, scegli la stazione di scambio e fai clic su “Mostra offerta del commerciante” per passare alla finestra del contratto di scambio."
     },
     {
       "k": 4564,
-      "v": "Tu e il commerciante siete riusciti a concordare un accordo! Mentre il Commerciante riparte, i tuoi Coloni distribuiranno le Risorse barattate tra i Magazzini del tuo insediamento."
+      "v": "Tu e il commerciante siete riusciti a concordare un accordo! Mentre il Commerciante riparte, i tuoi coloni distribuiranno le Risorse barattate tra i Magazzini del tuo insediamento."
     },
     {
       "k": 4565,
@@ -20983,7 +20982,7 @@
     },
     {
       "k": 4566,
-      "v": "Dopo aver ricercato la tecnologia chiamata <link=\"22\"><style=\"DefaultLink\">accordi commerciale</style></link> alla Stazione di ricerca, puoi decidere tu stesso quale trader dovrebbe essere il prossimo a venire al tuo insediamento. Ho già insegnato questa Tecnologia al tuo insediamento in modo che l'insediamento possa esercitarti a usarlo."
+      "v": "Dopo aver ricercato la tecnologia chiamata <link=\"22\"><style=\"DefaultLink\">accordi commerciale</style></link> alla stazione di ricerca, puoi decidere tu stesso quale trader dovrebbe essere il prossimo a venire al tuo insediamento. Ho già insegnato questa Tecnologia al tuo insediamento in modo che l'insediamento possa esercitarti a usarlo."
     },
     {
       "k": 4567,
@@ -21107,7 +21106,7 @@
     },
     {
       "k": 4603,
-      "v": "Se dai di nuovo un'occhiata a uno dei tuoi Coloni, vedrai che il Colono è contento del suo nuovo alloggio. La contentezza del colono è aumentata. È molto pratico! Più contenuto è un Settler, più efficacemente lavorerà. Inoltre, anche i Coloni particolarmente felici si muoveranno più velocemente. Per una panoramica più precisa del tipo di influenza che la fiducia ha sui tuoi coloni dovresti leggerlo nella Guida alla sopravvivenza."
+      "v": "Se dai di nuovo un'occhiata a uno dei tuoi coloni, vedrai che il Colono è contento del suo nuovo alloggio. La contentezza del colono è aumentata. È molto pratico! Più contenuto è un Settler, più efficacemente lavorerà. Inoltre, anche i coloni particolarmente felici si muoveranno più velocemente. Per una panoramica più precisa del tipo di influenza che la fiducia ha sui tuoi coloni dovresti leggerlo nella Guida alla sopravvivenza."
     },
     {
       "k": 4604,
@@ -21179,7 +21178,7 @@
     },
     {
       "k": 4621,
-      "v": "I coloni fiduciosi vivono più a lungo, lavorano in modo più efficiente e si spostano più velocemente nel tuo insediamento. D'altra parte, i Coloni infelici lavorano e si muovono più lentamente."
+      "v": "I coloni fiduciosi vivono più a lungo, lavorano in modo più efficiente e si spostano più velocemente nel tuo insediamento. D'altra parte, i coloni infelici lavorano e si muovono più lentamente."
     },
     {
       "k": 4622,
@@ -21731,7 +21730,7 @@
     },
     {
       "k": 4886,
-      "v": "Limitato alla finestra"	
+      "v": "Limitato alla finestra"
     },
 	{
       "k": 5052,
@@ -21875,7 +21874,7 @@
     },
     {
       "k": 5087,
-      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi fornire ai tuoi coloni <link=\"5\"><style=\"DefaultLink\">Cibo</style></link>. Se non sono disponibili sufficienti Cibo per i tuoi Coloni, nel peggiore dei casi questo può portare a farli morire di fame e, di conseguenza, alla morte. Al momento, il metodo più veloce sarà sicuramente quello di istruire i tuoi coloni a vagare per le foreste <link=\"2\"><style=\"DefaultLink\">per cercare funghi e bacche</style></link>."
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegarti come puoi fornire ai tuoi coloni <link=\"5\"><style=\"DefaultLink\">Cibo</style></link>. Se non sono disponibili sufficienti Cibo per i tuoi coloni, nel peggiore dei casi questo può portare a farli morire di fame e, di conseguenza, alla morte. Al momento, il metodo più veloce sarà sicuramente quello di istruire i tuoi coloni a vagare per le foreste <link=\"2\"><style=\"DefaultLink\">per cercare funghi e bacche</style></link>."
     },
     {
       "k": 5088,
@@ -21891,7 +21890,7 @@
     },
     {
       "k": 5091,
-      "v": "Molto bene! Ora che la Capanna dei Raccoglitori è stata costruita, i Raccoglitori assegnati terranno d'occhio Funghi e Bacche nella loro area di lavoro. Assicurati che, nel migliore dei casi, l'area di lavoro per la Capanna del Raccoglitore contenga quanti più Alberi possibile perché le Piante che i tuoi Raccoglitori stanno cercando possono crescere solo su questi Alberi. Puoi spostare l'area di lavoro per la cabina del raccoglitore in qualsiasi momento se, secondo te, l'area non è abbastanza ottimale."
+      "v": "Molto bene! Ora che la Capanna dei Raccoglitori è stata costruita, i Raccoglitori assegnati terranno d'occhio Funghi e Bacche nella loro area di lavoro. Assicurati che, nel migliore dei casi, l'area di lavoro per la Capanna del raccoglitore contenga quanti più Alberi possibile perché le Piante che i tuoi Raccoglitori stanno cercando possono crescere solo su questi Alberi. Puoi spostare l'area di lavoro per la cabina del raccoglitore in qualsiasi momento se, secondo te, l'area non è abbastanza ottimale."
     },
     {
       "k": 5092,
@@ -22007,7 +22006,7 @@
     },
     {
       "k": 5120,
-      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni Coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po' più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispensa del cibo</style></link>. I logisti che lavorano in una dispensa per cibo raccoglieranno il cibo dai tuoi edifici di stoccaggio e dalle strutture di produzione e lo porteranno alla dispensa del cibo."
+      "v": "Più grande diventa il tuo insediamento, più lontano devono viaggiare alcuni coloni per raggiungere tutto il cibo che produci. Per rendere loro la vita un po' più facile puoi costruire <link=\"5\"><style=\"DefaultLink\">Dispensa del cibo</style></link>. I logisti che lavorano in una dispensa per cibo raccoglieranno il cibo dai tuoi edifici di stoccaggio e dalle strutture di produzione e lo porteranno alla dispensa del cibo."
     },
     {
       "k": 5121,
@@ -22123,7 +22122,7 @@
     },
     {
       "k": 5290,
-      "v": "Nella tua nuova Stazione di ricerca, i ricercatori che hai assegnato inizieranno a generare <link=\"19\"><style=\"DefaultLink\">Conoscenza</style></link>. Questa conoscenza è necessaria per eseguire la ricerca. Ci vorrà un po '. Puoi osservare i progressi dei tuoi ricercatori alla Stazione di ricerca."
+      "v": "Nella tua nuova stazione di ricerca, i ricercatori che hai assegnato inizieranno a generare <link=\"19\"><style=\"DefaultLink\">Conoscenza</style></link>. Questa conoscenza è necessaria per eseguire la ricerca. Ci vorrà un po '. Puoi osservare i progressi dei tuoi ricercatori alla stazione di ricerca."
     },
     {
       "k": 5291,
@@ -22131,7 +22130,7 @@
     },
     {
       "k": 5292,
-      "v": "Ho già insegnato ai tuoi ricercatori alcune cose sulla Conoscenza in modo che possano iniziare subito un tipo di Ricerca. Voglio che istruisca i suoi ricercatori a svolgere ricerche sull'elettronica. Tieni presente che i tuoi coloni non hanno bisogno solo di punti ricerca per i tipi di ricerca, ma anche di diverse risorse. Tuttavia, hanno già accumulato risorse sufficienti per eseguire ricerche sulla produzione di elettronica. Non appena tutte le Risorse saranno state portate alla Stazione di Ricerca dai tuoi Ricercatori, potranno quindi iniziare subito la Ricerca."
+      "v": "Ho già insegnato ai tuoi ricercatori alcune cose sulla Conoscenza in modo che possano iniziare subito un tipo di Ricerca. Voglio che istruisca i suoi ricercatori a svolgere ricerche sull'elettronica. Tieni presente che i tuoi coloni non hanno bisogno solo di punti ricerca per i tipi di ricerca, ma anche di diverse risorse. Tuttavia, hanno già accumulato risorse sufficienti per eseguire ricerche sulla produzione di elettronica. Non appena tutte le Risorse saranno state portate alla stazione di Ricerca dai tuoi Ricercatori, potranno quindi iniziare subito la Ricerca."
     },
     {
       "k": 5293,
@@ -22259,7 +22258,7 @@
     },
     {
       "k": 5324,
-      "v": "Con il nuovo Sistema di Filtrazione e la possibilità di filtrare Acqua contaminata radioattivamente potrai usufruire di un'altra fonte di Acqua. Il <link=\"6\"><style=\"DefaultLink\">Il raccoglitore di acqua piovana</style></link> può catturare e immagazzinare l'acqua piovana. Non è necessaria alcuna manodopera per farlo. Tuttavia, può accadere naturalmente che la pioggia sia stata contaminata dalle radiazioni, motivo per cui il tuo collettore di acqua piovana raccoglie acqua contaminata. Ma è per questo che hai preso precauzioni proprio per questa situazione e attivato il filtraggio nella tua torre dell'acqua."
+      "v": "Con il nuovo Sistema di Filtrazione e la possibilità di filtrare acqua contaminata radioattivamente potrai usufruire di un'altra fonte di Acqua. Il <link=\"6\"><style=\"DefaultLink\">Il raccoglitore di acqua piovana</style></link> può catturare e immagazzinare l'acqua piovana. Non è necessaria alcuna manodopera per farlo. Tuttavia, può accadere naturalmente che la pioggia sia stata contaminata dalle radiazioni, motivo per cui il tuo collettore di acqua piovana raccoglie acqua contaminata. Ma è per questo che hai preso precauzioni proprio per questa situazione e attivato il filtraggio nella tua torre dell'acqua."
     },
     {
       "k": 5325,
@@ -22271,7 +22270,7 @@
     },
     {
       "k": 5327,
-      "v": "Come già sapete, la pioggia che cade dal cielo potrebbe essere contaminata radioattivamente. Sul bordo inferiore dello schermo puoi monitorare quale <link=\"7\"><style=\"DefaultLink\">Meteo</style></link> che puoi aspettarti nel prossimo futuro. Al momento i tuoi Coloni non sono ancora in grado di rilasciare dichiarazioni precise su quanto sarà contaminata la pioggia che cadrà su di loro in futuro. Tuttavia, è possibile fare previsioni precise se crei una <link=\"7\"><style=\"DefaultLink\">Stazione meteorologa</style></link>."
+      "v": "Come già sapete, la pioggia che cade dal cielo potrebbe essere contaminata radioattivamente. Sul bordo inferiore dello schermo puoi monitorare quale <link=\"7\"><style=\"DefaultLink\">Meteo</style></link> che puoi aspettarti nel prossimo futuro. Al momento i tuoi coloni non sono ancora in grado di rilasciare dichiarazioni precise su quanto sarà contaminata la pioggia che cadrà su di loro in futuro. Tuttavia, è possibile fare previsioni precise se crei una <link=\"7\"><style=\"DefaultLink\">Stazione meteorologa</style></link>."
     },
     {
       "k": 5328,
@@ -22451,7 +22450,7 @@
     },
     {
       "k": 5392,
-      "v": "Non faremo più pause"	
+      "v": "Non faremo più pause"
     },
 	{
       "k": 5402,
@@ -22587,7 +22586,7 @@
     },
     {
       "k": 5439,
-      "v": "Assicurati che i Coloni che invii alla Spedizione siano del tipo Esperto nel campo che l'esploratore ritiene importante e di dotarli di <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Abbigliamento protettivo</style></link>. Fornisci loro <link=\"14\"><style=\"DefaultLink\">Razioni di spedizione</style></link> sufficienti per assicurarti che abbiano il maggior margine di manovra possibile."
+      "v": "Assicurati che i coloni che invii alla Spedizione siano del tipo Esperto nel campo che l'esploratore ritiene importante e di dotarli di <link=\"12\"><style=\"DefaultLink\">Strumenti</style></link> e <link=\"11\"><style=\"DefaultLink\">Abbigliamento protettivo</style></link>. Fornisci loro <link=\"14\"><style=\"DefaultLink\">Razioni di spedizione</style></link> sufficienti per assicurarti che abbiano il maggior margine di manovra possibile."
     },
     {
       "k": 5440,
@@ -22715,11 +22714,11 @@
     },
     {
       "k": 5548,
-      "v": "Aiuta i Coloni a essere ben armati anche in futuro!"
+      "v": "Aiuta i coloni a essere ben armati anche in futuro!"
     },
     {
       "k": 5500,
-      "v": "Il tuo Esploratore ha raggiunto le Rovine e si è già guardato intorno. Di conseguenza, è già in grado di darti alcune informazioni su ciò con cui i tuoi coloni devono tenere conto quando li mandi qui. Osservando i vantaggi indicati, puoi vedere quali Specialisti tra i tuoi Coloni dovresti inviare in questa Spedizione e quale Equipaggiamento dovresti fornire loro in modo che abbiano il maggior successo possibile."
+      "v": "Il tuo Esploratore ha raggiunto le Rovine e si è già guardato intorno. Di conseguenza, è già in grado di darti alcune informazioni su ciò con cui i tuoi coloni devono tenere conto quando li mandi qui. Osservando i vantaggi indicati, puoi vedere quali Specialisti tra i tuoi coloni dovresti inviare in questa Spedizione e quale Equipaggiamento dovresti fornire loro in modo che abbiano il maggior successo possibile."
     },
     {
       "k": 5501,
@@ -22867,7 +22866,7 @@
     },
     {
       "k": 5550,
-      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."	 
+      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."
     },
 	{
       "k": 5564,
@@ -23155,7 +23154,7 @@
     },
     {
       "k": 5675,
-      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni Torre di Guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
+      "v": "Molto bene. Queste torri di guardia costituiscono il centro della tua difesa. In ogni torre di guardia puoi configurare individualmente il tipo di munizioni che la milizia che è stata assegnata dovrebbe sparare ai predoni."
     },
     {
       "k": 5676,
@@ -23511,7 +23510,7 @@
     },
 	{
       "k": 5894,
-      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."	   	   
+      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."
     },
 	{
       "k": 5916,
@@ -23523,7 +23522,7 @@
     },
     {
       "k": 5918,
-      "v": "È importante che la nostra popolazione non cresca troppo velocemente. Altrimenti non saremo in grado di provvedere adeguatamente a tutti i Coloni. Per mettere un freno alla crescita della popolazione, potresti provare a fare in modo che più coloni vivano nei rifugi invece che nelle loro cabine, perché non si riprodurranno nei rifugi?"
+      "v": "È importante che la nostra popolazione non cresca troppo velocemente. Altrimenti non saremo in grado di provvedere adeguatamente a tutti i coloni. Per mettere un freno alla crescita della popolazione, potresti provare a fare in modo che più coloni vivano nei rifugi invece che nelle loro cabine, perché non si riprodurranno nei rifugi?"
     },
     {
       "k": 5919,
@@ -23583,7 +23582,7 @@
     },
     {
       "k": 5955,
-      "v": "Pensiamo di aver raccolto tutto."	  
+      "v": "Pensiamo di aver raccolto tutto."
     },
 	{
       "k": 5997,
@@ -23735,7 +23734,7 @@
     },
     {
       "k": 6697,
-      "v": "Tuttavia, sono convinto che guiderai i tuoi Coloni verso un grande futuro."
+      "v": "Tuttavia, sono convinto che guiderai i tuoi coloni verso un grande futuro."
     },
     {
       "k": 6749,
@@ -23771,7 +23770,7 @@
     },
     {
       "k": 6032,
-      "v": "I tuoi coloni ora sono protetti contro i rischi ambientali e gli attacchi esterni. Si sentono sani e salvi nel tuo insediamento. Ciò che potrebbe ancora accadere ora è che i tuoi Coloni vengano da te ancora e ancora per chiedere un po' di lusso nelle loro vite per poter godere dei frutti del loro duro lavoro per un cambiamento dopo tutte le lunghe prove e tribolazioni. Il luogo dove si rivolgeranno a te con tali richieste è il <link=\"24\"><style=\"DefaultLink\">Municipio</style></link>. Per ottenere un municipio devi aggiornare ancora una volta il centro città."
+      "v": "I tuoi coloni ora sono protetti contro i rischi ambientali e gli attacchi esterni. Si sentono sani e salvi nel tuo insediamento. Ciò che potrebbe ancora accadere ora è che i tuoi coloni vengano da te ancora e ancora per chiedere un po' di lusso nelle loro vite per poter godere dei frutti del loro duro lavoro per un cambiamento dopo tutte le lunghe prove e tribolazioni. Il luogo dove si rivolgeranno a te con tali richieste è il <link=\"24\"><style=\"DefaultLink\">Municipio</style></link>. Per ottenere un municipio devi aggiornare ancora una volta il centro città."
     },
     {
       "k": 6033,
@@ -23863,7 +23862,7 @@
     },
     {
       "k": 6405,
-      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."	 
+      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."
     },
 	{
       "k": 6889,
@@ -23923,7 +23922,7 @@
     },
     {
       "k": 6066,
-      "v": "Prevale sempre più l'opinione che i Coloni debbano allargare di nuovo la vecchia vicina Endzone e tornare sotto la superficie. Vogliono aspettare lì finché le condizioni non saranno migliorate. Sta diventando sempre più chiaro che si tratta di uno sforzo enormemente ambizioso ma realizzabile."
+      "v": "Prevale sempre più l'opinione che i coloni debbano allargare di nuovo la vecchia vicina Endzone e tornare sotto la superficie. Vogliono aspettare lì finché le condizioni non saranno migliorate. Sta diventando sempre più chiaro che si tratta di uno sforzo enormemente ambizioso ma realizzabile."
     },
     {
       "k": 6067,
@@ -23971,7 +23970,7 @@
     },
     {
       "k": 6077,
-      "v": "Siamo in dirittura d'arrivo, ma non dimentichiamo il necessario: Acqua e Cibo, tanto, perché dovrà durare a lungo. Dobbiamo anche accumulare pastiglie di iodio e tute antiradiazioni. In questo modo sono possibili almeno Spedizioni in superficie."
+      "v": "Siamo in dirittura d'arrivo, ma non dimentichiamo il necessario: acqua e Cibo, tanto, perché dovrà durare a lungo. Dobbiamo anche accumulare pastiglie di iodio e tute antiradiazioni. In questo modo sono possibili almeno Spedizioni in superficie."
     },
     {
       "k": 6078,
@@ -24071,7 +24070,7 @@
     },
     {
       "k": 6138,
-      "v": "Al momento i nostri Campi sono molto suscettibili alle Radiazioni e ai periodi di siccità. Con le Serre abbiamo potuto controllare meglio la qualità del raccolto. Speriamo che inizierai presto un progetto pilota, capo."
+      "v": "Al momento i nostri Campi sono molto suscettibili alle radiazioni e ai periodi di siccità. Con le Serre abbiamo potuto controllare meglio la qualità del raccolto. Speriamo che inizierai presto un progetto pilota, capo."
     },
     {
       "k": 6139,
@@ -24923,7 +24922,7 @@
     },
     {
       "k": 6383,
-      "v": "Beviamo Acqua tutto il giorno, capo: mattina, mezzogiorno e sera. Sarebbe opportuno un cambio di passo. Che ne dici di birra?"
+      "v": "Beviamo acqua tutto il giorno, capo: mattina, mezzogiorno e sera. Sarebbe opportuno un cambio di passo. Che ne dici di birra?"
     },
     {
       "k": 6357,
@@ -25035,7 +25034,7 @@
     },
     {
       "k": 6409,
-      "v": "Rendering su richiesta"	
+      "v": "Rendering su richiesta"
     },
 	{
       "k": 6412,
@@ -25147,7 +25146,7 @@
     },
     {
       "k": 6439,
-      "v": "È un passo avanti, la Stazione sta già raccogliendo dati! Col tempo potrebbe essere possibile leggere più dai dati meteorologici di quanto possiamo. I nostri discendenti non cercheranno a tentoni nel buio."
+      "v": "È un passo avanti, la stazione sta già raccogliendo dati! Col tempo potrebbe essere possibile leggere più dai dati meteorologici di quanto possiamo. I nostri discendenti non cercheranno a tentoni nel buio."
     },
     {
       "k": 6440,
@@ -26163,7 +26162,7 @@
     },
     {
       "k": 6829,
-      "v": "Un Rifugio Confortevole ospita un gran numero di Coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendo elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia. L'esecuzione di ricerche sul rifugio confortevole assicura che anche il rifugio aggiornato venga ricercato quando ciò non è già avvenuto."
+      "v": "Un rifugio confortevole ospita un gran numero di coloni, tuttavia non è adatto per produrre prole. Inoltre, aumenta la contentezza dei suoi abitanti fornendo elettricità dall'energia eolica. Grazie alla sua costruzione robusta, questo edificio può resistere meglio alle tempeste di sabbia. L'esecuzione di ricerche sul rifugio confortevole assicura che anche il rifugio aggiornato venga ricercato quando ciò non è già avvenuto."
     },
     {
       "k": 6847,
@@ -26187,7 +26186,7 @@
     },
     {
       "k": 6852,
-      "v": "Menu Azione"	
+      "v": "Menu Azione"
     },
 	{
       "k": 6865,
@@ -26199,7 +26198,7 @@
     },
     {
       "k": 6891,
-      "v": "Apri Configurazione rapida"	  
+      "v": "Apri Configurazione rapida"
     },
 	{
       "k": 6898,
@@ -26239,7 +26238,7 @@
     },
     {
       "k": 6862,
-      "v": "Il sapone è prodotto dai Medici con Erbe e <link=\"5\"><style=\"DefaultLink\">Latte</style></link>. Aumenta la <link=\"5\"><style=\"DefaultLink\">Fiducia</style></link> e la Salute dei Coloni che lo usano. Per essere in grado di produrre sapone, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropiata."
+      "v": "Il sapone è prodotto dai Medici con Erbe e <link=\"5\"><style=\"DefaultLink\">Latte</style></link>. Aumenta la <link=\"5\"><style=\"DefaultLink\">Fiducia</style></link> e la Salute dei coloni che lo usano. Per essere in grado di produrre sapone, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropiata."
     },
 	{
       "k": 6863,
