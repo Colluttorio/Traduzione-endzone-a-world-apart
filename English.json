@@ -23,7 +23,7 @@
     },
     {
       "k": 6797,
-      "v": "Abilita questo contenuto aggiuntivo (DLC) per un round di gioco per poter utilizzare tutti i contenuti correlati durante il gioco."																																																																																		  
+      "v": "Abilita questo contenuto aggiuntivo (DLC) per un round di gioco per poter utilizzare tutti i contenuti correlati durante il gioco."
     },
 	{
       "k": 6919,
@@ -119,7 +119,7 @@
     },
     {
       "k": 2251,
-      "v": "<color=red><b>Oopsy! Si è verificato un errore in background!</b></color>\nIl gioco potrebbe ora essere instabile. Riavvia il gioco e aiutaci segnalando questo problema!"
+      "v": "<color=red><b>Oops! Si è verificato un errore in background!</b></color>\nIl gioco potrebbe ora essere instabile. Riavvia il gioco e aiutaci segnalando questo problema!"
     },
     {
       "k": 2991,
@@ -211,7 +211,7 @@
     },
 	{
       "k": 4894,
-      "v": "Apri la panoramica del tutorial"			 
+      "v": "Apri la panoramica del tutorial"
     },
 	{
       "k": 5028,
@@ -223,7 +223,7 @@
     },
     {
       "k": 5154,
-      "v": "Priorità"																																							 
+      "v": "Priorità"
     },
 	{
       "k": 5464,
@@ -235,7 +235,7 @@
     },
     {
       "k": 5561,
-      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."										
+      "v": "Quando si seleziona un edificio con modalità configurabile, viene visualizzata una vista aggiuntiva nel mondo per tutti gli edifici dello stesso tipo per visualizzare e modificare la loro modalità."
     },
 	{
       "k": 5863,
@@ -243,7 +243,7 @@
     },
     {
       "k": 5864,
-      "v": "Nella modalità di pianificazione, la costruzione di edifici appena posizionati viene immediatamente sospesa per impedire ai costruttori di trasportare risorse ai rispettivi cantieri. Questa modalità è utile per una migliore pianificazione ponendo le commissioni di costruzione in una fase iniziale, ma la pausa consente di eseguire la costruzione stessa in un secondo momento."
+      "v": "Nella modalità di pianificazione, la costruzione di edifici appena posizionati viene immediatamente sospesa per impedire ai costruttori di trasportare risorse ai rispettivi cantieri. Questa modalità è utile per una migliore pianificazione. Ponendo le commissioni di costruzione in una fase iniziale di pausa per consentire di eseguirle in un secondo momento."
     },
     {
       "k": 5862,
@@ -255,7 +255,7 @@
     },
     {
       "k": 5880,
-      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."				 									
+      "v": "Nessun obiettivo può essere sbloccato durante il gioco successivo. Inizia un round di gioco in modalità Sopravvivenza per sbloccare un'ampia gamma di obiettivi."
     },
 	{
       "k": 6927,
@@ -391,7 +391,7 @@
     },
     {
       "k": 259,
-      "v": "Cherry"
+      "v": "Ciliegia"
     },
     {
       "k": 260,
@@ -403,7 +403,7 @@
     },
     {
       "k": 262,
-      "v": "Nocciolo americano"
+      "v": "Nocciola americana"
     },
     {
       "k": 263,
@@ -447,7 +447,7 @@
     },
     {
       "k": 3499,
-      "v": "Compresse di iodio"				   
+      "v": "Compresse di iodio"
     },
 	{
       "k": 4142,
@@ -487,7 +487,7 @@
     },
     {
       "k": 4656,
-      "v": "Carne di Bufalo"
+      "v": "Carne di bufalo"
     },
     {
       "k": 4657,
@@ -531,7 +531,7 @@
     },
     {
       "k": 5192,
-      "v": "lepre"
+      "v": "Lepre"
     },
     {
       "k": 5193,
@@ -623,19 +623,19 @@
     },
     {
       "k": 882,
-      "v": "Il metallo può essere recuperato dagli scarti. Per fare questo è necessario un riciclatore o una raffineria. Il metallo è un materiale più robusto che viene utilizzato principalmente per strumenti migliorati o edifici speciali."
+      "v": "Il metallo può essere recuperato dagli scarti. Per recuperarlo è necessario un riciclatore o una raffineria. Il metallo è un materiale più robusto che viene utilizzato principalmente per strumenti migliorati o edifici speciali."
     },
     {
       "k": 883,
-      "v": "La plastica può essere recuperata dagli scarti. Per fare questo è necessario un riciclatore o una raffineria. È un materiale chiave per trattenere le radiazioni."
+      "v": "La plastica può essere recuperata dagli scarti. Per recuperarlo è necessario un riciclatore o una raffineria. È un materiale chiave per trattenere le radiazioni."
     },
     {
       "k": 884,
-      "v": "L'elettronica può essere recuperata dagli scarti. Per fare ciò è necessario un riciclatore o una raffineria. L'elettronica viene utilizzata principalmente per l'alimentazione."
+      "v": "L'elettronica può essere recuperata dagli scarti. Per recuperarlo è necessario un riciclatore o una raffineria. L'elettronica viene utilizzata principalmente per l'alimentazione."
     },
     {
       "k": 885,
-      "v": "Il tessuto può essere recuperato dagli scarti. Per farlo è necessario un riciclatore o una raffineria. Il tessuto viene utilizzato da un sarto per produrre indumenti protettivi."
+      "v": "Il tessuto può essere recuperato dagli scarti. Per recuperarlo è necessario un riciclatore o una raffineria. Il tessuto viene utilizzato da un sarto per produrre indumenti protettivi."
     },
     {
       "k": 886,
@@ -647,15 +647,15 @@
     },
     {
       "k": 889,
-      "v": "Le bacche sono raccolte dai Raccoglitori e possono essere trovate nelle foreste."
+      "v": "Le bacche sono raccolte dai raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 890,
-      "v": "I funghi vengono raccolti dai Raccoglitori e possono essere trovati nelle foreste."
+      "v": "I funghi vengono raccolti dai raccoglitori e possono essere trovati nelle foreste."
     },
     {
       "k": 891,
-      "v": "Le radici vengono scavate dai Raccoglitori e possono essere trovate nelle foreste."
+      "v": "Le radici vengono scavate dai raccoglitori e possono essere trovate nelle foreste."
     },
     {
       "k": 892,
@@ -667,11 +667,11 @@
     },
     {
       "k": 894,
-      "v": "Le erbe vengono raccolte dai Raduni e possono essere trovate nelle foreste."
+      "v": "Le erbe vengono raccolte dai raduni e possono essere trovate nelle foreste."
     },
     {
       "k": 895,
-      "v": "La birra viene prodotta nella Taverna e serve a ravvivare l'umore dei coloni."
+      "v": "La birra viene prodotta nella taverna e serve a ravvivare l'umore dei coloni."
     },
     {
       "k": 896,
@@ -683,7 +683,7 @@
     },
     {
       "k": 898,
-      "v": "Il carbone di legna è fatto di legno usando un forno per carbonella. Può essere usato in una torre d'acqua per purificare l'acqua per rimuovere le radiazioni."
+      "v": "Il carbone di legna è fatto con il legno bruciato in un forno per carbonella. Può essere usato in una torre d'acqua per purificare l'acqua per rimuovere le radiazioni."
     },
     {
       "k": 899,
@@ -767,7 +767,7 @@
     },
     {
       "k": 919,
-      "v": "L'erba possono essere prodotti in una taverna e consumati dai coloni per aumentare la loro fiducia."
+      "v": "L'erba può essere prodotta in una taverna e consumati dai coloni per aumentare la loro fiducia."
     },
     {
       "k": 974,
@@ -795,7 +795,7 @@
     },
 	{
       "k": 4143,
-      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."											  
+      "v": "Gli alimenti trasformati possono essere prodotti da alimenti convenzionali in una cucina. I coloni richiedono meno fonti di nutrimento diverse per una dieta sana quando consumano anche alimenti trasformati."
     },
 	{
       "k": 4445,
@@ -807,7 +807,7 @@
     },
     {
       "k": 4447,
-      "v": "Le zucchine possono essere raccolte dai campi."																
+      "v": "Le zucchine possono essere raccolte dai campi."
     },
 	{
       "k": 4741,
@@ -823,7 +823,7 @@
     },
     {
       "k": 4660,
-      "v": "La carne di capra può essere prodotta macellando capre tenute in recinti."
+      "v": "La carne di capra può essere prodotta macellando capre tenute nei recinti."
     },
     {
       "k": 4661,
@@ -831,15 +831,15 @@
     },
     {
       "k": 4662,
-      "v": "La carne di bufalo può essere prodotta macellando bufali tenuti in recinti."
+      "v": "La carne di bufalo può essere prodotta macellando bufali tenuti nei recinti."
     },
     {
       "k": 4663,
-      "v": "La carne di pollo può essere prodotta macellando i polli tenuti in recinti."
+      "v": "La carne di pollo può essere prodotta macellando i polli tenuti nei recinti."
     },
     {
       "k": 4664,
-      "v": "Il latte può essere ottenuto da Bufali o Capre tenuti in recinti."
+      "v": "Il latte può essere ottenuto da bufali e capre tenuti nei recinti."
     },
     {
       "k": 4665,
@@ -847,27 +847,27 @@
     },
     {
       "k": 4698,
-      "v": "I cinghiali possono essere tenuti nei recinti e lì riprodursi. Possono essere macellati e fornire carne di maiale."
+      "v": "I cinghiali possono essere tenuti nei recinti e lì, riprodursi. Possono essere macellati e fornire carne di maiale."
     },
     {
       "k": 4699,
-      "v": "Capriolo e Cervo possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire selvaggina."
+      "v": "Capriolo e cervo possono essere tenuti in recinti e lì, riprodursi. Possono essere macellati e fornire selvaggina."
     },
     {
       "k": 4700,
-      "v": "Le capre possono essere tenute in recinti e lì riprodursi. Producono latte di capra. Quando vengono macellati forniscono carne di capra."
+      "v": "Le capre possono essere tenute in recinti e lì, riprodursi. Producono latte di capra. Quando vengono macellati forniscono carne di capra."
     },
     {
       "k": 4701,
-      "v": "Le lepri possono essere tenute in recinti e riprodotte lì. Forniscono una piccola quantità di carne e la loro pelliccia può essere trasformata in indumenti. Sono anche carini."
+      "v": "Le lepri possono essere tenute in recinti e lì, riprodursi. Forniscono una piccola quantità di carne e la loro pelliccia può essere trasformata in indumenti. Sono anche carini."
     },
     {
       "k": 4702,
-      "v": "I bufali possono essere tenuti in recinti e riprodotti lì. Possono essere macellati e fornire carne di bufalo. La loro pelle può essere trasformata in abiti."
+      "v": "I bufali possono essere tenuti in recinti e lì, riprodursi. Possono essere macellati e fornire carne di bufalo. La loro pelle può essere trasformata in abiti."
     },
     {
       "k": 4703,
-      "v": "I polli possono essere tenuti in recinti e riprodotti lì. Depongono le uova e possono essere macellati per fornire carne di pollo."
+      "v": "I polli possono essere tenuti in recinti e lì, riprodursi. Depongono le uova e possono essere macellati per fornire carne di pollo."
     },
 	{
       "k": 5145,
@@ -875,11 +875,11 @@
     },
     {
       "k": 5176,
-      "v": "La torta può essere prodotta dal cibo convenzionale in una cucina. I coloni che consumano la torta aumentano la loro fiducia mangiandola."
+      "v": "La torta può essere prodotta dal cibo convenzionale in una cucina. I coloni che mangiano una torta, aumentano la loro fiducia."
     },
     {
       "k": 5177,
-      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano stufato migliorano la loro salute nel processo."															  
+      "v": "Lo stufato può essere prodotto dal cibo convenzionale in una cucina. I coloni che mangiano uno stufato, migliorano la loro salute."
     },
 	{
       "k": 5451,
@@ -891,19 +891,19 @@
     },
     {
       "k": 5455,
-      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."																																		 
+      "v": "I proiettili di gomma sono un metodo non letale per difendersi dai predoni."
     },
 	{
       "k": 5969,
-      "v": "L'oggetto di lusso Caffè può essere prodotto con chicchi di caffè e acqua nei pub e aumenta la fiducia dei tuoi coloni quando viene consumato."
+      "v": "L'oggetto di lusso caffè può essere prodotto con chicchi di caffè e acqua nei pub e aumenta la fiducia dei coloni quando viene consumato."
     },
     {
       "k": 5970,
-      "v": "I chicchi di caffè possono essere raccolti dai campi. Sono necessari per produrre l'oggetto di lusso Caffè."
+      "v": "I chicchi di caffè possono essere raccolti dai campi. Sono necessari per produrre l'oggetto di lusso caffè."
     },
     {
       "k": 5971,
-      "v": "L'oggetto di lusso Sapone può essere prodotto con latte ed erbe curative presso le strutture mediche. Aumenta la fiducia dei tuoi coloni quando viene utilizzato."
+      "v": "L'oggetto di lusso sapone può essere prodotto con latte ed erbe curative presso le strutture mediche. Aumenta la fiducia dei tuoi coloni quando viene utilizzato."
     },
     {
       "k": 5972,
@@ -919,7 +919,7 @@
     },
     {
       "k": 5975,
-      "v": "La sabbia può essere estratta in una miniera di sabbia. La sabbia può essere ulteriormente trasformata in vetro o utilizzata per produrre calcestruzzo."
+      "v": "La sabbia può essere estratta in una miniera di sabbia. Può essere ulteriormente trasformata in vetro o utilizzata per produrre calcestruzzo."
     },
     {
       "k": 5976,
@@ -927,31 +927,31 @@
     },
     {
       "k": 6840,
-      "v": "Il grano è coltivato nei campi, ma non è una fonte di cibo. Il grano serve come prodotto di base per l'articolo di lusso Birra."
+      "v": "Il grano è coltivato nei campi, ma non è una fonte di cibo. Il grano serve come prodotto di base per l'articolo di lusso birra."
     },
     {
       "k": 6841,
-      "v": "Il latte può essere ottenuto da Bufali o Capre tenuti in recinti. Serve come prodotto di base per il sapone per articoli luyury."
+      "v": "Il latte può essere ottenuto da bufali o capre tenuti in recinti. Serve come prodotto di base per il sapone per articoli di lusso."
     },
     {
       "k": 6842,
-      "v": "La canapa può essere coltivata nei campi, ma non è una fonte di cibo. La canapa può essere trasformata nell'oggetto di lusso Giunti in un pub o trasformata in stoffa in una fabbrica di canapa."
+      "v": "La canapa può essere coltivata nei campi, ma non è una fonte di cibo. La canapa può essere trasformata nell'oggetto di lusso giunti in un pub o trasformata in stoffa in una fabbrica di canapa."
     },
     {
       "k": 6843,
-      "v": "Gli articoli di lusso Giunti sono prodotti in un Pub e consumati dai Coloni per rafforzare la loro Fiducia."
+      "v": "Gli articoli di lusso giunti sono prodotti in un pub e consumati dai coloni per rafforzare la loro Fiducia."
     },
     {
       "k": 6844,
-      "v": "L'oggetto di lusso Birra viene prodotto in un pub e aumenta la fiducia dei coloni."
+      "v": "L'oggetto di lusso birra viene prodotto in un pub e aumenta la fiducia dei coloni."
     },
     {
       "k": 6845,
-      "v": "L'oggetto di lusso Torta può essere prodotta dal cibo convenzionale in una cucina. Di conseguenza, i coloni che consumano torte aumentano la loro fiducia."
+      "v": "L'oggetto di lusso torta può essere prodotta dal cibo convenzionale in una cucina. Di conseguenza, i coloni che consumano torte aumentano la loro fiducia."
     },
     {
       "k": 6846,
-      "v": "L'oggetto di lusso Stufato può essere prodotto dal cibo convenzionale in una cucina. Se i coloni mangiano lo stufato, di conseguenza migliorano la loro salute."
+      "v": "L'oggetto di lusso stufato può essere prodotto dal cibo convenzionale in una cucina. Se i coloni mangiano lo stufato, di conseguenza migliorano la loro salute."
     },
     {
       "k": 267,
@@ -1083,15 +1083,15 @@
     },
     {
       "k": 292,
-      "v": "casetta delle erbe"
+      "v": "Casetta delle erbe"
     },
     {
       "k": 293,
-      "v": "casetta del silvicoltore"
+      "v": "Casetta del silvicoltore"
     },
     {
       "k": 294,
-      "v": "forno per carbonella"
+      "v": "Forno per carbonella"
     },
     {
       "k": 295,
@@ -1103,7 +1103,7 @@
     },
     {
       "k": 297,
-      "v": "Raccoglitore solare"
+      "v": "Pannello solare"
     },
     {
       "k": 298,
@@ -1215,7 +1215,7 @@
     },
     {
       "k": 4635,
-      "v": "Scuola Superiore"
+      "v": "Scuola superiore"
     },
     {
       "k": 4744,
@@ -1235,11 +1235,11 @@
     },
 	{
       "k": 5393,
-      "v": "Torre di guardia"		   
+      "v": "Torre di guardia"
     },
 	{
       "k": 5456,
-      "v": "Armeria"				  
+      "v": "Armeria"
     },
 	{
       "k": 5469,
@@ -1267,7 +1267,7 @@
     },
     {
       "k": 5683,
-      "v": "Torre con sirena"			  
+      "v": "Torre con sirena"	  
     },
 	{
       "k": 5977,
@@ -1307,7 +1307,7 @@
     },
     {
       "k": 5986,
-      "v": "Casa confortevole"		 
+      "v": "Casa confortevole"
     },
 	{
       "k": 6545,
@@ -1343,7 +1343,7 @@
     },
     {
       "k": 6690,
-      "v": "Lampada Moderna"
+      "v": "Lampada moderna"
     },
     {
       "k": 6759,
@@ -1371,7 +1371,7 @@
     },
     {
       "k": 6626,
-      "v": "Bandiera Oscura"
+      "v": "Bandiera oscura"
     },
     {
       "k": 6627,
@@ -1391,7 +1391,7 @@
     },
     {
       "k": 6631,
-      "v": "Torcia Teschio"
+      "v": "Torcia teschio"
     },
     {
       "k": 6632,
@@ -1399,7 +1399,7 @@
     },
     {
       "k": 6633,
-      "v": "Triste Mietitore"
+      "v": "Triste mietitore"
     },
     {
       "k": 6644,
@@ -1410,7 +1410,7 @@
       "v": "Gabbia"
     },
     {
-      "k": 6761,
+	  "k": 6761,
       "v": "Gabbia sospesa"
     },
     {
@@ -1419,11 +1419,11 @@
     },
     {
       "k": 6763,
-      "v": "Statua del Gargoyle"
+      "v": "Statua del gargoyle"
     },
     {
       "k": 6764,
-      "v": "Lampada Oscura"
+      "v": "Lampada oscura"
     },
     {
       "k": 301,
@@ -1651,7 +1651,7 @@
     },
 	{
       "k": 3952,
-      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."																																													 
+      "v": "Un oggetto decorativo che aumenta l'attrattiva dell'insediamento nelle vicinanze dell'oggetto."	 
 	},
 	{
       "k": 5826,
@@ -1659,7 +1659,7 @@
     },
 	{
       "k": 4161,
-      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."																																						
+      "v": "Al forum possono essere imposti decreti sull'insediamento che influenzano il comportamento dei coloni. Inoltre, è possibile visualizzare e assumere una selezione delle attività dei coloni."
     },
 	{
       "k": 4515,
@@ -1671,7 +1671,7 @@
     },
     {
       "k": 4745,
-      "v": "Gli animali sono tenuti a pascolare sul pascolo."																													
+      "v": "Gli animali sono tenuti a pascolare sul pascolo."	
     },
 	{
       "k": 5137,
@@ -1683,7 +1683,7 @@
     },
     {
       "k": 5231,
-      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."																							
+      "v": "Un punto d'acqua è costantemente riempito d'acqua e di conseguenza può abbreviare i percorsi di viaggio per ottenere l'acqua."	
     },
 	{
       "k": 5457,
@@ -1691,7 +1691,7 @@
     },
     {
       "k": 5551,
-      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."																									
+      "v": "Le milizie possono essere di stanza in una Torre di Guardia per difendere l'insediamento dai saccheggiatori."	
     },
 	{
       "k": 5774,
@@ -1699,7 +1699,7 @@
     },
     {
       "k": 5775,
-      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."																													 
+      "v": "La Barricata riduce la velocità di movimento di tutti i predoni che si trovano nell'area circostante."	 
     },
 	{
       "k": 5987,
@@ -2027,7 +2027,7 @@
     },
 	{
       "k": 4747,
-      "v": "Tiene gli animali al pascolo."																																			 
+      "v": "Tiene gli animali al pascolo."	 
     },
 	{
       "k": 6636,
@@ -2123,7 +2123,7 @@
     },
     {
       "k": 2501,
-      "v": "Il colono ha un morale alto grazie a una buona leadership."															 
+      "v": "Il colono ha un morale alto grazie a una buona leadership."	 
     },
 	{
       "k": 3827,
@@ -2163,7 +2163,7 @@
     },
     {
       "k": 4115,
-      "v": "Il colono ha fatto visita a un edificio per socializzare."																										   
+      "v": "Il colono ha fatto visita a un edificio per socializzare."
     },
 	{
       "k": 5155,
@@ -2263,11 +2263,11 @@
     },
     {
       "k": 794,
-      "v": "Raccogli piante"				  
+      "v": "Raccogli piante"
     },
 	{
       "k": 5746,
-      "v": "Migliora le strade"					  
+      "v": "Migliora le strade"	  
     },
 	{
       "k": 5904,
@@ -2323,7 +2323,7 @@
     },
 	{
       "k": 5747,
-      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."																																							
+      "v": "Ordina ai costruttori di aggiornare tutte le strade sterrate in una determinata area in strade asfaltate."	
     },
 	{
       "k": 5909,
@@ -2507,7 +2507,7 @@
     },
     {
       "k": 2324,
-      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"																																					  
+      "v": "Grafici e statistiche più dettagliate su coloni e risorse in arrivo"	  
     },
 	{
       "k": 5891,
@@ -2635,7 +2635,7 @@
     },
     {
       "k": 5180,
-      "v": "Cibo trattato"			   
+      "v": "Cibo trattato"	   
     },
 	{
       "k": 5632,
@@ -2651,7 +2651,7 @@
     },
     {
       "k": 1266,
-      "v": "Forza lavoro"					
+      "v": "Forza lavoro"	
     },
 	{
       "k": 6858,
@@ -2735,7 +2735,7 @@
     },
     {
       "k": 2315,
-      "v": "Informazioni di base"				   
+      "v": "Informazioni di base"
     },
 	{
       "k": 3821,
@@ -2779,7 +2779,7 @@
     },
     {
       "k": 2311,
-      "v": "Progresso dell'educazione"																											
+      "v": "Progresso dell'educazione"	
     },
 	{
       "k": 4589,
@@ -2819,11 +2819,11 @@
     },
     {
       "k": 448,
-      "v": "Informazioni sulla costruzione"												
+      "v": "Informazioni sulla costruzione"
     },
 	{
       "k": 4506,
-      "v": "La modalità costruttore è: <<builderMode>>"							   
+      "v": "La modalità costruttore è: <<builderMode>>"	   
     },
 	{
       "k": 5235,
@@ -3215,7 +3215,7 @@
     },
     {
       "k": 2901,
-      "v": "Edifici danneggiati"							
+      "v": "Edifici danneggiati"	
     },
 	{
       "k": 4153,
@@ -3299,7 +3299,7 @@
     },
     {
       "k": 2989,
-      "v": "Nessun dato raccolto"			 
+      "v": "Nessun dato raccolto"	 
     },
 	{
       "k": 4899,
@@ -3339,7 +3339,7 @@
     },
     {
       "k": 4908,
-      "v": "Distintivi di distribuzione per l'istruzione"																						
+      "v": "Distintivi di distribuzione per l'istruzione"
     },
 	{
       "k": 5811,
@@ -3535,7 +3535,7 @@
     },
     {
       "k": 490,
-      "v": "Statistiche"					 
+      "v": "Statistiche"	 
     },
 	{
       "k": 5902,
@@ -3975,7 +3975,7 @@
     },
     {
       "k": 941,
-      "v": "Fai clic per aprire il menu delle risorse"																																												 
+      "v": "Fai clic per aprire il menu delle risorse"
     },
 	{
       "k": 6903,
@@ -4679,7 +4679,7 @@
     },
     {
       "k": 543,
-      "v": "Annulla tutto \"Rimuovi radiazione\" Attività in una determinata area."																																																										  
+      "v": "Annulla tutto \"Rimuovi radiazione\" Attività in una determinata area."
     },
 	{
       "k": 3917,
@@ -4723,7 +4723,7 @@
     },
 	{
       "k": 3792,
-      "v": "Farmaci contro la contaminazione"			
+      "v": "Farmaci contro la contaminazione"	
     },
 	{
       "k": 4704,
@@ -4839,7 +4839,7 @@
     },
     {
       "k": 556,
-      "v": "Spedizioni"					  
+      "v": "Spedizioni"	  
     },
 	{
       "k": 6205,
@@ -4975,7 +4975,7 @@
     },
     {
       "k": 2655,
-      "v": "Nuovo seme trovato"								
+      "v": "Nuovo seme trovato"
     },
 	{
       "k": 5376,
@@ -4995,7 +4995,7 @@
     },
     {
       "k": 595,
-      "v": "Obiettivo raggiunto"				 
+      "v": "Obiettivo raggiunto"
     },
 	{
       "k": 5220,
@@ -5011,7 +5011,7 @@
     },
     {
       "k": 3116,
-      "v": "La ricerca è stata condotta su nuove tecnologie"						  
+      "v": "La ricerca è stata condotta su nuove tecnologie"
     },
 	{
       "k": 4439,
@@ -5023,7 +5023,7 @@
     },
     {
       "k": 4532,
-      "v": "Uno scambio è stato concluso"						   
+      "v": "Uno scambio è stato concluso"
     },
 	{
       "k": 5615,
@@ -5035,7 +5035,7 @@
     },
     {
       "k": 5624,
-      "v": "L'attacco dei predoni è stato respinto"						
+      "v": "L'attacco dei predoni è stato respinto"
     },
 	{
       "k": 5934,
@@ -5095,7 +5095,7 @@
     },
     {
       "k": 5941,
-      "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."		   
+      "v": "Con questa preimpostazione, vengono memorizzati i materiali di base necessari per la produzione."
     },
 	{
       "k": 6868,
@@ -5163,7 +5163,7 @@
     },
 	{
       "k": 3934,
-      "v": "Posizione attrattiva"							
+      "v": "Posizione attrattiva"	
     },
 	{
       "k": 6830,
@@ -5183,7 +5183,7 @@
     },
     {
       "k": 1055,
-      "v": "Edifici nelle vicinanze: <<amount>>"							 
+      "v": "Edifici nelle vicinanze: <<amount>>"	 
     },
 	{
       "k": 6884,
@@ -5203,7 +5203,7 @@
     },
     {
       "k": 2218,
-      "v": "Aumenta al <<value>>% se fornito di elettricità"						
+      "v": "Aumenta al <<value>>% se fornito di elettricità"
     },
 	{
       "k": 5878,
@@ -5219,7 +5219,7 @@
     },
     {
       "k": 5877,
-      "v": "Efficienza di base"					
+      "v": "Efficienza di base"	
     },
 	{
       "k": 6806,
@@ -5227,7 +5227,7 @@
     },
     {
       "k": 6807,
-      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."													
+      "v": "Se questo edificio si trova nelle vicinanze di un'unità di fabbrica, ne aumenta l'efficienza."	
     },
 	{
       "k": 6885,
@@ -5255,7 +5255,7 @@
     },
     {
       "k": 598,
-      "v": "Laghi"		  
+      "v": "Laghi"
     },
 	{
       "k": 6723,
@@ -5451,7 +5451,7 @@
     },
 	{
       "k": 5460,
-      "v": "Pozzi e pompe dell'acqua elettriche"					  
+      "v": "Pozzi e pompe dell'acqua elettriche"	  
     },
 	{
       "k": 6447,
@@ -5579,7 +5579,7 @@
     },
     {
       "k": 1062,
-      "v": "Limitazione degli indumenti protettivi"																									   
+      "v": "Limitazione degli indumenti protettivi"	   
     },
 	{
       "k": 5397,
@@ -5599,7 +5599,7 @@
     },
 	{
       "k": 4150,
-      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"			   
+      "v": "Richiede elettricità per ricevere trasmissioni radio dai Sopravvissuti"	   
     },
 	{
       "k": 5151,
@@ -5671,7 +5671,7 @@
     },
     {
       "k": 1041,
-      "V": "Attivazione energetica"
+      "v": "Attivazione energetica"
     },
     {
       "k": 1042,
@@ -5751,7 +5751,7 @@
     },
     {
       "k": 3474,
-      "v": "Riempi il livello del serbatoio dell'acqua"					 
+      "v": "Riempi il livello del serbatoio dell'acqua"	 
     },
 	{
       "k": 6808,
@@ -5799,7 +5799,7 @@
     },
     {
       "k": 4555,
-      "v": "Tempo fino all'arrivo del prossimo commerciante"						 
+      "v": "Tempo fino all'arrivo del prossimo commerciante"
     },
 	{
       "k": 4687,
@@ -5887,11 +5887,11 @@
     },
     {
       "k": 4544,
-      "v": "Licenzia commerciante"														   
+      "v": "Licenzia commerciante"
     },
 	{
       "k": 4891,
-      "v": "Vuoi davvero mandare via il trader senza organizzare un contratto di scambio?"						 
+      "v": "Vuoi davvero mandare via il trader senza organizzare un contratto di scambio?"
     },
 	{
       "k": 5184,
@@ -6107,7 +6107,7 @@
     },
 	{
       "k": 5233,
-      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"									  
+      "v": "L'edificio funziona solo quando è collegato a una rete elettrica"	  
     },
 	{
       "k": 5870,
@@ -6143,7 +6143,7 @@
     },
     {
       "k": 1066,
-      "v": "Apri finestra di spedizione"			   
+      "v": "Apri finestra di spedizione"	   
     },
 	{
       "k": 5542,
@@ -6263,7 +6263,7 @@
     },
 	{
       "k": 5240,
-      "v": "Distintivo da pastore"				  
+      "v": "Distintivo da pastore"
     },
 	{
       "k": 5778,
@@ -6383,11 +6383,11 @@
     },
 	{
       "k": 5241,
-      "v": "Mandria di cervi! I suoi .. i .. Cervi! pastore! pastore!"								  
+      "v": "Mandria di cervi! I suoi .. i .. Cervi! pastore! pastore!"
     },
 	{
       "k": 5779,
-      "v": "Non vai oltre!"								  
+      "v": "Non vai oltre!"
     },
 	{
       "k": 6778,
@@ -6447,7 +6447,7 @@
     },
     {
       "k": 2665,
-      "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nel mondo spietato di Endzone - A world a part."																																								 
+      "v": "Segui le istruzioni di Arthur Sawchyn e ottieni importanti indizi e informazioni utili sulla sopravvivenza nel mondo spietato di Endzone - A world a part."
     },
 	{
       "k": 4516,
@@ -6483,7 +6483,7 @@
     },
     {
       "k": 5883,
-      "v": "È possibile sbloccare obiettivi relativi agli scenari."														   
+      "v": "È possibile sbloccare obiettivi relativi agli scenari."
     },
 	{
       "k": 6553,
@@ -6519,11 +6519,11 @@
     },
     {
       "k": 2810,
-      "v": "Modifica impostazioni"						  
+      "v": "Modifica impostazioni"
     },
 	{
       "k": 5885,
-      "v": "Medaglie e obiettivi"				  
+      "v": "Medaglie e obiettivi"
     },
 	{
       "k": 6933,
@@ -6531,7 +6531,7 @@
     },
     {
       "k": 2929,
-      "v": "Medaglie"											  
+      "v": "Medaglie"	  
     },
 	{
       "k": 5884,
@@ -6579,7 +6579,7 @@
     },
     {
       "k": 2257,
-      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."									   
+      "v": "<b>Siamo spiacenti!</b>\nQuesto salvataggio non è compatibile con la versione corrente del gioco e non può essere caricato. Usa il codice di condivisione per iniziare una nuova sessione su questa mappa."	   
     },
 	{
       "k": 6810,
@@ -6615,7 +6615,7 @@
     },
     {
       "k": 606,
-      "v": "Salva partita"						
+      "v": "Salva partita"
     },
 	{
       "k": 6881,
@@ -6651,7 +6651,7 @@
     },
     {
       "k": 2352,
-      "v": "Riproduci introduzione"								   
+      "v": "Riproduci introduzione"
     },
 	{
       "k": 6081,
@@ -6703,7 +6703,7 @@
     },
     {
       "k": 2984,
-      "v": "Copia il codice di condivisione negli Appunti"						  
+      "v": "Copia il codice di condivisione negli Appunti"
     },
 	{
       "k": 5783,
@@ -6759,7 +6759,7 @@
     },
     {
       "k": 1748,
-      "v": "Impostazioni mappa"							 
+      "v": "Impostazioni mappa"	 
     },
 	{
       "k": 6794,
@@ -6927,7 +6927,7 @@
     },
     {
       "k": 3123,
-      "v": "Livello di stato della ricerca"																																				 
+      "v": "Livello di stato della ricerca"
     },
 	{
       "k": 5341,
@@ -7055,7 +7055,7 @@
     },
     {
       "k": 3125,
-      "v": "Definisce se tutta la ricerca dovrebbe essere stata conclusa e, di conseguenza, tutti gli edifici, le formule di produzione e le altre tecnologie sono disponibili fin dall'inizio."																																		 
+      "v": "Definisce se tutta la ricerca dovrebbe essere stata conclusa e, di conseguenza, tutti gli edifici, le formule di produzione e le altre tecnologie sono disponibili fin dall'inizio."
     },
 	{
       "k": 5790,
@@ -7075,7 +7075,7 @@
     },
 	{
       "k": 3576,
-      "v": "Controlli"			
+      "v": "Controlli"	
     },
 	{
       "k": 6922,
@@ -7179,7 +7179,7 @@
     },
     {
       "k": 2258,
-      "v": "Effetto delle radiazioni"						   
+      "v": "Effetto delle radiazioni"
     },
 	{
       "k": 5886,
@@ -7243,7 +7243,7 @@
     },
     {
       "k": 3477,
-      "v": "Colori dell'umidità del suolo"						
+      "v": "Colori dell'umidità del suolo"
     },
 	{
       "k": 4075,
@@ -7259,11 +7259,11 @@
     },
     {
       "k": 4155,
-      "v": "Numero di salvataggi automatici"						   
+      "v": "Numero di salvataggi automatici"
     },
 	{
       "k": 4448,
-      "v": "Usa il cursore del mouse grande"					  
+      "v": "Usa il cursore del mouse grande"	  
     },
 	{
       "k": 5893,
@@ -7483,7 +7483,7 @@
     },
 	{
       "k": 5212,
-      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"					
+      "v": "È già stata data la priorità a un altro edificio per i tuoi costruttori. Vuoi sostituire l'edificio a cui era stata assegnata la priorità con questo nuovo edificio?"	
     },
 	{
       "k": 5810,
@@ -7671,7 +7671,7 @@
     },
     {
       "k": 2137,
-      "v": "Nessuna spedizione iniziata"								  
+      "v": "Nessuna spedizione iniziata"
     },
 	{
       "k": 5543,
@@ -7711,7 +7711,7 @@
     },
     {
       "k": 2145,
-      "v": "Destinazione focus"																											
+      "v": "Destinazione focus"	
     },
 	{
       "k": 5188,
@@ -7799,7 +7799,7 @@
     },
     {
       "k": 5400,
-      "v": "Utensili di ricerca possono essere trovati in questa rovina."						   
+      "v": "Utensili di ricerca possono essere trovati in questa rovina."
     },
 	{
       "k": 5630,
@@ -8063,7 +8063,7 @@
     },
 	{
       "k": 3916,
-      "v": "Aggiorna un edificio"										  
+      "v": "Aggiorna un edificio"
     },
 	{
       "k": 4512,
@@ -8087,7 +8087,7 @@
     },
     {
       "k": 5225,
-      "v": "Rimuove un animale morto"					
+      "v": "Rimuove un animale morto"	
     },
 	{
       "k": 5545,
@@ -8107,7 +8107,7 @@
     },
     {
       "k": 2309,
-      "v": "Nessun partner"																																																																																																			 
+      "v": "Nessun partner"	 
     },
 	{
       "k": 3822,
@@ -8663,7 +8663,7 @@
     },
     {
       "k": 849,
-      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"													 
+      "v": "Quale direzione dovrebbe prendere la spedizione successiva?"	 
     },
 	{
       "k": 5222,
@@ -8719,7 +8719,7 @@
     },
     {
       "k": 3118,
-      "v": "<<researchName>> è stato ricercato ed è ora disponibile"										 
+      "v": "<<researchName>> è stato ricercato ed è ora disponibile"
     },
 	{
       "k": 4440,
@@ -8739,7 +8739,7 @@
     },
     {
       "k": 5383,
-      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."													 
+      "v": "Seppellisci i coloni morti e prenditi cura delle cure mediche."	 
     },
 	{
       "k": 5622,
@@ -8755,7 +8755,7 @@
     },
 	{
       "k": 5935,
-      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."																							   
+      "v": "Presta attenzione alla direzione dell'attacco sulla mappa per allineare la tua difesa."	   
     },
 	{
       "k": 6202,
@@ -8763,7 +8763,7 @@
     },
     {
       "k": 6555,
-      "v": "Completa in tempo la missione corrispondente dei tuoi coloni."								 
+      "v": "Completa in tempo la missione corrispondente dei tuoi coloni."
     },
 	{
       "k": 6867,
@@ -8827,7 +8827,7 @@
     },
     {
       "k": 2649,
-      "v": "Finito <<solveAmount>>"																   
+      "v": "Finito <<solveAmount>>"
     },
 	{
       "k": 4154,
@@ -8931,7 +8931,7 @@
     },
     {
       "k": 944,
-      "v": "Forza lavoro non assegnata: <<workforceAmount>>\nProfessionisti: <<professionalsAmount>>"						 
+      "v": "Forza lavoro non assegnata: <<workforceAmount>>\nProfessionisti: <<professionalsAmount>>"
     },
 	{
       "k": 6196,
@@ -9023,11 +9023,11 @@
     },
 	{
       "k": 5391,
-      "v": "Gli utensili di ricerca possono essere trovati qui."													  
+      "v": "Gli utensili di ricerca possono essere trovati qui."	  
     },
 	{
       "k": 5552,
-      "v": "I piani di costruzione o le tecnologie possono essere trovati qui."		  
+      "v": "I piani di costruzione o le tecnologie possono essere trovati qui."
     },
 	{
       "k": 6822,
@@ -9271,7 +9271,7 @@
     },
     {
       "k": 2492,
-      "v": "Lo farà!"					 
+      "v": "Lo farà!"	 
     },
 	{
       "k": 5867,
@@ -9383,7 +9383,7 @@
     },
     {
       "k": 1235,
-      "v": "Fertilità"					  
+      "v": "Fertilità"	  
     },
 	{
       "k": 4080,
@@ -9423,7 +9423,7 @@
     },
     {
       "k": 3053,
-      "v": "Un rifugio potenziato offre spazio per un massimo di 50 coloni. Mentre vivono in un rifugio riparato I coloni non daranno vita a nessuna famiglia e non si riprodurranno. Il rifugio potenziato può agire per accumulare <link=\"5\"><style=\"DefaultLink\">Cibo</style></link> e <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> per i suoi abitanti. Un rifugio potenziato può essere collegato a una rete elettrica. Per poter costruire un rifugio potenziato, la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata da eseguire per prima."																																																						 
+      "v": "Un rifugio potenziato offre spazio per un massimo di 50 coloni. Mentre vivono in un rifugio riparato I coloni non daranno vita a nessuna famiglia e non si riprodurranno. Il rifugio potenziato può agire per accumulare <link=\"5\"><style=\"DefaultLink\">Cibo</style></link> e <link=\"6\"><style=\"DefaultLink\">Acqua</style></link> per i suoi abitanti. Un rifugio potenziato può essere collegato a una rete elettrica. Per poter costruire un rifugio potenziato, la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata da eseguire per prima."
     },
 	{
       "k": 4081,
@@ -9723,7 +9723,7 @@
     },
     {
       "k": 1588,
-      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"																																																													  
+      "v": "I frutteti funzionano in modo simile ai campi e <link=\"3\"><style=\"DefaultLink\">impiega</style> </link> Agricoltori.\nA differenza delle colture nella coltivazione in campo, i semi di frutteti spawn alberi da frutto o dado.\nQuesti alberi hanno un tempo di crescita iniziale di cui hanno bisogno per produrre un raccolto. Una volta che un albero da frutteto è cresciuto, fornirà cibo ogni stagione.\nI tuoi agricoltori possono portare raccolti da questi alberi per diverse stagioni prima che debbano essere ripiantati.\n"	  
     },
 	{
       "k": 3937,
@@ -9731,7 +9731,7 @@
     },
     {
       "k": 3938,
-      "v": "La cucina <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Cuochi.  cuochi producono cibi ricchi dal cibo. Per poter costruire una cucina, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."																																																																																																																																																				 
+      "v": "La cucina <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Cuochi.  cuochi producono cibi ricchi dal cibo. Per poter costruire una cucina, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
 	{
       "k": 5044,
@@ -9775,11 +9775,11 @@
     },
     {
       "k": 1591,
-      "v": "I coloni richiedono acqua per sopravvivere. Se non ricevono abbastanza acqua muoiono di sete. Più fonti d'acqua hanno a disposizione, meglio è. Quando i coloni hanno sete e l'acqua è disponibile, si prenderanno cura di la loro stessa alimentazione."
+      "v": "I coloni richiedono acqua per sopravvivere. Se non ricevono abbastanza acqua muoiono di sete. Più fonti d'acqua hanno a disposizione, meglio è. Quando i coloni hanno sete e l'acqua è disponibile, si prenderanno cura della loro stessa alimentazione."
     },
     {
       "k": 1592,
-      "v": "La cisterna <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Portatori d'acqua. Questi portatori d'acqua raccolgono l'acqua da tutte le fonti disponibili di acqua nel'<link=\"1\"><style=\"DefaultLink\">area di lavoro</style></link>. Una cisterna può <link=\"18\"><style=\"DefaultLink\">accumulare</style></link> fino a 2000 unità di acqua. Puoi indicare manualmente da quali fonti dovrebbero raccogliere le Cisterne."
+      "v": "La cisterna <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Portatori d'acqua. Questi portatori d'acqua raccolgono l'acqua da tutte le fonti disponibili di acqua nell'<link=\"1\"><style=\"DefaultLink\">area di lavoro</style></link>. Una cisterna può <link=\"18\"><style=\"DefaultLink\">accumulare</style></link> fino a 2000 unità di acqua. Puoi indicare manualmente da quali fonti dovrebbero raccogliere le Cisterne."
     },
     {
       "k": 1593,
@@ -9787,7 +9787,7 @@
     },
     {
       "k": 1594,
-      "v": "I laghi sono la principale fonte di acqua per il tuo insediamento. Ti danno ugualmente accesso ai pesci. Costruisci un molo per poter raccogliere l'acqua e una <link=\"5\"><style=\"DefaultLink\">casetta di pesca</style></link>per poter pescare.\nDevi anche tenere d'occhio il <link=\"10\"><style=\"DefaultLink\">livello di radiazione</style></link> perché anche i Portatori d'acqua raccolgono acqua contaminata da radiazioni. Tutti i laghi si prosciugano temporaneamente durante una <link=\"7\"><style=\"DefaultLink\">siccità</style></link>. Di conseguenza, questa fonte di acqua si secca."
+      "v": "I laghi sono la principale fonte di acqua per il tuo insediamento e forniscono anche accesso ai pesci. Costruisci un molo per poter raccogliere l'acqua e una <link=\"5\"><style=\"DefaultLink\"> casetta di pesca</style></link> per poter pescare.\nDevi anche tenere d'occhio il <link=\"10\"><style=\"DefaultLink\">livello di radiazione</style></link> perché anche i Portatori d'acqua raccolgono acqua contaminata da radiazioni. Tutti i laghi si prosciugano temporaneamente durante una <link=\"7\"><style=\"DefaultLink\">siccità</style></link>. Di conseguenza, questa fonte di acqua si secca."
     },
     {
       "k": 1595,
@@ -9799,11 +9799,11 @@
     },
     {
       "k": 1597,
-      "v": "Il collettore dell'acqua piovana raccoglie l'acqua dalla <link=\"7\"><style=\"DefaultLink\">pioggia</style></link>. Quest'acqua viene successivamente raccolta dai Portatori d'acqua e portato in una torre d'acqua o in una cisterna. Tieni d'occhio il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> delle pioggia perché anche il Raccoglitore di acqua piovana memorizza la pioggia contaminata dalle radiazioni. Per evitarlo puoi <link=\"7\"><style=\"DefaultLink\">coprire temporaneamente i Collettori di acqua piovana</style></link> che ti appartengono."																																																																																																																		   
+      "v": "Il collettore dell'acqua piovana raccoglie l'acqua dalla <link=\"7\"><style=\"DefaultLink\">pioggia</style></link>. Quest'acqua viene successivamente raccolta dai Portatori d'acqua e portata in una torre d'acqua o in una cisterna. Tieni d'occhio il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> delle pioggia perché il raccoglitore di acqua piovana raccoglie anche la pioggia contaminata dalle radiazioni. Per evitarlo puoi <link=\"7\"><style=\"DefaultLink\">coprire temporaneamente i collettori di acqua piovana</style></link> che ti appartengono."
     },
 	{
       "k": 5371,
-      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."																																																																																																									   
+      "v": "L'elettropompa trasporta l'acqua da sola. Ha bisogno di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> per poter funzionare. Quest'acqua può quindi essere raccolta dai portatori d'acqua e portata alle torri dell'acqua o alle cisterne.\nPosizionare più pompe elettriche una accanto all'altra o accanto ai pozzi ne riduce la produttività. Di conseguenza, prova a posizionarli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> vicine."	   
     },
 	{
       "k": 6090,
@@ -9871,15 +9871,15 @@
     },
     {
       "k": 1609,
-      "v": "Il livello di irrigazione indica il <link=\"6\"> <style=\"DefaultLink\">Livello dell'acqua</style></link> del suolo. Più acqua immagazzinata nel suolo, le piante più veloci come <link=\"5\"><style=\"DefaultLink\"> bacche, funghi e piantine </style> </link> crescono su di esso. Se il terreno si secca, le piante appassiscono e anche morire."
+      "v": "Il livello di irrigazione indica il <link=\"6\"> <style=\"DefaultLink\">Livello dell'acqua</style></link> del suolo. Più acqua viene immagazzinata nel sottosuolo, più le piante crescono veloci come <link=\"5\"><style=\"DefaultLink\"> bacche, funghi e piantine </style> </link>. Se il terreno si secca, le piante appassiscono e possono anche morire."
     },
     {
       "k": 1610,
-      "v": "Puoi controllare l'umidità del suolo attivando la Mappa del calore dell'acqua."
+      "v": "Puoi controllare l'umidità del suolo attivando la mappa del calore dell'acqua."
     },
     {
       "k": 1611,
-      "v": "La pioggia contaminata aumenta il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> nel suolo. Esistono tre tipi di pioggia contaminata. il tipo di pioggia spinge il livello di radiazione al suo rispettivo valore. La pioggia acida aumenta il livello di irrigazione del suolo proprio come la pioggia normale."
+      "v": "La pioggia contaminata aumenta il <link=\"10\"><style=\"DefaultLink\">Livello di radiazione</style></link> nel suolo. Esistono tre tipi di pioggia contaminata. Il tipo di pioggia spinge il livello di radiazione al suo rispettivo valore. La pioggia acida aumenta il livello di irrigazione del suolo proprio come la pioggia normale."
     },
     {
       "k": 1612,
@@ -9903,7 +9903,7 @@
     },
     {
       "k": 1810,
-      "v": "Fiducia dei coloni"																																																																																																																																		   
+      "v": "Fiducia dei coloni"
     },
 	{
       "k": 3954,
@@ -10011,7 +10011,7 @@
     },
 	{
       "k": 3590,
-      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."																																																			  
+      "v": "Le compresse di iodio sono prodotte da medici a partire da <link=\"15\"><style=\"DefaultLink\">Iodio</style></link>. Questi compresse sono in grado di abbassare il <link=\"16\"><style=\"DefaultLink\">Livello di radiazioni</style></link> dei tuoi coloni."	  
     },
 	{
       "k": 6096,
@@ -10299,7 +10299,7 @@
     },
     {
       "k": 3597,
-      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."																											   
+      "v": "La miniera <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Minatori. Le miniere possono estrarre iodio o <link=\"11\"><style=\"DefaultLink\">Carbone</style></link>. È possibile impostare quale risorsa dovrebbe essere prodotta successivamente. I minatori assegnati iniziano con il lavoro sulla nuova risorsa non appena l'attività corrente è stata completata. Posizionare molte miniere una accanto all'altra riduce la loro produttività. Pertanto, cerca di tenerli fuori dalle <link=\"1\"><style=\"DefaultLink\">aree di lavoro</style></link> delle miniere vicine. Per poter costruire una miniera, è necessario eseguire prima l'appropriata  <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link>."	   
     },
 	{
       "k": 6098,
@@ -10379,7 +10379,7 @@
     },
     {
       "k": 1889,
-      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."			   
+      "v": "La scuola <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Insegnanti. Finché è disponibile spazio sufficiente e è presente un Insegnante, Bambini andrà a scuola e verrà educato."	   
     },
 	{
       "k": 4711,
@@ -10499,7 +10499,7 @@
     },
 	{
       "k": 5046,
-      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."																																																																																											  
+      "v": "Il dispensario alimentare <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Logisti. I logisti trasportano il cibo dagli edifici di stoccaggio e dalle strutture di produzione dell'insediamento al dispensario alimentare. Il cibo può successivamente essere consumato qui dai coloni. Il dispensario alimentare può essere incaricato di immagazzinare solo alimenti non trasformati, solo alimenti trasformati o tutti i tipi di alimenti."	  
     },
 	{
       "k": 5372,
@@ -10539,7 +10539,7 @@
     },
     {
       "k": 3065,
-      "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."				
+      "v": "La Stazione di ricerca <link=\"3\"><style=\"DefaultLink\">impiega</style></link> Ricercatori. La ricerca può essere eseguita presso la Stazione di ricerca. Se nessuna ricerca è in fase di esecuzione, i ricercatori impiegati presso la Stazione di ricerca generano conoscenza."
     },
 	{
       "k": 5374,
@@ -10575,7 +10575,7 @@
     },
     {
       "k": 3956,
-      "v": "I campanelli eolici possono essere posizionati per aumentare l'attrattiva di un'area."		
+      "v": "I campanelli eolici possono essere posizionati per aumentare l'attrattiva di un'area."
     },
 	{
       "k": 4423,
@@ -10587,7 +10587,7 @@
     },
 	{
       "k": 4513,
-      "v": "La statua del pioniere può essere posizionata per aumentare notevolmente l'attrattiva di un'area."																				  
+      "v": "La statua del pioniere può essere posizionata per aumentare notevolmente l'attrattiva di un'area."
     },
 	{
       "k": 5529,
@@ -10623,7 +10623,7 @@
     },
     {
       "k": 4412,
-      "v": "Il forum consente l'accesso alla bacheca insieme alla possibilità di emanare decreti."						  
+      "v": "Il forum consente l'accesso alla bacheca insieme alla possibilità di emanare decreti."
     },
 	{
       "k": 4718,
@@ -10667,7 +10667,7 @@
     },
     {
       "k": 1263,
-      "v": "Interfaccia utente"																																																																												  
+      "v": "Interfaccia utente"
     },
 	{
       "k": 5752,
@@ -10727,7 +10727,7 @@
     },
     {
       "k": 5766,
-      "v": "La barricata riduce la velocità di movimento di tutti i predoni situati nell'area circostante. Per poter impostare una barriera, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."		 
+      "v": "La barricata riduce la velocità di movimento di tutti i predoni situati nell'area circostante. Per poter impostare una barriera, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata."
     },
 	{
       "k": 6104,
@@ -14895,7 +14895,7 @@
     },
     {
       "k": 3754,
-      "v": "Assolutamente no, non con noi, capo. Nonostante tutto, ci sono alcuni limiti - se sei assolutamente pronto a far scavare queste tombe, allora dovrai inviare un becchino qui!"												 
+      "v": "Assolutamente no, non con noi, capo. Nonostante tutto, ci sono alcuni limiti - se sei assolutamente pronto a far scavare queste tombe, allora dovrai inviare un becchino qui!"
     },
 	{
       "k": 3759,
@@ -14971,7 +14971,7 @@
     },
     {
       "k": 3777,
-      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."																																																																																	
+      "v": "Dannazione! Proprio mentre stavamo per smontare i sistemi, una pompa è esplosa e ha seppellito una delle nostre persone sotto di essa! Siamo riusciti a salvarlo, ma non ha un bell'aspetto. Se solo non fossimo mai scesi qui in primo luogo..."	
     },
 	{
       "k": 3957,
@@ -15907,7 +15907,7 @@
     },
     {
       "k": 4313,
-      "v": "Non saprei come possiamo aiutare loro due senza Medicina. Il malato non tornerà all'insediamento, non nello stato in cui si trova, e sua moglie non lo lascerà indietro, qualunque cosa accada. L'unica cosa che ci resta è tornare all'insediamento..."																														 
+      "v": "Non saprei come possiamo aiutare loro due senza Medicina. Il malato non tornerà all'insediamento, non nello stato in cui si trova, e sua moglie non lo lascerà indietro, qualunque cosa accada. L'unica cosa che ci resta è tornare all'insediamento..."
     },
 	{
       "k": 4911,
@@ -16483,7 +16483,7 @@
     },
     {
       "k": 2342,
-      "v": "Mostra popup all'avvio"					 
+      "v": "Mostra popup all'avvio"	 
     },
 	{
       "k": 5859,
@@ -16887,7 +16887,7 @@
     },
     {
       "k": 5022,
-      "v": "Dispense di cibo"																																																																   
+      "v": "Dispense di cibo"
     },
 	{
       "k": 5282,
@@ -17091,7 +17091,7 @@
     },
     {
       "k": 4173,
-      "v": "Decreti"																									 
+      "v": "Decreti"	 
     },
 	{
       "k": 5641,
@@ -18467,7 +18467,7 @@
     },
 	{
       "k": 4487,
-      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."			 
+      "v": "La conoscenza è necessaria per eseguire la ricerca. È generato dai ricercatori presso la stazione di ricerca o si trova nelle spedizioni."	 
     },
 	{
       "k": 6410,
@@ -18503,7 +18503,7 @@
     },
     {
       "k": 3047,
-      "v": "Interrompi ricerca"				
+      "v": "Interrompi ricerca"
     },
 	{
       "k": 6821,
@@ -18579,7 +18579,7 @@
     },
     {
       "k": 3486,
-      "v": "Le risorse vengono raccolte..."				   
+      "v": "Le risorse vengono raccolte..."
     },
 	{
       "k": 6856,
@@ -18587,7 +18587,7 @@
     },
 	{
 	  "k": 5285,
-      "v": "Utensili di ricerca"																																														
+      "v": "Utensili di ricerca"
     },
 	{
       "k": 5286,
@@ -18607,7 +18607,7 @@
     },
 	{
       "k": 5401,
-      "v": "Trascina la visualizzazione"			
+      "v": "Trascina la visualizzazione"	
     },
 	{
       "k": 6552,
@@ -19175,7 +19175,7 @@
     },
     {
       "k": 3574,
-      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."																																																													
+      "v": "I nostri ricercatori hanno avuto l'idea di provare una nuova tecnologia. La loro idea è quella di progettare una miniera che ci consenta di estrarre risorse dalle montagne circostanti. Vogliono che il tuo permesso sia autorizzato a iniziare i loro studi."	
     },
 	{
       "k": 4736,
@@ -19319,7 +19319,7 @@
     },
     {
       "k": 3779,
-      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."																																											  
+      "v": "Grazie a questa tecnologia, i nostri minatori sono in grado di forzare tunnel più profondi nelle montagne circostanti. Ciò ci consentirà di posizionare le nostre miniere una vicino all'altra senza che le loro aree di lavoro si influenzino reciprocamente Produttività durante l'estrazione di risorse."	  
     },
 	{
       "k": 5553,
@@ -19335,7 +19335,7 @@
     },
     {
       "k": 4755,
-      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."					 
+      "v": "Utilizzando l'antenna radio migliorata presso la nostra stazione di scambio possiamo contattare i commerciante in modo mirato. Questo ci consente di scegliere il prossimo commerciante che atterra al nostro insediamento."	 
     },
 	{
       "k": 5458,
@@ -19343,7 +19343,7 @@
     },
     {
       "k": 5459,
-      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."				
+      "v": "Questa tecnologia sblocca gli edifici Torre di guardia, Armeria e Miniera, così come la ricetta di produzione dello zolfo, che vengono utilizzati per la difesa contro i predoni."
     },
 	{
       "k": 5496,
@@ -20227,11 +20227,11 @@
     },
     {
       "k": 4449,
-      "v": "Divieto di cremazione"				  
+      "v": "Divieto di cremazione"
     },
 	{
       "k": 5050,
-      "v": "Divieto di vagabondaggio"						 
+      "v": "Divieto di vagabondaggio"
     },
 	{
       "k": 5776,
@@ -20239,7 +20239,7 @@
     },
     {
       "k": 4069,
-      "v": "Questo decreto vieta il parto."																									   
+      "v": "Questo decreto vieta il parto."	   
     },
 	{
       "k": 4323,
@@ -20279,7 +20279,7 @@
     },
     {
       "k": 4450,
-      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."																																					 
+      "v": "Le tombe dei coloni già sepolti saranno sgombrate e tutti i coloni appena deceduti saranno cremati per il periodo di tempo in cui il presente decreto è in vigore, tuttavia non saranno sepolti in un cimitero."	 
     },
 	{
       "k": 5051,
@@ -20383,7 +20383,7 @@
     },
     {
       "k": 4151,
-      "v": "In costruzione"					 
+      "v": "In costruzione"	 
     },
 	{
       "k": 5653,
@@ -20467,7 +20467,7 @@
     },
     {
       "k": 4152,
-      "v": "Edifici attualmente in costruzione."																							   
+      "v": "Edifici attualmente in costruzione."	   
     },
 	{
       "k": 5655,
@@ -20807,7 +20807,7 @@
     },
     {
       "k": 4453,
-      "v": "Apri la vista per l'irrigazione ambientale"								  
+      "v": "Apri la vista per l'irrigazione ambientale"
     },
 	{
       "k": 4629,
@@ -20911,7 +20911,7 @@
     },
     {
       "k": 4538,
-      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una stazione meteorologica in cui possiamo osservare il tempo per consentire di fare dichiarazioni sulle condizioni meteorologiche future. Vogliono che il tuo permesso possa iniziare i loro studi."											   
+      "v": "I nostri ricercatori hanno un'idea per tentare la fortuna con una nuova tecnologia. La loro idea è quella di sviluppare una stazione meteorologica in cui possiamo osservare il tempo per consentire di fare dichiarazioni sulle condizioni meteorologiche future. Vogliono che il tuo permesso possa iniziare i loro studi."	   
     },
 	{
       "k": 4539,
@@ -20943,7 +20943,7 @@
     },
     {
       "k": 4522,
-      "v": "Sistema commerciale"					   
+      "v": "Sistema commerciale"	   
     },
 	{
       "k": 4557,
@@ -21731,7 +21731,7 @@
     },
     {
       "k": 4886,
-      "v": "Limitato alla finestra"													
+      "v": "Limitato alla finestra"	
     },
 	{
       "k": 5052,
@@ -22107,7 +22107,7 @@
     },
     {
       "k": 5208,
-      "v": "Chiedi alla tua sartoria di produrre tute anti-radiazioni"								  
+      "v": "Chiedi alla tua sartoria di produrre tute anti-radiazioni"
     },
 	{
       "k": 5287,
@@ -22451,7 +22451,7 @@
     },
     {
       "k": 5392,
-      "v": "Non faremo più pause"											
+      "v": "Non faremo più pause"	
     },
 	{
       "k": 5402,
@@ -22867,7 +22867,7 @@
     },
     {
       "k": 5550,
-      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."																															 
+      "v": "Aspetta che l'Esploratore abbia esaminato la Rovina."	 
     },
 	{
       "k": 5564,
@@ -23507,11 +23507,11 @@
     },
     {
       "k": 5892,
-      "v": "Penso che sia finalmente giunto il momento per me di rinunciare alla carica di consigliere. Sono fermamente convinto che ci condurrai a un futuro glorioso."														  
+      "v": "Penso che sia finalmente giunto il momento per me di rinunciare alla carica di consigliere. Sono fermamente convinto che ci condurrai a un futuro glorioso."
     },
 	{
       "k": 5894,
-      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."									   					   
+      "v": "Per utilizzare il limite di FPS, assicurati che VSync sia disattivato."	   	   
     },
 	{
       "k": 5916,
@@ -23583,7 +23583,7 @@
     },
     {
       "k": 5955,
-      "v": "Pensiamo di aver raccolto tutto."																																											  
+      "v": "Pensiamo di aver raccolto tutto."	  
     },
 	{
       "k": 5997,
@@ -23863,7 +23863,7 @@
     },
     {
       "k": 6405,
-      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."							 
+      "v": "Con ciò, lo scenario 'Torna indietro' si chiude. Ora puoi semplicemente continuare a giocare o tornare al menu principale."	 
     },
 	{
       "k": 6889,
@@ -23895,7 +23895,7 @@
     },
     {
       "k": 6060,
-      "v": "Crediti e introduzione"						   						
+      "v": "Crediti e introduzione"
     },
 	{
       "k": 6925,
@@ -25035,7 +25035,7 @@
     },
     {
       "k": 6409,
-      "v": "Rendering su richiesta"			
+      "v": "Rendering su richiesta"	
     },
 	{
       "k": 6412,
@@ -26199,7 +26199,7 @@
     },
     {
       "k": 6891,
-      "v": "Apri Configurazione rapida"					  
+      "v": "Apri Configurazione rapida"	  
     },
 	{
       "k": 6898,
