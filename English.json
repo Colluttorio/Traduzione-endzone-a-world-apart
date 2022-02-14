@@ -1983,7 +1983,7 @@
     },
     {
       "k": 372,
-      "v": "Raccoglie acqua da moli, pozzi o collezionisti di acqua piovana e la conduce in una cisterna o in una torre d'acqua."
+      "v": "Raccoglie acqua da moli, pozzi o collezionisti di acqua piovana e la riversa in una cisterna o in una torre d'acqua."
     },
     {
       "k": 377,
@@ -2015,7 +2015,7 @@
     },
     {
       "k": 3506,
-      "v": "I decontaminatori lavorano in un posto di decontaminazione. Producono kit di decontaminazione per pulire il cibo dalla contaminazione."
+      "v": "I decontaminatori lavorano in un luogo di decontaminazione. Producono kit di decontaminazione per pulire il cibo dalla contaminazione."
     },
     {
       "k": 3507,
@@ -2023,7 +2023,7 @@
     },
 	{
       "k": 3814,
-      "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore da un'alimentazione più semplice."
+      "v": "I cuochi lavorano in una cucina per produrre cibo di qualità superiore da ingredienti più semplici."
     },
 	{
       "k": 4747,
@@ -2031,31 +2031,31 @@
     },
 	{
       "k": 6636,
-      "v": "La milizia presidia la loro torre di guardia in caso di attacco e da lì combattono contro i predoni. Trasportano le munizioni alla loro torre di guardia."
+      "v": "La milizia presidia la torre di guardia assegnata in caso di attacco e da lì combattono contro i predoni. Trasportano le munizioni alla torre di guardia assegnata."
     },
     {
       "k": 6776,
-      "v": "Gli ingegneri lavorano in un'unità di fabbrica o producono calcestruzzo in una fabbrica di cemento. Trasportano le risorse necessarie per il loro lavoro sul posto di lavoro."
+      "v": "Gli ingegneri lavorano in un'unità di fabbrica o producono calcestruzzo in una fabbrica di cemento. Trasportano le risorse necessarie sul loro posto di lavoro."
     },
     {
       "k": 6835,
-      "v": "A seconda dello stato della ricerca, i minatori estraggono carbone, iodio, cemento o zolfo in una miniera. Se lavorano in una miniera di sabbia, lì producono sabbia."
+      "v": "A seconda dello stato della ricerca, i minatori estraggono carbone, iodio, cemento o zolfo in una miniera. Se lavorano in una miniera di sabbia, produrrano sabbia."
     },
     {
       "k": 6836,
-      "v": "I gestori di pub producono superalcolici, birra, caffè o spinelli nel pub. Trasportano le risorse necessarie per il loro lavoro sul posto di lavoro."
+      "v": "I gestori di pub producono superalcolici, birra, caffè o spinelli nel pub. Trasportano le risorse necessarie sul loro posto di lavoro."
     },
     {
       "k": 6837,
-      "v": "Le raffinerie producono metallo, plastica, stoffa o elettronica presso un riciclatore o una raffineria. Producono vetro o metallo rinforzato in una fabbrica di materiali. Trasportano le Risorse necessarie sul posto di lavoro. Possono essere assegnati solo una volta per riciclatore, ma possono essere assegnati più di una volta presso la raffineria e la fabbrica di materiali."
+      "v": "Le raffinerie producono metallo, plastica, stoffa o elettronica presso un riciclatore o una raffineria. Producono vetro o metallo rinforzato in una fabbrica di materiali. Trasportano le risorse necessarie sul posto di lavoro. Possono essere assegnati solo una volta per riciclatore, ma possono essere assegnati più di una volta presso la raffineria e la fabbrica di materiali."
     },
     {
       "k": 6838,
-      "v": "I pescatori raccolgono il pesce dai laghi da una capanna di pescatori. In un Aquafarm provvedono ai pesci e li trasformano in cibo."
+      "v": "I pescatori raccolgono il pesce dai laghi utilizzando una capanna di pescatori. In un Aquafarm provvedono ai pesci e li trasformano in cibo."
     },
     {
       "k": 6839,
-      "v": "Semi di piante agricole nei campi, nei frutteti o nelle serre. Presso quest'ultimo forniscono anche acqua alle Serre quando necessario. Portano il raccolto quando richiesto o non appena il raccolto è maturo."
+      "v": "Semi di piante agricole nei campi, nei frutteti o nelle serre. Presso quest'ultimo forniscono anche acqua alle serre quando necessario. Portano il raccolto quando richiesto o non appena il raccolto è maturo."
     },
     {
       "k": 383,
@@ -2087,11 +2087,11 @@
     },
     {
       "k": 390,
-      "v": "La casa del colono viene fornita di elettricità."
+      "v": "La casa del colono viene rifornita di elettricità."
     },
     {
       "k": 391,
-      "v": "Il colono ha un bambino appena nato."
+      "v": "Il colono ha avuto un bambino."
     },
     {
       "k": 392,
@@ -2111,7 +2111,7 @@
     },
     {
       "k": 1227,
-      "v": "La casa del colono è gravemente danneggiata. \n"
+      "v": "La casa del colono è gravemente danneggiata.\n"
     },
     {
       "k": 2161,
@@ -2179,7 +2179,7 @@
     },
 	{
       "k": 6681,
-      "v": "I coloni che visitano determinati Edifici o Decorazioni della comunità o consumano determinate Risorse aumentano la loro Fiducia di <<number>> per un certo periodo di tempo."
+      "v": "I coloni che visitano determinati edifici o decorazioni della comunità o consumano determinate risorse aumentano la loro fiducia di <<number>> per un certo periodo di tempo."
     },
     {
       "k": 5158,
@@ -2203,27 +2203,27 @@
     },
     {
       "k": 5163,
-      "v": "I coloni i cui parenti deceduti non sono stati ancora sepolti riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni i cui parenti deceduti e non sono stati ancora sepolti riducono la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5164,
-      "v": "I coloni la cui casa è danneggiata riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui casa è danneggiata, riducono la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5165,
-      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle Missioni dei coloni al Forum, a causa dell'emissione di Decreti o delle Spedizioni."
+      "v": "I coloni che hanno avuto una brutta esperienza riducono la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi brutte esperienze a causa del fallimento delle missioni dei coloni al forum, a causa dell'emissione di decreti o delle spedizioni."
     },
     {
       "k": 5166,
-      "v": "I coloni che hanno vissuto un'esperienza gioiosa aumentano la loro Fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi esperienze gioiose grazie al completamento con successo delle missioni dei coloni al Forum o durante le spedizioni."
+      "v": "I coloni che hanno vissuto un'esperienza gioiosa, aumentano la loro fiducia di <<number>> per un certo periodo di tempo. Possono verificarsi esperienze gioiose grazie al completamento con successo delle missioni dei coloni al forum o durante le spedizioni."
     },
     {
       "k": 5167,
-      "v": "I coloni che sono dotati di uno strumento aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni che sono dotati di uno strumento, aumentano la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5168,
-      "v": "I coloni che sono equipaggiati con indumenti protettivi aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni che sono equipaggiati con indumenti protettivi, aumentano la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5169,
@@ -2231,15 +2231,15 @@
     },
     {
       "k": 5170,
-      "v": "I coloni che sono stati sufficientemente istruiti in tutte le materie durante la loro infanzia aumentano la loro Fiducia in modo permanente di <<number>>."
+      "v": "I coloni che sono stati sufficientemente istruiti in tutte le materie durante la loro infanzia, aumentano la loro fiducia in modo permanente di <<number>>."
     },
     {
       "k": 5171,
-      "v": "I coloni la cui dimora si trova in un ambiente attraente o decorativo aumentano la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui dimora si trova in un ambiente attraente o decorativo, aumentano la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5172,
-      "v": "I coloni la cui dimora si trova in un ambiente poco attraente riducono la loro fiducia per la durata di questo periodo di <<number>>."
+      "v": "I coloni la cui dimora si trova in un ambiente poco attraente, riducono la loro fiducia per la durata di questo periodo di <<number>>."
     },
     {
       "k": 5173,
@@ -2279,7 +2279,7 @@
     },
     {
       "k": 5906,
-      "v": "Demolire edifici"
+      "v": "Demolisci edifici"
     },
     {
       "k": 5907,
@@ -2327,7 +2327,7 @@
     },
 	{
       "k": 5909,
-      "v": "Gli edifici di produzione sospesi e i cantieri in un'area riprendono il funzionamento."
+      "v": "Gli edifici di produzione e i cantieri in pausa in un'area riprendono il funzionamento."
     },
     {
       "k": 5910,
@@ -2351,7 +2351,7 @@
     },
     {
       "k": 5928,
-      "v": "Le torri di guardia in quest'area saranno prima equipaggiate. La milizia in eccedenza sarà assegnata alle altre torri. Puoi inserire tutte le attività che desideri."
+      "v": "Le torri di guardia in quest'area saranno equipaggiate per prime. La milizia in eccedenza sarà assegnata alle altre torri. Puoi inserire tutte le attività che desideri."
     },
 	{
       "k": 6114,
@@ -2435,7 +2435,7 @@
     },
     {
       "k": 1151,
-      "v": "Dà a questo edificio la massima priorità per tutti i costruttori. Si occupano della costruzione di questo edificio non appena hanno completato i loro compiti attuali."
+      "v": "Dà a questo edificio la massima priorità per tutti i costruttori. Si occuperanno della costruzione di questo edificio non appena avranno completato i loro compiti attuali."
     },
     {
       "k": 413,
@@ -2451,11 +2451,11 @@
     },
     {
       "k": 1617,
-      "v": "Ripara Successivo"
+      "v": "Ripara successivo"
     },
     {
       "k": 1618,
-      "v": "Dà a questo edificio la massima priorità per tutti i costruttori. Si occupano di riparare questo edificio non appena hanno completato i loro compiti attuali."
+      "v": "Dà a questo edificio la massima priorità per tutti i costruttori. Si occuperanno di riparare questo edificio non appena avranno completato i loro compiti attuali."
     },
     {
       "k": 415,
@@ -2487,7 +2487,7 @@
     },
     {
       "k": 422,
-      "v": "Nessun cambiamento demografico da quando i pionieri si stabilirono."
+      "v": "Nessun cambiamento demografico da quando i pionieri si sono stabiliti."
     },
     {
       "k": 743,
@@ -2511,7 +2511,7 @@
     },
 	{
       "k": 5891,
-      "v": "Numero di coloni con una malattia. Non possono svolgere la loro funzione o esercitare la loro professione una volta che sono stati trattati presso una struttura medica."
+      "v": "Numero di coloni con una malattia. Potranno svolgere nuovamente la loro funzione o professione dopo esser stati curati presso una struttura medica."
     },
     {
       "k": 424,
@@ -2519,7 +2519,7 @@
     },
     {
       "k": 425,
-      "v": "Fai clic e trascina per assegnare"
+      "v": "Fai click e trascina per assegnare"
     },
     {
       "k": 426,
@@ -2719,7 +2719,7 @@
     },
     {
       "k": 445,
-      "v": "stoccaggio"
+      "v": "Stoccaggio"
     },
     {
       "k": 920,
@@ -2759,7 +2759,7 @@
     },
     {
       "k": 1217,
-      "v": "I coloni con gli strumenti funzionano in modo più efficace. Senza gli strumenti, la produzione nell'insediamento è rallentata drasticamente."
+      "v": "I coloni attrezzati con degli strumenti funzionano in modo più efficace. Senza degli strumenti, la produzione nell'insediamento è rallentata drasticamente."
     },
     {
       "k": 1218,
@@ -2803,19 +2803,19 @@
     },
     {
       "k": 4594,
-      "v": "I migliori coloni sono addestrati alla produttività, più efficientemente svolgono il loro lavoro in varie professioni."
+      "v": "Più i coloni sono addestrati alla produttività, più efficientemente svolgono il loro lavoro in varie professioni."
     },
     {
       "k": 4595,
-      "v": "I migliori coloni sono addestrati all'uso degli strumenti, più a lungo possono utilizzare un singolo strumento prima che si rompa."
+      "v": "Più i coloni sono addestrati all'uso degli strumenti, più a lungo possono utilizzare un singolo strumento prima che si rompa."
     },
     {
       "k": 4596,
-      "v": "I migliori coloni sono addestrati a maneggiare i vestiti, più a lungo possono indossarli prima che siano consumati."
+      "v": "Più i coloni sono addestrati a maneggiare i vestiti, più a lungo possono indossarli prima che siano consumati."
     },
     {
       "k": 4597,
-      "v": "Più i coloni sono formati meglio nell'ottenere i badge, più spesso vengono loro assegnati nel corso della loro vita per i loro servizi in varie professioni."
+      "v": "Più i coloni sono addestrati nell'ottenere i badge, più spesso vengono loro assegnati nel corso della loro vita per i loro servizi in varie professioni."
     },
     {
       "k": 448,
@@ -2843,7 +2843,7 @@
     },
     {
       "k": 450,
-      "v": "Nessuna forza lavoro disponibile. Fare clic per aprire Disposizione dei lavoratori o assegnare direttamente a questo edificio."
+      "v": "Nessuna forza lavoro disponibile. Fare click per aprire la disposizione dei lavoratori o assegnarne direttamente a questo edificio."
     },
     {
       "k": 451,
@@ -2851,7 +2851,7 @@
     },
     {
       "k": 452,
-      "v": "Nessun costruttore disponibile. Fai clic per aprire il menu Professionisti o assegnare direttamente a questo edificio."
+      "v": "Nessun costruttore disponibile. Fai click per aprire il menu professionisti o assegnare direttamente a questo edificio."
     },
     {
       "k": 453,
@@ -2883,7 +2883,7 @@
     },
     {
       "k": 5381,
-      "v": "Variazione edilizia <<index>> scelto"
+      "v": "Variazione edilizia <<index>> scelta"
     },
     {
       "k": 5389,
@@ -2891,7 +2891,7 @@
     },
     {
       "k": 5390,
-      "v": "La variante Edificio scelta verrà mantenuta fino alla fine della modalità Costruisci o fino a quando non sblocchi la variante Edificio."
+      "v": "La variante edificio scelta verrà mantenuta fino alla fine della modalità costruisci o fino a quando non sblocchi la variante edificio."
     },
     {
       "k": 2869,
@@ -2899,7 +2899,7 @@
     },
     {
       "k": 2870,
-      "v": "stoccaggio a piena capacità"
+      "v": "Stoccaggio a piena capacità"
     },
     {
       "k": 2871,
@@ -2931,7 +2931,7 @@
     },
     {
       "k": 2878,
-      "v": "affetto da malattia"
+      "v": "Affetto da malattia"
     },
     {
       "k": 2879,
@@ -2967,7 +2967,7 @@
     },
     {
       "k": 992,
-      "v": "La somma di tutti i buff positivi che influenzano la fiducia totale."
+      "v": "La somma di tutti i buff positivi che influiscono sula fiducia totale."
     },
     {
       "k": 993,
@@ -2999,7 +2999,7 @@
     },
     {
       "k": 462,
-      "v": "Il tuo insediamento non è sopravvissuto alle difficoltà del nuovo mondo. \n \nI tuoi coloni hanno vissuto per <<years>> Le stagioni dopo l'Endzone."
+      "v": "Il tuo insediamento non è sopravvissuto alle difficoltà del nuovo mondo. \n \nI tuoi coloni hanno vissuto per <<years>> le stagioni dopo l'Endzone."
     },
     {
       "k": 797,
@@ -3055,7 +3055,7 @@
     },
     {
       "k": 2826,
-      "v": "Tempo (Stagioni passate)"
+      "v": "Tempo (stagioni passate)"
     },
     {
       "k": 2827,
@@ -3067,7 +3067,7 @@
     },
     {
       "k": 2837,
-      "v": "Mostra grafici per i seguenti inventari immagazzinati..."
+      "v": "Mostra grafici per i seguenti inventari immagazzinati"
     },
     {
       "k": 2838,
@@ -3251,7 +3251,7 @@
     },
     {
       "k": 2975,
-      "v": "stoccaggio"
+      "v": "Stoccaggio"
     },
     {
       "k": 2976,
@@ -3267,7 +3267,7 @@
     },
     {
       "k": 2979,
-      "v": "fame"
+      "v": "Fame"
     },
     {
       "k": 2980,
@@ -3355,11 +3355,11 @@
     },
     {
       "k": 5796,
-      "v": "Semi raccolti per i campi"
+      "v": "Semi per i campi raccolti"
     },
     {
       "k": 5797,
-      "v": "Semi raccolti per i frutteti"
+      "v": "Semi per i frutteti raccolti"
     },
     {
       "k": 5798,
@@ -3375,7 +3375,7 @@
     },
     {
       "k": 5801,
-      "v": "Trovati utensili per la ricerca raccolti"
+      "v": "Trovati utensili per la ricerca"
     },
     {
       "k": 5802,
@@ -3403,7 +3403,7 @@
     },
     {
       "k": 5808,
-      "v": "Gli utensili di ricerca possono essere trovati su Spedizioni."
+      "v": "Gli utensili di ricerca possono essere trovati con le spedizioni."
     },
     {
       "k": 5809,
@@ -3455,7 +3455,7 @@
     },
     {
       "k": 2017,
-      "v": "Le regioni esposte a radiazioni di alto livello sono estremamente pericolose. I coloni che non indossano una tuta di radiazione saranno rapidamente contaminati."
+      "v": "Le regioni esposte a radiazioni di alto livello sono estremamente pericolose. I coloni che non indossano una tuta anti-radiazioni saranno rapidamente contaminati."
     },
     {
       "k": 479,
@@ -3463,7 +3463,7 @@
     },
     {
       "k": 480,
-      "v": "a secco"
+      "v": "A secco"
     },
     {
       "k": 481,
@@ -3487,7 +3487,7 @@
     },
     {
       "k": 822,
-      "v": "Campi, frutteti e foreste Le piante crescono più velocemente sul suolo umido."
+      "v": "Campi, frutteti e foreste. Le piante crescono più velocemente sul suolo umido."
     },
     {
       "k": 483,
@@ -3523,7 +3523,7 @@
     },
     {
       "k": 2300,
-      "v": "I bambini aiutano le loro famiglie a trasportare cibo e acqua a casa loro. \nAvanti bambini che diventano adulti:"
+      "v": "I bambini aiutano le loro famiglie a trasportare cibo e acqua a casa loro. \nCrescendo i bambini diventano adulti"
     },
     {
       "k": 488,
@@ -3559,7 +3559,7 @@
     },
     {
       "k": 5899,
-      "v": "La popolazione cambierà a malapena nel lungo periodo.\nQuesto potrebbe essere dovuto a una distribuzione equilibrata degli alloggi tra case e rifugi. Inoltre, prestare attenzione alla distribuzione dei coloni fertili e sterili."
+      "v": "La popolazione cambierà a malapena nel lungo periodo.\nQuesto potrebbe essere dovuto a una distribuzione equilibrata degli alloggi tra case e rifugi. Inoltre bisogna prestare attenzione alla distribuzione dei coloni fertili e sterili."
     },
     {
       "k": 5900,
@@ -3567,7 +3567,7 @@
     },
     {
       "k": 5901,
-      "v": "La popolazione diminuirà nel lungo periodo perché i tuoi coloni hanno troppo poche case per crescere una famiglia o un gran numero della tua popolazione è sterile."
+      "v": "La popolazione diminuirà nel lungo periodo perché i tuoi coloni hanno troppe poche case per crescere una famiglia o un gran numero della tua popolazione è sterile."
     },
     {
       "k": 491,
@@ -3619,7 +3619,7 @@
     },
     {
       "k": 4119,
-      "v": "Più alto tasso di riproduzione, i coloni appena nati invecchieranno un po '"
+      "v": "Più alto tasso di riproduzione, i coloni appena nati invecchieranno un po'"
     },
     {
       "k": 4120,
@@ -3631,7 +3631,7 @@
     },
     {
       "k": 4122,
-      "v": "I coloni conducono vite pacate. Se i loro bisogni non vengono soddisfatti, minacciano di cadere nel malcontento. Se sentono di essere stati ascoltati, possono raggiungere la contentezza, che porta con sé effetti positivi."
+      "v": "I coloni conducono vite pacate. Se i loro bisogni non vengono soddisfatti, rischiano di cadere nel malcontento. Se sentono di essere stati ascoltati, possono raggiungere la contentezza, che porta con sé effetti positivi."
     },
     {
       "k": 4148,
@@ -3707,7 +3707,7 @@
     },
     {
       "k": 4503,
-      "v": "L'umore al tuo insediamento è positivo. Completa questa missione per aumentare ulteriormente la fiducia. Se la missione fallisce, questo ha un effetto debuff sulla fiducia."
+      "v": "L'umore del tuo insediamento è positivo. Completa questa missione per aumentare ulteriormente la fiducia. Se la missione fallisce, questo ha un effetto debuff sulla fiducia."
     },
     {
       "k": 4488,
@@ -3731,7 +3731,7 @@
     },
     {
       "k": 4493,
-      "v": "Dopo la conclusione positiva di questa missione, altri coloni si uniscono all'insediamento."
+      "v": "Dopo la conclusione positiva di questa missione, altri coloni si uniranno all'insediamento."
     },
     {
       "k": 4494,
@@ -3779,7 +3779,7 @@
     },
     {
       "k": 816,
-      "v": "Un alto livello di Radiazione fa scemare la Salute dei coloni. Inoltre, i coloni diventano sterili o muoiono per l'alto livello di Radiazione."
+      "v": "Un alto livello di radiazione fa scemare la salute dei coloni. Inoltre, i coloni diventano sterili o muoiono per l'alto livello di radiazione."
     },
     {
       "k": 500,
@@ -3787,7 +3787,7 @@
     },
     {
       "k": 501,
-      "v": "educare"
+      "v": "Educare"
     },
     {
       "k": 502,
@@ -3871,7 +3871,7 @@
     },
 	{
       "k": 5558,
-      "v": "<<name>> ({{profession}})  morì mentre difendeva l'insediamento {{replacement_status}}."
+      "v": "<<name>> ({{profession}}) è morto mentre difendeva l'insediamento {{replacement_status}}."
     },
     {
       "k": 511,
@@ -3955,27 +3955,27 @@
     },
     {
       "k": 817,
-      "v": "Il contatore Geiger mostra la radiazione media nel campo visivo corrente. \n"
+      "v": "Il contatore Geiger mostra la radiazione media nel campo visivo corrente.\n"
     },
     {
       "k": 518,
-      "v": "Fai clic per visualizzare la radiazione terrestre."
+      "v": "Fai click per visualizzare la radiazione terrestre."
     },
     {
       "k": 818,
-      "v": "Il contatore dell'acqua mostra la quantità di acqua immagazzinata in tutte le torri e i collettori di acqua piovana di insediamento."
+      "v": "Il contatore dell'acqua mostra la quantità di acqua immagazzinata in tutte le torri e i collettori di acqua piovana dell'insediamento."
     },
     {
       "k": 519,
-      "v": "Fai clic per visualizzare l'umidità del suolo."
+      "v": "Fai click per visualizzare l'umidità del suolo."
     },
     {
       "k": 940,
-      "v": "Il limite di produzione per l'acqua. Quando viene raggiunto il limite di produzione, tutti i Portatori d'acqua si uniscono per aiutare a svolgere semplici compiti nell'insediamento."
+      "v": "Il limite di produzione per l'acqua. Quando viene raggiunto il limite di produzione, tutti i portatori d'acqua si uniscono per aiutare a svolgere semplici compiti nell'insediamento."
     },
     {
       "k": 941,
-      "v": "Fai clic per aprire il menu delle risorse"
+      "v": "Fai click per aprire il menu delle risorse"
     },
 	{
       "k": 6903,
@@ -3983,7 +3983,7 @@
     },
     {
       "k": 6904,
-      "v": "Numero massimo di lavoratori determina il numero massimo di lavoratori della professione corrispondente che possono essere assegnati a questo edificio quando il loro numero nell'insediamento viene aumentato."
+      "v": "Il numero massimo di lavoratori determina il numero massimo di lavoratori della professione corrispondente che possono essere assegnati a questo edificio quando il loro numero nell'insediamento viene aumentato."
     },
 	{
       "k": 6853,
@@ -4007,7 +4007,7 @@
     },
     {
       "k": 2197,
-      "v": "<<amount>> Edifici di questo tipo costruiti"
+      "v": "<<amount>> edifici di questo tipo costruiti"
     },
     {
       "k": 521,
@@ -4231,7 +4231,7 @@
     },
     {
       "k": 1182,
-      "v": "È una centrale nucleare! Quelle cose hanno devastato il mondo. I nostri anziani ci hanno detto che dovremmo stare alla larga da loro, ma ci devono ancora essere preziose Risorse che aspettano dentro. Almeno avremo bisogno di Strumenti e equipaggiamento protettivo per entrare."
+      "v": "È una centrale nucleare! Quelle cose hanno devastato il mondo. I nostri anziani ci hanno detto che dovremmo stare alla larga da loro, ma ci devono ancora essere preziose risorse che aspettano dentro. Almeno avremo bisogno di Strumenti e equipaggiamento protettivo per entrare."
     },
     {
       "k": 1183,
@@ -4371,7 +4371,7 @@
     },
     {
       "k": 1292,
-      "v": "È stata una cattiva idea, capo. Alcuni di noi stanno già mostrando i sintomi della malattia, e siamo usciti di fretta quando il contatore Geiger ha iniziato a fare clic come un matto."
+      "v": "È stata una cattiva idea, capo. Alcuni di noi stanno già mostrando i sintomi della malattia, e siamo usciti di fretta quando il contatore Geiger ha iniziato a fare click come un matto."
     },
     {
       "k": 1195,
@@ -4879,11 +4879,11 @@
     },
     {
       "k": 1006,
-      "v": "Fai clic per aprire il menu Professionisti"
+      "v": "Fai click per aprire il menu Professionisti"
     },
     {
       "k": 1007,
-      "v": "Fai clic per aprire il menu Risorse"
+      "v": "Fai click per aprire il menu risorse"
     },
     {
       "k": 1069,
@@ -5015,7 +5015,7 @@
     },
 	{
       "k": 4439,
-      "v": "Apri Missioni \"da fare\" nella bacheca"
+      "v": "Apri missioni \"da fare\" nella bacheca"
     },
     {
       "k": 4535,
@@ -5335,7 +5335,7 @@
     },
     {
       "k": 996,
-      "v": "Scegli un seme e fai clic su “Scegli seme” per riempire il campo. Puoi cambiare il tipo di seme in qualsiasi momento."
+      "v": "Scegli un seme e fai click su “Scegli seme” per riempire il campo. Puoi cambiare il tipo di seme in qualsiasi momento."
     },
     {
       "k": 1059,
@@ -5495,7 +5495,7 @@
     },
     {
       "k": 5047,
-      "v": "Scegli un tipo di animale e fai clic su \"Scegli Animale\" per rifornire il pascolo. Solo gli animali che possiedi già nel tuo insediamento possono essere tenuti sui pascoli."
+      "v": "Scegli un tipo di animale e fai click su \"Scegli Animale\" per rifornire il pascolo. Solo gli animali che possiedi già nel tuo insediamento possono essere tenuti sui pascoli."
     },
     {
       "k": 5142,
@@ -5995,7 +5995,7 @@
     },
     {
       "k": 4651,
-      "v": "I commercianti che hanno una cattiva opinione di questo insediamento non portano con sé alcun bene commerciale speciale come Conoscenza o Semi e si limitano anche a semplici Risorse. Chiedono inoltre maggiori compromessi in cambio della conclusione di un accordo."
+      "v": "I commercianti che hanno una cattiva opinione di questo insediamento non portano con sé alcun bene commerciale speciale come Conoscenza o Semi e si limitano anche a semplici risorse. Chiedono inoltre maggiori compromessi in cambio della conclusione di un accordo."
     },
     {
       "k": 4652,
@@ -6119,7 +6119,7 @@
     },
     {
       "k": 2136,
-      "v": "Fai clic per selezionare il leader del gruppo"
+      "v": "Fai click per selezionare il leader del gruppo"
     },
     {
       "k": 2250,
@@ -6947,7 +6947,7 @@
     },
     {
       "k": 5344,
-      "v": "Quando giochi usando tutti gli utensili di ricerca, puoi esplorare liberamente l'albero di ricerca senza dover trovare utensili di ricerca nelle Spedizioni."
+      "v": "Quando giochi usando tutti gli utensili di ricerca, puoi esplorare liberamente l'albero di ricerca senza dover trovare utensili di ricerca nelle spedizioni."
     },
     {
       "k": 2931,
@@ -6987,7 +6987,7 @@
     },
     {
       "k": 2915,
-      "v": "Puoi usare questa impostazione per regolare quante Risorse sono state memorizzate nel tuo Centro Città all'inizio di una partita. Di conseguenza, la partecipazione al gioco può diventare più semplice."
+      "v": "Puoi usare questa impostazione per regolare quante risorse sono state memorizzate nel tuo Centro Città all'inizio di una partita. Di conseguenza, la partecipazione al gioco può diventare più semplice."
     },
     {
       "k": 2916,
@@ -7347,7 +7347,7 @@
     },
     {
       "k": 2294,
-      "v": "Fai clic per ruotare l'edificio"
+      "v": "Fai click per ruotare l'edificio"
     },
     {
       "k": 2295,
@@ -7355,7 +7355,7 @@
     },
     {
       "k": 2296,
-      "v": "Fai clic per deselezionare"
+      "v": "Fai click per deselezionare"
     },
 	{
       "k": 4508,
@@ -8218,7 +8218,7 @@
     },
     {
       "k": 739,
-      "v": "Fare clic con il tasto destro per impostare su zero"
+      "v": "Fare click con il tasto destro per impostare su zero"
     },
     {
       "k": 823,
@@ -9002,7 +9002,7 @@
     },
     {
       "k": 1645,
-      "v": "Esploratori con <<value>> Fiducia o superiore: <<count>>"
+      "v": "Esploratori con <<value>> fiducia o superiore: <<count>>"
     },
     {
       "k": 1929,
@@ -9434,7 +9434,7 @@
     },
     {
       "k": 6083,
-      "v": "La casa confortevole funziona come una casa robusta e può ospitare ugualmente fino a 4 adulti e 6 bambini. La Casa Confortevole è anche in grado di resistere meglio alle tempeste di sabbia. I coloni si trasferiscono solo come famiglia. Se è disponibile spazio sufficiente in una casa confortevole, la famiglia ha fino a 6 bambini contemporaneamente. Una Casa Confortevole si rifornisce di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non deve essere collegata a una rete elettrica. Per essere in grado di costruire una Casa Confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di una Casa Confortevole possono influenzare positivamente o negativamente la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> dei suoi abitanti."
+      "v": "La casa confortevole funziona come una casa robusta e può ospitare ugualmente fino a 4 adulti e 6 bambini. La Casa Confortevole è anche in grado di resistere meglio alle tempeste di sabbia. I coloni si trasferiscono solo come famiglia. Se è disponibile spazio sufficiente in una casa confortevole, la famiglia ha fino a 6 bambini contemporaneamente. Una Casa Confortevole si rifornisce di <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non deve essere collegata a una rete elettrica. Per essere in grado di costruire una Casa Confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni edifici nelle vicinanze di una Casa Confortevole possono influenzare positivamente o negativamente la <link=\"8\"><style=\"DefaultLink\">Contenzione</style></link> dei suoi abitanti."
     },
     {
       "k": 6724,
@@ -9442,7 +9442,7 @@
     },
     {
       "k": 6725,
-      "v": "Un comodo rifugio offre spazio per un massimo di 100 coloni. Mentre vivono in un rifugio confortevole, i coloni non danno vita a una famiglia né si riproducono. Un comodo rifugio si fornisce <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non ha bisogno di essere prima collegato a una rete elettrica. Per essere in grado di costruire un rifugio confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni Edifici nelle vicinanze di un Confortevole Rifugio possono influenzare positivamente o negativamente la Contentezza dei suoi Abitanti."
+      "v": "Un comodo rifugio offre spazio per un massimo di 100 coloni. Mentre vivono in un rifugio confortevole, i coloni non danno vita a una famiglia né si riproducono. Un comodo rifugio si fornisce <link=\"13\"><style=\"DefaultLink\">Elettricità</style></link> e non ha bisogno di essere prima collegato a una rete elettrica. Per essere in grado di costruire un rifugio confortevole, è necessario prima eseguire la <link=\"19\"><style=\"DefaultLink\">Ricerca</style></link> appropriata. Alcuni edifici nelle vicinanze di un Confortevole Rifugio possono influenzare positivamente o negativamente la Contentezza dei suoi Abitanti."
     },
     {
       "k": 1245,
@@ -9534,7 +9534,7 @@
     },
     {
       "k": 1546,
-      "v": "Le strade sono create in modo diverso rispetto ad altri edifici. Fai clic sulla terra in cui vuoi posizionare una strada. Ora sposta il mouse lungo il percorso che la strada dovrebbe prendere.\nFai di nuovo clic per assegnare il contratto ai costruttori costruisci la strada.\n "
+      "v": "Le strade sono create in modo diverso rispetto ad altri edifici. Fai click sulla terra in cui vuoi posizionare una strada. Ora sposta il mouse lungo il percorso che la strada dovrebbe prendere.\nFai di nuovo click per assegnare il contratto ai costruttori costruisci la strada.\n "
     },
     {
       "k": 1547,
@@ -9542,7 +9542,7 @@
     },
     {
       "k": 1548,
-      "v": "<link=\"5\"><style=\"DefaultLink\">Campi e frutteti</style></link> sono costruiti in modo diverso rispetto ad altri edifici.\nFai clic sul punto di terra dove vuoi creare un Campo. Ora sposta il mouse fino a quando il tuo campo ha la dimensione desiderata. Fai di nuovo clic sul punto per creare il Campo. \nLa dimensione minima per un Campo o un Frutteto è 6x6, la dimensione massima è 16x16. \n"
+      "v": "<link=\"5\"><style=\"DefaultLink\">Campi e frutteti</style></link> sono costruiti in modo diverso rispetto ad altri edifici.\nFai click sul punto di terra dove vuoi creare un Campo. Ora sposta il mouse fino a quando il tuo campo ha la dimensione desiderata. Fai di nuovo click sul punto per creare il Campo. \nLa dimensione minima per un Campo o un Frutteto è 6x6, la dimensione massima è 16x16. \n"
     },
     {
       "k": 1549,
@@ -10654,7 +10654,7 @@
     },
     {
       "k": 4725,
-      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare al Commerciante un'offerta su quali delle tue risorse saresti disposto a barattare in cambio delle sue risorse. Fai attenzione che la tua offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
     },
     {
       "k": 4726,
@@ -12258,11 +12258,11 @@
     },
     {
       "k": 1930,
-      "v": "Caro Sopravvissuto,\n\nBenvenuto nella nostra Closed Beta! L'obiettivo di questa beta è quello di ottenere una migliore comprensione di come il gioco funziona su sistemi diversi. In cambio, sei già in grado di ottenere un look in anteprima durante il gioco. Tieni presente che questa versione è ancora lontana dall'essere una versione finale.\n\n<color=#ED7C32>Puoi dare un feedback durante il gioco premendo F1 o facendo clic sull'icona del bug in alto a sinistra.</color>\n\nInoltre, ci sono ancora più possibilità di mettersi in contatto con noi.\n\n\\u2022 Visita <style=\"DefaultLink\"><link=”https://discordapp.com/invite/zj3cgj4”>Discord server</link></style> per aggiornamenti settimanali e discussioni\n\\u2022 Uno speciale thread della Closed Beta in <style=\"DefaultLink\"><link=”https://steamcommunity.com/app/933820/discussions/1/”>Steam forum</link></style>\n\\u2022 Scrivici a:  support@gentlymadstudios.com"
+      "v": "Caro Sopravvissuto,\n\nBenvenuto nella nostra Closed Beta! L'obiettivo di questa beta è quello di ottenere una migliore comprensione di come il gioco funziona su sistemi diversi. In cambio, sei già in grado di ottenere un look in anteprima durante il gioco. Tieni presente che questa versione è ancora lontana dall'essere una versione finale.\n\n<color=#ED7C32>Puoi dare un feedback durante il gioco premendo F1 o facendo click sull'icona del bug in alto a sinistra.</color>\n\nInoltre, ci sono ancora più possibilità di mettersi in contatto con noi.\n\n\\u2022 Visita <style=\"DefaultLink\"><link=”https://discordapp.com/invite/zj3cgj4”>Discord server</link></style> per aggiornamenti settimanali e discussioni\n\\u2022 Uno speciale thread della Closed Beta in <style=\"DefaultLink\"><link=”https://steamcommunity.com/app/933820/discussions/1/”>Steam forum</link></style>\n\\u2022 Scrivici a:  support@gentlymadstudios.com"
     },
     {
       "k": 2299,
-      "v": "Caro sopravvissuto,\n\nBenvenuto all'accesso anticipato di Endzone - A World Apart! Stai giocando a una versione iniziale del gioco soggetta a modifiche. Inoltre, tieni presente che non possiamo garantire la compatibilità dei savegame attraverso l'Accesso anticipato (anche se stiamo facendo del nostro meglio). Se si verifica una modifica alla rottura del savegame, ti informeremo nelle note sulla patch.\n\n<color=#ED7C32>Puoi facilmente dare un feedback durante il gioco premendo F1 o facendo clic sull'icona del bug.</color>\n\nAbbiamo anche diversi modi per metterti in contatto con noi.\n\n\\u2022 Unisciti al nostro <style=\"DefaultLink\"><link=”https://discord.gg/HF7SaH7”>Discord server</link></style> per aggiornamenti settimanali e discussioni dirette\n\\u2022 Scrivici a:  support@gentlymadstudios.com\n\\u2022 Dai un'occhiata alla corrente <style=\"DefaultLink\"><link=”https://www.stomt.com/endzone”>Feedback Stream</link></style>."
+      "v": "Caro sopravvissuto,\n\nBenvenuto all'accesso anticipato di Endzone - A World Apart! Stai giocando a una versione iniziale del gioco soggetta a modifiche. Inoltre, tieni presente che non possiamo garantire la compatibilità dei savegame attraverso l'Accesso anticipato (anche se stiamo facendo del nostro meglio). Se si verifica una modifica alla rottura del savegame, ti informeremo nelle note sulla patch.\n\n<color=#ED7C32>Puoi facilmente dare un feedback durante il gioco premendo F1 o facendo click sull'icona del bug.</color>\n\nAbbiamo anche diversi modi per metterti in contatto con noi.\n\n\\u2022 Unisciti al nostro <style=\"DefaultLink\"><link=”https://discord.gg/HF7SaH7”>Discord server</link></style> per aggiornamenti settimanali e discussioni dirette\n\\u2022 Scrivici a:  support@gentlymadstudios.com\n\\u2022 Dai un'occhiata alla corrente <style=\"DefaultLink\"><link=”https://www.stomt.com/endzone”>Feedback Stream</link></style>."
     },
 	{
       "k": 5860,
@@ -12334,7 +12334,7 @@
     },
     {
       "k": 1945,
-      "v": "Questo posto ci dà i brividi - è stranamente silenzioso tranne per il clic del nostro contatore Geiger. <<dynamicmessage>>"
+      "v": "Questo posto ci dà i brividi - è stranamente silenzioso tranne per il click del nostro contatore Geiger. <<dynamicmessage>>"
     },
     {
       "k": 1946,
@@ -14462,11 +14462,11 @@
     },
     {
       "k": 3472,
-      "v": "Niente da salvare qui, capo. E oltre a questo, era abbastanza inquietante cercare Risorse sotto gli occhi di quella maledetta statua. Probabilmente era un pozzo una volta. Qualunque cosa, non c'è più niente che scorre qui adesso."
+      "v": "Niente da salvare qui, capo. E oltre a questo, era abbastanza inquietante cercare risorse sotto gli occhi di quella maledetta statua. Probabilmente era un pozzo una volta. Qualunque cosa, non c'è più niente che scorre qui adesso."
     },
 	{
       "k": 3648,
-      "v": "Sembra una vecchia stazione di servizio. Anche dopo tutti questi anni, c'è ancora odore di benzina nell'aria ... In ogni caso, ci sono ancora due Edifici qui dove si potrebbe ancora trovare qualcosa, capo. Sarebbe meglio se mandassi qualcuno che conosce la tecnologia!"
+      "v": "Sembra una vecchia stazione di servizio. Anche dopo tutti questi anni, c'è ancora odore di benzina nell'aria ... In ogni caso, ci sono ancora due edifici qui dove si potrebbe ancora trovare qualcosa, capo. Sarebbe meglio se mandassi qualcuno che conosce la tecnologia!"
     },
     {
       "k": 3649,
@@ -16786,7 +16786,7 @@
     },
     {
       "k": 2425,
-      "v": "Molto buono. Il nuovo <link=\"8\"><style=\"DefaultLink\">Centro città</style></link> non solo ci offre più spazio di stoccaggio: allo stesso tempo funziona esattamente come un <link=\"8\"><style=\"DefaultLink\">Fuoco da campo</style></link>. I coloni possono visitare il nuovo centro città e, in tal modo, aumentare il loro Fiducia per un po'. Ora che abbiamo fatto sforzi per garantire il benessere spirituale dei nostri coloni, dovremmo occuparci anche della loro salute fisica. "
+      "v": "Molto buono. Il nuovo <link=\"8\"><style=\"DefaultLink\">Centro città</style></link> non solo ci offre più spazio di stoccaggio: allo stesso tempo funziona esattamente come un <link=\"8\"><style=\"DefaultLink\">Fuoco da campo</style></link>. I coloni possono visitare il nuovo centro città e, in tal modo, aumentare il loro fiducia per un po'. Ora che abbiamo fatto sforzi per garantire il benessere spirituale dei nostri coloni, dovremmo occuparci anche della loro salute fisica. "
     },
     {
       "k": 2426,
@@ -17234,7 +17234,7 @@
     },
     {
       "k": 2510,
-      "v": "Apri il menu Edifici e attività"
+      "v": "Apri il menu edifici e attività"
     },
     {
       "k": 2498,
@@ -18590,7 +18590,7 @@
     },
 	{
       "k": 5286,
-      "v": "Gli utensili per la ricerca possono essere trovati su Spedizioni. Maggiore è il numero di strumenti di ricerca trovati, maggiore è il numero di tecnologie disponibili per eseguire la ricerca presso la stazione di ricerca."
+      "v": "Gli utensili per la ricerca possono essere trovati su spedizioni. Maggiore è il numero di strumenti di ricerca trovati, maggiore è il numero di tecnologie disponibili per eseguire la ricerca presso la stazione di ricerca."
     },
     {
       "k": 5375,
@@ -20970,11 +20970,11 @@
     },
     {
       "k": 4563,
-      "v": "Un commerciante sta arrivando alla nostra postazione commerciale! Una volta arrivato, scegli la stazione di scambio e fai clic su “Mostra offerta del commerciante” per passare alla finestra del contratto di scambio."
+      "v": "Un commerciante sta arrivando alla nostra postazione commerciale! Una volta arrivato, scegli la stazione di scambio e fai click su “Mostra offerta del commerciante” per passare alla finestra del contratto di scambio."
     },
     {
       "k": 4564,
-      "v": "Tu e il commerciante siete riusciti a concordare un accordo! Mentre il Commerciante riparte, i tuoi coloni distribuiranno le Risorse barattate tra i Magazzini del tuo insediamento."
+      "v": "Tu e il commerciante siete riusciti a concordare un accordo! Mentre il Commerciante riparte, i tuoi coloni distribuiranno le risorse barattate tra i Magazzini del tuo insediamento."
     },
     {
       "k": 4565,
@@ -21006,11 +21006,11 @@
     },
     {
       "k": 4569,
-      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue risorse saresti disposto a barattare in cambio delle sue risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
     },
     {
       "k": 4570,
-      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue Risorse saresti disposto a barattare in cambio delle sue Risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
+      "v": "Un commerciante porta sempre con sé solo un certo numero di risorse. Allo stesso tempo, è interessato solo a determinate risorse. Puoi fare subito al Commerciante un'offerta su quali delle tue risorse saresti disposto a barattare in cambio delle sue risorse. Fai attenzione che la tua Offerta non diventi troppo ingiusta, altrimenti il commerciante non accetterà l'offerta."
     },
     {
       "k": 4571,
@@ -21090,7 +21090,7 @@
     },
     {
       "k": 4599,
-      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegare cosa c'è dietro al <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link>, dei tuoi coloni, quali effetti ha sul tuo insediamento e come puoi influenzarlo. Per iniziare dovresti fare clic su un Colono per aprire la finestra individuale del Colono. Da lì puoi passare alla finestra della contentezza."
+      "v": "Benvenuto a questo esercizio, vecchio amico! In questa sessione voglio mostrarti e spiegare cosa c'è dietro al <link=\"8\"><style=\"DefaultLink\">Contentezza</style></link>, dei tuoi coloni, quali effetti ha sul tuo insediamento e come puoi influenzarlo. Per iniziare dovresti fare click su un Colono per aprire la finestra individuale del Colono. Da lì puoi passare alla finestra della contentezza."
     },
     {
       "k": 4600,
@@ -21154,15 +21154,15 @@
     },
     {
       "k": 4615,
-      "v": "Il Forum è il luogo in cui i tuoi coloni accumulano tutte le varie richieste che vogliono che tu risponda. Dovresti prestare particolare attenzione ai tipi di richieste che hanno un effetto sulla contentezza della tua transazione."
+      "v": "Il forum è il luogo in cui i tuoi coloni accumulano tutte le varie richieste che vogliono che tu risponda. Dovresti prestare particolare attenzione ai tipi di richieste che hanno un effetto sulla contentezza della tua transazione."
     },
     {
       "k": 4616,
-      "v": "Il Forum"
+      "v": "Il forum"
     },
     {
       "k": 4617,
-      "v": "Tuttavia, il Forum non è solo responsabile di dare ai tuoi coloni un posto dove possono rivolgersi a te. Al Forum puoi rivolgerti anche a loro. Puoi emettere <link=\"21\"><style=\"DefaultLink\">Decreti</style></link> e stabilire regole al Forum che stabiliscano come devono comportarsi i tuoi coloni. Ad esempio, in questo modo puoi razionare cibo o acqua o arrivare al punto di proibire ai tuoi coloni di riprodursi nel prossimo futuro."
+      "v": "Tuttavia, il forum non è solo responsabile di dare ai tuoi coloni un posto dove possono rivolgersi a te. Al forum puoi rivolgerti anche a loro. Puoi emettere <link=\"21\"><style=\"DefaultLink\">Decreti</style></link> e stabilire regole al forum che stabiliscano come devono comportarsi i tuoi coloni. Ad esempio, in questo modo puoi razionare cibo o acqua o arrivare al punto di proibire ai tuoi coloni di riprodursi nel prossimo futuro."
     },
     {
       "k": 4618,
@@ -21186,7 +21186,7 @@
     },
     {
       "k": 4623,
-      "v": "Puoi leggere ciò che i tuoi coloni vogliono da te qui. In questo caso, vogliono che tu crei un <link=\"8\"><style=\"DefaultLink\">Pub</style></link>. Quando sposti il mouse sulla Missione, ti indica che questa Missione si occupa di una Missione che avrà un effetto sulla Fiducia Totale del tuo insediamento. Se rifiuti di portare a termine la missione o non riesci a completarla in tempo, i tuoi coloni ne saranno scontenti. La loro fiducia diminuirà. Al contrario, se completi la Missione, diventeranno ancora più sicuri."
+      "v": "Puoi leggere ciò che i tuoi coloni vogliono da te qui. In questo caso, vogliono che tu crei un <link=\"8\"><style=\"DefaultLink\">Pub</style></link>. Quando sposti il mouse sulla Missione, ti indica che questa Missione si occupa di una Missione che avrà un effetto sulla fiducia Totale del tuo insediamento. Se rifiuti di portare a termine la missione o non riesci a completarla in tempo, i tuoi coloni ne saranno scontenti. La loro fiducia diminuirà. Al contrario, se completi la Missione, diventeranno ancora più sicuri."
     },
     {
       "k": 4624,
@@ -21206,7 +21206,7 @@
     },
     {
       "k": 4628,
-      "v": "Una breve introduzione al sistema di Fiducia in Endzone. Impara a conoscere i tipi di effetti che la fiducia ha sui tuoi coloni e come puoi influenzare la fiducia."
+      "v": "Una breve introduzione al sistema di fiducia in Endzone. Impara a conoscere i tipi di effetti che la fiducia ha sui tuoi coloni e come puoi influenzare la fiducia."
     },
     {
       "k": 4706,
@@ -21218,7 +21218,7 @@
     },
     {
       "k": 4708,
-      "v": "Scegli un Colono e osserva la Fiducia del Colono"
+      "v": "Scegli un Colono e osserva la fiducia del Colono"
     },
     {
       "k": 4709,
@@ -21234,7 +21234,7 @@
     },
     {
       "k": 4728,
-      "v": "Fare clic sul Forum per visualizzare la bacheca"
+      "v": "Fare click sul forum per visualizzare la bacheca"
     },
     {
       "k": 4735,
@@ -21982,7 +21982,7 @@
     },
     {
       "k": 5114,
-      "v": "Per ottenere ciò, prima devi scegliere un tipo di animale che dovrebbe essere tenuto al pascolo. Fare clic sul pascolo specifico e scegliere un animale."
+      "v": "Per ottenere ciò, prima devi scegliere un tipo di animale che dovrebbe essere tenuto al pascolo. Fare click sul pascolo specifico e scegliere un animale."
     },
     {
       "k": 5115,
@@ -22130,7 +22130,7 @@
     },
     {
       "k": 5292,
-      "v": "Ho già insegnato ai tuoi ricercatori alcune cose sulla Conoscenza in modo che possano iniziare subito un tipo di Ricerca. Voglio che istruisca i suoi ricercatori a svolgere ricerche sull'elettronica. Tieni presente che i tuoi coloni non hanno bisogno solo di punti ricerca per i tipi di ricerca, ma anche di diverse risorse. Tuttavia, hanno già accumulato risorse sufficienti per eseguire ricerche sulla produzione di elettronica. Non appena tutte le Risorse saranno state portate alla stazione di Ricerca dai tuoi Ricercatori, potranno quindi iniziare subito la Ricerca."
+      "v": "Ho già insegnato ai tuoi ricercatori alcune cose sulla Conoscenza in modo che possano iniziare subito un tipo di Ricerca. Voglio che istruisca i suoi ricercatori a svolgere ricerche sull'elettronica. Tieni presente che i tuoi coloni non hanno bisogno solo di punti ricerca per i tipi di ricerca, ma anche di diverse risorse. Tuttavia, hanno già accumulato risorse sufficienti per eseguire ricerche sulla produzione di elettronica. Non appena tutte le risorse saranno state portate alla stazione di Ricerca dai tuoi Ricercatori, potranno quindi iniziare subito la Ricerca."
     },
     {
       "k": 5293,
@@ -22146,7 +22146,7 @@
     },
     {
       "k": 5296,
-      "v": "Molto buona! Con questo, ora hai anche completato un tipo di ricerca avanzata. I tuoi coloni sono in grado di svolgere molti tipi di ricerca da soli. Una volta che una Conoscenza sufficiente e le Risorse necessarie sono disponibili, puoi istruirli a iniziare con questi tipi di Ricerca. Tuttavia, alcuni tipi di ricerca sono troppo complessi per i tuoi coloni e richiedono <link=\"19\"><style=\"DefaultLink\">utensili</style></link> per poterli eseguire. Trovi questi utensili nelle rovine fatiscenti sparse sulla mappa. Invia spedizioni per cercare questi utili materiali di ricerca. Sebbene, per il momento, ho portato con me diversi strumenti di ricerca in modo che possiamo concentrarci sulla ricerca stessa."
+      "v": "Molto buona! Con questo, ora hai anche completato un tipo di ricerca avanzata. I tuoi coloni sono in grado di svolgere molti tipi di ricerca da soli. Una volta che una Conoscenza sufficiente e le risorse necessarie sono disponibili, puoi istruirli a iniziare con questi tipi di Ricerca. Tuttavia, alcuni tipi di ricerca sono troppo complessi per i tuoi coloni e richiedono <link=\"19\"><style=\"DefaultLink\">utensili</style></link> per poterli eseguire. Trovi questi utensili nelle rovine fatiscenti sparse sulla mappa. Invia spedizioni per cercare questi utili materiali di ricerca. Sebbene, per il momento, ho portato con me diversi strumenti di ricerca in modo che possiamo concentrarci sulla ricerca stessa."
     },
     {
       "k": 5297,
@@ -22234,7 +22234,7 @@
     },
     {
       "k": 5318,
-      "v": "Dato che stavo solo parlando di una <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link>... Anche se le tue cisterne forniscono spazio per l'acqua, una torre dell'acqua fornisce ancora più spazio e avrai bisogno di molta acqua per poter rifornire tutti i tuoi coloni quando crescono i dati sulla popolazione. Puoi costruire una nuova Water Tower o aggiornare la tua Cisterna per convertirla in una Water Tower. Per fare ciò, fai clic sulla Cisterna e scegli l'icona \"Aggiorna edificio\"."
+      "v": "Dato che stavo solo parlando di una <link=\"6\"><style=\"DefaultLink\">Torre dell'acqua</style></link>... Anche se le tue cisterne forniscono spazio per l'acqua, una torre dell'acqua fornisce ancora più spazio e avrai bisogno di molta acqua per poter rifornire tutti i tuoi coloni quando crescono i dati sulla popolazione. Puoi costruire una nuova Water Tower o aggiornare la tua Cisterna per convertirla in una Water Tower. Per fare ciò, fai click sulla Cisterna e scegli l'icona \"Aggiorna edificio\"."
     },
     {
       "k": 5319,
@@ -22562,7 +22562,7 @@
     },
     {
       "k": 5433,
-      "v": "La prossima cosa che dovresti fare è prepararti per le tue prime spedizioni. Assegna ai coloni il compito di diventare <link=\"14\"><style=\"DefaultLink\">Esploratori</style></link> e preparare <link=\"14\"><style=\"DefaultLink\">Razioni di Spedizioni</style></link>. Quando vuoi inviare una spedizione, puoi decidere la quantità di razioni che vuoi fornire alla spedizione. Ciò ti consente di controllare per quanto tempo e quanto a fondo la Spedizione è in grado di esaminare una Rovina."
+      "v": "La prossima cosa che dovresti fare è prepararti per le tue prime spedizioni. Assegna ai coloni il compito di diventare <link=\"14\"><style=\"DefaultLink\">Esploratori</style></link> e preparare <link=\"14\"><style=\"DefaultLink\">Razioni di spedizioni</style></link>. Quando vuoi inviare una spedizione, puoi decidere la quantità di razioni che vuoi fornire alla spedizione. Ciò ti consente di controllare per quanto tempo e quanto a fondo la Spedizione è in grado di esaminare una Rovina."
     },
     {
       "k": 5434,
@@ -22610,7 +22610,7 @@
     },
     {
       "k": 5445,
-      "v": "Con questo, ti ho insegnato quello che devi sapere per poter portare a termine con successo le Spedizioni in Endzone."
+      "v": "Con questo, ti ho insegnato quello che devi sapere per poter portare a termine con successo le spedizioni in Endzone."
     },
     {
       "k": 5446,
@@ -22778,7 +22778,7 @@
     },
     {
       "k": 5515,
-      "v": "I tuoi coloni hanno avuto molto successo con la loro ricerca. Sono stati in grado di trovare alcuni dispositivi di cui potranno fare buon uso per le attività di ricerca in seguito. Dovresti tenere d'occhio questi tipi di utensili di ricerca perché possono essere trovati solo nelle Spedizioni."
+      "v": "I tuoi coloni hanno avuto molto successo con la loro ricerca. Sono stati in grado di trovare alcuni dispositivi di cui potranno fare buon uso per le attività di ricerca in seguito. Dovresti tenere d'occhio questi tipi di utensili di ricerca perché possono essere trovati solo nelle spedizioni."
     },
     {
       "k": 5516,
@@ -23970,7 +23970,7 @@
     },
     {
       "k": 6077,
-      "v": "Siamo in dirittura d'arrivo, ma non dimentichiamo il necessario: acqua e Cibo, tanto, perché dovrà durare a lungo. Dobbiamo anche accumulare pastiglie di iodio e tute antiradiazioni. In questo modo sono possibili almeno Spedizioni in superficie."
+      "v": "Siamo in dirittura d'arrivo, ma non dimentichiamo il necessario: acqua e Cibo, tanto, perché dovrà durare a lungo. Dobbiamo anche accumulare pastiglie di iodio e tute antiradiazioni. In questo modo sono possibili almeno spedizioni in superficie."
     },
     {
       "k": 6078,
@@ -24758,7 +24758,7 @@
     },
     {
       "k": 6319,
-      "v": "A volte ci chiediamo perché alcuni dei nostri Edifici siano ancora tali baracche. Non possono essere costruiti un po' più robusti in modo che non collassino?"
+      "v": "A volte ci chiediamo perché alcuni dei nostri edifici siano ancora tali baracche. Non possono essere costruiti un po' più robusti in modo che non collassino?"
     },
     {
       "k": 6320,
@@ -25202,7 +25202,7 @@
     },
     {
       "k": 6710,
-      "v": "Alla luce della situazione urgente, capo, non passerà molto tempo prima che ci manchino le Risorse più basilari quassù. Forse dovresti tirare fuori alcuni Logisti dall'aggiornamento in modo che le merci siano distribuite meglio e la nostra economia rimanga stabile."
+      "v": "Alla luce della situazione urgente, capo, non passerà molto tempo prima che ci manchino le risorse più basilari quassù. Forse dovresti tirare fuori alcuni Logisti dall'aggiornamento in modo che le merci siano distribuite meglio e la nostra economia rimanga stabile."
     },
     {
       "k": 6711,
@@ -25354,7 +25354,7 @@
     },
     {
       "k": 6477,
-      "v": "Da subito i nostri Edifici sono molto più stabili di prima. Un ottimo investimento di risorse di ricerca!"
+      "v": "Da subito i nostri edifici sono molto più stabili di prima. Un ottimo investimento di risorse di ricerca!"
     },
     {
       "k": 6478,
@@ -26230,7 +26230,7 @@
     },
     {
       "k": 6855,
-      "v": "Non hai assegnato ad alcun Logistico la conservazione delle tue Risorse."
+      "v": "Non hai assegnato ad alcun Logistico la conservazione delle tue risorse."
     },
     {
       "k": 6861,
